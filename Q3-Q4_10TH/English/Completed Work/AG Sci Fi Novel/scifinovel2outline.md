@@ -16,3 +16,6 @@
         ◦ Establish Characters
         ◦ Establish the situation that led to their crashing into an uninhabited alien wreck
         ◦ Explain the plan of action for survival on the alien wreck(there are food processors, water processors and other required things on the wreck. There is no oxygen however, so they have to mine ice asteroids. The alien sentient computers foresaw this as a likelihood).
+    • General
+       - 2.5AU / 78500 km/h = 4764 hours = 198.5 (>5 months)
+       
