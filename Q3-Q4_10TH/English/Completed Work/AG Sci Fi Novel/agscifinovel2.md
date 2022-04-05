@@ -182,3 +182,6 @@ Responding with a brusque and slightly cryptic, "I sent your message. Remember, 
 With my faith in the captain of my ship quickly restored, we cleaned up lunch and went back to work. Apparently the entire time that we were sitting and eating, Seneca had been running a pre-defined course around our current vessel recoridng video to see if their was an entrance. The second Ashley had finished cleaning up her plate, she ran straight out of the mess full speed to go check on it. With the sad sight of my girlfriend running away to go do her job, I returned to cleaning up the dishes and fretting about my first EVA.
 
 	----------
+
+
+STEPPING OUT OF AIRLOCK AND TYRO'S REVENGE
