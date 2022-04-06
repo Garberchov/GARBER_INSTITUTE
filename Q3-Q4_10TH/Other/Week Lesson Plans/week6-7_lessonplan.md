@@ -8,8 +8,6 @@ This is a starting point but should have some clues as to the meat you are going
 
 Italian - continue along on program REMINDERS FOR BOTH TO SAVE SCREEN SHOTS IN FOLDERS, LABELLED WHAT THEY ARE FOR (so we don't have to go searching thru opening every file) 
 
-Gym - be sure to at least document a week of your plan. IE including crossfit, compound moves, aerobics, rest days etc. 
-
 History:  we will review the revisions to the Lincoln's shortcomings / failings essay. 
 Start a "Civil War" unit ending essay - more formal essay style - on the INTERNATIONAL IMPLICATIONS / EFFECTS OF THE US. CIVIL WAR.  Four differentiated upstanding sources minimum. Intro - three + body paragraphs of support - conclusion. 
 Don't bite off more than is chewable in this format -- i.e. talk about France - not all of Europe lumped together - as needed.  Or about the diplomatic core - drill down to a notable envoy maybe? Show some real depth of study / research 
