@@ -17,5 +17,6 @@
         ◦ Establish the situation that led to their crashing into an uninhabited alien wreck
         ◦ Explain the plan of action for survival on the alien wreck(there are food processors, water processors and other required things on the wreck. There is no oxygen however, so they have to mine ice asteroids. The alien sentient computers foresaw this as a likelihood).
     • General
+        - Set in 2566
        - 2.5AU / 78500 km/h = 4764 hours = 198.5 days (>5 months)
        - Food: 2.4 million calories stocked. 1850 per day to give margin
