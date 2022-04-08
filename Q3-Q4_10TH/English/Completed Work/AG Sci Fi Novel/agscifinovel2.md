@@ -1,7 +1,7 @@
 Eldritch Foundry 
 Started March 15 2022
 
-Chapter 1
+Chapter 1: Impact
 
 Krrchaaawww! Waking up to the sounds of platsteel groaning and alarms whirling is not what I wanted to hear during the first night, of my first trip on *Matador*. While she had certainly looked impressive with huge mining robots hanging off all four mounting points when I had entered, apparently something was wrong with the navigation or control. When you run into an object in space, it has to be navigation or control. Or maybe I am just the bad luck charm, “Corry Heelan: Human Bad Luck Talisman” - sounds about right. Within the span of four cycles my parents had been convicted for weapons smuggling, all of our assets had been seized, I had been forced to choose between staying on a deadbeat station or getting a job, and I had convinced my girlfriend to run away for said job as well. So all is going well, or so I thought in my sleep-induced haze until I realized that the groaning sound hadn’t stopped.
 
@@ -100,7 +100,7 @@ Ashley, seemingly expecting our assignments probably turned to the workstation a
 
 	----------
 	
-Chapter 2
+Chapter 2: Planning
 
 As the rest filed into the bridge, Captain Abel took the reins for our second meeting of the 'Mid Space Collision Survival Society'. He asked everyone to report on their day, starting with himself, he talked about how he poked and prodded through the length of Tyro's sensors to ensure that if any slight degradation of our situation came to pass he would know about it. He also assured us that the software systems had not been damaged and that they would continue to function even with the damage to much of the peripheral hardware around the ship. 
 
@@ -137,7 +137,7 @@ Captain Abel then moved on to Ashley, saying that she would be controlling *Sene
 On our walk back to our bunkroom, I remembered that I should have had a witty retort to our earlier comment but I just couldn't seem to come up with one. Ashley seemed to be reading my mind because as we walked through the door and took a look at the bunk we had shared just hours before, her smirk could have been seen planets away.
 
 
-Chapter 3
+Chapter 3: Outside
 
 My mission to collect anything that might be valuable led me quickly from my bunkroom where I gathered my vac-suit and tablet. By the time I had gathered them Ashley was long gone, presumably headed either to Toby or back to the bridge. I didn't need to scan the inventory to know that I needed to get rappelling equipment, with no knowledge on the inner workings of *Smelty* it wouldn't be a reasonable assumption that we would be able to get around either by walking or using our EVA suits. The safety tour that both Ashley and I had been given upon our entry to the ship was, and the 'Location' section of the inventory was enough to help me find the the rappelling gear. The irony that the safety tour was helping me survive on a desolate alien wreck in the middle of space, when it was intended to be a tour of the ship's systems was not lost on me. With rappelling gear acquired, I took my harvest to the airlock where I prepared my EVA suit. Well, not 'my' EVA suit, just the EVA suit that looked like it would fit me best. *Matador* only had 3 EVA suits, because up to this point they had no reason to need any more and EVA suits were expensive, especially the kind that have AI control.
 
@@ -201,6 +201,5 @@ Just to prove his point, Tyro started to slowly increase the spin which he had n
 
 The large cut outs, in between what we theorized must be the conveyance shafts between the ore entry point and the processing area if *Smelty* was indeed a smelter made our trek all the more difficult. *Matador* had lodged itself in one of the and traversing the length of the combined craft gave a sense of the true scale of the vessel which we now inhabited. I made few conclusions about the nature of the vessel or its chances for maintaining our continued survival but through our suits' comms, Captain Abel informed us that the video we were gathering from our suits' cameras would be helpful for further analysis. He gave us a running commentary on the status of *Seneca* which was watching over us, drenching us in light from its huge booms. It took us the better part of an hour to reach the entrance structure, and the better part of another to run through our basic ideas on how to enter it. We tried looking for panels which might signal it to open and when that failed tried propelling ourselves at the entranceway to try and get it to open but without luck. Swiftly running out of options we resorted to using the cutting tool and it finally did the trick. Trying to avoid getting tangled up in my own wires, I floated off to the side as the wearer of the battery pack and handed use of the tool off to Assistant Captain Perry who said he had used it before. Millions of miniature fragments of the alloy flew off from the saw, cutting a centimeter wide hole as Assistant Captain Perry dragged it along. After 15 minutes of cutting around the edges of the entranceway, he finally finished his rectangle and made it back to the start and it fell down with a slight push. 
 
-Chapter 4
+Chapter 4: Entrance
 
-Entrance
