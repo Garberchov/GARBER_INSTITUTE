@@ -7,7 +7,7 @@ All assignments for Andrew Garber in the Garber Institute, a semi-custom homesch
 
 [Economic Reasons for the Civil War](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/Q3-Q4_10TH/History/Completed%20Work/Summary%20Sessions%20Pre%20Civil%20War/Leading%20Economic%20Reasons%20For%20Civil%20War.docx)
 
-.[International Reaction To The Civil War](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/Q3-Q4_10TH/History/Completed%20Work/Summary%20Sessions%20Civil%20War/international_reaction_to_civil_war.md)
+[International Reaction To The Civil War](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/Q3-Q4_10TH/History/Completed%20Work/Summary%20Sessions%20Civil%20War/international_reaction_to_civil_war.md)
 
 
 
