@@ -19,21 +19,3 @@ The process pioneered by the team at Oxford, currently the highest efficiency pr
 
 
 
-#### Sources
-[World Economic Forum](https://www.weforum.org/agenda/2021/12/swiss-scientist-jet-fuel-aviation-sunlight-air/)
-
-[Forbes](https://www.forbes.com/sites/davidrvetter/2021/01/05/these-oxford-scientists-just-created-carbon-neutral-jet-fuel-from-co2/?sh=4a356e1f42ca)
-
-[DW](https://www.dw.com/en/sustainable-aviation-fuel-power-to-liquid/a-59398405)
-
-[Energy.Gov](https://www.energy.gov/eere/bioenergy/articles/climate-friendly-jet-fuel-3-strategies-accelerating-its-production)
-
-[BP](https://www.bp.com/en/global/air-bp/low-carbon/sustainable-fuel.html)
-
-[Smithsonian](https://www.smithsonianmag.com/smart-news/new-process-uses-iron-turn-carbon-dioxide-jet-fuel-180976654/)
-
-[Nature](https://www.nature.com/articles/s41467-020-20214-z)
-
-[EPA](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data)
-
-[EPA](https://www.epa.gov/greenvehicles/light-duty-vehicle-emissions)
