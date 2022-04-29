@@ -16,8 +16,8 @@ Outline:
 		Impact on Ship Emissions (Lowest until largest cost decreases have been made, lowest shipping margin and thus requires lowest fuel costs but a potential replacement for 55 thousand vessel for 3% of the world's emissions.)
 
 	-Economics
-		Cost
-		Mass Production
+		Cost(Current costs and issues with decreasing the cost and projections for demand and cost over time if large scale investments can be made)
+		Mass Production(The different processes and how some of them are more advantageous, specifically the one from oxford, and how it will decrease investment costs and increase production over time)
 
 
 #### Sources
@@ -59,8 +59,9 @@ SCIENTIFIC PAPER WITH PROCESS REFERENCED IN RESEARCH PAPER
 
 [EPA](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data)
 
-Data on global emissions
+Summary:
+	Data on global emissions
 
 [EPA](https://www.epa.gov/greenvehicles/light-duty-vehicle-emissions)
-
-Data on emissions from light duty vehicles
+Summary:
+	Data on emissions from light duty vehicles
