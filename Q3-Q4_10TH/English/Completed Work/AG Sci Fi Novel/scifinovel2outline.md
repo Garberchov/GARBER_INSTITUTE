@@ -20,3 +20,6 @@
         - Set in 2566
        - 2.5AU / 78500 km/h = 4764 hours = 198.5 days (>5 months)
        - Food: 2.4 million calories stocked. 1850 per day to give margin
+
+
+
