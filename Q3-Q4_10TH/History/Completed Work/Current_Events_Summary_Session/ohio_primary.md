@@ -1,6 +1,9 @@
 Andrew Garber
+
 US History/Political Science Beta Test
+
 May2
+
 The Impact Of The Ohio Senatorial Republican Primary
 
 12 hours after the Associated Press called the Ohio Senatorial Republican Primary for venture capitalist J.D Vance, the ripple effects are becoming more and more widespread. The primary was seen as one of the first referendums on former-President Trump's ability to act as a kingmaker in the Republican Party that he has reforged in his own image, and it was a big victory for him. In the three weeks between former-President Trump's endorsement of J.D Vance and the primary, the senate hopeful competed in a great deal of momentum swung him from the middle of the pack to the clear front runner, with a victory of over 90 thousand votes and 8 percentage points. Even more stunning than his victory over Josh Mandel, a candidate with a broadly similar platform and a long time advocate of former-President Trump was his almost nine percentage point victory over Matt Dolan, a more traditional conservative who hoped to run an anti-Trump message. If this primary is the first to set the tone of what a slate of Republican candidates will look like across the country for midterm elections in 2022, it will have cemented Trump's hold over the Republican party and exile those anti-Trump conservatives who wish for a return to a more traditional party.
@@ -15,6 +18,9 @@ While Vance took a convincing win in the primary, his Democratic opponent won wi
 Sources:
 
 [Politico(Political commentary, SLIGHTLY left leaning)](https://www.politico.com/news/2022/05/03/ohio-senate-tuesday-primaries-2022-00029800)
+
 [Associated Press (Objective Fact Reporting)](https://apnews.com/article/2022-midterm-elections-ohio-senate-9eeeed38cff92dbd88f1a7d48dcbfefc)
+
 [NPR (SLIGHTLY left leaning, mostly objective fact reporting)](https://www.npr.org/2022/05/03/1095662187/ohio-republican-senate-primary-results-vance-trump)
+
 [The Hill (Objective Commentary)](https://thehill.com/news/campaign/3473848-vance-wins-ohio-senate-primary-handing-trump-key-victory/)
