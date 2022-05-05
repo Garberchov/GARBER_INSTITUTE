@@ -42,6 +42,10 @@ def get_value():
         final_item_dict = {'cust_name': customer_name, 'cust_contact': customer_contact, 'cust_day': customer_day, 'item_name': item, 'item_price': item_price}
         supabase.table('invoicer').insert(final_item_dict).execute()
 
+def sort():
+	pass
+	#sort by name and then put in formatted text file or excel file
+
 #heading
 label1 = Label(window, text="Invoice Simplifier", font=('Helvetica', 18, 'bold'))
 label1.pack()
