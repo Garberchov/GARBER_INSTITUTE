@@ -9,15 +9,14 @@ Outline:
 	
 	-Chemistry:
 		Current Process
+	-Economics
+		Cost(Current costs and issues with decreasing the cost and projections for demand and cost over time if large scale investments can be made)
+		Mass Production(The different processes and how some of them are more advantageous, specifically the one from oxford, and how it will decrease investment costs and increase production over time)
 	-Impact
 		Impact on Passenger Vehicle Emissions (Low until large cost decreases have been made, but a huge potential market as a transition fuel during our switch from fossil fuels to electric/hydrogen options.)
 		Impact on Freight Vehicle Emissions (Low until large cost decreases have been made, but another large market even after the transition to electric/hydrogen options due to higher energy density)
 		Impact on Aircraft Emissions (The greatest current market, as aircraft are extremely energy intensive and have limited current options for other energy storage options.)
-		Impact on Ship Emissions (Lowest until largest cost decreases have been made, lowest shipping margin and thus requires lowest fuel costs but a potential replacement for 55 thousand vessel for 3% of the world's emissions.)
 
-	-Economics
-		Cost(Current costs and issues with decreasing the cost and projections for demand and cost over time if large scale investments can be made)
-		Mass Production(The different processes and how some of them are more advantageous, specifically the one from oxford, and how it will decrease investment costs and increase production over time)
 
 
 #### Sources
@@ -65,3 +64,11 @@ Summary:
 [EPA](https://www.epa.gov/greenvehicles/light-duty-vehicle-emissions)
 Summary:
 	Data on emissions from light duty vehicles
+
+[Lanzajet](https://www.lanzajet.com/lanzajet-and-marquis-sustainable-aviation-fuel-saf-partner-to-build-an-integrated-sustainable-fuels-plant-in-illinois/)
+
+Summary:
+	Lanzajet and Marquis are partnering to build an integrated sustainable fuels plant in Illinois that will utilize carbon capture and sequestration and other technologies to bring SAF to the market.
+
+
+[BP](https://www.bp.com/en/global/air-bp/news-and-views/network-news/saf-explained.html)
