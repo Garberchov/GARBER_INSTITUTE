@@ -1,0 +1,43 @@
+Andrew Garber
+Week of May 9
+GYM
+
+### Monday(Shoulders + Arms):
+        - 3x12 Dumbbell Front Raise 
+        - 3x12 Dumbbell Lateral Raise
+        - 3x12 Dumbbell Overhead Press
+        - 3x12 Barbell Overhead Press
+        - 3x12 Bicep Curl
+        - 3x12 Tricep Skull Crusher
+
+
+### Tuesday(Legs + Abs):
+        -4x12 Barbell Squat
+        -4x12 Leg Extension
+        -4x12 Front Squat
+        -4x12 Dumbbell Split Squat
+        -4x25 Weighted Sit Up
+
+### Wednesday (REST):
+
+### Thursday (Cardio):
+        -6 mile bike ride
+
+### Friday(Chest + Arms):
+        -4x12 Barbell Bench Press
+        -4x12 Dumbbell Incline Press
+        -4x12 Dumbbell Flyes
+        -4x12 Bicep Curl
+        -4x12 Tricep Skull Crusher
+
+### Saturday (Rest):
+
+### Sunday (Shoulders + Arms):
+        -3x12 Dumbbell Front Raise 
+        -3x12 Dumbbell Lateral Raise
+        -3x12 Dumbbell Overhead Press
+        -3x12 Barbell Overhead Press
+        -3x12 Bicep Curl
+        -3x12 Tricep Skull Crusher
+
+        
