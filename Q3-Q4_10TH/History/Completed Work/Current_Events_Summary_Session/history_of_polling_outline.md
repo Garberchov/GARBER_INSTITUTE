@@ -11,3 +11,4 @@
 [Timeline of Polling from Gallup](https://news.gallup.com/poll/9967/timeline-polling-history-events-shaped-united-states-world.aspx)
 [Smithsonian](https://www.smithsonianmag.com/history/alluring-power-public-opinion-polls-elections-past-180960571/)
 [Academic Paper on the history of opinion polling](https://academic.oup.com/poq/article/75/5/962/1830219)
+[George Gallup's PHD Dissertation](https://docplayer.net/215868432-An-objective-method-for-determining-reader-interest-in-the-content-of-a-newspaper.html)
