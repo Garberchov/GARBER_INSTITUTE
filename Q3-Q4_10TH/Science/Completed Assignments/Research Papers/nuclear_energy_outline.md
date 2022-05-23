@@ -7,6 +7,8 @@ Debunk one commonly held misconception about the generation or use (these are di
 Are Fukushima or Chernobyl good examples of BAD nuclear technology? Or were other controllable elements at play? In your opinion based upon your research - how are these types of disasters avoided -- and how can the bad publicity be neutralized? 
 
 
+Thesis: Nuclear energy is one of the most misunderstood technologies of the modern world, conceptualized due to dramatization from hollywood and the media, it is the safest form of energy generation currently which can be proven via its chemistry to be both safe and economically viable.
+
 
 Sources:
 
@@ -24,3 +26,6 @@ Sources:
 
 [World-Nuclear](https://world-nuclear.org/information-library/current-and-future-generation/nuclear-power-in-the-world-today.aspx)
 
+[Engineering](https://www.engineering.com/story/whats-the-death-toll-of-nuclear-vs-other-energy-sources)
+
+[Statista](https://www.statista.com/statistics/494425/death-rate-worldwide-by-energy-source/)
