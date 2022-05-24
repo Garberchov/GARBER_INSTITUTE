@@ -9,6 +9,27 @@ Are Fukushima or Chernobyl good examples of BAD nuclear technology? Or were othe
 
 Thesis: Nuclear energy is one of the most misunderstood technologies of the modern world, conceptualized due to dramatization from hollywood and the media, it is the safest form of energy generation currently which can be proven via its chemistry to be both safe and economically viable.
 
+BParagraph1: 
+
+        - Chemistry behind nuclear reactions with a basic history of how the technology was developed.
+        - How the chemistry(and process) had advanced over the decades
+        - The different kinds of waste produced from nuclear reactors
+
+BParagraph2:
+
+        - Best reason to expand nuclear energy
+        - Accept that nuclear energy has led to disasters in the past, but discuss modern regulatory standards in US, EU(france specifically) and China which are the leaders in nuclear energy
+        - Discuss new types of nuclear energy, and the chemistry behind them
+
+BParagraph3:
+
+        - Nuclear disasters throughout history, and what caused them
+        - The difference between nuclear bombs and nuclear power plants
+        - The media's role in personifying nuclear energy as a major threat to humankind 
+
+BParagraph4:
+
+        - Lack of comprehensive storage for nuclear waste, due to lack of political will to expand nuclear power plants(no need for more storage) or shut them down completely(large amounts of carbon free power, and baseline for grid)
 
 Sources:
 
