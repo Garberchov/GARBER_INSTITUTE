@@ -50,3 +50,7 @@ Sources:
 [Engineering](https://www.engineering.com/story/whats-the-death-toll-of-nuclear-vs-other-energy-sources)
 
 [Statista](https://www.statista.com/statistics/494425/death-rate-worldwide-by-energy-source/)
+
+[History World Nuclear](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
+
+[Nat Geo](https://www.nationalgeographic.com/environment/article/nuclear-energy#:~:text=Nuclear%20energy%20history,at%20the%20University%20of%20Chicago.)
