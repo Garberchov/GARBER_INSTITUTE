@@ -25,3 +25,9 @@ Sources:
 [Monthly Review](https://monthlyreview.org/wp-content/uploads/2003/05/Imperial_America_Richard_N_Haass.pdf)
 
 [WaPo](https://www.washingtonpost.com/archive/politics/2001/08/21/empire-or-not-a-quiet-debate-over-us-role/d57204a6-d3b9-4330-b1ce-44e8bdd5b410/)
+
+[CSUN](https://library.csun.edu/SCA/Peek-in-the-Stacks/us-imperialism-philippines#:~:text=Spain%20established%20its%20first%20permanent,winning%20the%20Spanish%2DAmerican%20War.)
+
+[State Department](https://history.state.gov/milestones/1830-1860/opening-to-japan)
+
+[Marshall Plan](https://www.britannica.com/event/Marshall-Plan#:~:text=The%20Marshall%20Plan%20was%20a,called%20the%20European%20Recovery%20Program.)
