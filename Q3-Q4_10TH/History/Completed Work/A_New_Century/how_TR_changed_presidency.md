@@ -15,3 +15,5 @@
 [1906 State Of The Union Address](http://www.let.rug.nl/usa/presidents/theodore-roosevelt/state-of-the-union-1906.php)
 
 [Second Inaugural Address](https://avalon.law.yale.edu/20th_century/troos.asp)
+
+[Square Deal](https://www.britannica.com/biography/Theodore-Roosevelt/The-Square-Deal)
