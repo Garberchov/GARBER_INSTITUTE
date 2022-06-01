@@ -1,12 +1,7 @@
 from tkinter import *
 from tkinter import ttk
-from supabase import create_client, Client
-
 # Global VARS
 company_name = 'Argyle Marketplace'
-supabaseUrl = 'https://mldfcbinlomjgvsanlzs.supabase.co'
-supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1sZGZjYmlubG9tamd2c2FubHpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTEyMzk1NjksImV4cCI6MTk2NjgxNTU2OX0.VeKe2-FCHAk7aAW_bjBHp5kJDHgGvl0yDonvbqEosJI'
-supabase: Client = create_client(supabase_url=supabaseUrl, supabase_key=supabaseKey)
 # Code
 
 window = Tk()
@@ -39,16 +34,10 @@ def get_value():
         temp_list.append(float(item_price))
 
         print(temp_list)
-        final_item_dict = {'cust_name': customer_name, 'cust_contact': customer_contact, 'cust_day': customer_day, 'item_name': item, 'item_price': item_price}
-        supabase.table('invoicer').insert(final_item_dict).execute()
+        with open('whole.txt', 'w') as whole_file:
+                whole_file.write('\n')
+                whole_file.write(str(temp_list))
 
-def sort(name):
-        def fetch():
-	        return supabase.table('invoicer').select("*").execute()
-        data = fetch()
-        print(data)
-	#sort by name and then put in formatted text file or excel file
-sort('Andrew Garber')
 #heading
 label1 = Label(window, text="Invoice Simplifier", font=('Helvetica', 18, 'bold'))
 label1.pack()
