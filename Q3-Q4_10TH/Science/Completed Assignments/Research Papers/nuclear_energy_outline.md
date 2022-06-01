@@ -28,8 +28,7 @@ BParagraph3:
 BParagraph4:
 
         - Lack of comprehensive storage for nuclear waste, due to lack of political will to expand nuclear power plants(no need for more storage) or shut them down completely(large amounts of carbon free power, and baseline for grid)
-        - The media's role in personifying nuclear energy as a major threat to humankind 
-        - basic rundown of NIMBYism
+
 
 Sources:
 
@@ -56,3 +55,5 @@ Sources:
 [Nat Geo](https://www.nationalgeographic.com/environment/article/nuclear-energy#:~:text=Nuclear%20energy%20history,at%20the%20University%20of%20Chicago.)
 
 [SPGLOBAL](https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/oil/100621-global-energy-demand-to-grow-47-by-2050-with-oil-still-top-source-us-eia)
+
+[Providence Edu](https://digitalcommons.providence.edu/cgi/viewcontent.cgi?article=1013&context=chemistry_students)
