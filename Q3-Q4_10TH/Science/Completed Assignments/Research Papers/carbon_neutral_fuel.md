@@ -1,5 +1,6 @@
 Andrew Garber 
-April 7-?
+
+April 7-May1
 Honors Chemistry 10th
 The chemistry and impact of carbon-neutral fuels
 
