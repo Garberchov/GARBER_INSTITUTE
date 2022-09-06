@@ -1,6 +1,0 @@
-#### Andrew Garber
-#### Sci Fi Book Draft 3: Into The Unknown Stars
-#### August 1
-
-Basic Book Description: 
-Planet colonization company, "Blue Horizons" won the bid to colonize a planet called TX-1539 from the United Terran Commonwealth in the year 2259. They are to recruit 4 million colonists, bring all supplies and settlers to found the colony and in exchange the company will be given a large tract of land on the planet. Or so they thought. Leon Poten, the most junior captain of any of the vessels in the colonization flotilla was commanding his first trip as a Captain of the transport ship *Matador*, his vessel never arrives at TX-1539 and is instead in a solar system with two stars instead of the three that TX-1539 was supposed to have, and one habitable moon that his crew of 28000 settlers and 1200 crew must settle. The rest of the colonization flotilla is nowhere to be seen, having arrived at TX-1539 over 4000 light years away - never to be seen by the first settlers of a world the would name Durnia. 
