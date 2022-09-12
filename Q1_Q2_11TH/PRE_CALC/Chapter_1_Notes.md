@@ -13,5 +13,16 @@
  - A vertical asymptote is similar, If x approaches a number N(x->N) as y goes to infinity (x->infinity) then the line x=N is a horizontal asymptote.
  - ![](Media/vertical_asymptote.png)
  
- #### Quiz Result
+ #### Quiz Results
+ - Graphing Basic Functions
+ - ![](Media/graphing_basic_functions_quiz.png)
+ - Polynomial Functions
+ - ![](Media/polynomial_functions.png)
+ - Exponents and Simplifying
+ - ![](Media/exponents_simplifying.png)
+ - Slopes and Tangents on a graph
+ - ![](Media/slopes_and_tangents_graph.png)
+ - Horizontal asymptotes
  - ![](Media/Hori_Vert_asymptote.png)
+ - Implicit Functions
+ - ![](Media/implicit_functions.png)
