@@ -34,3 +34,4 @@ Potential Works To UseL
  - Kim, Rudyard Kipling
  - Alls Quiet on the Western Front, Erich Maria Remarque
 
+First book selected: The Underdogs
