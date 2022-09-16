@@ -34,3 +34,31 @@
 
 #### Day 1 Quiz Results:
  - ![](day1kinematics.png)
+
+#### Acceleration
+ - Acceleration is the rate of change of an object's velocity. Remember, velocity is how fast an object is moving in a specific direction. So, acceleration measures how fast the velocity changes. We can calculate acceleration if we know the total change in velocity and the time it takes for the velocity to change
+ - Average acceleration = change in velocity / change in time or, Average Acceleration = $Δv / Δt$
+ - Change in velocity = final velocity - starting velocity
+ 
+#### Calculating Acceleration and Velocity
+ - Average Velocity = displace/time
+ - Determining instantaneous velocity, or an object's velocity at a specific point in time, is a little more involved. If the position of an object varies with time, we can take the first derivative of the position-time function to determine the instantaneous velocity at any time.
+ - 1. Multiply the coefficient of the variable by the exponent on the variable, and write that number as the variable's new coefficient. 2. Lower the original exponent by 1, and write that as the new exponent. C is the coefficient. t is the time variable. n is the exponent on the time variable. 
+ - ![](https://study.com/cimages/multimages/16/4f481389-066e-4952-8022-2d66fc40bf28_derivative.jpg)
+
+#### The Big Five Equations in Uniformly Accelerated Motion
+ - Equation 1: $Δx =  avg(v) * t$
+ - Equation 2: $v = v_0 + at$
+ - Equation 3: $x = x_0 = v_0 * t + 1/2at^2$
+ - Equation 4: $x = x_0 + v * t -1/2at^2$
+ - Equation 5: $v^2 = v_0^2 + 2a(x-x_0)$
+ 
+ - Practice Problem: A race car sitting on the start line of a straight track accelerates uniformly for 3.6 seconds at a rate of 4.5 m/s2. If the initial velocity is 0 m/s, how far does the car travel during this time interval?
+ - $t=3.6s a=3.5m/s^2 v_0 = 0 m/s x_0 = 0m$ This will be solved using equation #3 because it is the only one with all of these variables
+ - $x = x_0 = v_0 * t + 1/2at^2$
+ - $x = 0m + (0 m/s * 3.6s) + (1/2)(4.5 m/s^2)(3.6s)^2$
+ - $x = (1/2)(4.5m/s^2)(12.96s^2)$
+ - $x = 29.16 m$
+
+#### Day 2 Quiz Results
+ - ![](day2quizresults.png)
