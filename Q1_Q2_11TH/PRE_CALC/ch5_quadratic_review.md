@@ -11,3 +11,7 @@
 
 #### Day 1 Quiz Results
  - ![](Media/day1quadratic.png)
+
+### (CH6 is much the same, thus quiz results will be attached here)
+
+ - ![](Media/ch6.png)
