@@ -14,4 +14,5 @@
  - The universal gravitational constant was discovered experimentally in 1798 by English physicist Henry Cavendish. It is measured in Newton-square meters per square kilogram $(N-m^2/kg^2)$ and is equal to$ 6.67 * 10^-11 N-m^2/kg^2$.
 
 
-#### Day 1 Quiz
+#### Day 1 Quiz!
+- [](gravitych5.png)
