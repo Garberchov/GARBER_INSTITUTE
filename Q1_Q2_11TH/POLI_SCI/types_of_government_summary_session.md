@@ -30,3 +30,12 @@ Comparing these two nations' structures to determine a "better" structure is imp
  - [MyJewishLearning](https://www.myjewishlearning.com/article/israeli-politics/)
  - [PeaceNow](https://peacenow.org/images/IPSB.pdf)
  - [Israeli Science and Technology Directory](https://www.science.co.il/gov/Government.php)
+
+#### Feedback + Grade
+A-
+
+Overall an excellent examination of two diverse governments that both fall under the umbrella of Democracy but which vary widely. You delineate the points showing why they are so different and the flaws within each. 
+
+You set out your purpose strongly initially and begin to explain why France and Israel have the governmental structures that they do.  Midway through France - I can "get" your points but get lost in the words - this accelerates as you move through your papers. 
+
+Definitely more proofreading - maybe even reading out loud before finalizing - to better hear / pace the rhythm. 
