@@ -1,15 +1,15 @@
 ### Andrew Garber
 ### September 28
-### Influences on the constitution
+### Magna Carta Influences on the Constitution 
 
-The Constitution of the United States of America, a document which inspires much criticism and politically motivated anger in the modern day has had impacts far greater than just the domestic political situation it prescribes. The worldwide affects of the document has laid the groundwork for democracies across the world and been a shining light for individual freedoms during periods of the darkness of fascism and dictatorship. However, the founding fathers did not come up with the structure of the nation they fought for in a vacuum. Several prominent figures in the creation of the Constitution were influenced by a number of outside sources, and the views and opinions of these sources are clearly reflected in the governmental system that the Constitution created. The most notable of these influences include the English Magna Carta, The Iroquois Confederacy, John Locke and the Baron de Montesquieu.
+The Constitution of the United States of America, a document which inspires much criticism and politically motivated anger in the modern day has had impacts far greater than just the domestic political situation it prescribes. The worldwide affects of the document has laid the groundwork for democracies across the world and been a shining light for individual freedoms during periods of the darkness of fascism and dictatorship. However, the founding fathers did not come up with the structure of the nation they fought for in a vacuum. Prominent figures in the creation of the Constitution were influenced by a number of outside sources, the most notable of these being the English Magna Carta which served as a foundation for the rights of the individual during the early days of colonization, and was amplified to a quintessential spirit of American Individualism which was manifested in the Constitution.
 
 Magna Carta, quite fittingly, "Great Charter" is a royal charter that prescribes the rights of an individual forced upon King John of England to ensure peace between the deeply unpopular king and the numerous groups fighting against him. While the original agreements of Magna Carta were not followed by either party for long, in the 16th century as the push for the rights of the individual increased in fervor it was revived as the legal foundation for Parliament despite historical misconceptions about its actual contents and beginnings. The influence of Magna Carta on the United States extended far before the writing of the Constitution, as several Royal Charters for the colonization of what would later become the American colonies had several of the foundational contents of Magna Carta in them, beginning American's view that they had a fundamental right to due process, an issue which would prove critical in the decision to rebel against Britain. The belief that the Magna Carta was a fundamental law of humanity that ensured individual rights was most readily accepted by Thomas Jefferson who used it in his belief that centralized government was a universal path to tyranny. 
 
 ### Sources:
  - [Loc.gov](https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/magna-carta-and-the-us-constitution.html#:~:text=The%20amendments%20to%20the%20Constitution,of%20Rights%20and%20Magna%20Carta.)
- - [Preceden](https://www.preceden.com/timelines/282042-historical-influences-on-the-u-s--constitution)
- - [National Archives](https://prologue.blogs.archives.gov/2021/09/17/global-influence-of-the-u-s-constitution/)
- - [Britannia](https://www.britannica.com/topic/Iroquois-Confederacy)
- - [John Locke](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)
- - [Montesquieu](https://www.britannica.com/biography/Montesquieu)
+ - [National Archives](https://www.archives.gov/exhibits/featured-documents/magna-carta)
+ - [Britannica](https://www.britannica.com/topic/Magna-Carta)
+ - [British Library](https://www.bl.uk/magna-carta)
+ - [History.com](https://www.history.com/news/magna-carta-influence-us-constitution-bill-of-rights)
+ - [University of Denver](https://iaals.du.edu/blog/magna-carta-rule-law-and-us-constitution#:~:text=Several%20guarantees%20that%20were%20understood,of%20life%2C%20liberty%2C%20or%20property)
