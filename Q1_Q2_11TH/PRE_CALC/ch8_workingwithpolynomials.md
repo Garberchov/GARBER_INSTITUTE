@@ -22,7 +22,18 @@
 #### Day 1 Quiz Results 
  ![](Media/ch8workingwithpolynomialday1.png)
 #### Factoring Polynomials using Quadratic Form
-
+ - standard form: $y=ax^2 + bx+ c$
+ - quadratic form: an expression where it is rewritten in the form of $au^2 + bu + c$ and u is any expression in x
+ - for example, if you are factoring $x^4 + x^2 - 12$ you can substitute u=x^2 and then factor normally, with $(u+4)(u-3)$ and then go back to $x^2=u$, $(x^2+4)(x^2-3)$
 #### Finding Rational Zeros
-
+ -Zero: a number that solves the equation f(x)=0
+ - Rational Zero: a rational number, which is a number that can be written as a fraction of two integers
+ - Irrational Zero: A number that is not rational, so it has an infinitely non-repeating decimal
+ - Rational Zero Theorem: if we have a polynomial function of degree n (n>0) and all of the coefficients are integers, then the rational zeros of the functions must be in the form of p/q where p is an integer factor of the constant term $a_0$ and q is an integer factor of the lead coefficient.
+ - $p/q = integer factors of a_0 / integer factors of a_n$ 
+ - For example: $f(x) = 2x^3 + 3x^2 - 8x + 3$, or $f(x) = (x-1)(x+3)(x-1/2)$, thus all zeros are rational: 1, -3, 1/2 where the numerators of all of these listed as fractions are factors of 3 and the denominators are the factors of the leading coefficient.
 #### Fundamental Theorem of Algebra
+ - a polynomial function f(x) of degree n(n>0) has n complex solutions for the equation f(x)=0
+ - Conjugate Pairs: if a + bi (b does not equal zero) is a solution of f(x) that is a polynomial with real coefficients, then it is conjugate a-bi is also a solution of f(x)
+ 
+ ![](Media/day2polynomial.png)
