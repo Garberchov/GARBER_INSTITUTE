@@ -28,3 +28,25 @@
  - Here it is: motion is kinetic energy. Kinetic energy is the energy something has because it is moving. With energy, things can do work. The bowling ball only knocks over the pins because of its movement, or kinetic energy.
 
 ![](oct11physics.png)
+
+#### Gravitational Potential Energy
+ - Gravitational potential energy, or GPE, is like height energy. The higher up an object is placed, the more GPE it has. This might seem strange, but there is some logic to why it must exist.
+ - GPE = mgh
+ - In this equation, m is the mass of the object in kilograms, g is the acceleration due to gravity (which is always around 9.8 on Earth), and h is the height of the object above the ground, measured in meters.The ground is technically just an arbitrary reference point. If you use the ground as a height of 0, then the equation will tell you how much GPE an object has relative to the ground. If you removed the ground, though, the object would, of course, fall further towards the center of the Earth.So let's go back to the ball scenario. This time, let's say you take the ball to the roof before dropping it. If the roof is 18 meters high and the ball weighs 0.01 kg, how much GPE does it have before you release it?Remembering the equation, GPE = mgh, we figure this out by writing: 0.01 * 9.8 * 18 = 1.76 Joules. This number is not only the amount of gravitational potential energy it has, but also the amount of energy it took for you to lift the ball up to the roof.
+ - Gravitational potential energy is the energy an object has due to its position above Earth, energy due to its height. We know this energy exists because it takes effort to lift an object up to a height and also because when we release an object, it falls, gaining kinetic energy. Gravitational potential energy changes into kinetic energy.
+
+#### Elastic Potential Energy
+ - Another common type of potential energy is elastic potential energy. This is the energy an object has in it due to being deformed. Any object that can be deformed and then return to its original shape can have elastic potential energy. Objects that this would apply to include things like rubber bands, sponges, and bungee cords, among many others. When you deform these objects, they move back to their original shape on their own.
+ - One of the most common objects to look at when discussing elastic potential energy is a spring. Springs can be deformed in two different ways in which they return to normal afterwards. They can be stretched, and they can be compressed.
+ - In order to find the formula for elastic potential energy of a spring, we first need to look at something called Hooke's law. This law states that the force needed to stretch a spring is proportional to the displacement of the spring. The displacement of the spring is how far the spring has stretched or compressed from its original shape.
+ - Hooke's Law can be expressed as $f=-kx$ or $f=kx$ where the negative is the restoring force and the positive version is the "deforming" version
+ - Here x is the displacement of the spring, and k is something known as the spring constant. This constant is the measure of the stiffness of a spring, and it is unique to each spring. The spring constant depends on factors such as what material the spring is made of and the thickness of the coiled wire, among others.
+ ![](https://study.com/cimages/multimages/16/springmovement.png)
+
+#### Kinetic Energy to Potential Energy
+ - It's difficult to discuss kinetic or potential energy alone because they're so tightly related and even dependent upon each other. In fact, the only way any kinetic energy will exist is if it is released from a formerly stored energy, which is potential energy. Likewise, kinetic energy is needed in order to store potential energy in any system.
+
+#### Power: Definition and Mathematics
+ - Well, power is the amount of work done in the time it takes to do it where work is the displacement of an object due to force. We calculate work by multiplying the amount of force by the distance the object is moved. In equation form, work = force x distance.
+ - $power = work done / time$
+ ![](work_power.png)
