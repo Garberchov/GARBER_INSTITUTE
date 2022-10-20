@@ -1,9 +1,12 @@
 ### Andrew Garber
+
 ### October 3
+
 ### Response Plans for The Underdogs
 
 Assignments: 
 1) SUMMARY SESSION: As you read The Underdogs by Mariano Azuela - do some light research on the Mexican Revolution. Using three sources (different types - speeches, encyclopedia, newspaper article, scholarly essays....) evaluate:   
+
 ....why did the Mexican Revolution occur? What type of government was in place? Was the revolt against the type of government or the people populating the government? Were there other social / economic / philosophic reasons for the Revolution? Discuss the "characters" giving important detail and -if relevant - the one/two major reasons (not broad strokes - be specific) with researched support for the revolution. 
 Total writing: BULLET POINTS. 
 
