@@ -1,0 +1,11 @@
+### Andrew Garber
+### October 24
+### Honors and Dishonor in *The Underdogs*
+
+*The Underdogs*, Mariano Azuela's greatest work detailing his experiences in the Mexican Revolution through the actions of multiple characters focuses heavily on the theme of honor and the purpose of revolution. This concept is diluted as the story progresses as what was once an honorable cause to enfranchise the downtrodden and provide liberty for the oppressed became a barely veiled excuse to become the marauders and parasites on the population they had so despised.   
+
+At the beginning, the belief in the cause is well shown by Cervantes detailing his reasons for joining the revolution. "'My name is Luis Cervantes, sir. I'm a medical student and a journalist. I wrote a piece in favor of the revolution, you see; as a result, they persecuted me, caught me, and finally landed me in the barracks.'"
+
+The waning spirit of the revolution and the corresponding decrease in care for the honor of their cause is symbolized by Solis telling Cervantes about his growing disillusionment for the revolution.  "'I hoped to find a meadow at the end of the road. I found a swamp. Facts are bitter; so are men. That bitterness eats your heart out; it is poison, dry rot. Enthusiasm, hope, ideals, happiness-vain dreams, vain dreams.... When that's over, you have a choice. Either you turn bandit, like the rest, or the timeservers will swamp you....'"
+
+The cold hearted banditry that the revolution would later descend into and the sacrificed of the honor that had suffused their cause is well shown in the entirety of War Paint's character, but most notably during her first night in the town with Demetrio's group. "'What damned fools," said War Paint convulsed with laughter! "Where the hell do you come from?..... Soldiers don't sleep in hotels and inns any more....... Where do you come from? You just go anywhere you like and pick a house that pleases you, see. When you go there, make yourself at home and don't ask anyone for anything. What the hell is the use of the revolution?'"
