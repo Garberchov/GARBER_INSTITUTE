@@ -1,3 +1,5 @@
 ### Andrew Garber
 ### October 21
 ### Does the Federal Government have the right amount of power?
+
+The distribution of power between the Federal, State and Local governments has been an issue of contention since the Declaration of Independence was signed. The greatest issue of contention throughout the history of the United States of America is if the Federal Government has an outsized or undersized position of power in accordance with the overarching goals of the nation. It is my firm belief that the power of the Federal, State, and Local governments is in total about the correct amount, but the allocation of that power in the form of the tax revenue that goes with it, is out of alignment. A realignment of the priorities of the various levels of government would provide a more efficient, effective, and flexible framework for the continued operations of the government of the United States of America.
