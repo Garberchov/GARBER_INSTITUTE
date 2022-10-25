@@ -2,4 +2,22 @@
 ### October 21
 ### Does the Federal Government have the right amount of power?
 
-The distribution of power between the Federal, State and Local governments has been an issue of contention since the Declaration of Independence was signed. The greatest issue of contention throughout the history of the United States of America is if the Federal Government has an outsized or undersized position of power in accordance with the overarching goals of the nation. It is my firm belief that the power of the Federal, State, and Local governments is in total about the correct amount, but the allocation of that power in the form of the tax revenue that goes with it, is out of alignment. A realignment of the priorities of the various levels of government would provide a more efficient, effective, and flexible framework for the continued operations of the government of the United States of America.
+The distribution of power between the Federal, State and Local governments has been an issue of contention since the Declaration of Independence was signed. The greatest issue of contention throughout the history of the United States of America is if the Federal Government has an outsized or undersized position of power in accordance with the overarching goals of the nation. It is my firm belief that the power of the Federal, State, and Local governments is in total about the correct amount, but the allocation of that power in the form of the tax revenue that goes with it is out of alignment. A realignment of the priorities of the various levels of government would provide a more efficient, effective, and flexible framework for the continued operations of the government of the United States of America. In this paper, I will propose a more equitable administrative framework for all levels of government.
+
+A prime example of the misalignment of funding, and thus power, across the levels of government are the redundant departments that transcend from Federal to State and then even sometimes to local levels. The administrative region of health for example, is a prime example of redundancy and structural issues. For example, within the Department of Health and Human Services for example lies the Office for Civil Rights which serves a redundant purpose and whose purpose should be done by the Office of the Attorney General under the Department of Justice. Also in the Department of Health lies the Indian Health Service which for reasons untold is not part of the Bureau of Indian Affairs as part of the Department of the Interior despite the fact that the administrative personnel of the Bureau would obviously have greater knowledge as to the health needs of the Indian population. Beyond just redundancy across departmental lines is the issue of a generalist leadership caste, almost always political appointees that infrequently get the time in grade to become well versed in their highly technical departments who have highly specialized sub-department heads reporting to them/
+
+<!-- Transportation Inefficiency at Federal Level -->
+
+<!-- The agencies working within any remit at the Federal level currently inhabit an untenable mix of their departments being both far too centralized and led by generalists with not enough in-depth knowledge in the highly technical areas their sub-departments work in, and far too spread out with overlapping priorities and responsibilities that get in each others way. They also frequently provide render highly redudant operations that a more  -->
+
+<!-- Health + Transportation Ineffiency at State + Local -->
+
+[GAO Review of Federal Programs that have Overlapping Objectives](https://www.gao.gov/assets/gao-11-474r.pdf)
+[President Biden Executive Order December 13 2021 Decreasing Federal Paperwork](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
+[List of NYC Agencies](https://www1.nyc.gov/nyc-resources/agencies.page)
+[List of NYS Agencies](https://www.ny.gov/agencies)
+[List of Federal Agencies](https://www.usa.gov/federal-agencies/a)
+[Mapping the Federal Government 2013](https://www.acus.gov/sites/default/files/documents/EXCERPT_ABA_Spring2013_final.pdf)
+[New Org Chart from Simple Legal](https://cdn.shopify.com/s/files/1/2724/8374/files/SLG.Federal.Government.Org.Chart.Mid.png?v=1611121480)
+[Official US Government Map](https://www.usgovernmentmanual.gov/ReadLibraryItem.ashx?SFN=Myz95sTyO4rJRM/nhIRwSw==&SF=VHhnJrOeEAnGaa/rtk/JOg==)
+[HHS Map](https://www.hhs.gov/about/agencies/orgchart/index.html)
