@@ -33,3 +33,24 @@
 
 #### Day 1 Waves
 ![](wavesday1.png)
+
+#### Longitudinal Wave
+ - A longitudinal wave is a wave in which the disturbance moves in the same direction as the propagation of the wave. Going back to the Slinky example, the medium is the slinky, and the disturbance is the back-and-forth movement of the slinky. Notice how this description differs from the description of the water wave: up-and-down vs. back-and-forth movement.
+ - Another example of a longitudinal wave that you experience every day, but can't see, is a sound wave. Let's use the example of someone talking to you. When your friend says hello, her vocal cords vibrate. This provides the disturbance needed to create a longitudinal wave. The medium is the air, and the vibrations cause a disturbance in the particles that make up air. The longitudinal wave travels through the air to your ear.
+
+#### Reflection
+ - Wave reflection always works the same way, whether the wave is a light wave, a sound wave, or a water wave. It describes a change in the direction of a wave when it strikes a surface. In talking about reflection and some other wave properties, it's helpful to think of a wave as a ray, a straight line through space that indicates the path of a wave. For example, we know that a light wave from the sun travels in a straight line toward the Earth. Because it's an electromagnetic wave, we could think of it as having the typical wavelike up-and-down shape. But we can also think of it like a straight-line ray. A ray of sunlight is an appropriate concept for how we should think of waves in reflection. So from now on, in this lesson, we'll refer to all our waves as 'rays.'
+ - Think about a single ray of sunlight. The ray that initially comes down from the sun is called the incident ray. This is really the term we use for any ray that approaches a reflective surface. The Earth isn't the best example for reflection, so let's say that we've got a mirror here instead. The incident ray comes in and strikes the mirror at a certain angle. Then, it bounces off the mirror and proceeds in another direction. The ray that travels away from the reflective surface is called the reflected ray. Incident and reflected rays are related to one another in that the angle of the reflected ray matches that of the incident ray.
+ - The law of reflection tells us in very clear terms the relationship between the angles of our incident and reflected rays. To define these angles, we first identify the normal : the imaginary line that is perpendicular to the reflective surface. When the incident ray strikes the surface, it creates an angle with the normal, which we call the angle of incidence. The angle of incidence measures the position of the incident ray in relation to the normal. Notice that the angle of incidence is not the angle between the incident ray and the surface. It's the angle between the incident ray and the normal.
+
+#### Incidence
+ - We have even come up with unique names for the angles at which the light enters and travels through the material. The angle at which the light enters is called the angle of incidence. The angle of incidence can be defined as the angle between the oncoming ray of light and the normal vector of the surface of the material it is coming into contact with. The normal vector is a perpendicular vector from a plain or surface of an object.
+ - There are three possibilities for what can happen to the light after it comes into contact with an object. The first is absorption. In absorption, the light ray travels no further; it is taken into the object and transformed into energy. This most often takes the form of heat. The second is reflection, where the light ray is bounced off the material instead of absorbed. The final possibility is refraction, in which the light penetrates the object, but instead of being turned into internal energy, it changes direction and continues to travel through the material as light.
+ - It's important to note that light does not often do just one of those three possibilities; rather, it travels in a combination of them. For example, we see color because objects reflect the visible light spectrum of the corresponding colors we see back to our eyes, but they absorb the other wavelengths of the visible light spectrum. Another example would be translucent objects. A translucent material, as opposed to a transparent one, only lets some of the light travel through it and absorbs and reflects the rest of it.
+ - ![](https://study.com/cimages/multimages/16/reflection_small.jpg)
+ - Reflection Diagram
+ - While the speed of light in a vacuum is constant, the speed of light in other mediums can vary, and consequently they have different indices of refraction. Some common examples can be seen in this table.
+ - ![](refraction_index.png)
+
+#### Day 2
+ - ![](day2_waves.png)
