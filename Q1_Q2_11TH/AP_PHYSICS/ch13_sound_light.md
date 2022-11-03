@@ -23,3 +23,8 @@
  - Equation of the observed sound frequency
  #### Day 1
  ![](sound_light.png)
+
+(I have previous knowledge as to the rest of the chapter due to learning it in Chemistry - Andrew Garber November 3)
+
+#### Day 2 Quiz Results
+![Full Chapter](ch13_sound_light.png)
