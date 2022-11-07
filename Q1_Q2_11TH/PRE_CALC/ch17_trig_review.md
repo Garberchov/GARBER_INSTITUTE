@@ -25,3 +25,34 @@
  - It's an isosceles triangle! And it's the only kind of isosceles right triangle you can make. Now, what's great about isosceles triangles? The two legs are always the same. That makes finding the hypotenuse easy if you just know one of the legs - just use the Pythagorean Theorem.
 
 ![](Media/ch17_trig_d1.png)
+
+#### Law of Sines
+	- And, in fact, we can still use sine to help us. And not just 'SOH CAH TOA', but something called the Law of Sines. This law has nothing to do with where you can and can't post signs. No, it's a super-helpful tool for tackling any triangle.
+	- It goes like this: $a/sin A = b/sin B = c/sin C$. With our triangle, the capital A, B and C are the angles. And the lowercase a, b and c are the lengths of these sides opposite their respective angles.
+	- With the Law of Sines, we're comparing ratios. The ratios of the sides to the sines are equal to each other.
+	- Again, this works with any triangle. And you'll never need to use all three sides and angles. You only need two. So if you know two angles and one side, you can use the Law of Sines to find the missing side.
+	- For example:
+	![Alt text](https://study.com/cimages/multimages/16/practiceproblem1.png)
+	- So it's a/sin 82 = 6/sin 20. The sine of 82 is .99, or almost 1. The sine of 20 is about .34. Let's cross multiply. 1 times 6 is 6. a times .34 is .34a. 6 divided by .34 is about 18. So side a is about 18 units long.
+
+#### Law of Cosines
+	- The law states that $a2 = b2 + c2 - 2bc(cosA)$. So the square of this side equals the sum of the squares of the other two sides minus the cosine of the angle opposite times twice the product of the two other sides.
+	- We can modify the formula to fit whatever angle we have. So it could also be$ b2 = a2 + c2 - 2ac(cosB)$ or $c2 = a2 + b2 - 2ab(cosC)$. Just match the corresponding angle and side so they're on opposite sides of the equation.
+
+#### Double Angle Formula
+	- The double angle formulas are formulas that define the relationship between a trigonometric value and the double of the original angle. 
+	- Let's start with the double angle formula for sine. It's $sin(2x) = 2sin(x) cos(x)$. 
+	- Next, let's look at the formula for cosine. This is also derived from the summation formula. If you recall, $cos(x + y) = cos(x) cos(y) - sin(x) sin(y)$. Let's turn those ys to xs; $cos(2x) = cos(x) cos(x) - sin(x) sin(x)$. This simplifies to $cos(2x) = cos^2(x) - sin^2(x)$. And that's our cosine double angle formula!
+	- Fortunately, tangent gets simpler as a double angle formula. Let's magically make our ys into xs again, and voila: $tan(2x) = (tan(x) + tan(x)) / (1 - tan(x) tan(x))$. We can simplify that to get $tan(2x) = 2tan(x) / (1 - tan^2(x))$.
+
+#### Converting Between Radians and Degrees
+	- When it comes to angles, there are multiple ways to measure size, but the two most common units of measure are degrees and radians. You might already be familiar with one or the other, but knowing how to switch back and forth can be quite helpful as well.
+	- In the unit circle, or any circle for that matter, there are 360 degrees that make up the whole circle. In radians, we say there are 2 pi radians that make up the whole circle. We will use these two key numbers to set up a proportion, which is a fancy way to say that we will make the key numbers into a fraction and use that fraction to convert the measurements. When converting degrees to radians or radians to degrees, the key numbers that we use for the proportion are 2 pi and 360 degrees.
+	- If we were given 45 degrees and asked to convert to radians, it would look like this: 45 degrees multiplied by our proportion, which is 2 pi/360 degrees.	
+	- Now that we have (45 * 2 pi) / 360, we can begin to calculate.
+		- 45 * 2 = 90. This leaves us with 90 pi radians / 360.
+		- 90 / 360 = 1 / 4. We are left with (1 * pi) / 4.
+		- The 1 is understood, so we can simplify and leave it out. Our answer is pi/4 radians.
+		- We know that a 45 degree angle and a pi/4 radians angle are the same.
+
+![Alt text](Media/nov7trig.png)
