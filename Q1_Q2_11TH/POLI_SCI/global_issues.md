@@ -42,13 +42,25 @@
 #### Day 1 
 ![Alt text](Media/day1globalissues.png)
 #### Migration
-
+	- We normally associate migration as movement from one country to another, but far more common is the movement of people within countries and from one country to another but within a particular geographical or cultural region. An example would be if our world traveler Kyle moved from France to Germany. He is moving to a different country but is still also staying within Western Europe.
+	- Although the causes for migration are diverse and vary from one person to the next, all reasons for migration can generally be divided into two categories: push and pull factors. Push factors are negative developments and circumstances that motivate or force people to leave their homes. Pull factors, on the other hand, are positive developments inducing people to move from their homes to someplace else.
+	- Specifically for instances where abuses to human rights and high levels of violence and political instability are involved, many migrants often become refugees, or migrants living outside of their country of origin who are unwilling or unable to return. If a refugee attempts to obtain permanent residence in the country to which they fled, they are said to be asylum seekers. The concept of granting asylum was first put into practice during the 1951 United Nations Geneva Convention that stressed that individuals or groups persecuted on the grounds of race, religion, nationality, membership in a particular group, and holding certain political opinions would be recognized as refugees and granted asylum. Some countries have since expanded this definition to include women and homosexuals fleeing violence and sexual abuse.
+	-There are also pull factors, which include:
+		-Freedom
+		-Economic opportunities
+		-Globalization
+		-Family reunification
+		-Sparsely populated areas
+		-Educational and cultural opportunities
 #### Population
+	- At the center of population growth is the extent to which the global population growth threatens the Earth's carrying capacity, which refers to the maximum number of humans or animals that can survive within a given area. Overpopulation, too many people living in an area that has inadequate resources to support them, has been a global concern for centuries. The growing global population is also affecting some groups of people more than others.
+	- Again, if we think back to our too-small-of-a-house analogy, the easiest solution might be to find a way to get a bigger house. Unfortunately, this solution isn't possible when our house is our planet. The Earth isn't going to grow anymore, and except for moving to a bigger planet, we need to find other solutions to keep our global population rate in check. The goal of addressing global population growth is to keep the global replacement rate stable. The global replacement rate is the rate at which the number of people leaving the Earth, either through death or migration to different regions within, balances out the rate at which people are entering a region, by birth or immigration.
+	- Governments and nongovernmental organizations have done a number of things to try and address problems arising from rapid population growth. For instance, it is generally agreed that women's level of education strongly influences fertility rates. Education helps influence things such as choices to use contraception, the age of marriage and childbearing, as well as employment opportunities outside the home. Thus, educating women has been a solid option for population control.
+
 
 #### Trafficking
-
-#### The Security Dilemma
-
-#### War Crimes
-
-#### Weapons Proliferation
+	- The forced movement of people within or between countries is known as human trafficking. More specifically, when people are forcibly moved under false pretenses and then forced into labor or prostitution, this is known as contemporary slavery. It is impossible to know exactly how many people are trafficked worldwide, but the CIA estimates that 20,000 people are trafficked in the United States alone.
+	- The reason for human trafficking's continued existence is strongly related to the increasing levels of economic and cultural globalization. Global inequality and demographic factors in many countries contribute to the rapid growth of labor migration, a development in which most countries participate. Migrants are employed to do the most strenuous and undesirable jobs in most countries because it is often the only way they can earn a wage. This is because most people who are targets of trafficking and contemporary slavery come from disadvantaged areas and are looking for ways to support themselves and their families.
+	- Another factor that makes human trafficking increasingly prevalent is the feminization of migration, or the increasing percentage of women and people who identify as women in the migrant population. In many areas, they are generally perceived to be replaceable commodities by human traffickers. Thus, many criminal organizations collaborate to maximize their profits by trading women and girls like property.
+	- The Fourth World Conference on Women declared that women's rights are human rights and adopted a platform that called on governments to dismantle criminal networks engaged in trafficking women. The United Nations has also put forth a measure called the UN Protocol Against the Trafficking in Women and Children to get countries to commit to ending the practice. In the United States, a coalition of Democrats, Republicans, feminists, and evangelical Christians pressured the U.S. Congress to enact the Victims of Trafficking and Violence Protection Act to prosecute traffickers in the United States and to take action abroad against this global crime. 
+![Alt text](Media/nov9polisci.png)
