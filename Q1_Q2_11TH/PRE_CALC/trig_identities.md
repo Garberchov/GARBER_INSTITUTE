@@ -60,3 +60,14 @@
 
  - Day Four - Trigonometric Identities. This is really difficult
   ![Nov 15 Trig Identities](Media/nov15_trig_identities.png)
+
+#### Applying the Sum and Difference Identities
+ - The alpha and beta symbols represent angles. Look at the left side of the equations. Aren't these much simpler than the right side of the equations? The way these identities help you is if you see anything that looks like the right side, you can go ahead and substitute the left side into the problem, as most likely you will be able to solve the left side instead of the right side. How can you remember these identities?
+ - Look for patterns in these identities that you can easily remember. For example, the plus and minus signs of the sine identities are the same on both sides of the equation, while the plus and minus signs are opposite for the cosine identities. The tangent has matching plus and minus signs in the numerator and opposite signs in the denominator. What other patterns do you see?
+ - Now that we've covered our identities, we need now to think back to our unit circle, a circle with a radius of 1. With most trig problems that are this complicated, you will most likely be working with the unit circle in either degrees or radians. In my experience, the radian measure for angles is more commonly seen. To help you refresh your memory of the unit circle, here are two unit circles: one for degrees and one for radians:
+ - Remember that to use these unit circles, you look for your angle inside the circle, and then you refer to the point on the circle for your answer. The points give you the answer for the cosine and sine functions for that angle. The x part is the cosine of the angle, and the y part is the sine of the angle.
+ -For example, looking at the angle 5pi over 3, we see that our point is (one half, negative square root of 3 divided by 2). So, this means that for this angle, the cosine equals one half and the sine equals minus the square root of 3 over 2. Also, remember that since tangent equals sine divided by cosine, you can also easily use the unit circle to find your tangent values.
+ - ![Alt text](https://study.com/cimages/multimages/16/formulasumdiff1.jpg)
+ - ![Alt text](https://study.com/cimages/multimages/16/formulasumdiff2.jpg)
+ 
+ ![TRIG IDENTITIES!](Media/wednov16_trig_identities.png)
