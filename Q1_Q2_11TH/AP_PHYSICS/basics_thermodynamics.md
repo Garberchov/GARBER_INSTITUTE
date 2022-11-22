@@ -37,3 +37,36 @@
 
 
 ![Alt text](basics_thermodynamics.png)
+
+#### How to calculate specific heat capacity
+ - Specific heat capacity, or simply specific heat, is the amount of heat required to change the temperature of a substance. As water requires more time to boil than does alcohol, you might conclude that water requires more heat than alcohol to raise its temperature. In other words, water has a higher specific heat capacity. That conclusion would be accurate. To better understand specific heat capacity, we need to distinguish between heat and temperature, as both of these terms are used in its definition.
+ - You see, temperature is defined as the average amount of kinetic energy in the substance, where kinetic energy is the energy of motion. The molecules in each pot have the same average energy of motion or average amount of kinetic energy. In other words, the water molecules in each pot are moving at the same speed. Temperature is measured in degrees Celsius, degrees Fahrenheit, or even Kelvin.
+ - However, two liters of boiling water contain more heat than one liter of boiling water, even though they have the same temperature. In the context of specific heat capacity, heat is the total amount of energy in a substance, and heat is sometimes referred to as heat energy, in which energy is the ability to do work. In the scientific community, energy is measured in joules but also can be expressed as calories.
+ - The specific heat for water actually is quite high. The specific heat for alcohol is about half that of water - we calculated that in the example above. The specific heat of air is less than that of alcohol. Rocks and metals are even lower yet. Well, how does all this information help us?
+ - Simply put, life on this planet would not be possible if not for water's high specific heat. Materials with high specific heat, such as water, can absorb and release a lot of heat without much of a temperature change. Let's consider the ocean. The ocean absorbs heat during the day and releases heat at night, and that helps us to maintain a relatively constant atmospheric temperature. That's why coastal regions have moderate climates compared with more inland regions. At a more personal level, our bodies contain a lot of water - in fact, they're mostly water. Our body water helps to maintain a relatively constant internal temperature, and we need that in order to maintain life.
+
+
+#### Latent Heat
+ - Latent heat is the heat energy per mass unit required for a phase change to occur. If we think about substances at a molecular level, gaseous molecules have more vibration than liquid molecules. So when you add heat to a liquid, you are actually causing the molecules to vibrate. The latent heat is the energy required to change the molecular movement. Each substance has a unique latent heat value.
+ - The formula for latent heat is: Q = m * L
+ - This equation relates the heat Q that must be added or removed for an object of mass m to change phases. The object's individual latent heat is noted by L. The unit of latent heat is J/kg.
+ - The values of latent heat are variable depending on the nature of the phase change taking place:
+         - The latent heat of fusion is the change from liquid to solid.
+         - The latent heat of vaporization is from liquid to gas.
+         - The latent heat of sublimation is the change from solid to gas.
+ - In the previous example of boiling water, we know that we must continue to add heat energy to the water before all of the liquid water turns to steam. The latent heat of vaporization for water is 22.6 x 10^5 J/kg. This means that 22.6 x 10^5 J of heat energy must be added to turn one kilogram of water from liquid to gas at 100 degrees Celsius.
+ - While latent heat is not readily visible, it is the cause of many common phenomena. Latent heat is why sweating works to cool your skin. When the ambient temperature is high, your body produces precipitation on the skin. This sweat removes some of the heat from your body as it evaporates. The heat it removes is the latent heat required to change the sweat from a liquid to gas.
+ - Latent heat is also important to the creation of cumulus clouds preceding thunderstorms. As gaseous water rises in the atmosphere, it cools and condenses into a liquid. This change from gas to liquid water releases heat from the gas. Because hot air rises, this released heat warms the cloud causing it to rise further and thus causing more water to condense. This release of latent heat during water condensation of clouds causes the clouds to continue to grow, forming unstable thunderheads.
+
+
+
+#### Conduction
+ - Conduction is the passing of heat energy between two objects that are in direct, physical contact. It is one of the three types of heat transfer, the other two being convection and radiation. Whenever two objects of different temperatures are in contact with each other, heat energy will pass between them.
+ - In physics, everything must have an equation! It's kind of an unwritten rule. Conduction is no exception. How fast conduction happens depends on several factors: what material the objects are made from (the conductivity), the surface area of the two objects in contact, the difference in temperature between the two objects, and the thicknesses of the two objects.
+ - In equation form, it looks like this.
+ - ![Alt text](https://study.com/cimages/multimages/16/conductionequation.png)
+ - Q over t is the rate of heat transfer - the amount of heat transferred per second, measured in Joules per second, or Watts. k is the thermal conductivity of the material - for example, copper has a thermal conductivity of 390, but wool has a thermal conductivity of just 0.04. T1 is the temperature of one object, and T2 is the temperature of the other. Since it's a temperature difference, you can actually use Celsius or Kelvin, whichever is most convenient. And d is the thickness of the material we're interested in.
+ - So the rate of heat transfer to an object is equal to the thermal conductivity of the material the object is made from, multiplied by the surface area in contact, multiplied by the difference in temperature between the two objects, divided by the thickness of the material.
+
+
+Day 2: ![Alt text](day2_thermodynamics.png)
