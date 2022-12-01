@@ -47,3 +47,14 @@
  - Now we can evaluate the formula and then solve it. We get c^2 = 49 + 100 - 140 cos (81) = 149 - 21.9 = 127.1. Taking the square root, we get c = 11.27. So, our side measures about 11.27. When you are finding a missing side, don't forget to finish off by taking the square root to get side c by itself.
 
 ![Alt text](Media/day2_trig_graphs.png)
+
+#### Solving Real World Problems with the law of Cosines
+ - This law of cosines is very useful in the real world where triangles are involved. Where are triangles involved in the real world? Surveyors use triangles to calculate an unknown distance where they know the other two distances of the triangle.
+ - The beauty of the law of cosines can be seen when you want to find the location of a fire, for example. You see the fire in the distance, but you don't know how far away it is. However, to the left of the fire is a fast food restaurant that you know is exactly 1 mile away. A friend of yours standing somewhere else tells you that the fire is 2 miles away from the fast food restaurant. Your friend also tells you that the angle at the fast food restaurant that is formed by where you are standing and where the fire is equals 54 degrees.
+ - Let's go ahead and solve this problem as our first example. We know two sides of the triangle. One measures 1 mile and the other measures 2 miles. The third side is the side we are looking for. The angle opposite this side is 54 degrees. We can use our law of cosines to help us solve this. Because this is not a special triangle like a right triangle, we can arbitrarily label our sides. Since we are looking for our third side, we will label our third side as c. We can label the other two sides with a and b.
+ - ![Alt text](https://study.com/cimages/multimages/16/formulacosineslaw3.jpg)
+ - It doesn't matter which side is which as long as we keep the sides straight after we've labeled them. We will label the 1 mile side as a and the 2 mile side as b. Our angle C is then 54. Now, we can plug all these numbers into our formula for the law of cosines: 
+ - ![Alt text](https://study.com/cimages/multimages/16/formulacosineslaw4.jpg)
+ - All that is left to do now is to evaluate our formula to find our answer. We get c^2 = 1 + 4 - 4 * cos(54) = 5 - 2.35 = 2.65. Taking the square root, we get c = 1.63 miles. So the fire is 1.63 miles away from where you are.
+
+![Alt text](Media/dec1_trig_graphs.png)
