@@ -1,0 +1,23 @@
+### Andrew Garber
+### December 2 
+### American Propaganda in World War Two
+
+#### Prompt
+American Propaganda, both for workers and soldiers
+Propaganda was a big part of the early 20th century war efforts.  Why was it necessary .. and why/how was it targeted to both groups above. Evaluate its effectiveness. 
+
+PLEASE USE IN-TEXT SOURCING. PLEASE USE AT LEAST THREE DIFFERENT TYPES OF SOURCES - AS MANY TOTAL SOURCES AS ARE USEFUL BUT PULL FROM DIFFERENT TYPES OF SOURCES
+#### Response
+
+Propaganda is an essential part of warfare both for maintaining stability and productivity on the home-front, an essential requirement for the successful prosecution of a war, and for the motivation of troops in the conditions of war. This was no less true for the United States during World War 2 following their entry in 1941, as motivating the American people that fighting was worth it when defeating the unstoppable war machines of Nazi Germany and Imperial Japan looked impossible. Propaganda efforts were necessary for the motivation of the whole American populous, but the most notable examples of notable targeted campaigns were done to direct driven fighting aged men towards the most innovative branches, and towards women and African Americans: groups which historically had been denied a fair chance to serve their country. 
+
+
+#### Sources
+[An Analysis of American Propaganda in World War II and the Vietnam War | Connor Foley | Pg 28](https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1092&context=honors_proj)
+[The National Archives | Power of Persuasion](https://www.archives.gov/exhibits/powers-of-persuasion)
+[PBS American Experience](https://www.pbs.org/wgbh/americanexperience/features/goebbels-propaganda/)
+[Rosie the Riveter | Smithsonian](https://americanhistory.si.edu/collections/search/object/nmah_538122)
+[Library of Congress | In the face of obstacles: courage](https://www.loc.gov/item/93500150/)
+[Department of Defense](https://www.defense.gov/News/Feature-Stories/story/Article/1990131/wwii-posters-aimed-to-inspire-encourage-service/)
+[Department of Defense Poster: 2](https://www.defense.gov/News/Feature-Stories/story/Article/1990131/wwii-posters-aimed-to-inspire-encourage-service/#pop3740515)
+[War Manpower Commission](https://cnx.org/resources/a7969e128468900ca7e7455cb739ce7065b22b9b)
