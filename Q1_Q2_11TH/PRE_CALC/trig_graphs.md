@@ -58,3 +58,16 @@
  - All that is left to do now is to evaluate our formula to find our answer. We get c^2 = 1 + 4 - 4 * cos(54) = 5 - 2.35 = 2.65. Taking the square root, we get c = 1.63 miles. So the fire is 1.63 miles away from where you are.
 
 ![Alt text](Media/dec1_trig_graphs.png)
+
+#### Proving the Add. & Sub. Formulas for Sine, Cosine, Tangent
+ - The set of identities that we will look at today is called the angle sum and difference identities. These identities define how to turn a trig function of two angles added or subtracted from each other into a trig function of single angles. There are a total of six of these identities. Two for each of our trigonometric functions of sine, cosine, and tangent. There are two because we have one for addition and one for subtraction. Let's take a look at what they look like.
+ - [](https://study.com/cimages/multimages/16/formulasumdiffproof1.jpg)
+ - The alpha and beta symbols represent angles written in either radians or degrees. Do your best to memorize these. It will help you in the long run on tests and exams. The key to memorizing these is to look for patterns.
+ - For example, the cosine sum and difference identities splits into a pair of cosines and then a pair of sines. If we have the two angles added together, then our pair of sines will be subtracted from our pair of cosines. So, the sign flips for cosine. Looking at our sine identities we see that the sign stays. If we have the two angles being added, then the definition part also has a plus. What other patterns do you see?
+ - Let's take a look at the proof. It only requires four lines. It makes use of complex exponentials. It also makes use of the Euler formula, which states that e^ix = cos x + i sin x. Don't worry if these don't make sense now. Once you delve into higher math, such as calculus and higher, then you will understand how this all ties in with what you are learning now. Okay, so here is the proof:
+ - [](https://study.com/cimages/multimages/16/formulasumdiffproof2.jpg)
+ - Now look at the very first line, the left side of the equation gives us our cosine sum and sine sum. If we set the cosine sum equal to the first set of parentheses in the last line, we see that we get our cosine sum identity. If we set the sine sum equal to the second set of parentheses in the fourth line, we see that we get the sine sum identity.
+ - To get our difference identities, we just replace our beta angle with a minus beta angle. To get our tangent identities, we make use of the definition of tangent in terms of sine and cosine. We know that tangent equals sine/cosine, so we simply write our tangent sum identity as the sine sum identity over the cosine sum identity. We then simplify to get to our tangent identity.
+ - [](https://study.com/cimages/multimages/16/formulasumdiffproof3.jpg)
+
+ ![Alt text](Media/trig_graphs_final.png)
