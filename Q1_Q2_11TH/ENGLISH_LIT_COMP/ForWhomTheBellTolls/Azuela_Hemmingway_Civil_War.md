@@ -1,0 +1,11 @@
+### Andrew Garber
+### December 12
+### 
+
+#### Prompt
+ - Both novels examine civil unrest, revolutionary and importantly, the characters involved in fostering that unrest and resolution. 
+ - Compare and contrast Hemingway's treatment of civil war in FWTBT and Azuela's perspective on civil uprising in The Underdogs.   Similar situations - are the authors delivering the same message? How do the character developments support the author's purpose?  Which treatment is more effective in your opinion (but NOT in first person!) and WHY / HOW? 
+ - This is like 6--7 paragraphs..  Use dialogue, setting, narrative plot points and/or transitions.  Remember not to treat each in a vacuum - I'd like to see how you view these IN COMPARISON to each other. 
+
+#### Response
+The early parts of the 20th century were filled with political and social upheavals across the world due to rapid advances in technology and the rise of industrialization, many of these upheavals unfortunately led to costly civil wars. The grand scale of these wars and the destruction they caused led to a wave of literature that used the tragedy of war to explore the human societal and political condition. *The Underdogs* by Mariano Azuela and *For Whom The Bell Tolls* by Ernest Hemingway are two novels that do exactly this, set during the Mexican and Spanish civil wars respectively. Comparisons and contrasts between these novels are only natural, as they are set in similar time periods, deal with similar subject matters caused by comparable political and socioeconomic conditions, and have similar cultural backgrounds. However, the authors of these novels have different approaches to the subject matter, and the characters they create are used to convey different messages. While the goals of both authors are similar, to explore the dramatic human consequences of war, Azuela focuses more on the descent from righteous war based on strong ideals to a war based on personal gain, while Hemingway focuses more on the effects of war on individuals and communities.
