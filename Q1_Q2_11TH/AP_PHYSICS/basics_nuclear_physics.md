@@ -21,3 +21,19 @@
  - Finally, we have gamma decay. Gamma decay occurs when the nucleus of an atom is very high in energy. Just like electrons move out to higher energy levels, protons and neutrons can exist in higher energy levels as well. Also like electrons, when these particles fall back down into lower energy levels, radiation is released. When it is released from the nucleus by having protons and neutrons falling back down, very high energy gamma rays are released. Gamma rays are symbolized by a 0, 0, and a gamma symbol. Notice how both the atomic number and the mass number are 0. This means that this is a particle that contains no mass. It also doesn't change the atomic number of an element because the only thing that changes is that the nucleus loses energy. The structure of the atom is unchanged.
 
 ![Alt text](bascis_nuclear.png)
+
+#### Radioactive Decay
+ - Radiation is part of our everyday lives. There are natural sources of radiation, such as radiation from outer space, as well as man-made sources of radiation, like nuclear power plants and cell phones. Radiation is given off from a process called radioactive decay. Radioactive decay occurs when the original nucleus, or parent nucleus, of an unstable atom decomposes and forms a different nucleus, or the daughter nucleus.
+ - The rate at which radioactive decay occurs is measured using half-life, which is the time it takes for half the amount of the parent nucleus to decay. Each time the half-life of a radioactive material occurs, the amount of the radioactive material decreases to half of the original value.
+ - ![Alt text](https://study.com/cimages/multimages/16/radioactivedecayequation.png)
+    -  N0 is the initial quantity of the substance
+    - N(t) is the quantity that still remains and has not yet decayed after a time (t)
+    - t1/2 is the half-life of the decaying quantity
+    - e is Euler's number, which equals 2.71828
+ - The radioisotope strontium-90 has a half-life of 38.1 years. If a sample contains 100 mg of Sr-90, how many milligrams will remain after 152.4 years?
+ - ![Alt text](https://study.com/cimages/multimages/16/halflifesolution.png)
+ - Alpha decay, or alpha emission, is the release or emission of an alpha particle, which is a helium nucleus consisting of two protons and two neutrons. This type of decay usually occurs in larger and heavier atoms. In the figure, you'll see that a helium particle (alpha particle) is emitted from the parent nucleus.
+ - Beta decay, or beta emission, occurs when a neutron transforms into a proton or a proton transforms into a neutron inside the nucleus. This conversion results in a beta particle--either an electron or positron--to be emitted, accompanied by either an electron antineutrino (a subatomic particle that is electrically neutral) or electron neutrino.
+ - Gamma emission involves a release in energy in the form of gamma rays, very high-energy electromagnetic radiation. This type of emission usually accompanies other decays, such as alpha or beta decay. Gamma rays are emitted because when the nucleus undergoes alpha or beta decay, the nucleus is all shaken up and needs to release energy. Gamma rays have no atomic mass and no atomic number.
+
+ ![Alt text](nuclear_physics.png)
