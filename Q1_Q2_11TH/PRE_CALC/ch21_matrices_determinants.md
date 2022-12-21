@@ -26,3 +26,23 @@
  - Notice how easy it is to solve now. If we write out our linear equations, we get x + y + z = 5, -2y - 3z = -6, and -7z = -14. We can immediately solve the third equation for z to get z = -14/-7 = 2. We can then substitute this value for z into the second equation to solve for the next variable, y. We get -2y - 3(2) = -6. This turns into -2y - 6 = -6. To solve for y, we add 6 to both sides and we get -2y = 0. Dividing both sides by -2, we get y = 0. So now we have y = 0 and z = 2. To solve our last variable, x, we can use our very first equation. Plugging in these two values, we get x + 0 + 2 = 5. Solving this for x, we get x = 3. So our final answer is x = 3, y = 0, and z = 2. We can also write this in point form, like this: (3, 0, 2).
 
 ![Alt text](Media/dec19_matrices_determinants.png)
+
+#### Solve Linear Systems with Gauss-Jordan Elimination
+ - So, the process of Gauss-Jordan elimination involves creating an augmented matrix of both sides of our equations, changing this matrix into reduced row echelon form (I will explain this later), then finishing up the problem to find our solution.
+ - Let's begin. We first create our augmented matrix. Our first row is 2, 1, -3, and 3. Our second row is -2, 2, 3, and 4. Our final third row is 0, -3, 2, and 1.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationgaussjordan1.jpg)
+ - ![Alt text](https://study.com/cimages/multimages/16/equationgaussjordan2.jpg)
+ - We want to change it into its reduced row echelon form. What is this form? It is when our matrix has zeros on the lower diagonal and the first nonzero number in each row is 1. Also, if a column has a leading 1, then all the other numbers also need to be 0.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationgaussjordan5.jpg)
+ - Now we can easily finish up our problem by solving for our variables. We have x = 19/3, y = 7/3, and z = 4.
+
+#### Inconsistent and Dependent Systems
+ - This video lesson is about inconsistent and dependent systems or collections of equations. What are they? Inconsistent systems are those systems that have no solution. Dependent systems are those systems that have an infinite number of solutions.
+ - Once you spot that the system you are working with is either inconsistent or dependent, then you can say that the system has no unique solution because it either has no solution or it has an infinite number of solutions. What causes these situations? For the inconsistent system scenario, this happens when at least two of the equations do not intersect when graphed. This means that they never meet or touch. So, for lines, it means that at least two of the lines are parallel. For planes, it means that at least two of the planes are parallel to each other. For a dependent system, it means that all the equations graph out the same line or plane. Because all the equations are the same, there is no unique solution. Instead, we have an infinite number of solutions because all the equations intersect at all the points.
+
+ - Applying Gaussian elimination, we create our matrix by writing down the numbers associated with the variables as well as the constant numbers. We get this augmented matrix:
+ - ![Alt text](https://study.com/cimages/multimages/16/equationnosolgaussian2.jpg)
+ - We see that for inconsistent systems, when we try to use Gaussian elimination, we end up with a false statement. That tells us that there is no unique solution, and we can't continue.
+ - If you take these same systems and you try other methods of solving them, you will come across other obstacles. It all means that there is no method to solving inconsistent or dependent systems because there is no unique solution that can be found.
+
+![Alt text](Media/matrices_determinants.png)
