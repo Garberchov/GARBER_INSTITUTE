@@ -54,3 +54,7 @@
  - If one fission reaction produces two neutrons, these two neutrons can cause two additional fissions. If those two fissions release four neutrons, those four neutrons split other nuclei, and could then produce four more fissions, and so on, resulting in a nuclear chain reaction as shown in this figure.
 
 ![Alt text](basics_nuclear_physics.png)
+
+
+#### Fusion and Fission done last year
+![Alt text](basics_nuclear_final.png)
