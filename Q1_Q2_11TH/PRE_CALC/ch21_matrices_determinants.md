@@ -46,3 +46,30 @@
  - If you take these same systems and you try other methods of solving them, you will come across other obstacles. It all means that there is no method to solving inconsistent or dependent systems because there is no unique solution that can be found.
 
 ![Alt text](Media/matrices_determinants.png)
+
+#### Solving Systems of Linear Equations in Two Variables Using Determinants
+ - Linear systems in two variables are common in math. You will see them more and more as you progress. They are collections of two equations with two variables and no exponents. There are several methods that you can use to solve these systems.
+ - To help you solve this system, we can use Cramer's rule. Cramer's rule tells you how you can solve the linear system by working with just determinants. First, you create your coefficient matrix, which includes only the coefficients on the left side of the equations. Then you find the determinant of this matrix.
+ - We will call this determinant D. Then for each variable, you take your coefficient matrix and substitute the constant numbers, which are the numbers on the right side of the equation, into each column.
+ - So, for the c variable, you substitute the constant numbers into the first column of the coefficient matrix. For the d variable, you substitute the constant numbers into the second column of the coefficient matrix.
+ - You then find the determinants of these matrices. For the c variable, we will call the determinant D sub c. For the d variable, we will call the determinant D sub d.
+ - The solution then is found by division. The c solution is c = D sub c / D. The d solution is d = D sub d / D. Because we have two variables, we need to find three determinants: one general determinant and then one determinant for each variable.
+
+#### Solving Systems of Linear Equations in Three Variables using Determinants
+ - ![Alt text](https://study.com/cimages/multimages/16/1c1eaeab-d2ec-4031-8371-b749f1b0dd2c_equations.png)
+ - The coefficient matrix is this.
+ -  ![Alt text](https://study.com/cimages/multimages/16/equationthreevardet2.jpg)
+ - The numbers are just the coefficients in front of the variables on the left side of the equations. The first column is all the x variable coefficients. The second column is all the y variable coefficients. The third column is all the z variable coefficients.
+ - The determinant for our coefficient matrix is 1(-1 * -2 - -1 * 3) - 1(2 * -2 - -1 * 0) + 1(2 * 3 - -1 * 0) = 1(2 + 3) - 1(-4 + 0) + 1(6 + 0) = 1(5) - 1(-4) + 1(6) = 5 + 4 + 6 = 15. Our D is 15.
+ - Now we need to find our D sub x, D sub y, and D sub z. To find these determinants, we need to substitute each column with the constant numbers. The constant numbers are these.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationthreevardet3.jpg)
+ - To find D sub x, we substitute the first column in our coefficient matrix with these constant numbers and then find the determinant of that matrix.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationthreevardet4.jpg)
+ - The determinant of this matrix is 6(-1 * -2 - -1 * 3) - 1(-3 * -2 - -1 * 0) + 1(-3 * 3 - -1 * 0) = 6(2 + 3) - 1(6 + 0) + 1(-9 + 0) = 6(5) - 1(6) + 1(-9) = 30 - 6 - 9 = 15. D sub x is 15.
+ - The matrix for D sub y is this one. We have substituted the second column with our constant numbers.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationthreevardet5.jpg)
+ - D sub z is 45.
+ - Now that we've found all our determinants, the next step is to find our solutions by dividing our determinants. To find the x solution, we take D sub x and divide it by D. To find the y solution, we take D sub y and divide it by D. To find the z solution, we take D sub z and divide it by D. Are you ready to find our solutions?
+ - The x solution is x = D sub x / D = 15 / 15 = 1. The y solution is y = D sub y / D = 30 / 15 = 2. The z solution is z = D sub z / D = 45 / 15 = 3. Our complete solution then is (1, 2, 3) where x = 1, y = 2, and z = 3. Now we are done.
+
+ ![Alt text](Media/implicit_functions.png)
