@@ -73,3 +73,32 @@
  - The x solution is x = D sub x / D = 15 / 15 = 1. The y solution is y = D sub y / D = 30 / 15 = 2. The z solution is z = D sub z / D = 45 / 15 = 3. Our complete solution then is (1, 2, 3) where x = 1, y = 2, and z = 3. Now we are done.
 
  ![Alt text](Media/implicit_functions.png)
+
+#### Using Cramer's Rule with Inconsistent and Dependent Systems
+ - In this lesson, we talk about using Cramer's rule. Cramer's rule is a very neat way to solve linear systems for its various variables. You can solve for just one variable using Cramer's rule without having to solve the whole system. What you do is create a matrix from the coefficients. Then you find the determinant of this matrix. We will call this determinant D. Next, say we want to find the y value of our system, we would then replace the y column of our coefficient matrix with the constant values on the right side of our equations. We find this determinant and call it D sub y. We then divide our D sub y with our D, and we end up with our y solution. It's pretty neat.
+ - Let's use Cramer's rule to try and solve this linear system. I will tell you that this system is a dependent system with an infinite number of solutions.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationcramers1.jpg)
+ - According to Cramer's rule, we first create our coefficient matrix. Our first row in this matrix is 1, 1, and 1. Our second row is 2, 2, and 2. Our third row is -1, -1, and -1. We then take the determinant of this matrix.
+ - ![Alt text](https://study.com/cimages/multimages/16/equationcramers2.jpg)
+ - Taking the determinant, we get 1(-2-(-2)) - 1(-2 - (-2)) + 1(-2 - (-2)) = 1(0) - 1(0) + 1(0) = 0. Look at that. We got 0 for our determinant D. If we wanted to find the x solution, Cramer's rule tells us that we need to replace our x column with the constant numbers. So, we would replace our first column with the numbers 1, 2, 1 from the right side of our equations. We then find this determinant and divide it by our coefficient determinant D. But wait, our coefficient determinant D is 0. We can't divide by 0.
+ - This tells us that Cramer's rule can tell us that our linear system is either inconsistent or dependent, but it can't tell us which it is. So, can we use Cramer's rule in these instances? No, we can't, since division by 0 is not a valid math operation.
+
+
+#### How to evaluate Higher Order Determinants
+ - If our matrix is larger than 2 x 2, then we call it a higher order matrix. These are the matrices that are 3 x 3, 4 x 4 and so on. We follow the same pattern as we did for finding the determinant of a 2 x 2 matrix to find the determinants of these larger matrices. The formula for the determinant of a 3 x 3 matrix is this:
+ - ![Alt text](https://study.com/cimages/multimages/16/matrixdeterminant7.jpg)
+ - {When thinking of doing operations on these, it is very similar to the same stuff used for the math for Machine Learning and Neural Networks using Numpy and Pandas.}
+ - We are doing the same thing as we did for the 2 x 2 matrix. We take each term of our top row. We visually cancel all the numbers in the same row and column. We multiply the number in the top row with what is left. Since this is a higher order matrix, we are left with another matrix. So we need to take it one step further - we need to take the determinants of the mini matrices that we get. We follow the pattern of plus, minus, plus, minus for putting all the products together.
+ - To find the determinant of this 3 x 3 matrix: 
+ - ![Alt text](https://study.com/cimages/multimages/16/matrixdeterminant3.jpg)
+ - We will work off the top row just like we did for the 2 x 2 matrix. We begin with the first number in the top row: the 1. We mentally cancel all the numbers in the same row and column. We are left with a 2 x 2 matrix where the top row is 5 and 6 and the bottom row is 8 and 9. Hmm. So we are multiplying the 1 with the 2 x 2 matrix. Okay. We will keep it that way for now.
+ - The next number is the 2. We again mentally cancel all the numbers that are in the same row and column. Again, we are left with a 2 x 2 matrix. This time, the numbers are 4 and 6 in the top row and 7 and 9 in the bottom row. Our third number is 3. We mentally cancel all the numbers that are in the same rows and columns. We are left with a 2 x 2 matrix where the top row is 4 and 5 and the bottom row is 7 and 8. We apply the positive, negative pattern to our top row. Our 1 is positive, our 2 is negative and our 3 is positive.
+ - ![Alt text](https://study.com/cimages/multimages/16/matrixdeterminant4.jpg)
+ - The little matrices that we've come up with are called our minor matrices. Because they are also square matrices, we can actually go in and repeat the process of finding the determinant with these matrices until we are left with all numbers and no matrices.
+ - Our first minor matrix is the one with 5 and 6 in the top row and 8 and 9 in the bottom row. The determinant of this minor matrix is 5 * 9 - 6 * 8 = 45 - 48 = -3. Good. The next minor matrix is the one with the 4 and 6 on the top and 7 and 9 on the bottom. The determinant of this matrix is 4 * 9 - 6 * 7 = 36 - 42 = -6. The last minor matrix is the one with the 4 and 5 on top and the 7 and 8 on the bottom. The determinant of this matrix is 4 * 8 - 5 * 7 = 32 - 35 = -3.
+ - Now that we have the determinants of our minor matrices, we can now plug these in to our original determinant equation to find our answer.
+ - ![Alt text](https://study.com/cimages/multimages/16/matrixdeterminant5.jpg)
+ - The determinant of our 3 x 3 matrix is 0. We are done!
+
+
+![Alt text](Media/working_with_matrices_determinants.png)
