@@ -71,3 +71,28 @@
  - ![Alt text](https://study.com/cimages/multimages/16/equationgeoseqsum3.jpg)
 
  ![Alt text](Media/ch22_sequences_jan18.png)
+
+#### understanding the Formula for Infinite Geometric Sequences
+ - If your common ratio is less than 1 or greater than -1, but not 0, then you can use this formula to calculate the sum for your infinite geometric series:
+ - ![Alt text](https://study.com/cimages/multimages/16/equationinfinitegeometricsum1.jpg)
+ - The r is our common ratio, and the a is the beginning number of our geometric series. To use this formula, our r has to be between -1 and 1, but it cannot be 0. Nor can it be -1 or 1.
+ - So, if our r is 1/2, 1/4, 1/3, etc., or even -1/2, -1/4, -1/3, then we can use this formula. If our r is outside these limits, if it is greater than or equal to 1 or less than or equal to -1, then the sum of the infinite geometric series cannot be evaluated.
+ - Let's try using this formula with our pie example. With our first cut, we set aside half of our pie. So, our beginning number, our a, is 1/2. Our r is 1/2 since we are slicing our pie in half every time.
+
+ - Let's see what kind of answer we get. We plug in our 1/2 for a and our 1/2 for r. Now we evaluate. 1 minus 1/2 is 1/2. 1/2 divided by 1/2 is 1. So, our answer is 1.
+ - Adding up all our slices, beginning with our half slice, gives us a whole pie. That makes sense since we are simply cutting our one pie down into very tiny slices.
+
+#### Recursive rules for Arithmetic, Algebraic and Geometric Sequences
+ - A recursive rule is like a chicken. You can't get a chicken without an egg. You need the egg to hatch before you can watch a chicken grow up. We define a recursive rule as a rule that continually takes a previous number and changes it to get to a next number. We see recursive rules at work in both arithmetic and geometric sequences. One of the most famous arithmetic sequences of all time is our counting numbers. Think about the numbers you use to count, for a bit. We always start counting with 1. Then we go to 2, then 3, and so on. Each time, we add 1 to the previous number. So our recursive rule here is to add 1 to the previous number with our first number being 1. Just like we can't have a chicken before an egg, we can't count to 2 without the 1.
+ - Sticking to our counting numbers example, our recursive formula here is: a sub n is equal to a sub n minus 1 plus 1 where a sub n minus 1 stands for the previous term and n stands for the position of the current term in our sequence. We are told that our first term, a sub 1, is equal to 1. So, a sub 4 stands for the fourth number in our sequence where n equals 4.
+ - ![Alt text](https://study.com/cimages/multimages/16/formularecursive1.jpg)
+ - What makes this formula recursive is the a sub n minus 1 part, which tells you that you need to plug in the previous term to find the next. For example, to find the fourth term in the sequence, we need to plug in the value of the third term, a sub 3. Likewise, to find the fifth term, we need to plug in the value of the fourth term, a sub 4.
+
+#### Using Sigma Notation
+ - In this video lesson, we will talk about the strings of numbers that have a pattern. If there is a pattern, then we can write the pattern as a formula. Once we have a formula, we can use our special notation when we want to add up our string of numbers, our series.
+ - For example, say we have 2, 4, 6, ... for our series. We see that we have a pattern. Our pattern is that we add two every time we go to the next number. Our third number is 2 + 2 + 2 or 2 + 2*2. Our fourth number is 2 + 2 + 2 + 2 or 2 + 2*3. We can write this pattern as a formula, such as:
+ - This formula will give us the numbers in our sequence. For example, the fourth term will be a sub 4 = 2 + (4 - 1)2; a sub 4 stands for the fourth term. So, for our current series of 2, 4, 6, our fourth term will be 2 + (4 - 1) or 3 * 2. So, we have 2 + 6, which is 8. Our fourth term is 8.
+ - Since we are dealing with math, we sometimes want to add up our terms to see what kind of totals we get. We are usually interested in the total of a limited number of terms. For example, we might want to know the total of just the first six terms or the first 20 terms. For our pattern of 2, 4, 6, etc, we can add up our first five terms by writing 2 + 4 + 6 + 8 + 10 and then performing these additions.
+ - Of course, with this being math, we like to write things as concisely as possible. We like to substitute symbols for more complicated things to make it easier to work with. For our summation, we have our Sigma notation, which looks like a big sideways M. This notation tells us to add up our series.
+
+ ![Alt text](Media/ch22_sequences_jan20.png)
