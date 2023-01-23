@@ -96,3 +96,21 @@
  - Of course, with this being math, we like to write things as concisely as possible. We like to substitute symbols for more complicated things to make it easier to work with. For our summation, we have our Sigma notation, which looks like a big sideways M. This notation tells us to add up our series.
 
  ![Alt text](Media/ch22_sequences_jan20.png)
+
+#### Mathematical Induction
+ - Mathematical Induction is a way of proving a mathematical statement by saying that if the first case is true, then all other cases are true too. In the same way that the first domino in a chain proves that all of the other ones will fall.
+ - There are two steps to mathematical induction. The first step is to prove the statement for the first case. The second step is to prove that if the statement is true for the first case, then it is true for all other cases.
+ - An example of this would be $1+2+3... +n = ((n)(n+1))/2 $ is true, using n=1. Then, assume that n=k is true thus n=k+1 is also true. This is called the principle of mathematical induction. 
+ - To prove n=1 is true, $1=((1)(1+n))/2$ - thus 1=1
+ - To prove that n=k is true, we have to assume that that $1+2+3... +k = ((k)(k+1))/2 $ is true and then show that $1+2+3... +k+1 = ((k+1)(k+2))/2 $ is also true.
+ - To prove this, we have to realize that everything up to k is equal to $((k)(k+1))/2$ thus the equation would actually becoming $((k)(k+1))/2 + (k+1)=((k+1)(k+1)+1)/2$
+ - Multiplying these out, we get $(k^2 +3k + 2)/2 = (k^2 +3k + 2)/2$ These two equations are equal, thus the principle of mathematical induction can be applied to this statement. 
+
+#### Find the value of an annuity
+ - An annuity is a savings account that starts paying you back in the future. 
+ - There is a formula for this exact situation, $FV = PMT((1+i)^n - 1)/i)$ FV is simply the future value and PMT is the monthy payment - these are not variables so much as indicators of what the formula is looking for. i is the interest rate and n is the number of interest payments.
+ - For example, if you put $200 into the annuity every month at an annual interest rate of 5% with compounded monthly interest. How much would it be worth in 10 years?
+ - In this case, $FV = 200((1 + 0.05/12)^120 - 1)/(0.05/12)$ (i is 0.004167 but it looks nicer as 0.05/12 and is the same)
+ - This calculates to $200(155.2856) = $31,057.12$
+
+ ![Alt text](Media/jan23_sequences.png)
