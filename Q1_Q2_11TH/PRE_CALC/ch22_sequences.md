@@ -114,3 +114,21 @@
  - This calculates to $200(155.2856) = $31,057.12$
 
  ![Alt text](Media/jan23_sequences.png)
+
+#### Expand a Binomial
+ - The Binomial Theorem tells us what happens when you multiply a binomial by itself a certain number of times.
+ - The formula of the binomial theorem is $(a+b)^n = \sum_{k=0}^n {n \choose k}a^{n-k}b^k$ which looks extremely complicated but is actually quite simple and repeatable.
+ - The only complicated part of the formula is the part inside the parenthesis, which is the notation for a factorial "n choose k" or $(n!)/(k!(n-k)!)$. If n is 4 and k is 2 then it would be equal to $(4*3*2*1)/(2*1*2*1)$ which is equal to 6.
+ - for example, (a+b)^3 eventually becomes 
+ - ![Alt text](https://study.com/cimages/multimages/16/equationbinomialtheorem4.jpg)
+ - The pattern here, is that the exponent of a starts at n and decreases to 0 and the exponent of b starts at 0 and increases to n. The coefficient of a and b is the number of ways to choose k from n.
+
+#### Special Sequences
+ - We begin with triangular and tetrahedral sequences. A triangular sequence is a sequence that gives you the numbers needed to form a triangle. Think of yourself building triangles with marbles. You begin with one marble. To get the next triangle, you would need to add two more marbles. So now, you have a total of three marbles.
+ - To grow your triangle again, how many marbles would you need? You would need three more marbles to form the new base of your triangle. Now you have six marbles. Your sequence is now 1, 3, 6... Do you see the pattern? To make our triangles, we add two to our first term, three to our second term, and so on. We continue our sequence by adding four to the third term to get 10, then adding five to the fourth term to 15. We now have 1, 3, 6, 10, and 15.
+ - Our next special sequence is a tetrahedral sequence. This is a sequence of the number of units needed to form a tetrahedron, a triangular pyramid. Think of the triangles we just built as each layer of our tetrahedron. So, a tetrahedron of height one will have one marble. For a height of two, it will have one plus three marbles, or four marbles. For a height of three, it will have four plus six, or ten, marbles. We are essentially adding our triangular numbers up with each term. So, our series looks like 1, 4, 10, 20, etc.
+ - Our next group of special sequences includes the square and cube sequences. The square sequence is a sequence in which each term is the square of the corresponding number on the number line. So, the first term is one squared. The second term is two squared; the third term is three squared. So, this sequence looks like 1, 4, 9, 16, etc.
+ - The cube sequence is a sequence in which each term is the cube of the corresponding number on the number line. So, the first term here is one cubed; the second term, two cubed; the third term, three cubed; and so on. This sequence looks like 1, 8, 27, 64, etc.
+ - The last sequence we are going to discuss is the famous Fibonacci sequence. This sequence is a sequence in which each number is the sum of the previous two numbers. So, we start with one for the first term and one also for the second term (since that one is the sum of the previous two terms and we only have a one before it). The third term is then one plus one, or two. The fourth term is one plus two, or three. The fifth term is two plus three, or five. So, the sequence looks like 1, 1, 2, 3, 5, 8, etc.
+
+![Alt text](Media/jan24_sequences.png)
