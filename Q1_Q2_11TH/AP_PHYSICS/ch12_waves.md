@@ -30,7 +30,7 @@
 - There are various features we can label on a transverse wave
  - A crest (or peak) of a wave is one of the top-most parts, as high as the wave goes. A trough is the lowest part, as low as the wave goes. The amplitude of a wave is the vertical distance between the center line and a peak, or the center line and a trough. This should normally be exactly the same distance.
  - Last of all is a wavelength. A wavelength is the distance from two similar parts of a wave -- from a peak to the next peak, or from a trough to the next trough. It is the length of one full wave, one full oscillation. Wherever you measure it, the number should come out the same.
-
+ - They move as a right angle to the direction the energy is going.
 #### Day 1 Waves
 ![](wavesday1.png)
 
