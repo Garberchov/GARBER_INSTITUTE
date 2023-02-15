@@ -32,3 +32,11 @@
  - Now that I have all my information, I can now plug these into my standard form equation. I plug 1 in for h, 2 in for k, 3 in for a and 4 in for b. Since my hyperbola is sideways, I will use the standard form where the x appears first. (x - 1)^2 / 9 - (y - 2)^2 / 16 = 1.
 
 ![Alt text](Media/analytic_geom_feb13.png)
+
+#### The Parabola
+ - The standard form of a vertical parabola is (x - h)2 = 4p(y - k), where h, k and p are numbers that give you the location of the focus. For the vertical parabola, the focus is given by the point (h, k + p). For example, the parabola (x - 3)2 = 8(y - 2) has a focus of (3, 4) since our h equals 3, our p equals 2 and our k equals 2. How come our p equals 2? Well, the standard form has a 4p outside the parentheses with the y, and our equation has an 8 in its place. So, what multiplied by 4 will get me to 8? It's a 2.
+ - The standard form of a horizontal parabola is (y - k)2 = 4p(x - h), where the focus is given by the point (h + p, k). For example, the parabola (y - 4)2 = 4(x - 1) has a focus of (2, 4) since our h equals 1, our p equals 1 and our k equals 4. Our p equals 1 since we have a 4 in the 4p place, and 4 times 1 will equal 4.
+ - Notice how the k is always linked with the y, and the h is always linked with the x. The p is always linked with the part that is not squared.
+ - Because these standard form equations allow us to easily find the focus point, they are also very useful for us when we want to graph our parabolas. Why is this? Because once we find our focus point, we can use the location of the focus point to find the location of the tip of our parabola. We can then find points on either side of the tip so we can graph our parabola.
+
+![Alt text](Media/analytic_geometry_final.png)
