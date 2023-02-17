@@ -20,3 +20,29 @@
  - As we'll discuss in other lessons, density is super important because it relates to whether things rise or sink. Less dense materials tend to rise above more dense materials, particularly in the case of liquids and gases. So understanding density has major implications for the motions of materials and gases in the atmosphere and objects floating (or sinking) in water. Density is the reason some objects sink and other objects float. And it's the reason that some clouds are high in the sky, while others are low down.
 
 ![Alt text](Media/fluid_mechanics_day1.png)
+
+#### Bernoulli's Principle
+ - Water running through the wider regions travels more slowly but speeds up as it passes through the narrower parts. But what you may not believe is that the pressure in these narrower regions decreases within the fluid as the water speeds up. Likewise, the pressure in the fluid increases as the water slows down in the wider regions.
+ - This discovery was made by Swiss scientist Daniel Bernoulli and is called Bernoulli's principle. Bernoulli studied fluids in pipes and found that where the speed of a fluid increases, the internal pressure in the fluid decreases.
+ - This is not an easy concept to grasp. In fact, you may be thinking that if the water is in a tighter space, the pressure should increase. Well, it does, but not the pressure within the fluid. The pressure increase is experienced by whatever is surrounding the fluid. In fact, it's this change in pressure that actually causes the fluid to change speed, not the other way around.
+ - It might help to think of a traveling fluid in terms of streamlines. These are imaginary lines that represent the path of fluid particles. Streamlines are far apart when the area surrounding the fluid is wide. But when the area becomes narrow, the streamlines are pushed together, decreasing the pressure in the fluid and increasing its speed.
+ - We can apply the idea of fluid streamlines to all sorts of situations. Since both liquids and gases are fluids, we can apply Bernoulli's principle to things like air as well as water.
+ - However, there are some caveats attached to these fluids that make them 'ideal.' Fluid dynamics is a very complex subject, and we don't even fully understand some of the ways that fluids move. So we have to make a few assumptions to create an 'ideal' fluid that allows us to understand its movement.
+
+
+#### Bernoulli's Equation
+ - First we assume that the fluid is incompressible, meaning that its density doesn't change. Second, we assume that the fluid is non-viscous, meaning that there is no resistance to the fluid's movement. Finally, we assume that the flow is laminar, which means that it is steady and constant. It would be quite difficult if we tried to work with a fluid that was moving around erratically on us.
+ - We can neatly package the concept of fluid conservation in Bernoulli's equation, which relates pressure, speed, and height at any two points within an ideal fluid.
+ - $P1 + ½ ρv1^2 + ρgh1 = P2 + ½ ρv2^2 + ρgh2$
+
+#### Torricelli's Theorem
+ - When you watch the weather report at night, you get lots of valuable information, like the high and low temperatures, the chance of rain, and the barometric pressure. This last one we have thanks to a man named Evangelista Torricelli, who was quite the scientist! Not only did he invent the mercury barometer, which measures atmospheric pressure, but he also was the first to correctly describe what causes wind, as well as designed and built some telescopes and microscopes.
+ - Torricelli was interested in many different aspects of mathematics and physics. One of his greatest achievements is Torricelli's theorem. This theorem, or law, describes a relationship between fluid leaving a hole in a container and the height of the fluid in that container.
+ - The relationship can be summed up this way: if you have a tank of fluid and there is a small hole in the bottom of the tank, the fluid will leave through that hole with the same velocity as it would experience if you dropped it from the same height to the level of the hole.
+ - That doesn't really sound like a summary, does it? In its simplest form, what this means is that if you dropped the fluid from a certain height h, the fluid would have a certain velocity v as it fell from that height to the hole. What's cool is that this v is the same velocity at which the fluid leaves the hole in the container when the height of the fluid h is the same as if you dropped the fluid in the container.
+ - We can see how the velocity of the fluid leaving the hole relates to the height of the fluid in the container if we look at a simple experiment with a can of water. If you fill a can with water and you punch a small hole near the top, some water will come out of that hole at a certain velocity.
+ - If you punch a hole a little further down, the water will come out of that hole with an even greater velocity because it is lower in the fluid, which is the same as saying that there is a greater height of fluid above that hole. Punch a hole all the way down at the bottom, and it will spout out with an even greater velocity because now there is a much greater height of fluid above it.
+ - ![Alt text](https://study.com/cimages/multimages/16/toricelli_theorem.png)
+ - Since we're doing physics, you've probably already guessed that Torricelli's theorem can also be written as an equation. We write it as: v = √(2gh), where v is the velocity of the fluid, g is the acceleration due to gravity (9.8 m/s^2), and h is the height of the fluid in the container. Since 2 is a constant, and g is always 9.8 m/s^2, if we want to determine the velocity of the fluid coming out of a hole in the container, all we need is the height of that fluid above the hole.
+
+![Alt text](Media/fluid_mechanics_feb17.png)
