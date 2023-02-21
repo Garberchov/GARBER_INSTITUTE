@@ -23,4 +23,4 @@
  ![](https://study.com/cimages/multimages/16/graphdifferencequotient2.jpg)
  - Because we have moved beyond algebra now, we leave the x and h variables as they are. When we plug these points into our formula, we keep them as they are. We won't be replacing them with numbers. We will expect to get an answer that most likely will have these variables in it. Sometimes, our answer will work out so that we get a nice number, but most times you will get an answer with variables in it. So, as long as you keep your like terms together, you will be okay.
 
-![](Media/ch12rationalfunctions.png)
+![Alt text](Media/polar_coords_parameterizations.png)
