@@ -34,3 +34,20 @@
  - ![Alt text](https://study.com/cimages/multimages/16/example-voltage-equation.jpg)
 
 ![Alt text](Media/potential_capacitance2.png)
+
+#### Voltage Sources
+ - Voltage is the potential of a group of charged particles to do work in a circuit. In practical terms, this means that electrons at a higher voltage will spin a motor faster than electrons at a lower voltage.Voltage acts a lot like pressure in a water pipe, pushing more electrons.
+ - Batteries have two electrodes, and in between them is a chemical reaction that produces electrons. The electrons flow from the negative electrode to the positive electrode, and this flow of electrons is called current. In order to continue the flow, we must continue the flow by running a wire from the positive electrode back to the negative, and along the way we can do useful work by lighting a light bulb or running a motor. 
+ - These voltage sources can be used for many things, one of which is electro-magnetic induction which is the ability of a changing magnetic field to exert force on charged particles.
+
+#### Capacitance
+ - Capacitors are an electric device relatively few people know about. But that might be considered surprising, particularly when you realize that practically every electronic device will contain capacitors of some kind. A capacitor is a component that stores charge (stores electrical energy) until it gets full and then releases it in a burst.
+ - Capacitors really are used everywhere: from computers to televisions to high-band pass filters to car starters. Almost every electronic device you use contains capacitors. And the title of this lesson: capacitance is a measure of a capacitor's ability to store charge, measured in farads; a capacitor with a larger capacitance will store more charge.
+ - The definition of capacitance is given by this equation: capacitance C, measured in farads, equals charge Q, measured in coulombs, divided by voltage V, measured in volts. So, for example, if you connect a 12V battery to a capacitor, and that battery charges the capacitor with 4 coulombs of charge, it must have a capacitance of 4/12, which is 0.33 farads.
+ - ![Alt text](https://study.com/cimages/multimages/16/c2f7ded3-1d8d-4c32-8200-bb888aba671f_firstequation.jpg)
+ - If the capacitor had a higher capacitance, it would store more charge when connected to the same battery. Because of this equation, we can see that capacitance is, therefore, measured in coulombs per volt. So, it represents how many coulombs of charge will be stored in a capacitor per volt you put across it.
+ - Okay, but what physically makes a particular capacitor actually have a different capacitance? What decides how much charge it stores? Well, that's based on the actual physical characteristics of the capacitor. So, we have another equation for capacitance that looks like this:
+ - The capacitance of a parallel plate capacitor, a simple capacitor that is just two parallel plates separated by a distance, d, is equal to the relative permittivity of the material between the places, K, multiplied by the permittivity of free space, epsilon-zero, which is always equal to 8.854 * 10^-12, multiplied by the area of the plates, A, measured in meters squared, divided by the distance between the places, d, measured in meters.
+ - ![Alt text](https://study.com/cimages/multimages/16/capacitanceeq.jpg)
+ - Most of that is pretty self-explanatory, but K, the relative permittivity of the so-called 'dielectric' material between the plates is generally either equal to 1 or larger. If there's nothing between the plates, K = 1; if it's air between the plates, then K is pretty much still equal to 1; and if it's a different material, it will be a number greater than one, depending on the exact material.
+
