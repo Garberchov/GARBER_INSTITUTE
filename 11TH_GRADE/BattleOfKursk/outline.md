@@ -19,3 +19,8 @@
  - Talk about how the Soviets were continually bringing in new forces, including from the Steppe front.
  - Talk about the relative local air superiority of the Germans and the general air superiority of the Soviets.
  - Talk about the quantity of artillery, and the quantity of suppressive fire that was being put down by Soviet forces farther back.
+ - Finish the battle phase by talking about how while the Germans made some progress in the South, continued Soviet reinforcements and non-stop "pinning" attacks on the flanks held the German forces from concerting their forces for a total breakthrough. 
+
+# The Aftermath
+ - Talk about Hitler's decision to halt the offensive and try and regroup, and the Soviet's counteroffensive across the entire front.
+ - Talk about why the Soviet offensive wasn't more effective in both the North and South, and the German losses that did occur in these counteroffensives.
