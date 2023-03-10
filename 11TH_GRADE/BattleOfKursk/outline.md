@@ -4,6 +4,8 @@
 
 # Introduction
  - State what led to the establishment of the Kursk Salient, notably the Battle of Stalingrad and the following Soviet offensive: Operation Uranus. This was then followed by a German counteroffensive led by General von Manstein, leading to the victory at Kharkov and the establishment of a massive bulge in the German front line around the city of Kursk.
+
+# Thesis:
  - State what is different about Glantz's book compared to other books on the subject. Glantz's book more heavily focuses on the analytical, top down approach to the battle, whereas other books narrate the battle from the combined perspectives of individuals to form a coherent narrative. Glantz goes out of his way to debunk popular narratives of the battle, both relating to its importance and the role of individual events in its outcome.
 
 # The Preparation Phase
@@ -24,3 +26,4 @@
 # The Aftermath
  - Talk about Hitler's decision to halt the offensive and try and regroup, and the Soviet's counteroffensive across the entire front.
  - Talk about why the Soviet offensive wasn't more effective in both the North and South, and the German losses that did occur in these counteroffensives.
+ - Finish by talking about the long term impacts on German morale, equipment and manpower, and the Soviet's ability to thoroughly defeat the Germans in a defensive battle for the first time in the war and how this changed the psyche of both the German and Soviet armies.
