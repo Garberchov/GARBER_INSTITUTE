@@ -22,3 +22,22 @@
  - On the other hand, the resistance of a wire decreases as its diameter gets larger because the electrons have more cross-sectional area to move through, which decreases the chance of collisions. When the temperature of a conductor is increased, the atoms start to vibrate from the added heat energy. They move ever so slightly in all directions, causing more collisions to occur with the free electrons trying to get by. As the temperature rises, so does the size of the vibrations and therefore the number of collisions.
 
 ![Alt text](Media/direct_current_circuits.png)
+
+#### Parallel Circuits
+ - Circuits come in two basic forms. The first is a series circuit, which connects devices in series. This type of circuit provides a single pathway for electron movement. The second type is a parallel circuit, which connects devices along branched pathways. This type of circuit provides separate paths for the electrons to flow. 
+ - Parallel circuits get their name because the devices along the circuit are connected in parallel. This is like having multiple X-ray screening stations in the same airport terminal. The line initially begins as single-file, but then breaks into multiple, separate lines as you go through your X-ray machine of choice. Others behind you may choose to go through a different X-ray machine, and the number of lines that form depends on how many machines are open. After going through the X-ray machine, everyone merges back together into the same line and continues along the path to their gate.
+ - Just as each X-ray machine line is independent of the others, the devices in a parallel circuit are also independent of each other. Think about it: if the next line over moves more slowly than yours, it has no effect on how quickly or slowly your lines moves. The same is true for parallel circuit branches. And because of this independence, while the total current in the circuit is divided among the parallel branches, the amount of current in each branch is specifically related to the amount of resistance in that branch.
+ - ![Alt text](https://study.com/cimages/multimages/16/parallel_circuits1.png)
+ - The resistance comes from the device itself and is an opposition to electron movement through the device. Because resistance opposes the movement of current, the amount of current in each branch is inversely proportional to the resistance of that branch.
+ - The more resistance in an individual branch, the more opposition the current faces as it travels through. But, as the number of branches is increased, the overall resistance of the circuit is decreased. This makes sense as the total potential throughput of the circuit is increased. The more branches you have, the more current can flow through the circuit.
+
+#### Resistor Capacitor (RC) Circuits:
+ - RC circuits are really cool because instead of a steady flow of current, an RC circuit is one in which the current varies over time.
+ - The circuit has a battery, a capacitor, a resistor, and a switch that opens and closes the circuit. When the switch is open there is no current flowing through the circuit so the capacitor does not discharge to the resistor.
+ - If we close the switch and complete the circuit, this allows current to flow and the capacitor to discharge through the resistor.
+ - What's key here is that the discharge of the capacitor is not linear, it's exponential. This means that while the rate of decay is constant, the amount of decay is proportional to its current value and changes over time.
+ - ![Alt text](https://study.com/cimages/multimages/16/7397635c-d877-4562-b382-fe723b8800b6_untitled.png)
+ - We call the rate of decay of current and voltage the time of decay. This value is represented by the constant τ, which is equal to R*C and is measured in seconds.
+ - This time constant tells you a lot about how charging or discharging will occur in an RC circuit. For example, if you have a large capacitor that can hold more charge, it will take a longer time to charge or discharge it so your time constant τ = R*C will be larger. On the other hand, if your time constant τ = R*C is smaller, this means that you have a faster decay.
+ - The two sides of the equation are proportional. This means that when one component increases, say the resistance or the capacitance, the other side, the time decay, must increase as well to keep both sides equal. Likewise, if the capacitance or resistance decreases, the decay rate will as well.
+
