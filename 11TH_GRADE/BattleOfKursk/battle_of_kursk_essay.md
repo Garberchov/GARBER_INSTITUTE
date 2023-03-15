@@ -1,0 +1,6 @@
+### Andrew Garber
+### 11th Grade
+### March 15 2023
+### The Battle Of Kursk by David Glantz Book Report
+
+The "Battle of Kursk" by David Glantz is an in-depth look at the greater political, strategic and operational context of the Battle of Kursk in 1943, an essential turning point in the Eastern Front of World War II. Glantz's look at the battle is unique in that it is not a narrative history, telling the story of the battle from the perspective of those on the ground and stitching them together into a coherent narrative. Instead, Glantz takes an analytical approach to the battle, looking at the battle from the top down and analyzing the different combatants's actions and decisions. This approach allows Glantz to provide a more comprehensive look at the battle, and to achieve a more nuanced view of the battle and the considerations that went into it. In this approach, Glantz goes out of his way to debunk many of the myths and misconceptions that have grown up around the battle, challenging popular narratives around reasons for the attack, why the Soviets won, and the role of individual actions across the front.  
