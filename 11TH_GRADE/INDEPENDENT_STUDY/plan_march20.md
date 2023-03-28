@@ -7,5 +7,7 @@
  - 3d. Refine terminology based on reading.
  - 3e. Benchmark: 
  - 3e-1: Provide greater clarity in the next update for prompt to better define objective goals, and the scope of the paper. - Sunday March 26.
+    - Terminology: Change "total global integratio" to "global governance", or "Single Global Government" - to better define the scope of the paper as political, social, and economic instead of the process of integration.
+    - Objective Goals: The goal should not be to hypothesize a scenario that would LEAD to the formation of a Single Global Nation, the goal is to use historical context and political thought from a variety of sources to imagine potential pitfalls and design a system that a global government could use. Keeping in mind the practical realities of such unparalleled potential global cohesion, the social, economic and political impacts of free-trade and free movement should be examined.
  - 3e-2: Provide FIRST submission of potential sourcing information - to include bibliographic information, a summary of content & context towards highlighting the BROAD  - thesis. - Sunday April 2
  - 3e-3: Provide a first BROAD outline of the structure of the paper. Ex: Section 1: World today. A- geopolitical divisions etc- Sunday april 9
