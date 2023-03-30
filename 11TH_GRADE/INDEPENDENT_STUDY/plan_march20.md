@@ -11,3 +11,26 @@
     - Objective Goals: The goal should not be to hypothesize a scenario that would LEAD to the formation of a Single Global Nation, the goal is to use historical context and political thought from a variety of sources to imagine potential pitfalls and design a system that a global government could use. Keeping in mind the practical realities of such unparalleled potential global cohesion, the social, economic and political impacts of free-trade and free movement should be examined.
  - 3e-2: Provide FIRST submission of potential sourcing information - to include bibliographic information, a summary of content & context towards highlighting the BROAD  - thesis. - Sunday April 2
  - 3e-3: Provide a first BROAD outline of the structure of the paper. Ex: Section 1: World today. A- geopolitical divisions etc- Sunday april 9
+
+Updated March 30 2023:
+
+I actually like "Integration" bc it keeps in mind / in check the concept of the various points we'd have to move from / incorporate to make the blending work.   The purpose (I think)  that you want to EXPLORE is: GLOBAL INTEGRATION OF GEOPOLITICAL BOUNDARIES as a model for PEACEFUL, EFFICIENT, RESPECTFUL GOVERNANCE.  Something in this?? 
+
+-=-- I don't want you to fall into the trap of devising any Utopia and backfill with examples of why individual "states" fail compared to that model.  (IN THIS - YOUR REVISED COMMENTARY IS CORRECT/GOOD/VALID TO MOVE ON) -- " The goal should not be to hypothesize a scenario that would LEAD to the formation of a Single Global Nation, the goal is to use historical context and political thought from a variety of sources to imagine potential pitfalls and design a system that a global government could use"   
+
+--- We want to stay away from being too simplistic or "surface" in your deep dive.  
+
+--- In this - as you said below - requires an examination not of a place that does not (yet?) exist - but of a breakdown (*how is this accomplished) of geographic borders (CASE STUDIES -- 1 OR 2? POST-CZECHOSLOVAKIA? US / SPAIN / FRANCE 18TH/19TH CENTURY? AFRICA?), the elements that would have to exist for a single "world government" -- (HOW ARE GOVERNMENT CHARTERS CREATED? WHAT DO WE DO ABOUT LANGUAGE? HOW ARE LEADERS SELECTED? HOW IS VOTING APPORTIONED? WHAT KIND OF CASE STUDIES / RESOURCES TO PULL ON ... PHILOSOPHICAL THINKING? HOW DOES THE UN AS A MODEL -FROM ITS CREATION TO ITS CURRENT GLOBAL ROLE-- SERVE TO HELP/HINDER/SUPPORT/DETRACT FROM THE IDEA?) 
+
+--- Similarly this for sure isn't a "Geographic, cultural & political" 3 pronged paper.    You MIGHT start VERY BROADLY with this as you start an outline draft but a lot of meat in the details here (see below) 
+
+---- "Keeping in mind the practical realities of such unparalleled potential global cohesion, the social, economic and political impacts of free-trade and free movement should be examined."   For sure.  Do we still have cheap labor in Vietnam and what does that do (or not) to their governmental standing? 
+
+--- Other pieces of the puzzle to consider / determine what to include... May be: 
+SOCIOLOGICAL DYNAMICS:  POPULATION GROWTH/DECLINE, HEALTH & WELL BEING GEOGRAPHICALLY, DISPLACED POPULATIONS, "LESSER" RECOGNIZED CULTURAL FACTIONS AS HAVING A ROLE IN GOVERNMENT? (AMERICAN INDIANS? PUERTO RICANS!?, ROHENGA? TIBETANS?) 
+FINANCES  - 
+RELIGION / CULTURAL RESPECT / 
+HISTORICAL PRESERVATION - doesn't where we (all) came from have a place in the future construct - how to preserve that? 
+
+3e-2: Provide FIRST submission of potential sourcing information - to include bibliographic information, a summary of content & context towards highlighting the BROAD thesis. - Sunday April 2 **REVISED TO APRIL 10-12.  *Delays, holiday etc.) 
+3e-3: Provide a first BROAD outline of the structure of the paper. Ex: Section 1: World today. A- geopolitical divisions etc- Sunday april 9  REVISED TO APRIL 19. 
