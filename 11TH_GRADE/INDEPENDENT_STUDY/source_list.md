@@ -5,7 +5,7 @@
 
 
  - Bismarck: A Life by Jonathan Steinberg
-    - Notes:
+    - Notes: Bismarck was a foundational pillar of 19th(and early 20th) century political change, and fundamentally reworte the map of Europe through Prussian expansion. 
  - [Declaration of St James Palace](https://avalon.law.yale.edu/imt/imtjames.asp)
     - Notes:
  - [UN CHARTER](https://www.un.org/en/about-us/un-charter/full-text)
