@@ -34,3 +34,5 @@ HISTORICAL PRESERVATION - doesn't where we (all) came from have a place in the f
 
 3e-2: Provide FIRST submission of potential sourcing information - to include bibliographic information, a summary of content & context towards highlighting the BROAD thesis. - Sunday April 2 **REVISED TO APRIL 10-12.  *Delays, holiday etc.) 
 3e-3: Provide a first BROAD outline of the structure of the paper. Ex: Section 1: World today. A- geopolitical divisions etc- Sunday april 9  REVISED TO APRIL 19. 
+
+Update May 16: 3e-2 and 3e-3 didn't happen due to preparation for AP tests. Both will be submitted soon.

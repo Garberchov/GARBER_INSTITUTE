@@ -5,7 +5,7 @@
 
 
  - Bismarck: A Life by Jonathan Steinberg
-    - Notes: Bismarck was a foundational pillar of 19th(and early 20th) century political change, and fundamentally rewrote the map of Europe through Prussian expansion. 
+    - Notes: Bismarck was a foundational pillar of 19th(and early 20th) century political change, and fundamentally rewrote the map of Europe through Prussian expansion. His changes to the governance of Germany, under the Prussian Empire, deserves note for how it integrated states into a combined federal system with overarching 'departments' out of what were independent states.
  - [Declaration of St James Palace](https://avalon.law.yale.edu/imt/imtjames.asp)
     - Notes: A joint statement by the representatives of 26 nations(known as the United Nations, or Allies in WWII). It outlined the goals of the Allies in the war, and was the first step towards the creation of the United Nations. The signatories of the declaration pledged to work together to defeat the Axis powers, which included Germany, Japan, and Italy(along with lesser powers like Romania, Bulgaria, Hungary, and Slovakia - despite them not being named.), and to uphold the principles of the Atlantic Charter, which was issued by the United States and Great Britain a few months later in August 1941. The declaration also condemned the Axis powers' aggression and emphasized the importance of protecting freedom, democracy, and human rights.
  - [UN CHARTER](https://www.un.org/en/about-us/un-charter/full-text)
