@@ -42,6 +42,8 @@
  - #### [(Study.com)](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html) Precalculus: A
  - #### [(Duolingo)](https://www.duolingo.com/enroll/it/en/Learn-Italian) Italian: A+
  - #### [(Arizona State University)]() Macroeconomic Principles: B
- - ####
- - ####
- - ####
+ - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 2: Completed
+ - #### [(Study.com)](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html) Philosophy 101: Completed
+   - 1. Prominent Examples: [Marcus Aurelius, Meditations, And Stoicism](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/Philosophy_101/Writing/marcus_aurelius_revision.md)
+ - #### [Battle of Kursk By David Glantz, Book Report: Completed](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/BattleOfKursk/battle_of_kursk_essay.md)
+

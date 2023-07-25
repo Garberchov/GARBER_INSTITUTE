@@ -28,7 +28,7 @@
 
 #### **What isn't strictly relevant, and thus will be ignored.**
  - This isn't a paper about the potential scenario that led to a singular global nation - that would be a fiction novel, which while interesting isn't in accordance with the discussion at hand.
- - A discussion of military matters - a potential command structure, and even the need for a military at all with a unified world - is not relevant to the discussion of political and economic structures, and will be studiously ignored.
+ - A discussion of military matters - a potential command structure, and even the need for a military at all with a unified world - is not relevant to the discussion of political and economic structures, and will be studiously ignored. For that reason, military expenditures will not be calculated into potential taxation schemes as costs for the government. This is not an endoresement or refutation of a non-military state, it is simply outside the scope of the paper.
 
 #### **Preconditions**
  - For the purposes of the paper, some preconditions are necessary to be assumed, as they are not the focus of the paper, and going into depth about how each of them came about would once more be a fiction novel.
@@ -41,7 +41,7 @@
 #### **Main Topics**
  - What are the relative merits of different political systems throough economic, political, cultural and developmental lenses. This should be done through case studies on nations that have adopted different political and economic systems, and how they have fared relatively with them. A determination can then be made whether that specific system would be a good fit for a singular global nation, or why it is inadequate for the purposes of such an expansive nation. An example of this would be why Switzerland isn't a member of the EU, but is a member of the Shengen Area, and why the structure of a global nation would be better for Switzerland than the EU.
  - ##### **Economic**
-   - How would the relative numerical superiority of the less wealthy areas of the global nation be balanced with the wealthy, but numerically inferiority of the wealthies areas. 
+   - How would the relative numerical superiority of the less wealthy areas of the global nation be balanced with the wealthy, but numerical inferiority of the wealthies areas. 
    - How would representation be alloted to ensure that the wealth of the wealthy areas is not drained to the less wealthy areas, while still ensuring that the less wealthy areas are able to develop and grow with the help of the wealthy areas?
    - Is a short term "tax", a wealth drain effectively, on the wealthiest areas to bring the less wealthy areas up to a certain standard of living, necessary to ensure stability and equal representation in the long term?
    - How would a second "rape of Africa" be prevented, where the resources of the less wealthy areas are sucked out by multinational corporations, as well as a mass "brain-drain" of the most educated and skilled people from the less wealthy areas to the wealthy areas? 
