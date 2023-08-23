@@ -36,6 +36,7 @@
  - #### [(Study.com)](https://study.com/academy/course/political-science-course.html) Political Science 101: B+
 	- [**Syllabus**](https://study.com/academy/course/political-science-course.html#/information)
     - 1. Prominent Examples: [The Apportionment of Power to the Federal Government](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/POLI_SCI/Writing_Assignments/Federal_government_power_apportionment.md)
+	- 2. Prominnet Examples: [Types of Government Summary Session](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/POLI_SCI/types_of_government_summary_session.md)
  - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 1: B-
 	- [**Syllabus**](https://study.com/academy/course/intro-to-physics-course.html#/overview)
  - #### [(Study.com)](https://study.com/academy/course/ap-us-history-homeschool-curriculum.html) AP U.S. History: A+
@@ -48,7 +49,7 @@
  - #### [(Arizona State University)]() Macroeconomic Principles: B
  - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 2: Completed
 	- [**Syllabus**](https://study.com/academy/course/ap-physics-2-homeschool-curriculum.html#/information)
- - #### [(Study.com)](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html) Philosophy 101: Completed
+ - #### [(Study.com)](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html) Philosophy 101: B
 	- [**Syllabus**](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html#/information)
     - 1. Prominent Examples: [Marcus Aurelius, Meditations, And Stoicism](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/Philosophy_101/Writing/marcus_aurelius_revision.md)
  - #### [(Study.com)](https://study.com/academy/course/ap-european-history-homeschool-curriculum.html) AP European History: Completed
