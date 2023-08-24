@@ -46,7 +46,7 @@
  - #### [(Study.com)](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html) Precalculus: A
 	- [**Syllabus**](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html#/information)
  - #### [(Duolingo)](https://www.duolingo.com/enroll/it/en/Learn-Italian) Italian: A+
- - #### [(Arizona State University)]() Macroeconomic Principles: B
+ - #### [(Arizona State University)]() Macroeconomic Principles: B | 3 Credits
  - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 2: Completed
 	- [**Syllabus**](https://study.com/academy/course/ap-physics-2-homeschool-curriculum.html#/information)
  - #### [(Study.com)](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html) Philosophy 101: B
