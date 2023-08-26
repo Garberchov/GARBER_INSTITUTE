@@ -45,9 +45,9 @@
     - 2. Prominent Examples: [Effectiveness of the Monroe Doctrine](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/AP_US_HISTORY/monroe_doctrine_effectivness.md)
  - #### [(Study.com)](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html) Precalculus: A | 5 Credits
 	- [**Syllabus**](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html#/information)
- - #### [(Duolingo)](https://www.duolingo.com/enroll/it/en/Learn-Italian) Italian: A+ | 2.5 Credits
- - #### [(Arizona State University)]() Macroeconomic Principles: B | ? Credits
- - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 2: Completed | 5 Credits
+ - #### [(Duolingo)](https://www.duolingo.com/enroll/it/en/Learn-Italian) Italian: A+
+ - #### [(Arizona State University)]() Macroeconomic Principles: B | 3 Credits
+ - #### [(Study.com)](https://study.com/academy/course/intro-to-physics-course.html) AP Physics 2: Completed
 	- [**Syllabus**](https://study.com/academy/course/ap-physics-2-homeschool-curriculum.html#/information)
  - #### [(Study.com)](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html) Philosophy 101: B | 2.5 Credits
 	- [**Syllabus**](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html#/information)
