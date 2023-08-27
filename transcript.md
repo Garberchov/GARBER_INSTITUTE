@@ -53,7 +53,6 @@
 	- [**Syllabus**](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html#/information)
     - 1. Prominent Examples: [Marcus Aurelius, Meditations, And Stoicism](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/Philosophy_101/Writing/marcus_aurelius_revision.md)
  - #### [(Study.com)](https://study.com/academy/course/ap-european-history-homeschool-curriculum.html) AP European History: Completed | 5 Credits
-	- *Note: This course was largely done during the time of AP studying, thus the lack of writing assignments. In addition, I signed up for this course too late to actually take the AP test for it, so it was done simply for learning's sake.*
 	- [**Syllabus**](https://study.com/academy/course/ap-european-history-homeschool-curriculum.html#/information)
  - #### [Battle of Kursk By David Glantz, Book Report: Completed](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/BattleOfKursk/battle_of_kursk_essay.md)
 
