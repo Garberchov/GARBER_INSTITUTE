@@ -3,6 +3,9 @@
 - **Italian**(Foreign Language): [Duolingo](https://www.duolingo.com/learn)
 - **Science**: [AP Environmental Science](https://study.com/academy/course/ap-environmental-science.html)
 - [**Independent Study**](https://github.com/Garberchov/GARBER_INSTITUTE/tree/main/INDEPENDENT_STUDY)
+- **Political Science** - Starts September 12: [Critical Thinking and Politics with Dr. Hall](https://outschool.com/classes/critical-thinking-and-politics-12-week-version-u0UQhIxk)
+- **Psychology** - Starts September 12: [Behaviorism, Mental Make-up, & Personality Studies with Dr. Kai Kafferly](https://outschool.com/classes/behaviorism-mental-make-up-personality-studies-psychology-for-teens-XHo7w7LN)
+- **World Geography** - Starts September 6 [World Geography](https://outschool.com/classes/world-geography-part-1-i-full-semester-NWeZhMQQ)
 - **History:**: [CLEP Western Civilization 1 Study.com](https://study.com/academy/course/clep-western-civilization-i-course.html), [CLEP Western Civilization 2 Study.com](https://study.com/academy/course/clep-western-civilization-ii-study-guide-test-prep.html)
 	- Western Civilization 1/2:
 		1. Biweekly Summary Sessions on Topic of Interest/Importance in lessons during that time.
@@ -33,9 +36,3 @@
 			2. Essay on the importance of philosophical and educational guardianship, and how an educated 
 			3. Essay on the Role of Women in society, and their role in the ideal state. 
 			4. 2 Summary Sessions throughout the reading to summarize the major events, themes, and symbolism of the story to that point.
-----
-##### Can pick from these as OPTIONS - All are live, and all would be really great additions to the curriculum
-
-- **Political Science** - Starts September 12: [Critical Thinking and Politics with Dr. Hall](https://outschool.com/classes/critical-thinking-and-politics-12-week-version-u0UQhIxk)
-- **Psychology** - Starts September 12: [Behaviorism, Mental Make-up, & Personality Studies with Dr. Kai Kafferly](https://outschool.com/classes/behaviorism-mental-make-up-personality-studies-psychology-for-teens-XHo7w7LN)
-- **World Geography** - Starts September 6 [World Geography](https://outschool.com/classes/world-geography-part-1-i-full-semester-NWeZhMQQ)
