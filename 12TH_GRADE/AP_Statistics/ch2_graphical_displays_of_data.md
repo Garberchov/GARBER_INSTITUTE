@@ -30,4 +30,26 @@
     - Can be seen without histogram axes.
     - Have end points that can be extended to make axis lines.
     - Can be used for area comparisons.
- - 
+
+#### 2.8. Creating and Interpreting Box Plots
+ - A box plot is a graphical representation of the distribution in a data set using quartiles, minimum and maximum values on a number line.
+ - A quartile is exactly what it sounds like from its root word, quarter. A quartile is a quarter of a data set.
+ - The interquartile range is the value that is the difference between the upper quartile value and the lower quartile value.
+ - The median is the middle value of a data set.
+
+#### 2.9. Bar Graphs and Pie Charts
+ - When reading a bar graph, it's important to pay attention to the intervals used on the frequency data axis. An interval is the amount of data that occurs between each section or tick mark.
+ - A pie chart displays its data in sectors, which are parts of the circle and are proportional to the other parts displayed in the graph. Pie chart values are represented by percentages, with each chart representing 100%. 
+
+#### 2.10. Making Arguments and Predictions from Univariate Data
+ - Univariate data is one variable in a data set that is analyzed to describe a scenario or experiment. Sales of a product, for example, would be univariate data.
+ - The measures of central tendency are the mathematical concepts that measure the single value that attempts to describe the data set in its entirety. The most common types of measures of central tendency are the mean, median, and the mode. 
+
+
+#### 2.12. Joint, Marginal, and Conditional Frequencies
+ - When analyzing data in a two-way frequency table, you will be looking for joint relative frequency, which is the ratio of the frequency in a particular category and the total number of data values.
+ - This is called joint frequency because you are joining one variable from the row and one variable from the column.
+ - When analyzing data in a two-way frequency table, you will be looking for marginal relative frequency, which is the ratio of the sum of the joint relative frequency in a row or column and the total number of data values.
+ - Conditional relative frequency numbers are the ratio of a joint relative frequency and related marginal relative frequency. 
+
+ ![Alt text](Media/September12_Statistics_GraphicalDisplays.png)
