@@ -11,4 +11,4 @@
  - Mean: defined as the data's average score of the sample
  - Median: defined as the middle score after the scores have been arranged in numerical order 
  - Mode: defined as the most often occurring value
- - 
+
