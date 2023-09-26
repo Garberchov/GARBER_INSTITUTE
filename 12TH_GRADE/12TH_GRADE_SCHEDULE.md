@@ -27,12 +27,12 @@
 			2. Essay on the economic philosophy of Ayn Rand, and specifically how it crops up in "Atlas Shrugged" - in which Rand strongly critiques Government Intervention in the free market. Exploration of the novel's stance on free-market capitalism and its potential impact on societal progress.
 			3. Essay on the Dichotomy of those Rand describes as "Producers" and "Looters", and how these ideas coincide with the focus on creativity and innovation that is prevalent throughout the novel.
 			4. Summary Session to summarize the story's major events, themes, and symbolism to that point.
-		- #### Brave New World
+		- #### Brave New World by Aldous Huxley
 			1. Essay on the novel's portrayal of a dystopian society, and the role that technology plays in this, specifically in shaping society's values. 
 			2. Essay on the tension between those who embody conformity and those who strive for individualism.
 			3. 2 Summary Sessions throughout the reading to summarize the major events, themes, and symbolism of the story to that point.
 		- #### The Republic by Plato
 			1. Essay on Justice and the Ideal State, and specifically the different roles within that ideal state. 
-			2. Essay on the importance of philosophical and educational guardianship, and how an educated 
+			2. Essay on the importance of philosophical and educational guardianship, and how an educated population is necessary.
 			3. Essay on the Role of Women in society, and their role in the ideal state. 
 			4. 2 Summary Sessions throughout the reading to summarize the major events, themes, and symbolism of the story to that point.
