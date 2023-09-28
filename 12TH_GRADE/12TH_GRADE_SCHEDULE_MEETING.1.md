@@ -37,4 +37,4 @@
     - Essay: The original theme of *The Republic* is the nature of justice. Describe three conceptions of justice presented in the text, and explain Socrates' parallels between justice in the individual and justice in society/the state. Which of these conceptions of justice do you find most compelling? Why? Where does each fail?
 
 #### Independent Study:
- - TBD
+ - On track, need first outline due by end of next week.
