@@ -11,3 +11,19 @@
     - Quota sample: a researcher deliberately sets a requirement to ensure a particular group is represented.
     - Purposive sample: a researcher purposefully focuses on a particular subset of a population.
     - Convenience sample: selection of the sample is based on ease of accessibility.
+
+#### 6.2. Variance
+ - Variance is the measure of how spread out a set of data is. It is calculated by taking the average of the squared differences from the mean.
+ - The formula of population variance is sigma squared equals the sum of x minus the mean squared divided by n.
+ - ![Alt text](https://study.com/cimages/multimages/16/variance_formula.png)
+ - Or in text form, $$\sigma^2 = \frac{\sum_(x - \mu)^2}{n}$$
+ - The steps are actually quite simple:
+      - Find the mean of the set of data.
+      - Subtract each number from the mean.
+      - Square the result.
+      - Add the results together.
+      - Divide by the number of items in the set.
+ - The formula for sample variance looks like this: 
+ - ![Alt text](https://study.com/cimages/multimages/16/sample_variance_formula.png)
+ - step 5 for sample variance is slightly different. Divide the result by the total number of numbers in the data set minus one.
+ - Remember that a sample is only part of the population and isn't actually the whole picture. Because of that, statisticians found a way to compensate, by subtracting one from the total number of numbers in the data set.
