@@ -39,7 +39,7 @@ III.2: How would the numerically greater but significantly poorer areas of the w
       - III.2.a.b.i: Case Study on the failures of foreign aid in Africa, and how the world government would have to avoid these failures.
  - III.2.b: How would the world government ensure that the poorer areas of the world are not exploited by the richer areas of the world, or by large conglomerates in a second "rape of Africa"? Is this something that can be structurally built in and prevented, or must it be policed on a case-by-case basis?
  - III.2.c: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all? 
-   - III.2.c.i: Case Study on the "brain drain" from wealthy places like Ireland, and the "brain drain" from India to the United States.
+   - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and the "brain drain" from India to the United States.
 
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
@@ -47,6 +47,9 @@ III.3: Discussion of taxation structures, and how to balance them against huge r
 
 III.4. What would be the benefits of the elimination of trade barriers? What percentage of global GDP is lost to the frictions of trade barriers?
  - III.4.a: Zero-sum vs positive-sum games, and how the elimination of trade barriers would be a positive-sum game for the world as a whole.
+   - III.4.a.a: Friedman "Free to Choose".
  - III.4.b: German Zollverein, its benefits, and how it was a precursor to the even greater economic gains under German unification.
+   - III.4.b.a: Quotes from "Bismarck: A Life" by Jonathan Steinberg.
+   - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 
