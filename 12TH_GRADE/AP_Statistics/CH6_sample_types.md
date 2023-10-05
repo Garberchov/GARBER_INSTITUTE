@@ -56,3 +56,20 @@
  - Sometimes you won't have an entire list of the members of a population or you won't have access to an entire population. In this case, you can use cluster sampling to collect information from the groups in the population.
  - If you wanted to get information about an entire state or county, but you don't have access to all the members all across the state, you can use the towns or counties that are geographically convenient to collect data. This is another example of cluster sampling; each town or county would be a naturally occurring cluster.
 
+
+##### 6.7. Systemic Random Samples
+ - Systematic random sampling is the random sampling method that requires selecting samples based on a system of intervals in a numbered population. For example, one in every 10 people who enter a store are asked to fill out a survey.
+ - It is best to use systematic random sampling only if the population is homogeneous, or of the same subgroup. 
+ - The main benefits are that it is simple to use, and is unbiased.
+
+#### 6.8. Random vs Quota Sampling
+ - The most accurate way to obtain information for a large group of subjects is by using probability sampling, where samples are selected in such a way as to be representative of a population. When we say representative, we mean all the types of people we could expect to see living in that population.
+ - One of the most classic historical examples of a random sample bias was in the 1936 presidential election where Literary Digest predicted that Alfred Landon would beat future president Franklin Roosevelt. The survey sample suffered from undercoverage of low-income voters, who tended to be Democrats and were thus voting for Roosevelt. 
+ - Sometimes, poll or survey results are obtained using non-probability sampling methods, where those selected are not truly representative of a given population. In general, non-probability samples are less desirable than probability samples. However, a researcher may not be able to obtain a random sample because it may be too expensive, or a researcher may not care about generalizing to a larger population.
+ - In a quota sample, a researcher deliberately sets the proportions of levels of members chosen within the sample. This is generally done to ensure the inclusion of a particular segment of the population that may otherwise be overlooked. The researcher sets a quota, independent of population characteristics, so the proportions may differ from the actual proportion in the population.
+
+#### 6.9. The Law of Large Numbers
+ - The law of large numbers is a theorem that states that the larger your sample size, the closer the sample mean will be to the mean of the population. It is also called Bernoulli's Law after Jacob Bernoulli, a Swiss mathematician.
+ - More or less summarized, the law of large numbers is the idea that the more times you repeat an experiment, or the more samples you take, the average per sample bias will decrease - thus, an infinite number of samples will have no bias at all.
+ 
+ ![Alt text](Media/sample_types.oct5.png)
