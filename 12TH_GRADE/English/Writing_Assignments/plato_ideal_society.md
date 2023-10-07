@@ -16,4 +16,12 @@ The third class, the Producers, are simultaneously the lowest in view of their r
 
 In conclusion, the stratified society of Plato's Ideal Society is largely organized according to the philosophical and physical aptitude of the members of the society. The Guardians are the protectors from foreign threats, and the class where the Rulers of the society are drawn from, the Auxiliaries are in charge of the maintenance of public order, and the executors of the Guardians' will, and the Producers are the masses that make the society function. This systematization of society to optimize the human condition in the context of a society is a unique approach to the problem of maintaining the stability of a society, though not practical in the modern world. Nonetheless, Plato's Republic does offer the interesting ideal of a "Philosopher Ruler", a benchmark that is still well worth striving for in the modern world.
 
+## Grade:
+ Excellent work in answering the prompt clearly and without equivocation.  Pointed and clear. 
 
+Two notes:  
+1) check your grammar / structure:  no joke, you don't want to lose the reader with sentences that do not use the correct punctuation / prepositions etc -- it changes the way you read the work.  Commas are not the answer to everything - sometimes a well placed dash, semicolon or even breaking the sentence up into smaller sentences is the better choice for clarity. Silly spelling errors = lack of proofread.  In the same vein - repeated use of same word in a given sentence seems thoughtless ... World ....world.  Society ... society. Etc. 
+
+2) the Auxularies quote was relevant - but too large a section. The end was really what you could have used and blended the understanding of the earlier part into your text without direct attribution. 
+
+Overall, an A. Nice work! 
