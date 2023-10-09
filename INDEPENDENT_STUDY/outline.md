@@ -23,7 +23,7 @@ II.2: The UN - is it not a world government? Why not? Is it the foundation a glo
 II.3: The League of Nations - why did it fail? What can its lack of adoption, and lack of 'teeth' tell us about the pitfalls that must be avoided in a global government?
  - II.3.a: The necessity of soverignty, why a supernational entity won't work, and why a global government must be a single entity.
 
-## III: An Economic Structure for a Global Government
+## III: Consideration of Economic Structures for a Global Government
 
 III.1: What is the economic philosophy of the world government? How much intervention/interference does it have over the economy? 
  - III.1.a: Is it a free market, planned economy, or something in between? 
@@ -53,3 +53,32 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
    - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 
+
+## IV: Consideration of Political&Systemic Structures for a Global Government
+IV.1: [RELATED TO III.2] How would the political power of the numerically greater but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
+ - IV.1.a: Should greater per-person political power according to wealth be implemented? 
+ - IV.1.b: If not, how would large-scale redistribution efforts be prevented?
+ - IV.1.b.i: Point to new taxation structures in III.3
+
+IV.2: Hold-outs from before the Global Nation.
+ - IV.2.a: One of the preconditions was that the government structures of all of the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
+ - IV.2.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled?
+ - IV.2.c: How would patents and intellectual property be handled? If one person owns a patent in one country, and another person in another country, and they are now both a part of the Global Nation, who owns the sole rights to the patent? 
+
+IV.3: How would the education of those who had never had true education before be implemented?
+ - IV.3.a: Many of the less wealthy areas probably don't have the tax base to support a full education system, so it will have to be funded by the Global Nation. How would this be done? What kind of educational system would be implemented?
+
+IV.4: Inhernet Problems with the Global Nation
+ - IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less? 
+
+## V: Consideration of Cultural&Social Structures for a Global Government
+
+V.1: How does the political structure of the Global Nation prevent the dominance of a single culture, or the dominance of political entity on the lines of cultural identity, while still allowing for free expression?
+  - V.1.a: This question comes into play especially in the case of ethic or cultural groups starting to form political parties or entities for the sole benefit of their own group, instead of a party on ideological lines. Should this be prevented? If not, how would it be prevented from doing harm to the stability and freedom of the Global Nation while not infringing on the freedoms of the group?
+
+V.2. How would cultural checks and balances be made to allow for free expression of individuals, whilst preventing what might be seen as gross oppression in one culture and normal in another.
+ - V.2.a: This becomes a question of whether the Global Nation has a culturally reletavist or universalist philosophical view, and if so, how is it enforced. 
+  - V.2.a.i: For example, there is a belief from some Western Points of View that the Hijab that Muslim woman must wear is an afront to the self-determination and self-expression of that woman. How would the Global Nation handle this?
+  - V.2.a.i: In another example, should a certain age be mandated to wait until before you can accept a specifically religious or cultural practice? For example, should a child in the Christian faith be able to be baptized before they have a certain number of years of life experience?
+
+### VI: Conclusion
