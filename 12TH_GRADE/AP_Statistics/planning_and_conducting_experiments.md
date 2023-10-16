@@ -21,3 +21,16 @@
  - This leads into the third component, blinding. Blinding means you don't tell your participants whether they are receiving a placebo or not. 
  - The fourth component involves randomly choosing who receives a placebo and who doesn't. This way, you eliminate variables that you may not consciously think of. For example, if you hand pick who gets a placebo and who doesn't, you might subconsciously pick those that you feel are most likely to respond for the real treatment and those you don't think will respond for the placebo.
  - Lastly, the fifth component involves your sample size, the number of participants or test subjects in your experiment. You need your sample size to be large enough so you can confidently say that the results apply to a much larger population. 
+
+#### 8.3. What is a Control Group?
+ - A control group is a group that is representative of the population you are studying, but does not receive the treatment you are investigating. The control group is used as a baseline to compare the results of the experimental group to(you can measure the effect of the treatment by comparing the results of the experimental group to the control group).
+
+#### 8.5. Analyzing and Interpreting the Results of Randomized Experiments
+ - First, you'll need to understand how to organize your data for analysis. You will need to ask yourself a few questions about your experiment first:
+   - How is the independent variable being measured?
+   - How is the dependent variable being measured?
+   - What types of data are the independent and dependent variables?
+ - Second, you'll need to critically analyze your own data. Be honest in your assessment of your experiment. Were there any mistakes that were made? Do you think there were any confounding variables or biases? What was your sample size? Consider the ethics in this particular research. Are you focused on confirming your hypothesis? Did this interfere with how you conducted the research? A level of detachment is necessary to ensure that your results are not biased.
+ - You need to understand the limits of your experiment. This is important because in order to analyze and infer information about the experiment, you have to know exactly what the experiment can tell you and what it can't.
+ - Most experiments will have what's called internal validity, which is when an experiment measures the variables that it was designed to measure. This is important because if an experiment has internal validity, you can be sure that there are generally consistent results across those you measured.
+ - Outside of internal validity, there is also external validity, which is when the results of an experiment can be generalized to a larger population. This is important because if an experiment has external validity, you can be sure that the results of the experiment can be applied to a larger population.
