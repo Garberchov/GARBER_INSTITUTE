@@ -34,3 +34,21 @@
  - You need to understand the limits of your experiment. This is important because in order to analyze and infer information about the experiment, you have to know exactly what the experiment can tell you and what it can't.
  - Most experiments will have what's called internal validity, which is when an experiment measures the variables that it was designed to measure. This is important because if an experiment has internal validity, you can be sure that there are generally consistent results across those you measured.
  - Outside of internal validity, there is also external validity, which is when the results of an experiment can be generalized to a larger population. This is important because if an experiment has external validity, you can be sure that the results of the experiment can be applied to a larger population.
+
+#### 8.6. Confounding Variables
+ - There are few ways that statistics can be incorrect as the result of an experiment, or an experiment can be incorrectly analyzed. This is called confounding, which in the context of statistics simply means something that interferes with or obscures your research. Three types of confounding we will discuss today are the placebo effect, confounding variables, and blinding.
+ - The placebo effect is an effect that occurs from a fake treatment because the individual believes that the effect should occur.
+ - Another way an experiment can be incorrectly analyzed is due to a confounding variable. Confounding variables are the other variables or factors that may cause research results. 
+ - It is an outside factor that just isn't accounted for in the experiment. For example, if you are testing anxiety medication, and all of the people you study are also avid paintball players, you may find that the medication doesn't work as well as you thought. This is because the paintball players may have a higher level of adrenaline than the average person, and the medication may not be able to counteract that. (This isn't a real example, but it's a good way to think about it.)
+ - Blinding refers to variables being tested on research groups when few individuals are aware of who's in the treatment and control groups. Blinding itself is not a bad thing - quite the opposite, in fact. It is the lack of blinding that causes confounding in statistical research. 
+
+#### 8.7. Bias in Statistics
+ - A bias is the intentional or unintentional favoring of one group or outcome over other potential groups or outcomes in the population.
+ - These biases can come in the form of two main categories: selection bias and response bias.
+ - Selection bias comes in several forms, non-representative samples, nonresponse bias, and voluntary response bias.
+ - A non-representative sample refers to when the method with which a sample is selected specifically excludes certain groups from the research, whether intentionally or unintentionally.
+ - A nonresponse bias describes the members of a sample that do not choose to respond or participate in the research and the characteristics of those members.
+ - A voluntary bias describes the members of a sample that choose to respond or participate in the research, whether intentionally or unintentionally.
+ - Response bias most commonly occur with leading questions, or socially desirable answers.
+ - A leading question is a question that prompts or encourages the desired answer. Perhaps describing a certain outcome as "good" or "bad" or "better" or "worse" can lead the respondent to answer in a certain way.
+ - A socially desirable answer is when social factors - like the desire to be accepted or liked - influence the respondent's answer. For example, if you ask someone if they like a certain band, they may say yes because they want to be accepted by the group they are in.
