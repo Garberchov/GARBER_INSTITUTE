@@ -52,3 +52,23 @@
  - Response bias most commonly occur with leading questions, or socially desirable answers.
  - A leading question is a question that prompts or encourages the desired answer. Perhaps describing a certain outcome as "good" or "bad" or "better" or "worse" can lead the respondent to answer in a certain way.
  - A socially desirable answer is when social factors - like the desire to be accepted or liked - influence the respondent's answer. For example, if you ask someone if they like a certain band, they may say yes because they want to be accepted by the group they are in.
+
+#### 8.8. Placebo Effect
+ - The Placebo effect is when a fake treatment, such as a sugar pill, works because the individual believes that the effect should occur - the causes for this are unclear, though it is thought to be due to the conditioned response that taking a pill will make you feel better.
+
+#### 8.9. Two Group Experimental Design
+ - Two group design is when an eximperiment is done on two groups of subjects and the results are compared. 
+ - One of the potential failures in two group design is when the two group sizes are small enough that random chance can cause the results to be skewed, thus matching the groups based on some characteristic is important(a selection variable).
+
+#### 8.10. Matched-Group Design
+ - Usually, to get around bias and error in assigning groups, researchers opt to do random assignment; that is, they randomly choose who goes into what group, like by flipping a coin. But if a group is small enough, random chance can cause the results to be skewed, so matching the groups based on some characteristic is important. This is called a matched-group design.
+ - There are several strengths to matched-group design. The main strength (and the reason to use it) is that it helps to make sure that the two groups in an experiment are equivalent. Another benefit is that it can reduce the number of subjects needed to accurately test a hypothesis.
+ - One of the downsides is that you have to be extremely careful when matching the group based on the variable chosen. There are causation and correlation issues that can arise if you are not careful. Another downside is that it can be difficult to find a match for each subject in the experiment.
+
+#### 8.11. Multiple Group Design
+ - A two-group design in experiments involves having only two levels of your independent variable.
+ - If an independent variable has more than two levels, it is called a multiple-group design.
+ - A multiple-subjects design with independent groups is when Shakira randomly assigns subjects to a group.
+ - Non random assignment is when you are assigning subjects to a group based on some characteristic, also known as correlated groups.
+
+ ![Alt text](Media/CH8_planning_and_conducting.png)
