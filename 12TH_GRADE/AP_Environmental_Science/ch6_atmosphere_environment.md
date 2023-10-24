@@ -81,3 +81,19 @@
  - Methane is also rapidly increasing in the atmosphere. Methane is released into the air from fossil fuels and livestock. Atmospheric methane has increased 151% since the beginning of the Industrial Revolution and is currently at its highest concentration in at least 650,000 years.
  - Nitrous oxide is a gas that comes from feedlots, chemical manufacturing plants, emissions from vehicles and nitrogen fertilizers in agriculture. The level of nitrous oxide has increased about 18% since 1750, and while this number may seem small, think about this: the warming impact of one pound of nitrous oxide is over 300 times that of one pound of carbon dioxide!
 
+#### 6.12. Global Climate Change
+ - Climate change is the change in the climate of our planet due to human activity. It is also known as global warming, though this term is a bit misleading. While the overall temperature of the planet is increasing, the weather variance may make specific years cooler than others in specific areas.
+ - The main cause of climate change is the greenhouse effect, as human emissions are increasing the amount of heat trapped in the atmosphere. The most important greenhouse gas is carbon dioxide, which is released into the atmosphere through the burning of fossil fuels. Other greenhouse gases include methane, nitrous oxide and water vapor.
+ - Climate change also makes natural disasters worse, and more frequent - for example, hurricanes, tornadoes, and droughts, as well as wildfires.
+ - Sea level rise is also a major concern, as the melting of the polar ice caps and glaciers will cause the sea level to rise, which will cause flooding in coastal areas, and the loss of habitats for many species. More than this, large swathes of farm land will be lost to the sea, causing potential food shortages - though we can out-innovate this problem, by developing new farming techniques, and new crops that can grow in the new climate.
+ - The only solution to this is to reduce our emissions of greenhouse gases, while simultaneously increasing overall energy output. By growing civilization while simultaneously reducing emissions, we can avoid the worst effects of climate change while still improving the lives of people around the world.
+ - [**THE ACTUAL LESSON WAS SEMI-DE-GROWTH, BUT THAT IS NOT A VIABLE SOLUTION**]
+
+#### 6.14. Acid Deposition
+ - Acid deposition is when acidic or acid-forming pollutants in the atmosphere deposit on the surface of Earth, and this can occur from any precipitation (such as rain, snow or sleet), but also from fog, gases and dry particles.
+ - The types of pollutants that cause acid deposition are primary pollutants because once in the atmosphere, they react to form harmful substances. The substances that are formed from primary pollutants are called secondary pollutants. 
+ - When acid deposition does decide to come back to the surface of Earth, it can have some serious effects on the environment. Acid deposition may alter the chemistry of soil by leaching minerals, which, in turn, affects the plants and animals adapted to specific soil conditions. Changing the pH of soil can also create problems for plants because it may prevent them from taking up water and nutrients altogether.
+ - Acid deposition can be so detrimental and widespread that it may affect entire forests, such as the Adirondacks in New York. This area has suffered greatly due to leaching of soil cations, which are ions that help counteract the acid deposition, leached nutrients from tree leaves and needles, increased sulfur and nitrogen in soils and loss of animal biodiversity.
+ - It can also hurt freshwater ecosystems, as acidic runoff can do serious damage to fish and plant life in these ecosystems.
+
+![Alt text](Media/ch6_atmosphere_environment.png)
