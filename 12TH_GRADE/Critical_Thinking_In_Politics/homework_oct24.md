@@ -1,0 +1,14 @@
+### Andrew Garber
+### October 24 
+### Prove the Opposite of My Own Belief: Homework
+
+#### My Belief: Unified Government of the entire world is better than many states.
+#### Opposite Belief: Many states are better than a unified government of the entire world.
+
+The belief that a unified world is better than a divided one as we currently have is fallacious, for two main reasons. First of all, the current world system - a system of many states - has created the most prosperous and peaceful time in human history. Secondly, a unified world would be stagnant and unable to adapt to the needs of its citizens.  
+
+Due to the separate efforts of the wide variety - structurally, demographically, and economically - of states, the world has improved drastically. Living standards have never been higher, and due to the competition between states, governments have incentivized innovation and growth. Despite the few wars currently ongoing worldwide, in comparison to much of human history this is an unbelievably peaceful time. More than this, the current supranaional organizations - the UN, the EU, the WTO, etc. - have allowed for the benefits of a unified world without the drawbacks. A greater expansion of the Shengen Area for example, would further integrate the world while allowing for decentralized, local governance.
+
+When considering the structure of a global government, the inescapable conclusion that without foreign competitors the bureaucracy would be crippling to the average citizen. The current system of many states allows for a variety of governments, and thus a variety of policies. This allows for the best policies to be adopted by the most successful states, and for the worst policies to be abandoned. A unified world would leave nowhere for citizens to go to escape bad policies, and would leave no room for experimentation - no iterative process of policy creation. In addition, without significant decentralization, the effects of a singular ethnic group having outsized political power could potentially shred any premise of equality if a leaeder of such a group so desired. By allowing for a variety of states, some directly democratic, some representative, some with a strong executive, some with a weak one, the world allows for the best policies to be adopted by the most successful states, and for people to migrate to the states that best fit their needs. 
+
+In conclusion, the current system of many states has allowed for the most prosperous and peaceful time in human history, and a unified world would be unable to adapt to the needs of its citizens. With a variety of states and policies, a sense of dynamism and competition is created that allows for constnat improvement in the way government is done. While the current system isn't perfect, a unified world would lead to stagnation and a lack of innovation - a lack of the very things that have made the current system so successful.
