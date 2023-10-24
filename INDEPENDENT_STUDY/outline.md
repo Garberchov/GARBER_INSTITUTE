@@ -41,7 +41,6 @@ III.2: How would the numerically greater but significantly poorer areas of the w
  - III.2.c: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all? 
    - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and the "brain drain" from India to the United States.
 
-
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
  - III.3.a: Sweden vs USA vs Canada taxation and government spending.
 
@@ -53,6 +52,10 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
    - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 
+
+III.5: Addressing some of the economic problems inherent to a global nation.
+  - III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined?
+    - III.5.a.a: The Romane Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include.
 
 ## IV: Consideration of Political&Systemic Structures for a Global Government
 IV.1: [RELATED TO III.2] How would the political power of the numerically greater but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
