@@ -43,7 +43,7 @@
 |---------|-------|---------|------|--------------------|
 | English | A | 5 | | [Azuela and Hemingway on Civil War](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/ENGLISH_LIT_COMP/ForWhomTheBellTolls/Azuela_Hemingway_Civil_War.md), [Battle of Kursk Book Report](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/LOOBattleOfKursk/battle_of_kursk_essay.md) |
 | Political Science 101 (Study.com) | B+ | 2.5 | [Syllabus](https://study.com/academy/course/political-science-course.html#/information) | [Federal Government Power](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/POLI_SCI/Writing_Assignments/Federal_government_power_apportionment.md), [Types of Government Summary](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/POLI_SCI/types_of_government_summary_session.md) |
-| AP Physics 1 (Study.com) | B- | 5 | [Syllabus](https://study.com/academy/course/intro-to-physics-course.html#/overview) | |
+| AP Physics 1 (Study.com) | B- | 5 | [Syllabus](https://study.com/academy/course/ap-physics-1-homeschool-curriculum.html) | |
 | AP U.S. History (Study.com) | A+ | 5 | [Syllabus](https://study.com/academy/course/ap-us-history-homeschool-curriculum.html#/information) | [American Response to Japanese Imperialism](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/AP_US_HISTORY/american_response_japanese__imperialism.md), [Monroe Doctrine Effectiveness](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/11TH_GRADE/AP_US_HISTORY/monroe_doctrine_effectivness.md) |
 | Precalculus (Study.com) | A | 5 | [Syllabus](https://study.com/academy/course/high-school-precalculus-homeschool-curriculum.html#/information) | |
 | Italian (Duolingo) | A+ | 2.5 | | |
