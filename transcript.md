@@ -53,7 +53,7 @@
 | AP European History (Study.com) | A- | 5 | [Syllabus](https://study.com/academy/course/ap-european-history-homeschool-curriculum.html#/information) | |
 | Physical Education | A+ | 2.5 | | |
 | Independent Study | | | [Details](https://github.com/Garberchov/GARBER_INSTITUTE/tree/main/INDEPENDENT_STUDY) |
-| **GPA** | | **4.5** | |
+| **GPA** | | **4.527** | |
 
 ### 12th Grade | Homeschooled | (School Year 2023-2024)
 | Subject | Status | Credits | Link | Prominent Examples |
@@ -67,6 +67,7 @@
 | CLEP Western Civilization I (Study.com) | In Progress | 5 | [Syllabus](https://study.com/academy/course/clep-western-civilization-i-course.html#/information) | [Why City States Led To More Extreme Ideologies](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/12TH_GRADE/Western_Civilization1/Writing_Assignments/city_states_extremism.md) |
 | CLEP Western Civilization II (Study.com) | Not Yet Started | 5 | [Syllabus](https://study.com/academy/course/clep-western-civilization-ii-course.html#/information) | |
 | English: World Authors | In Progress | 5 | | [Plato's Ideal Society in *The Republic*](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/12TH_GRADE/English/Writing_Assignments/plato_ideal_society.md) |
+| Physical Education | In Progress | 2.5 | | |
 | **GPA** | | **TBD** | | |
 
 
@@ -80,4 +81,4 @@
  - B = 3.0
  - B- = 2.7
  - GPA = Grade Point * Credits / Total Credits
- - ##### **GPA = 4.3**
+ - ##### **GPA = 4.34**
