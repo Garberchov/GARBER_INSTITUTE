@@ -59,11 +59,11 @@
 | Subject | Status | Credits | Link | Prominent Examples |
 |---------|--------|---------|------|--------------------|
 | AP Statistics (Study.com) | In Progress | 5 | [Syllabus](https://study.com/academy/course/ap-statistics-exam-prep.html#/information) | |
-| Italian (DuoLingo) | In Progress | | [Course](https://www.duolingo.com/enroll/it/en/Learn-Italian) | |
+| Italian (DuoLingo) | In Progress | | [Syllabus](https://www.duolingo.com/enroll/it/en/Learn-Italian) | |
 | AP Environmental Science (Study.com) | In Progress | 5 | [Syllabus](https://study.com/academy/course/ap-environmental-science-homeschool-curriculum.html#/information) | |
-| Critical Thinking In Politics (Outschool) | In Progress | 2.5 | [Link](https://outschool.com/classes/critical-thinking-and-politics-12-week-version-u0UQhIxk) | |
-| Psychology (Outschool) | In Progress | 2.5 | [Link](https://outschool.com/classes/behaviorism-mental-make-up-personality-studies-psychology-for-teens-XHo7w7LN) | |
-| World Geography (Outschool) | In Progress | 2.5 | [Link](https://outschool.com/classes/world-geography-part-1-i-full-semester-NWeZhMQQ) | |
+| Critical Thinking In Politics (Outschool) | In Progress | 2.5 | [Syllabus](https://outschool.com/classes/critical-thinking-and-politics-12-week-version-u0UQhIxk) | |
+| Psychology (Outschool) | In Progress | 2.5 | [Syllabus](https://outschool.com/classes/behaviorism-mental-make-up-personality-studies-psychology-for-teens-XHo7w7LN) | |
+| World Geography (Outschool) | In Progress | 2.5 | [Syllabus](https://outschool.com/classes/world-geography-part-1-i-full-semester-NWeZhMQQ) | |
 | CLEP Western Civilization I (Study.com) | In Progress | 5 | [Syllabus](https://study.com/academy/course/clep-western-civilization-i-course.html#/information) | [Why City States Led To More Extreme Ideologies](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/12TH_GRADE/Western_Civilization1/Writing_Assignments/city_states_extremism.md) |
 | CLEP Western Civilization II (Study.com) | Not Yet Started | 5 | [Syllabus](https://study.com/academy/course/clep-western-civilization-ii-course.html#/information) | |
 | English: World Authors | In Progress | 5 | | [Plato's Ideal Society in *The Republic*](https://github.com/Garberchov/GARBER_INSTITUTE/blob/main/12TH_GRADE/English/Writing_Assignments/plato_ideal_society.md) |
