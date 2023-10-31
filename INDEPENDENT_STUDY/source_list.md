@@ -1,6 +1,5 @@
 ### Andrew Garber
 ### Started March 30 2023
-### Last Updated March 30 2023
 ### Source List for Independent Study Project | Single Global Nation | 11th Grade
 
 
