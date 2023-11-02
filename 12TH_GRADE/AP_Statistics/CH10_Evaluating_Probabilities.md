@@ -27,3 +27,21 @@
  - For an independent event, the formula for finding the probability is: number of favorable outcomes over the number of total outcomes. For example, if you were to roll a die twice, the chance of getting a 1 both times would be 1/6 * 1/6 = 1/36(~2.777777).
  - For a dependent event, the formula for finding the probability actually changes. For example, with the card pulling example, it would go from desired events / total number of outcomes, to desired events / total number of outcomes - number of cards pulled and not replaced.
  
+
+#### 10.5. Probability of Indepdent Events
+ - Occasionally when calculating independent events, it is only important that the event occurs at least once. This is referred to as the 'At Least One' Rule. To calculate the probability of an event occurring at least once, it will be the complement of the event never occurring. This means that the probability of the event never occurring and the probability of the event occurring at least once will equal one, or a 100% chance.
+ - This is logically obvious, but it is important to understand the math behind it. For example, if you roll a dice, the chance of getting a 1 is 1/6, but the probability of AN answer that is not 1 is 5/6. 
+
+#### 10.6. How to calculate simple conditional probabilities
+ - A conditional probability is a type of dependent event. Conditional probability involves finding the probability of an event occurring based on a previous event already taking place.
+ - For example, if you were to draw a card from a deck and not replace it, the probability of drawing a certain card on the second draw would change(-1 card in the deck to draw from). Instead of being 1/52, it would be 1/51, etc, until you draw the desired outcome.
+
+#### 10.7. The relationship between conditional probabilities & independence 
+ - The relationship between independent events and conditional probabilties is that the conditional probability of $P(B | A)$ is the same thing as the probability of $P(B)$, this is because $B$ is an independent event. 
+
+#### 10.8. Using Two-Way Tables to Evaluate Independence 
+ - ![Alt text](https://study.com/cimages/multimages/16/3ef7d43e-c2b5-43b0-bcb5-55599067acfb_pic.png)
+ - This is a 2-way table, which is just a table listing two categorical variables whose values have been paired. Each set of numbers in a 2-way table has a specific name. The middle cells are the joint frequency numbers. When analyzing data in a 2-way frequency table, you will be looking for joint relative frequency, which is the ratio of the frequency in a particular category to the total number of data values.
+ - The number in the column on the very right and the row on the very bottom are marginal frequencies, when analyzing data in a 2-way frequency table, you will be looking for marginal relative frequency, which is the ratio of the frequency in a particular category to the total number of data values.
+ - Conditional relative frequency numbers are the ratio of a joint relative frequency to related marginal relative frequency.
+ - For example, in the graph above, height is compared to liking ice cream - just logically those things are not related - but it is proved by the data as well, The percentage of that are tall and like ice cream and the percentage that are short and like ice cream are the same! This means that, in this study, height does not influence your preference for ice cream. This is an example of independence.
