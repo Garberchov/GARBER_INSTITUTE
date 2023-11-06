@@ -11,3 +11,5 @@ The effect of geography on industry is even less subtle: Europe has lots of natu
 This isn't an economics class, but in short, after a certain level of development, services are just the easiest and most profitable sectors to develop instead of further industry - this is why the US and Europe are primarily service economies(both have substantial industrial and agricultural sectors, even still), due to their high development. This is also why the developing world is primarily agricultural, with medium development you get proper industry, and with high development you get services. Bangladesh for example, is agricultural and industrial, but has a small service sector, and even the industrial sector is largely low-skill, compared to Europe and the US. 
 
 In conclusion, geography has played a huge role in the development of Europe, and has led to the modern European economy being a trichotomy of agriculture, industry, and services. This has wide-ranging impacts on the culture, politics, and economics of Euroep, and has led substantially to the formation of the modern world as we know it.
+
+Ch. 13--100/A
