@@ -45,3 +45,13 @@
  - The number in the column on the very right and the row on the very bottom are marginal frequencies, when analyzing data in a 2-way frequency table, you will be looking for marginal relative frequency, which is the ratio of the frequency in a particular category to the total number of data values.
  - Conditional relative frequency numbers are the ratio of a joint relative frequency to related marginal relative frequency.
  - For example, in the graph above, height is compared to liking ice cream - just logically those things are not related - but it is proved by the data as well, The percentage of that are tall and like ice cream and the percentage that are short and like ice cream are the same! This means that, in this study, height does not influence your preference for ice cream. This is an example of independence.
+
+
+#### 10.9. Applying Conditional Probability
+ - For example, when grabbing two socks out of a drawer, the probability of getting a matching pair(given 30 total socks, 15 white 15 black) is 15/30 * 14/29.
+ -P(B|A) = P(A and B) / P(A)
+
+#### 10.10 The Addition Rule of Probability
+ - The addition rule of probability is used to find the union of two events, either mutually exclusive or non mutually exclusive.
+ - For finding mutually exclusive events, the formula is $P(A or B) = P(A) + P(B)$
+ - Effectively, it boils down to: Find the total number of outcomes, find the desired outcomes, create a ratio for each event, add the ratios(fractions) of each event
