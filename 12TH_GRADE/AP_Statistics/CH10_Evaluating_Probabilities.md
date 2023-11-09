@@ -55,3 +55,15 @@
  - The addition rule of probability is used to find the union of two events, either mutually exclusive or non mutually exclusive.
  - For finding mutually exclusive events, the formula is $P(A or B) = P(A) + P(B)$
  - Effectively, it boils down to: Find the total number of outcomes, find the desired outcomes, create a ratio for each event, add the ratios(fractions) of each event
+
+#### 10.11 The multiplication rule of probability
+  - The Multiplication Rule of Probability means to find the probability of the intersection of two events, multiply the two probabilities.
+  - The formula is $P(A and B) = P(A) * P(B)$
+
+#### 10.12 Math Combinations
+ - A combination is an arrangement of objects where order does not matter. 
+ - To calculate a combination, you must know how to calculate a factorial. A factorial is the product of all the positive integers equal to and less than your number. A factorial is written as the number followed by an exclamation point. For example, to write the factorial of 6, you would write 6!. To calculate the factorial of 6, you would multiply all of the positive integers equal to and less than 6.
+ - $6! = 6 * 5 * 4 * 3 * 2 * 1 = 720$
+ - To calculate a combination, you will use the formula: n! / r!(n-r)!
+ - For example, if n=8 and r=2, it would be $8! / 2!(8-2)! = 8! / 2!6! = 28$
+ -
