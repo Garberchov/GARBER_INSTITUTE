@@ -1,0 +1,15 @@
+### Andrew Garber
+### Chapter 16 Notes
+ - David Rosenham's experiment showed that it is difficult to distinguish between sane and insane people in mental hospitals, and that the sane people were treated as insane.
+ - This is extremely important because it shows that the diagnosis of mental illness is not a science, and that it is very easy to misdiagnose someone - and with the correct environmental biases, it is easy to see someone through the lens of a mental illness.
+ - Rosenham showed that institutions viewed mental illness as a personality trait instead of a disease, and that they were not willing to admit that they were wrong. This is like a hospital saying that pneumonia is a personality trait instead of a disease.
+ - Rosenham then said that he would send more fake patients, but he didn't send any. The hospital then said that they had found 41 fake patients, but Rosenham had sent none. This false-positive/false-negative problem is a huge issue for these institutions, one that they have not come close to solving.
+ - While there were many objections to his experiment, he did raise important questions about how to define, diagnose, and treat mental illness.
+ - A psychological disorder is not the same as a mental illness, and the two CAN overlap.
+ - In 2010, the WHO reported that 450 million people worldwide suffer from mental illness. 
+ - The mental image that comes with the term "mental illness" or "psychological disorder" is dramatic and extreme, but most people with mental illness are not violent or dangerous. In fact, they are more likely to be victims of violence than perpetrators.
+ - Psychological disorders are defined as "deviant, distressful, and dysfunctional patterns of thoughts, feelings, or behaviors." This definition is very broad, and it is hard to define what is "deviant" or "dysfunctional." however the current thinking is that deviant is harmful abormality(abormality itself is totally fine). Distress is defined as a "subjectively feeling that something is significantly wrong", that subjectiveness is both important and problematic. Dysfunction is defined as "signficant impairment in one's ability to work and live". Now, the biggest problem here is the term "significant", most notably because significance is both subjective and not time-bound - is sigificant a day, a week, a month, a year? 
+ - Only comparatively recently could psychological disorders get the same treatment(both in terms of treatment and in terms of public perception) as physical disorders. This is the medical model of psychology, which is the idea that psychological disorders are diseases that can be diagnosed, treated, and cured. 
+ - Now, there are challenges to the medical model - most notably that it is only based on psyiological causes instead of more holistic causes.
+ - The biopsychological approach is the idea that psychological disorders are caused by a combination of biological, psychological, and social-cultural factors. This is the current model of psychology(with obvious sub-branches and sub-branches of sub-branches. It is an evolving field like anything else.)
+ - 
