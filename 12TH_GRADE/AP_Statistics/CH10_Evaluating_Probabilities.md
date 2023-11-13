@@ -66,4 +66,15 @@
  - $6! = 6 * 5 * 4 * 3 * 2 * 1 = 720$
  - To calculate a combination, you will use the formula: n! / r!(n-r)!
  - For example, if n=8 and r=2, it would be $8! / 2!(8-2)! = 8! / 2!6! = 28$
- -
+
+#### 10.13 Math Permutations
+ - When writing permutations, we use the notation nPr, where n represents the number of items to choose from, P stands for permutation and r stands for how many items you are choosing. To calculate the permutation using this formula, you would use $nPr = n! / (n - r)!$.
+
+#### 10.14 The Probability of Permutations
+ - Effectively, it is the number of "chances to win" divided by the total number of permutations, for example if you were trying to open a phone with 5 digit passcode, and it was 0-9, it would be 1/10P5, or 1/(10!/(10-5)!) = 1/30240. Not very good odds.
+
+#### 10.15 Relative Frequency and Classical Approaches to Probability
+ - Another classical approach to probability is relative frequency, which is the ratio of the occurrence of a singular event and the total number of outcomes. This is a tool that is often used after you collect data. You can compare a single part of the data to the total amount of data collected.
+ - Rolling a die is not a good example of relative frequency because as your total number of rolls goes to infinity, the percentage of each number will approach 1/6. A better example would be the outcome in a game of chess, because the outcome is not random, it is based on skill - if someone is better than you, they will win a comparatively greater percentage of the time.
+
+![Alt text](Media/evaluationprobabilites.ch10.png)
