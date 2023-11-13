@@ -53,3 +53,5 @@
  - Some thunderstorms stay like this, but some grow even larger and become supercells. But a tornado doesn't begin to form until the air starts to spin. Scientists are not exactly sure how this happens, but it seems that one way this is possible is when winds at different altitudes within the supercell travel at different speeds.
  - Tornado Alley exists because the Great Plains get very hot in the summer. Updrafts are all too common, which as we now know creates thunderstorms and supercells. Florida is also well-known for its frequent tornadoes for this very same reason. Florida has more thunderstorms than any other state in the country, and all that warm, moist air creates the perfect conditions for supercells and tornadoes to form.
 
+#### 7.8. Thunderstorms
+ - 
