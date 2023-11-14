@@ -8,3 +8,7 @@ This is not a historical analysis, but a geographical one, so I will not list al
 Now, on to everyone's favorite subject: the geostrategic implications of agriculture. Simply put, the Chernozem("Black Soil" or "Black Earth") of Eastern Europe - most notably Ukraine, Poland, Belarus, and Western Russia - is some of the most fertile soil in the world, making this region the breadbasket of Europe and the world as a whole. In addition, the Donbas region of Ukraine holds massive coal and mineral wealth that makes it a valuable resource for any state that controls it. The region has been a strategic focus for centuries - something also manifested in the Eastern Front of World War II, most notably with the Fuhrer Directive saying that the region must be defended at all costs, far exceeding its military value - and continues to be so today with the ongoing conflict in Ukraine.
 
 In conclusion, Russia's status as the largest geostrategic competitor to Europe is largely a result of the geography of the region that it controls, and the geography of the region that borders it. There are no natural barriers to invasion, and has led to an expansionist policy of creating buffer states that has been the official modus operandi of Russian rulers. In addition, the agricultural and mineral wealth of the bordering regions has made it a geostrategic target, and has led to the region being a focus of conflict for centuries.
+
+# Teacher grading
+ - Blackline Europe--100/A
+ - Ch. 14 and 15--100/A
