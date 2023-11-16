@@ -54,4 +54,14 @@
  - Tornado Alley exists because the Great Plains get very hot in the summer. Updrafts are all too common, which as we now know creates thunderstorms and supercells. Florida is also well-known for its frequent tornadoes for this very same reason. Florida has more thunderstorms than any other state in the country, and all that warm, moist air creates the perfect conditions for supercells and tornadoes to form.
 
 #### 7.8. Thunderstorms
- - 
+ - In short, a thunderstorm is a storm with lightning and thunder. They are caused by an updraft, which occurs when warm, moist air rises vertically into the atmosphere. The updraft creates a cumulus cloud, which will eventually be the thunderstorm cloud.
+ - Updrafts can occur anywhere warm, wet air rises quickly, which is why most people, no matter where they live, have experienced a thunderstorm at some point in their life. However, some places, like Florida, are more prone to thunderstorms because the conditions that create thunderstorms are more common.
+ - A warm updraft is just the beginning of a thunderstorm, though. Once the air rises into the atmosphere, it begins to cool. Cool air can't hold as much water as warm air, so as the air cools, the water in the air gets kicked out as condensation and may eventually fall back to the ground as rain. In order for this to happen, though, the cumulus cloud has to grow very tall.
+ - A warm updraft is just the beginning of a thunderstorm, though. Once the air rises into the atmosphere, it begins to cool. Cool air can't hold as much water as warm air, so as the air cools, the water in the air gets kicked out as condensation and may eventually fall back to the ground as rain. In order for this to happen, though, the cumulus cloud has to grow very tall.
+
+#### 7.9. Cyclones
+ - Cyclone refers to any spinning storm that rotates around a low-pressure center. The low-pressure center is also referred to as the 'eye' of the storm, which is well known for being eerily calm compared with the areas under the spinning 'arms' of the storm. 
+ - Tropical cyclones are what most people are familiar with because these are cyclones that occur over tropical ocean regions. Hurricanes and typhoons are actually types of tropical cyclones, but they have different names so that it's clear where that storm is occurring. Hurricanes are found in the Atlantic and Northeast Pacific, typhoons are found in the Northwest Pacific.
+ - We can also further describe tropical cyclones based on their wind speeds. They are called category 1, 2, 3, 4 or 5, increasing with intensity and wind speed as the number increases. A category 1 cyclone is the weakest, with wind speeds of 74-95 mph. A category 5 cyclone, on the other hand, is extremely dangerous and has the potential for major damage. Category 5 cyclones have wind speeds of 155 mph and above!
+ - Polar cyclones are cyclones that occur in polar regions like Greenland, Siberia and Antarctica. Unlike tropical cyclones, polar cyclones are usually stronger in winter months than in the summer.
+ - A mesocyclone is when part of a thunderstorm cloud starts to spin, which may eventually lead to a tornado. 
