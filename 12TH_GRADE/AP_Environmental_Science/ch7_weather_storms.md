@@ -65,3 +65,15 @@
  - We can also further describe tropical cyclones based on their wind speeds. They are called category 1, 2, 3, 4 or 5, increasing with intensity and wind speed as the number increases. A category 1 cyclone is the weakest, with wind speeds of 74-95 mph. A category 5 cyclone, on the other hand, is extremely dangerous and has the potential for major damage. Category 5 cyclones have wind speeds of 155 mph and above!
  - Polar cyclones are cyclones that occur in polar regions like Greenland, Siberia and Antarctica. Unlike tropical cyclones, polar cyclones are usually stronger in winter months than in the summer.
  - A mesocyclone is when part of a thunderstorm cloud starts to spin, which may eventually lead to a tornado. 
+
+#### 7.11 El Nino and La Nina
+ - The ocean's children - you've probably heard of El Niño and La Niña before. They mean 'little boy' and 'little girl' in Spanish, and collectively they make up the ENSO cycle, which stands for El Niño-Southern Oscillation cycle. This cycle describes abnormally warm and cool ocean temperatures in the eastern tropical Pacific. The cycle is natural, and El Niño is the warm phase of the cycle, while La Niña is the cold phase of the cycle.
+ - During an El Niño event, the winds blowing east to west are not as strong as normal, so a lot of that warmer water gets left in the eastern part of the ocean. What's really interesting is that, as the water gets warmer, it weakens the winds even more, which then leaves more warm water in the eastern part of the Pacific, which then weakens the winds even more and we get a self-perpetuating cycle.
+ - The thing that stops this cycle is that the warm water eventually reaches the middle of the ocean, creating Rossby waves. These are huge waves that travel from east to west super slowly, and eventually form a Kelvin wave that brings cool water back to the central part of the Ocean, starting an La Niña event.
+
+#### 7.12. Floods
+ - Floods are one of the most common natural disasters in the world. They can happen anywhere, and they can be caused by a variety of factors. A flood is when water covers land that is normally dry.
+ - Coastal areas can also be flooded, and this often comes from storm surges. A storm surge occurs when a hurricane pushes a big pile of water along the ocean as it moves. Essentially, this creates a giant wall of water heading toward land. Depending on the size of the surge and how hard it hits land, it can often be the most dangerous part of a hurricane. The storm surge from Superstorm Sandy in 2012 was one of the most damaging effects of the hurricane, literally washing away homes, businesses and roads along the coast.
+ - Flash floods can also be dangerous, since these are short-term, intense and quickly-developing floods. These are frequently caused by heavy rains that make rivers and streams overflow their embankments. 
+
+ ![Alt text](Media/ch7.png)
