@@ -36,3 +36,22 @@
  - $P(40 <= x <= 50) = \int_{40}^{50} 3x^-2 dx=(-3x)|_{40}^{50}$
  - $P(40 <= x <= 50) = -3(50) - (-3(40)) = -3/200 = 0.015$
  - So the probability that someone makes between $40,000 and $50,000 is 0.015, or 1.5%.
+
+#### 11.5 Normal Distribution
+ - The normal distribution is a continuous distribution of data that has the shape of a symmetrical bell curve. It's also known as the Bell Curve. It is also called the Gaussian Distribution, after Carl Gauss who created a mathematical formula for the curve.
+ - A lot of data in nature have this shape when compiled and graphed. For example, heights and weights of men and women have this distribution. Standardized test scores are normally distributed. Sometimes lifespans of manufactured parts or equipment form a normal distribution.
+ -![Alt text](https://study.com/cimages/multimages/16/bd2abd90-0f00-42fa-ac29-0728b7a3c49b_mean.jpg)
+ - This is a property of the normal distribution. Another property is that 'mean = median = mode.' This is because the shape of the data is symmetrical with one peak.
+ - The spots on the bell curve that have the steepest slope up and down (called inflection points) are very significant. The corresponding points on the horizontal axis are one standard deviation from the mean, and 68% of the data lie in here!
+ - The standard deviation is a measure of spread or variability of the data. The larger it is, the more spread out the data is. The standard deviation is calculated slightly differently for a population as opposed to a sample. The formulas and symbols for both types are given below:
+ -![Alt text](https://study.com/cimages/multimages/16/formulas.jpg)
+ - For the population, the standard deviation symbol is called Sigma, and the only difference in the calculation is you subtract the population mean Mu from each value, and there is a division by the population size called big N.
+ - Within a normal curve, 68% of the data is within one standard deviation of the mean, 95% is within two standard deviations. Even greater is that 99.7% is within 3 standard deviations. In a philosophical sense, you should try to maximize your standard deviation, because that means you are doing something different from the norm. Nietzsche's last mans is an absolute zero on the standard deviation scale, while the Ubermensch is a 3+ standard deviation.
+ - For example, suppose the lifespans of lithium ion batteries are normally distributed with a mean lifespan of 20,000 hours and a standard deviation of 1000 hours. We can conclude that 95% of these batteries will last between 20,000 - (2 * 1000) = 18,000 hours and 20 + (2 * 1000) = 22,000 hours.
+ - ![Alt text](https://study.com/cimages/multimages/16/percentagesbellcurve.jpg)
+
+#### 11.6. Z Score
+ - For sake of example, imagine a data set with a standard deviation of 2. The majority of the data(68%) will be the mean + or - 1 standard deviation(2). However, 2 is a super arbitrary(and easy to use) number. In engineering, polling, or other statistical applications where the numbers are often annoying or non-arbitrary, we use what is called a Z score. 
+ - The z-score is a measure of distance from the mean in terms of how many standard deviations it is removed from the mean.
+ - By far, the biggest advantage of a z-score is its brevity. When I say to include all values between z-scores of -2 and 2, you know that I want to include 95% of values. That's because within two standard deviations on either side of the mean are 95% of the data in a set.
+ - Calculating a z-score is easy, subtract the mean from the value and divide that by the standard deviation. If you have a value of 55, a mean of 30, and a standard deviation of 20, then it is simply (55-30)/20 = 1.25. Z-scores DO NOT HAVE UNITS, they are simply a shorthand for standard deviations. The z-score of 1.25 means that the value of 55 is 1.25 standard deviations above the mean.
