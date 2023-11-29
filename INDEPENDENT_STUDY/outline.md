@@ -18,7 +18,7 @@ II.1. The EU
  - II.1.a.: Case study on why Switzerland is part of the Schengen Area, but not the EU. 
   <!-- FIll In The Outline -->
   - II.1.a.i: Why Switzerland declined to join the EU.
-    - II.1.a.i.a: Strong sense of national identity, isolationist.
+    - II.1.a.i.a: Strong sense of national identity, isolationist. <!--- CAN BE CONTRASTED WITH A SINGLE GLOBAL NATION BECAUSE THERE WOULD BE NO FOREIGN GOVERNMENTS. CONFLICTS WOULD BE DEALT WITH INTERNALLY TO THE STATE, NOT ON ANY KIND OF FOREIGN SOIL BECAUSE THERE WOULD BE NONE-->
     - II.1.a.i.b: Has no security concerns, isn't worried about being invaded(in comparison to Eastern European states, where Russia was a strong motivator for joining the EU).
     - II.1.a.i.c: Is both too rich(with a strong welfare system), and is already reaping the benefits of the EU without having to pay the costs.
     - II.1.a.i.d: Swiss people love direct democracy, consider it a core part of their national identity and their uniqueness, and worry about it being hampered by EU membership.
