@@ -16,3 +16,16 @@
  - Streams with turbulent streamflow often have high velocities, which creates more dramatic and uncontrolled water movement. These types of streams are also often quite loud because the water is colliding with barriers and being moved around more forcefully.
  - Think of white water rafting when thinking of turbulent streamflow.
  
+#### 9.3. Effects of Weathering, Erosion, and Deposition
+ - Mechanical weathering is the process of breaking down rocks into smaller pieces by physical agents - such as water, wind, ice, and technically gravity
+ - Chemical weathering is the process of breaking down rocks into smaller pieces by chemical agents - such as acids, oxygen, and water.
+ - Erosion is the process of moving weathered rock and soil from one place to another. Erosion is often caused by water, wind, gravity, and glaciers.
+ - Deposition is the process of where eroded material is dropped off in a new location, often by water, wind, and glaciers.
+
+#### 9.4. Landform Diagrams
+ - Using the idea of uniformitarianism, that the same processes are fundamentally similar across time, we can use the landforms we see today to infer what the landforms looked like in the past. This is done in the form of a landform diagram, which is a cross-sectional view of a portion of the Earth's crust that shows the geologic structures beneath the surface.
+ - ![Alt text](https://study.com/cimages/multimages/16/landform-diagram-example.jpg)
+ - Besides the overarching principle of uniformitarianism, there are other key ideas or laws that need to be assumed to be in effect in order to deduce geological history. One is the law of original horizontality. This means that sedimentary rocks are originally formed in horizontal layers. This can be seen in any river or lake where sediment will settle to the bottom in layers. This means that if the layers of rock are inclined or tilted at an angle, the event that caused them to shift happened after they were deposited. Gravity is the key here, because over incredibly long periods of time, gravity will cause the layers to settle into a horizontal position.
+ - A second key idea is the law of superposition. The law of superposition states that in any undisturbed sequence of layers of rock, the oldest or first-deposited layer would be on the bottom and the youngest would be on the top. This isn't surprising, because you have to stack them in order, but is important to note because it is a key assumption in landform diagrams.
+ - A third key idea is the principle of crosscutting relations. This idea states that any rock or fault that cuts across other rocks is younger than those it cuts across. So, if you had layers of rock that are cut by some other event, maybe a lava flow, the original rock layers are older and the intrusion is younger.
+ - Finally, we come to unconformities - simply put, they are surfaces of erosion that cut younger rocks from older ones. 
