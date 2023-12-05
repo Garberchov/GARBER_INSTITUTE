@@ -12,3 +12,5 @@ The geographical isolation caused by the Andes Mountain range is not the greates
 Finally, the Panama Canal is an invaluable resource to the region. Even though it was built by the United States under dubious circumstances, it has been a major boon the region. About 6% of the world's trade passes through the canal, and it is a major source of revenue and development for the region. In addition, the canal has proven such an important geostrategic resource that the United States has intervened in the region multiple times to ensure its continued operation. 
 
 In conclusion, Latin America has major economic potential, but has been held back by a number of factors, including geography. The region has a large population, ample natural resources, and one of the world's most critical geostrategic resources in the Panama Canal. However, the region has been held back by internal corruption and poor governance, and external political and economic pressures. Hopefully, the region can overcome these challenges and grow into a major economic power in the future for the benefit of its people and the world.
+
+#### Teacher Grade: Ch. 8 and 9--100/A
