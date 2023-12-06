@@ -1,0 +1,27 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI.2: Reasons why making an integrated world is necessary, a discussion of the systemic failings and missed opportunities of the current world of borders, boundaries, and friction between nations.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI.3.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.ii.b: Strengthened Swiss Manufacturing/Industry, as they could sell their goods tarrif-free to the EU.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.ii.a: Strengthened the Swiss economy, both from tourism and being able to hire cheaper labor from without.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.i.d: Swiss people love direct democracy, consider it a core part of their national identity and their uniqueness, and worry about it being hampered by EU membership.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.ii: Why Switzerland joined the Schengen Area.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.2: The UN - is it not a world government?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.5: Addressing some of the economic problems inherent to a global nation.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.4.b: German Zollverein, its benefits, and how it was a precursor to the even greater economic gains under German unification.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.4.b.b: Quotes from \"The Industrial Revolutionaries\" by Gavin Weightman.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.4.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.ii.b: Strengthened Swiss Manufacturing/Industry, as they could sell their goods tariff-free to the EU.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QII.1.a.ii.c: Made it easier for Swiss citizens to travel abroad.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.1.a.b: Keynes and Marx.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.1.a.c: Case Study on East and West Germany, and the superiority of the West German model which is still visible.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.1.a.d: Case Study on South and North Korea, and the superiority of the South Korean model which is literally visible from space.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.2.a.b.i: Case Study on the failures of foreign aid in Africa, and how the world government would have to avoid these failures.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.2.b: How would the world government ensure that the poorer areas of the world are not exploited by the richer areas of the world, or by large conglomerates in a second \"rape of Africa\"?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.3.a: Sweden vs USA vs Canada taxation and government spending.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.4.b.a: Quotes from \"Bismarck: A Life\" by Jonathan Steinberg.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.2.a: Is a short term \"wealth drain\" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIII.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIV: Consideration of Political&Systemic Structures for a Global Government\nIV.1: RELATED TO III.2 How would the political power of the numerically greater but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas?\\E$"}
+{"rule":"MD_BASEFORM","sentence":"^\\QIV.2.c: How would patents and intellectual property be handled?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QUN CHARTER\nNotes:\nThe Wealth of Nations by Adam SmithHome Copy\nNotes: The Wealth of Nations is the foundational text of modern economic theory, postulating the existence of an \"invisible hand\", the self-interest of individuals which in aggregate is in the interest of the many.\\E$"}

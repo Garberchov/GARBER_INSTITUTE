@@ -1,5 +1,5 @@
 ### Andrew Garber
-### October 4 2023
+### October 4, 2023,
 ### Independent Study Outline
 
 ## I: Premise and Introduction
@@ -24,13 +24,13 @@ II.1. The EU
     - II.1.a.i.d: Swiss people love direct democracy, consider it a core part of their national identity and their uniqueness, and worry about it being hampered by EU membership.
   - II.1.a.ii: Why Switzerland joined the Schengen Area.
     - II.1.a.ii.a: Strengthened the Swiss economy, both from tourism and being able to hire cheaper labor from without.
-    - II.1.a.ii.b: Strengthened Swiss Manufacturing/Industry, as they could sell their goods tarrif-free to the EU.
+    - II.1.a.ii.b: Strengthened Swiss Manufacturing/Industry, as they could sell their goods tariff-free to the EU.
     - II.1.a.ii.c: Made it easier for Swiss citizens to travel abroad.
 II.2: The UN - is it not a world government? Why not? Is it the foundation a global government could be built on?
  - II.2.a: UN in Korea, the closest that the UN came to genuinely acting as a world government.
 
 II.3: The League of Nations - why did it fail? What can its lack of adoption, and lack of 'teeth' tell us about the pitfalls that must be avoided in a global government?
- - II.3.a: The necessity of soverignty, why a supernational entity won't work, and why a global government must be a single entity.
+ - II.3.a: The necessity of sovereignty, why a supernational entity won't work, and why a global government must be a single entity.
 
 ## III: Consideration of Economic Structures for a Global Government
 
@@ -62,25 +62,25 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 
 
-III.5: Addressing some of the economic problems inherent to a global nation.
+III.5: Addressing some economic problems inherent to a global nation.
   - III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined?
-    - III.5.a.a: The Romane Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include.
+    - III.5.a.a: The Roman Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include.
 
 ## IV: Consideration of Political&Systemic Structures for a Global Government
-IV.1: [RELATED TO III.2] How would the political power of the numerically greater but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
+IV.1: [RELATED TO III.2] How would the political power of the numerically greater, but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
  - IV.1.a: Should greater per-person political power according to wealth be implemented? 
  - IV.1.b: If not, how would large-scale redistribution efforts be prevented?
  - IV.1.b.i: Point to new taxation structures in III.3
 
 IV.2: Hold-outs from before the Global Nation.
- - IV.2.a: One of the preconditions was that the government structures of all of the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
+ - IV.2.a: One of the preconditions was that the government structures of all the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
  - IV.2.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled?
  - IV.2.c: How would patents and intellectual property be handled? If one person owns a patent in one country, and another person in another country, and they are now both a part of the Global Nation, who owns the sole rights to the patent? 
 
 IV.3: How would the education of those who had never had true education before be implemented?
  - IV.3.a: Many of the less wealthy areas probably don't have the tax base to support a full education system, so it will have to be funded by the Global Nation. How would this be done? What kind of educational system would be implemented?
 
-IV.4: Inhernet Problems with the Global Nation
+IV.4: Inherent Problems with the Global Nation
  - IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less? 
   - IV.4.b: Defeating Cardwell's Law, and how the Global Nation would have to be structured to prevent it.
     - IV.4.b.i: Cardwell's Law: "States can only be innovative/technically creative for a limited period of time, after which point they move about the pace of every other state"
@@ -95,11 +95,11 @@ V.1: How does the political structure of the Global Nation prevent the dominance
   - V.1.a: This question comes into play especially in the case of ethic or cultural groups starting to form political parties or entities for the sole benefit of their own group, instead of a party on ideological lines. Should this be prevented? If not, how would it be prevented from doing harm to the stability and freedom of the Global Nation while not infringing on the freedoms of the group?
 
 V.2. How would cultural checks and balances be made to allow for free expression of individuals, whilst preventing what might be seen as gross oppression in one culture and normal in another.
- - V.2.a: This becomes a question of whether the Global Nation has a culturally reletavist or universalist philosophical view, and if so, how is it enforced. 
-  - V.2.a.i: For example, there is a belief from some Western Points of View that the Hijab that Muslim woman must wear is an afront to the self-determination and self-expression of that woman. How would the Global Nation handle this?
+ - V.2.a: This becomes a question of whether the Global Nation has a cultural relativist or universalist philosophical view, and if so, how is it enforced. 
+  - V.2.a.i: For example, there is a belief from some Western Points of View that the Hijab that Muslim woman must wear is an affront to the self-determination and self-expression of that woman. How would the Global Nation handle this?
   - V.2.a.i: In another example, should a certain age be mandated to wait until before you can accept a specifically religious or cultural practice? For example, should a child in the Christian faith be able to be baptized before they have a certain number of years of life experience?
 
 ### VI: Conclusion
  - VI.1: Why Give Up Sovereignty?
     - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation.
-      - VI.1.a.i: Back to Switzerland, they joined the Shengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation?
+      - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation?
