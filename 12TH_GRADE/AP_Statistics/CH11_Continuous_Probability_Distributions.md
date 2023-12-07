@@ -67,4 +67,5 @@
  - The formula for the binomial probability distribution is $P(r) = P(X = r) = (^n_r)*p^r*q^(n-r)$, where p is the probability of success of a single trial, q is the probability of failure of a single trial, r is the number of successes, and n is the number of trials.
  - P(X = r) specifies the probability of a single outcome $r$ out of the whole set of possible outcomes $X$. In the instance of a coin flip, the possible outcomes are heads and tails, in which case r could be defined as either heads or tails. Also note that q is simply the complement of p, such that q = 1 - p. The (n r) term in parentheses evaluates to the expresion: $(^n_r) = n!/(r!(n-r)!)$. While this looks super confusing, it's actually just a way to express the number of ways that r successes can occur in n trials. 
  - Suppose we want to find out what the probability of getting a heads on a coin flip is per two flips. There is a 1/4 probability of two heads (HH), a 1/2 probability of HT or TH, and a 1/4 probability of TT. After enough trials, graphing this data will result in something very similar to a normal distribution curve. Think of it like epochs in machine learning, the more epochs you have, the more accurate the model is(save for overtraining, but that is a pedantic point).
- - 
+
+![Alt text](Media/ch11_continuous_probability_distribution.png)
