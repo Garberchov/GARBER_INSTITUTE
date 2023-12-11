@@ -52,6 +52,7 @@ III.2: How would the numerically greater but significantly poorer areas of the w
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
  - III.3.a: Sweden vs USA vs Canada taxation and government spending.
+ - III.3.b: A system of objectively scalable government.
 
 III.4. What would be the benefits of the elimination of trade barriers? What percentage of global GDP is lost to the frictions of trade barriers?
  - III.4.a: Zero-sum vs positive-sum games, and how the elimination of trade barriers would be a positive-sum game for the world as a whole.
@@ -88,6 +89,13 @@ IV.4: Inherent Problems with the Global Nation
       - IV.4.b.ii.a: Case Study on the United States, and how it has been able to avoid Cardwell's Law for so long.
       - IV.4.b.ii.b: Case Study on the United Kingdom, and how it was a victim of Cardwell's Law.
 
+
+IV.5: Structures for Citizen Participation.
+  - IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
+    - IV.5.a.i: Tie back to Switzerland, and their implementation of direct democracy.
+    - IV.5.a.ii: The United States as a general example of a representative democracy.
+    - IV.5.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
+    - IV.5.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy into a cohesive form, and how it interacts with a system of objectively scalable government(see III.3).
 
 ## V: Consideration of Cultural&Social Structures for a Global Government
 
