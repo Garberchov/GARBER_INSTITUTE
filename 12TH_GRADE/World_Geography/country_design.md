@@ -7,3 +7,5 @@ I would place it about 100 miles off of 30 degrees north, 75 degrees west or rou
 The Flag Would Be: ![Alt text](flag.png), with the turqouise representing the ocean, the purple representing the uniqueness of the island, the blue represneting the ocean, the triangle representing the unity of the people, and the 4 stars representing the 4 quadrants of the city/island.
 
 The Map looks like this: ![Alt text](Map.png)
+
+### Teahcer Response: Blackline map Russia--100/A Blackline map North America--100/A Blackline map Europe--100/A
