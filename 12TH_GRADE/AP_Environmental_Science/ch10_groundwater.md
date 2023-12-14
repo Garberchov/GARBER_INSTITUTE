@@ -1,0 +1,17 @@
+### Andrew Garber
+### December 14 2023
+### AP Environmental Science
+### Chapter 10: Groundwater
+
+## 10.1: Groundwater System 
+ - Groundwater is an important component of the water cycle, which is the natural cycling of water through phases and locations on Earth. The water that soaks into the ground sometimes comes back out above ground in other locations, feeding the world's rivers, lakes, streams, and oceans.
+ - Much of the world's groundwater is stored in aquifers, which are underground water reservoirs, usually made of rock like limestone. The limestone acts like a giant rock sponge, soaking up the water and holding it for thousands of years. One of the world's largest aquifers is the Ogallala Aquifer in the Great Plains of the U.S. This aquifer is one large connected system, stretching from South Dakota to Texas and from Colorado to Arkansas! Because aquifers hold so much water, they take a very long time to fill, sometimes thousands or even millions of years.
+ - Groundwater also helps sedimentary rock form, acting as an adhesive that holds the rock together. 
+ - Geysers are the result of groundwater; if the water underground is above a near-surface magma source, this magma underneath heats the water. As the water heats, the pressure builds up, sometimes escaping at the surface. When this happens, the result is the same as heating a kettle of water on the stove. Steam escapes through a small opening in the surface and we get a geyser, like Old Faithful.
+ - Sinkholes are funnel-shaped cavities in the ground. They are literally holes that occur from the ground sinking. Groundwater holds the land underground in place, and when it's removed, that ground just sinks downward to fill the empty space. Sinkholes can be small, or they can be very large like Lake Eola in downtown Orlando. Once a sinkhole, Lake Eola has since been turned into a park in the middle of the city, and this open-air ground hole is an incredible 23 acres in size!
+
+## 10.2: Groundwater Movement
+ - One factor that influences how groundwater moves is the porosity of a soil. This is the amount of water the soil can hold.
+ - The size and shape of the soil particles determine porosity in this same way. When particles are about the same size and shape, there tend to be larger open spaces since the particles don't fit together very well. Clay and sand are both very porous materials for this reason. On the other hand, sediment like limestone is less porous because the particles fit together like puzzle pieces, closing up those pores. 
+ - Porosity tells us how much water the soil can take in, but not how fast it does so. We call the rate of water infiltration into the ground permeability. In the same way as a sponge absorbs water really well, and a cement block doesn't, it is due to permeability.
+ - Soil is the same way - some sediments easily absorb water, while others do not. Remember how clay was very porous? Turns out that even though it can hold a lot of water, it's not very permeable, so it takes a long time to absorb it. Sand, on the other hand, is both porous and permeable. It can hold a lot of water and is happy to take it in. Limestone is a tricky one, though, because it is very permeable, but not very porous. So, it will absorb water very well, but its capacity is not as large as something like clay or sand, until it starts absorbing water. Once it does, it can hold a lot of water, but it takes a while to get there.
