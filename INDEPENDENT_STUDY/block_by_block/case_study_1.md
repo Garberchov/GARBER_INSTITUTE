@@ -43,4 +43,4 @@ To put the Swiss system of direct democracy into perspective, some of its canton
 ### II.1.a.ii Why Switzerland joined the Schengen Area
 
 #### II.1.a.ii.a Swiss Economic Benefits from the Schengen Area
- - 
+ - While Switzerland is too wealthy to truly "jump-start" its economy with EU membership, the Schengen Area allows for a boost to its tourism, agricultural, and manufacturing sectors. 

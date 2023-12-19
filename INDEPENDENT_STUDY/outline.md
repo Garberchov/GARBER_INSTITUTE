@@ -38,7 +38,7 @@ III.1: What is the economic philosophy of the world government? How much interve
  - III.1.a: Is it a free market, planned economy, or something in between? 
     - III.1.a.a: Hayek and Friedman.
     - III.1.a.b: Keynes and Marx.
-    - III.1.a.c: Case Study on East and West Germany, and the superiority of the West German model which is still visible.
+      - III.1.a.c: Case Study on East and West Germany, and the superiority of the West German model which is still visible.
     - III.1.a.d: Case Study on South and North Korea, and the superiority of the South Korean model which is *literally* visible from space.
 
 III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world? 
