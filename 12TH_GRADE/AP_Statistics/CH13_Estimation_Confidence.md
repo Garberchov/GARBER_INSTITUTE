@@ -26,5 +26,22 @@
  - ![Alt text](/12TH_GRADE/AP_Statistics/Media/formulafor13_3.png)
  - where $\bar{x}$ is the sample mean, n is the sample size, $\sigma$ is the population standard deviation, and z is found from the regular table of z-scores. the margin of error(E) is the $z{\sigma}_\bar{x}$. Simply put, the marign of error is the quantity we subtract or add to $\bar{x}$ to get the confidence interval for $\mu$.
 
-### 13.4. Sample Size and Confidence Interval
+#### 13.4. Sample Size and Confidence Interval
  - To determine the sample size we need, we can turn to the following equation: $n = (z^2 * sigma^2) / (E^2)$. n is the sample size, E is the margin of error, and the value for z is found from the standard normal distribution table.
+
+#### 13.5. Student t-distribution
+ - The t distribution also known as the Student's t distribution is a kind of symmetric, bell-shaped distribution that has a lower height but a wider spread than the standard normal distribution. The units of a t distribution are denoted with a lower case 't'.
+ - The only parameter of the t distribution is the number of degrees of freedom. The degrees of freedom ($df$) are simply $n-1$. Meaning $df = n - 1$, where $n$ is our sample size.
+ - The shape of each individual t distribution curve depends on the degrees of freedom, but all t-curves still resemble the standard normal curve nonetheless. Why does a t-curve have more spread than the standard normal curve?
+ - It is because the stadnard deviation for a t-curve with v degrees of freedom, where v >2, is the square root of v divided by v-2. Because the value is always greater than 1, the spread is larger than the standard normal curve.
+ - There are several important properties you should be aware of with respect to t-curves.
+   - Property #1: The total area under a t distribution curve is 1.0: that is 100%.
+   - Property #2: A t-curve is symmetric around 0.
+   - Property #3: While a t-curve extends infinitely in either direction, it approaches, but never touches the horizontal axis.
+   - Property #4: As the number of df increases, the t distribution curve will look more and more like the standard normal distribution curve.
+ - There is a t distrubtion table, which is similar to the z-score table. Such that, if you go down 15 degrees of freedom, and then go to the column that says 0.05 to find where the two intersect, you will get 1.753.
+
+#### 13.6. Using t distribution to find confidence intervals 
+ - When we don't know the value of sigma, the population standard deviation, we use the sample standard deviation (s) instead. This means we use the $^sx-bar = ^s / √ n$ to find the standard deviation of x-bar(the sample mean).
+ - We then get $S_x-bar +/- t * S_x-bar$. From here, we can use the value of t from the t distrubiton to find the margin of error $E = t * S_x-bar$.
+ - For example, if the sample size n=25, sample mean $x-bar$ = 65, sample standard deviation s = 10, and the confidence level is 0.95(95%), then we can just plug and chug. We get $S_x-bar = 10 / √ 25 = 2$. The degrees of freedom is $df = n -1 = 25 -1 = 24$, subtract that confidence value from 1 and we get 0.05. Divide that by 2 and we get 0.025(we want the area under both tails of the curve), using the table we get t = 2.064. We can then plug them into the formula to get $165 +/- 2.064 * 2 = 165 +/- 4.13$. This means that the confidence interval is 160.87 to 169.13.
