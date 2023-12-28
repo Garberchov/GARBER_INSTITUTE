@@ -14,4 +14,4 @@ Torino e' anche una citta' molto importante per l'industria. La FIAT, una grande
 
 ![Pizza al padellino](https://www.tasteatlas.com/Images/Dishes/cf14be650bf74d3483e98fa4dbaa7c0d.jpg?mw=1300)
 
-Finalmente, Torino ha eccellenti università: l'Università di Torino e il Politecnico di Torino. Sono importante per la tecnologia, la scienza e l’industria in Italia. Anche, Torino ha una squadra di calcio molto famosa, la Juventus! In conclusione, andate a Torino molto rapido: è una citta' molto bella, con storia, architettura e cibo delizioso.
+Finalmente, Torino ha università eccellenti: l'Università di Torino e il Politecnico di Torino. Sono importante per la tecnologia, la scienza e l’industria in Italia. Anche, Torino ha una squadra di calcio molto famosa, la Juventus! In conclusione, andate a Torino molto rapido: è una citta' molto bella, con storia, architettura e cibo delizioso.
