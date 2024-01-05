@@ -23,9 +23,8 @@ II.1. The EU
     - II.1.a.i.c: Is both too rich(with a strong welfare system), and is already reaping the benefits of the EU without having to pay the costs.
     - II.1.a.i.d: Swiss people love direct democracy, consider it a core part of their national identity and their uniqueness, and worry about it being hampered by EU membership.
   - II.1.a.ii: Why Switzerland joined the Schengen Area.
-    - II.1.a.ii.a: Strengthened the Swiss economy, both from tourism and being able to hire cheaper labor from without.
-    - II.1.a.ii.b: Strengthened Swiss Manufacturing/Industry, as they could sell their goods tariff-free to the EU.
-    - II.1.a.ii.c: Made it easier for Swiss citizens to travel abroad.
+    - II.1.a.ii.a: Strengthened the Swiss economy, from tourism, greater labor market, and manufacturing standards.
+    - II.1.a.ii.b: Made it easier for Swiss citizens to travel abroad.
 II.2: The UN - is it not a world government? Why not? Is it the foundation a global government could be built on?
  - II.2.a: UN in Korea, the closest that the UN came to genuinely acting as a world government.
 
