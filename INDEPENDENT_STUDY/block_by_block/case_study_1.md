@@ -1,5 +1,4 @@
 ### Andrew Garber
-### November 27, 2023,
 ### Independent Study 
 ### Case Study 1 
 
