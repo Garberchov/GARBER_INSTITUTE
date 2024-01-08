@@ -30,3 +30,12 @@
  - an indirect effect of glaciers is the creation of pluvial lakes, which are lakes that were gigantic due to excessive rainfall caused by glaciation in the past, they are now empty or near empty. the great salt lake in utah is an example of a pluvial lake.
  - isostatic depression is another indirect effect of glaciers. isostatic depression is the sinking of the earth's crust due to the monumental weight of a glacier. eventually, once the glacier melts and the weight is removed, the crust will rise back up but this can take thousands of years. the great lakes are still in their rebound phase.
  - the most obvious effect of glaciers is their impact on sea levels - when a gigantic amount of water is stored in glaciers, sea levels drop - once they melt, sea levels rise. this is why the earth's sea levels are rising today - because of melting glaciers caused by climate change.
+
+#### 11.7. Glaciation
+ - the constant moving of continents, and cyclic changes in the earth's orbit have caused periods of glaciation in the past.
+ - there are two main theories as to the causes of ice ages: one is the changing of continental posiitons via plate tectonics, and the other is the changing of the earth's orbit around the sun.
+ - the first theory is that due to plate tectonics, the continents movement actually shifts water and weather patterns, when these patterns shift, the earth's climate changes, and this can cause ice ages or drastic warming periods - or, the changes can be fairly minor.
+ - the second theory is a cyclic one put foward by a scientist named Milankovitch, which points to variations in the Earth's orbit(3 variations) that result in long term changes to the earth's climate. the first is eccentricity, which is the shape of the earth's orbit around the sun. if it is more oval, the earth will be closer to the sun at some points in its orbit, and farther away at others. the second is obliquity, which is the tilt of the earth's axis. the third is precession, which is the wobble of the earth's axis. all of these variations can cause changes in the earth's climate, and can cause ice ages or drastic warming periods. (all of these terms should be familiar from your obsession with space - eccentric orbits, axial til in rockets, satellites and planets, and precession in vehicles and gyroscopes.)
+
+
+![Alt text](Media/ch11_glaciers.png)
