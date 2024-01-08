@@ -4,4 +4,19 @@
 ### chapter 13: the age of exploration
 
 #### 13.2 gunpowder
- <!-- - STOPPING THIS FOR DEC 22, WILL COME BACK TO IT - HAVE A SUMMARY SESSION TO RESEARCH FOR -->
+  - [Paper I wrote on the subject](Writing_Assignments/effects_of_gunpowder.md)
+
+
+#### 13.4. Mapping the World, Seaborne Commerce, Piracy
+ - The age of exploration was a time of great change in the world with europeans setting out to increase their understanding of the world and to increase their wealth. 
+ - One Renaissance man willing to foot the bill for excursions into the unknown was Prince Henry of Portugal. Henry, known to our world as 'Henry the Navigator,' began the first school of oceanic navigation and also sponsored countless expeditions into the dark seas. Although Henry never actually joined any expeditions, he helped to create maps used by later explorers while also whetting the appetite of all of Europe with the spirit of exploration.
+ - Henry wasn't the only guy playing cartographer, the fancy word for 'mapmaker.' When news reached Europe that the Italian navigator and cartographer Amerigo Vespucci had reported the West Indies were not part of Asia but were in fact a new continent, all of Europe became atwitter.
+ - Amerigo Vespucci didn't actually name America after himself, but was instead named after him by German mapmakers Ringmann and Waldseemuller. The name stuck and the rest is history.
+ - In the early stages of exploration, Spain and Portugal would probably have to share the medal for first place. Shortly after Columbus's first voyages, trading vessels were racing across the seas. Using new and improved maps, these two empires developed a vigorous seaborne trade system. We might find it strange to think of Portugal as one of the foremost powers in this regard, but at the time, Portugal was a major player. 
+ - During this time, the bulk of Spain's wealth came from gold and silver mined from the Americas. However, the Americas also supplied important agricultural products, which helped line the pockets of Spain. While Spain increased her trade with the Americas, she also grew her Oriental and Indian trading franchise.
+ - Oddly, in the first stages of this new seaborne commerce, most of Europe stayed out of Spain and Portugal's way, choosing to cross the Atlantic in the north. Canada and the northern United States were the main areas of exploration for the English and French(and Dutch, for that matter), while the Spanish and Portuguese focused on the southern United States, Mexico, and South America.
+ - Some of the first acts of piracy during this era were committed by the French against the Spanish in the waters off the Azores, a group of islands off the coast of Lisbon. During these raids, French privateers, which were basically government-sanctioned pirates, boarded and raided Spanish ships carrying wealth and treasure.
+ - Along with the French, the Dutch got involved with their own breed of privateers, known to history as Sea Beggars. Although these Dutch pirates were a nuisance to Spain, they were nothing compared to the famous Sea Dogs of England, arguably the most skilled pirates of the Age.
+ - In the mid-16th century, John Hawkins emerged as the de facto leader of the English Sea Dogs. Hawkins spent his time at sea raiding Spanish ships across the Caribbean while also dabbling in the African slave trade. After a close call in which several of his fleet's ships were captured and destroyed, Hawkins pulled back a bit from his pirating, making way for his cousin, Sir Francis Drake, to take the reins as England's premier privateer!
+ - To the delight of England, Drake was excellent at his job. As a British explorer, slave trader, and privateer, Drake served his country well - so well, in fact, that the Spanish dubbed him El Draque, meaning the Dragon, and King Phillip II of Spain put a bounty on his head equal to the amount of four million dollars. 
+
