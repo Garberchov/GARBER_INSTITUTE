@@ -25,8 +25,9 @@ II.1. The EU
   - II.1.a.ii: Why Switzerland joined the Schengen Area.
     - II.1.a.ii.a: Strengthened the Swiss economy, from tourism, greater labor market, and manufacturing standards.
     - II.1.a.ii.b: Made it easier for Swiss citizens to travel abroad.
-II.2: The UN - is it not a world government? Why not? Is it the foundation a global government could be built on?
+II.2: Case study on the UN - is it not a world government? Why not? Is it the foundation a global government could be built on?
  - II.2.a: UN in Korea, the closest that the UN came to genuinely acting as a world government.
+ - II.2.b: The UN's fall from international grace and influence.
 
 II.3: The League of Nations - why did it fail? What can its lack of adoption, and lack of 'teeth' tell us about the pitfalls that must be avoided in a global government?
  - II.3.a: The necessity of sovereignty, why a supernational entity won't work, and why a global government must be a single entity.

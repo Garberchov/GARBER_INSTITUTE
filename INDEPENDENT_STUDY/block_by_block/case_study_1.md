@@ -2,8 +2,6 @@
 ### Independent Study 
 ### Case Study 1 
 
-(As part of the EU Section, why is part of what has been tried and what has failed)
-
 ### II.1.a: Why is Switzerland in the Schengen Area but not the EU itself?
 The European Union is the greatest attempt at creating at supranational state that has yet been attempted, and it has brought a great deal of prosperity to the continent as per its original intent. However, it did not create a singular state but stopped short of that; instead, it is a collection of states that simply work together on a number of mutually beneficial issues including trade, development, and justice. Switzerland, long known for its neutrality, non-interventionism, and strongly independent culture, is a lone gap in the map of European Union members in Central and Western Europe. A seemingly inconsistent outlier to its otherwise independent streak, Switzerland is a member of the highly integrated Schengen Area, an agreement between 27 nations to abolish their national borders with each other allowing for the free movement of people, goods and capital. In this case study, an examination of the reasons for Switzerland not joining the EU will be presented, as well as the delineated reasons for joining the Schengen Area. This examination will be made through the lens of states and their people prioritizing independence and national sovereignty as major aims unto themselves.
 
