@@ -14,8 +14,15 @@
     - [The San Francisco Confernece](https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference)
     - [Ensuring Peace in the Nuclear Age by Kenneth W. Dam](https://books.googleusercontent.com/books/content?req=AKW5Qaef6Gmpw49hCUklfaV38btt6rubN-tiS0smC669Q_-m29cwggNmMMlyC1P-CFxW0FY5rSZMYVJjSLHO54czfsxmPoXBWMIZQxOkelDnEwEFQ_dx4uZsxvKnZEpk43jFneNPSwXWfmKvm7yLh1vxiWTFeSTed8ZYaj8Bku9MSHiWawHdegF0aoU-c-DYueTER9IyJBYSn4JhF5RMc21aBejP4fkRmt2JktOmKiijVKRCuk3DJykxiuO88hZv_FZApSUL9odJspHuFZZMsuS25e7YJA5SSw)
     - [American Museum of Natural History: Einstein's Deeply Held Political Beliefs](https://www.amnh.org/exhibitions/einstein/global-citizen)
-    - [Gandhi and World Peace: A Federation of the World by Dr.Klaus Schlictmann](https://arc.net/l/quote/xtjvfewi)
+    - [Gandhi and World Peace: A Federation of the World by Dr.Klaus Schlictmann](https://arc.net/l/quote/xtjvfewi) 
     - [2500 Journalists: San Francisco Conference](https://arc.net/l/quote/erizwuco)
+    - [Truman Library: The United Nations in Korea](https://www.trumanlibrary.gov/education/presidential-inquiries/united-nations-korea)
+    - [Wilson Center: The Sovet Union and the United Nations under Stalin](https://www.wilsoncenter.org/event/the-lost-battle-the-soviet-union-and-the-united-nations-under-stalin-1945-1953)
+    - [Eisenhower Library: Korean War](https://www.eisenhowerlibrary.gov/research/online-documents/korean-war)
+    - [UN Resolution 83](http://unscr.com/en/resolutions/doc/83)
+    - [UN Security Council holds urgent meeting to review Situation in Crimea Ukraine](https://news.biharprabha.com/2014/03/un-security-council-holds-urgent-meeting-to-review-situation-in-crimea-ukraine/)
+    - [General Assembly Adopts Resolution Calling upon States Not to Recognize Changes in Status of Crimea Region](https://press.un.org/en/2014/ga11493.doc.htm)
+    - [Annexation of Crimea and EU Sanctions: UVic Journal Publishing Serivce](/data/annexation_of_crimea_eu_sanctions.pdf))
  - The Wealth of Nations by Adam Smith[Home Copy]
     - Notes: The Wealth of Nations is the foundational text of modern economic theory, postulating the existence of an "invisible hand", the self-interest of individuals which in aggregate is in the interest of the many. It also outlines the importance of free trade, and the dangers of monopolies(which by definition calls for some intervention by government in the economy to enable a "level playing field"). He also goes on at some length about why tariffs are extremely harmful to an economy and the world at large. Smith believed that when countries engage in free trade, they can specialize in producing goods and services that they are most efficient at producing, and then trade with other countries for goods and services that they are less efficient at producing. This specialization and trade lead to increased productivity, greater efficiency, and ultimately, higher standards of living for all involved - by trying to arbitrarily protect domestic industries that produce goods inefficiently in comparison to other countries, countries are only hurting themselves. 
  - [BRICS - Brazilian Government](https://www.ipea.gov.br/forumbrics/en/learn-about-brics.html#:~:text=As%20a%20group%2C%20BRICS%20has,funds%20to%20finance%20its%20activities.)
