@@ -56,3 +56,29 @@
  - The population proportion is denoted by the symbol p while the sample proportion is denoted by the symbol p-hat. In this lesson, we're going to learn how to estimate the population proportion thanks to the sample proportion. For lage samples, the sampling distribution is close to normal, the mean of the sampling distribution is p, and the standard deviation of the sampling distribution sigma_p-hat = $sqrt(p*q)/n$ where q = 1 - p.
  - To really implement this, if the sample size n=1000, p-hat is 0.60(60%), and q-hat = 1-p-hat = 0.4 we can just plug and chug.
  - s_p-hat = $sqrt(p-hat * q-hat)/n = sqrt(0.6 * 0.4)/1000 = 0.0155$. We can then use the z-score table to find the z-score for 0.95, which is 1.96. We can then plug and chug to get $0.60 +/- 1.96 * 0.0155 = 0.60 +/- 0.0304$. This means that the confidence interval is approximately 56% to 64%.
+
+#### 13.9. mean difference from matched pairs
+ - Examples of matched data pairs are:
+  - Pre- and post-test results
+  - Duplicating measurements on the same samples
+  - Any statistical study where data in one sample can be uniquely paired with data in another sample
+ - The following conditions have to be met in ordered to estimate a confidence interval between matched pairs: it has to be a simple random sample, the sample should include measurements on two paired variables such that $x$ and $y$ are $X_d = X - Y$, and the mean difference between data pairs should be normally distributed.
+ - The steps at this point are then fairly simple, we identify the sample (n/2) where n is the sample size, select a confidence level that we accept as certain(90,95,99 generally), and then calculate the confidence interval based on the standard deviation of the paired difference.
+ - Based on this graph of 5 students before and after intervention:
+	| Student | Score 1 before | score 2 after |
+	| ------- | -------------- | ------------- |
+	| 1       | 54             | 60            |
+	| 2       | 45             | 59            |
+	| 3       | 40             | 35            |
+	| 4       | 30             | 45            |
+	| 5       | 60             | 55            |
+ - To calculate the 95% confidence interval to estimate the mean differnece, we have to Calculate the difference between the scores. Calculate the mean difference. Calculate the difference minus the mean difference. Calculate the square of the difference minus the mean difference.
+ - We then get the following table:
+ - ![Alt text](https://study.com/cimages/multimages/16/b3a38cce-6ce7-4e0f-a00b-bc6885195518_3.png)
+ - Which ends up as: ![Alt text](https://study.com/cimages/multimages/16/b70b2b0f-671c-44ec-8d6d-5c4a5d23415d_4.png)
+ - To find the standard deviation, we just plug it in as so:
+ - ![Alt text](https://study.com/cimages/multimages/16/1055fff4-09c1-468b-b281-026c7e5be5d8_5.png)
+ - Finally, we just u the calculated values to compute a 95% confidence interval for the mean difference in the test scores in the sample data. Because the sample size is small (remember, n = 5), we use the t-score value from the table.
+ - ![Alt text](https://study.com/cimages/multimages/16/683cf24b-85ab-4178-ba9e-4d82f1a74ab4_6.png)
+ - In this example, there are a total of eight values for scores. However, each of the scores are considered in pairs because they are the before and after scores of the same student. So the total number in the sample, or the sample size, n is 4.
+ - The degree of freedom, df = n - 1 = 4. From the t-score table, for n = 4 and 95% confidence, the t-value is 2.776. So we can see that we have $-5 +/- 2.776(9.77/sqrt(15))$ which is $(2.0, -12.0)
