@@ -9,4 +9,7 @@ The northern/western countries, on the other hand, have been subject to a variet
 
 In conclusion, Latin America is a region of massive diversity, with a wide variety of climates, landmasses, and resources. This has led to a wide variety of economic and political outcomes, with the southern/eastern countries generally being in more favorable economic and political positons than the Northern/Western countries. Latin America is similar to Africa in many ways, a huge economic and political potential being squashed by innefective institutions. Hopefully, the region will be able to overcome these challenges and reach its potential(Milei is certainly a step in the right direction for Argentina).
 
+Teacher Grade: Ch. 8--100/A
+
+
 [^1]: Off topic, but this could have been(and still can be) a major opportunity for the United States to dramatically grow its population, increase birth rates(first and second generation immigrants have more children), and increase its economic and political power. We could let in millions of refugees, give them citizenship, let them work and live here, and do exactly what we did for millions of German, Italian, Irish, and Polish(among others) immigrants in the last two centuries. Instead, we're vilifying them and treating them like criminals. Putting aside the moral arguments, it makes no sense from a purely economic and political perspective.
