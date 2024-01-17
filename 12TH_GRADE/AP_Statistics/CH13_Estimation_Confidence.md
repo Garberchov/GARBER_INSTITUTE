@@ -82,3 +82,14 @@
  - ![Alt text](https://study.com/cimages/multimages/16/683cf24b-85ab-4178-ba9e-4d82f1a74ab4_6.png)
  - In this example, there are a total of eight values for scores. However, each of the scores are considered in pairs because they are the before and after scores of the same student. So the total number in the sample, or the sample size, n is 4.
  - The degree of freedom, df = n - 1 = 4. From the t-score table, for n = 4 and 95% confidence, the t-value is 2.776. So we can see that we have $-5 +/- 2.776(9.77/sqrt(15))$ which is $(2.0, -12.0)
+
+#### 13.10 Mean differnece between two independent samples.
+ - First, you must ensure that the samples are actually independent - if they aren't, you can't be sure that this method with produce accurate results.
+ - Given two indepedent samples, you can't just subtract two data points from each other and call it a day.
+ - First, calculate the margin of error and then add/subtract it from the point estimate to get the confidence interval.
+ - For example, if you had a confidence interval of (36, 40) when measuring the heart rate of two groups of people, the width of the confidence interval is 4. The margin of error is half up or half down, so 2. The point estimate is the mean of the two groups, so 38."
+ - However, if the data is more spread, you should calculate the standard deviation of the difference between the two groups. 
+ - The final step in calculating the margin of error is to apply a multiplier called the critical value to the standard error. The critical value takes into account how confident we want to be that we have a good range of values, measured through a percentage called the confidence level.
+ - The most commmon are 90, 95, and 99% - for the sake of this example, we will use 95%. The two sample sizes get combined into one metric called degrees of freedom. The degrees of freedom is the sum of the two sample sizes minus 2. 
+ - Using a t-table, you can combine all of that together to get the margin of error.
+ - You can then get confidence interval by subtracting the margin of error from the point estimate, and then adding the margin of error to the point estimate to get (bottom_bound, top_bound).
