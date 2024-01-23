@@ -5,10 +5,13 @@
 ## I: Premise and Introduction
 
 I.1: Vision of an integrated world, free of borders and boundaries between people, ideas, information, and goods. 
-
+ - I.1.a: Borders are artificial constructs, a human invention, individuals are no different from each other based on where they were born, and only exist as the relic of a bygone era of tribalism and fiefdom.
 I.2: Reasons why making an integrated world is necessary, a discussion of the systemic failings and missed opportunities of the current world of borders, boundaries, and friction between nations.
-
+ - I.2.a: Amount of resources wasted on international conflict, and how that lessened tax burden(NOT state spending being redirected to social programs) could further the prosperity of humanity.
+ - I.2.b: The exponential effects of the elimination of barriers for ideas and humans would lead to a considerable increase in the rate of innovation, and the subsequent increase in the rate of economic growth. Silicon Valley is a prime example of this, due to having a high concentration of innovative people and capital, it has led the world in technological innovation for decades.
 I.3. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
+ - I.3.a: Name for "The Global Nation" - "Global Nation" is a general political science term, but we need a name for the specific Global Nation that is the subject of this paper.
+ - I.3.b: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
 
 I.4. *Thesis Statement*, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single world government, and the benefits in the political, economic, cultural, and social spheres of such a government.
 
@@ -38,45 +41,65 @@ III.1: What is the economic philosophy of the world government? How much interve
  - III.1.a: Is it a free market, planned economy, or something in between? 
     - III.1.a.a: Hayek and Friedman.
     - III.1.a.b: Keynes and Marx.
-      - III.1.a.c: Case Study on East and West Germany, and the superiority of the West German model which is still visible.
+    - III.1.a.c: Case Study on East and West Germany, and the superiority of the West German model which is still visible.
     - III.1.a.d: Case Study on South and North Korea, and the superiority of the South Korean model which is *literally* visible from space.
 
 III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world? 
- - III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary? At what scale should this take place?
+ - III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the world government]
     - III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
     - III.2.a.b: How would the world government ensure that the wealth drain is not permanent, and that the poorer areas of the world are able to become self-sufficient and self-sustaining?
       - III.2.a.b.i: Case Study on the failures of foreign aid in Africa, and how the world government would have to avoid these failures.
- - III.2.b: How would the world government ensure that the poorer areas of the world are not exploited by the richer areas of the world, or by large conglomerates in a second "rape of Africa"? Is this something that can be structurally built in and prevented, or must it be policed on a case-by-case basis?
- - III.2.c: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all? 
-   - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and the "brain drain" from India to the United States.
+    - III.2.a.c: If a wealth drain is necessary, what would be the highest priority/return on investment(not for businesses, but for the long-term stability of the world government) areas to invest in?
+      - III.2.a.c.i: Case Study on the Post-WWII Japanese economic miracle, and where the greatest growth was relative to the investment.
+ - III.2.b: How would the world government ensure that the poorer areas of the world are not exploited by the richer areas of the world, or by large conglomerates in a second "Scramble for Africa"? Is this something that can be structurally built in and prevented, or must it be policed on a case-by-case basis?
+	- III.2.b.a: Case study on large oil companies in Nigeria and the Congo(and others if found in research) and how they have limited the development of the countries they are in.
+	- III.2.b.b: Case study on the Banana Republics of Central America, and how they were exploited by large companies.
+ - III.2.c: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all?  
+   - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and poorer nations like India to the United States.
+   - III.2.c.b: Should it be prevented? 
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
- - III.3.a: Sweden vs USA vs Canada taxation and government spending.
- - III.3.b: A system of objectively scalable government.
+ - III.3.a: Finland vs USA vs Canada taxation and government spending.
+	- III.3.a.a: High-taxation for the large government services for individual comfort, but poor industry/innovation/entrepreneurship(low social mobility as differnece between rich and poor is small in absolute terms, but tax rates go up dramatically)
+	- III.3.a.b: Mid-taxation for the a smaller amount of government services for individual comfort, but a respectable industrial and innovative economic base.
+	- III.3.a.c: Low-taxation for a small amount of government services for individual comfort, but a large industrial/innovative base, and a large amount of entrepreneurship(comparatively high social mobility).
+ - III.3.b: A system of objectively scalable government [In it's taxation elements, it is a whole government reform plan but that goes in IV.5]
 
 III.4. What would be the benefits of the elimination of trade barriers? What percentage of global GDP is lost to the frictions of trade barriers?
- - III.4.a: Zero-sum vs positive-sum games, and how the elimination of trade barriers would be a positive-sum game for the world as a whole.
+ - III.4.a: Zero-sum vs positive-sum decisions, and how the elimination of trade barriers would be positive-sum for the world as a whole. 
    - III.4.a.a: Friedman "Free to Choose".
  - III.4.b: German Zollverein, its benefits, and how it was a precursor to the even greater economic gains under German unification.
    - III.4.b.a: Quotes from "Bismarck: A Life" by Jonathan Steinberg.
    - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
+   - III.4.c.a: Connection to II.1.a, Switzerland economic growth from its bilateral agreements with the EU.
+ - III.4.d: Is this just the maximum extent of comparative advantage? Is the end state here(not the end *goal*) the maximally efficient production of goods by the locality that can produce them the most efficiently, with a highly intertwined system of trade and economic growth. 
+	- Smith's "Wealth of Nations" does reference it, use the quote.
+	- Ricardo's "Principles of Political Economy and Taxation" is the foundation of it, use the quote.
+	- There is no case study here, but a theoretical application of an economic principle - nothing to this scale has ever been tried before. Even the most likely comparison point, the EU, has too many extentuating factors to be a good comparison point(there is wealth dispartiy between EU nations, but not as significant as the world as a whole).
 
 
 III.5: Addressing some economic problems inherent to a global nation.
   - III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined?
     - III.5.a.a: The Roman Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include.
+ - III.5.b: Is a switch to a non-fiat currency valuable in this case? 
+	- III.5.b.a: Brief exploration of switching to cryptocurrency, reference "The Almanack of Naval Ravikant" by Eric Jorgenson and "Architectures of a Technodemocracy" by Jason M. Hanania.
+	- III.5.b.b: Brief exploration of switching to an energy based economy, there are no books on this that I know of, but there are some journal articles.
 
 ## IV: Consideration of Political&Systemic Structures for a Global Government
 IV.1: [RELATED TO III.2] How would the political power of the numerically greater, but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
  - IV.1.a: Should greater per-person political power according to wealth be implemented? 
- - IV.1.b: If not, how would large-scale redistribution efforts be prevented?
+ - IV.1.b: If not, how would tyranny-of-the-majority redistribution efforts be prevented? Is this something that can be fixed electorally, or is it a taxation structure?
  - IV.1.b.i: Point to new taxation structures in III.3
 
 IV.2: Hold-outs from before the Global Nation.
  - IV.2.a: One of the preconditions was that the government structures of all the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
  - IV.2.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled?
+	- IV.2.b.a: What happened to the debt of the Confederate States of America after the American Civil War? 
+	- IV.2.b.c: What happened to the debt of the East German government after German reunification?
  - IV.2.c: How would patents and intellectual property be handled? If one person owns a patent in one country, and another person in another country, and they are now both a part of the Global Nation, who owns the sole rights to the patent? 
+	- IV.2.c.a: I do not believe that any past example is relevant in this case, as it would the patents of EVERY country in the world being merged into a single patent/intellectual properly market.
+	- IV.2.c.b: Is a grandfathered phase-out of patents the best way to handle this?
 
 IV.3: How would the education of those who had never had true education before be implemented?
  - IV.3.a: Many of the less wealthy areas probably don't have the tax base to support a full education system, so it will have to be funded by the Global Nation. How would this be done? What kind of educational system would be implemented?
@@ -89,8 +112,7 @@ IV.4: Inherent Problems with the Global Nation
       - IV.4.b.ii.a: Case Study on the United States, and how it has been able to avoid Cardwell's Law for so long.
       - IV.4.b.ii.b: Case Study on the United Kingdom, and how it was a victim of Cardwell's Law.
 
-
-IV.5: Structures for Citizen Participation.
+IV.5: Structures for Citizen Participation/Government Structure.
   - IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
     - IV.5.a.i: Tie back to Switzerland, and their implementation of direct democracy.
     - IV.5.a.ii: The United States as a general example of a representative democracy.
@@ -110,4 +132,4 @@ V.2. How would cultural checks and balances be made to allow for free expression
 ### VI: Conclusion
  - VI.1: Why Give Up Sovereignty?
     - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation.
-      - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation?
+      - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation? Use them as the example of a nation that despite great wealth would benefit from the Global Nation.
