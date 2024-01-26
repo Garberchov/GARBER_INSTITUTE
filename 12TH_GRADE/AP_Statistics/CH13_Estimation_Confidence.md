@@ -93,3 +93,4 @@
  - The most commmon are 90, 95, and 99% - for the sake of this example, we will use 95%. The two sample sizes get combined into one metric called degrees of freedom. The degrees of freedom is the sum of the two sample sizes minus 2. 
  - Using a t-table, you can combine all of that together to get the margin of error.
  - You can then get confidence interval by subtracting the margin of error from the point estimate, and then adding the margin of error to the point estimate to get (bottom_bound, top_bound).
+![Alt text](Media/statistics.ch13.png)
