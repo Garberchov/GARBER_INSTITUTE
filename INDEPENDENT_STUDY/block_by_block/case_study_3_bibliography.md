@@ -14,4 +14,4 @@ Note: This is a list of sources used for Case Study #2 on the UN. It is done in 
 
 5. Neurath, Konstantin v. "Withdrawal of Germany from the League of Nations"  [https://www.loc.gov/item/2021667903/](https://www.loc.gov/item/2021667903/) Library of Congress.
 
-6. Brown, Stewart, "Japan stuns owrld, withdraws from league." [https://www.upi.com/Archives/1933/02/24/Japan-stuns-world-withdraws-from-league/2231840119817/"](https://www.upi.com/Archives/1933/02/24/Japan-stuns-world-withdraws-from-league/2231840119817/), UPI Archives.
+6. Brown, Stewart, "Japan stuns world, withdraws from league." [https://www.upi.com/Archives/1933/02/24/Japan-stuns-world-withdraws-from-league/2231840119817/"](https://www.upi.com/Archives/1933/02/24/Japan-stuns-world-withdraws-from-league/2231840119817/), UPI Archives.
