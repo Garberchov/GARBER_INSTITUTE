@@ -2,7 +2,7 @@
 ### Independent Study 
 ### Case Study 3 Bibliography
 ```
-Note: This is a list of sources used for Case Study #2 on the UN. It is done in ASPA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
+Note: This is a list of sources used for Case Study #3 on the League of Nations. It is done in ASPA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
 ```
 1. League of Nations. "League of Nations Charter." [https://libraryresources.unog.ch/ld.php?content_id=32971179](https://libraryresources.unog.ch/ld.php?content_id=32971179).
 
