@@ -99,3 +99,5 @@
  - Without the help of its allies, Austria had little chance of unconditionally defeating the French on their own and also eventually sought peace. France signed three separate treaties with its enemies: The 1713 Treaty of Utrecht with Britain, the Dutch Republic, Portugal and several German states, the 1714 Treaty of Rastatt with Austria and the 1714 Treaty of Baden with the Holy Roman Empire.
  - The various treaties recognized Louis' grandson Philip as King Philip V of Spain, but removed him from the French line of succession. Additionally, the Spanish Netherlands and Spain's Italian holdings were ceded to Austria and Gibraltar and Minorca to Great Britain. France was also forced to cede several colonial possessions in North America to the British.
  - There would never, ever be a war between the French and Germans over who got to rule Spain again. Ever. Never. Except this guy named Bismarck, but we will get to him later.
+ 
+ ![Alt text](media/absolutism.png)
