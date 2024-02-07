@@ -19,3 +19,16 @@
  - Next, the degrees of freedom must be found. This is done by using the formula: df = n - 1. The n is the sample size. So, if the sample size was 30, the degrees of freedom would be 29.
  - Next, the alpha value has to be found. This is something that you choose - generally it is 0.01, 0.05, or 0.10. For the purposes of this example, we will use 0.05.
  - Finally is the t-table - this is something that can be found online, and you cross-check the degrees of freedom with the alpha value to find the critical value. With 29 degrees of freedom and 0.05 alpha value, the critical value is 1.699. Since that t-critical is less than the t-statistic, the value is accepted.
+
+#### 14.3. Effect Size
+ - The formal procedure statisticians follow to determine whether a certain hypothesis is valid or not is referred to as hypothesis testing. By using hypothesis testing, statisticians can validate statements such as, 'This washer only needs one gallon of water to wash a large load of clothes.'
+ - Hypothesis testing is a 4-step process: Step 1: Write the hypothesis, Step 2: Create an analysis plan, Step 3: Analyze the data,  Step 4: Interpret the results.
+ - We define effect size as the objective and standardized measure of the size of a particular effect. We can think about our effect size as the importance of a certain effect. The larger the effect size, the more important the effect. The more important the effect, the more easily it can be seen by just looking.
+ - For example, if our effect is the growing of beards by men, we can say that a large effect size will mean that there are more men who grow beards. A small effect size means there are few men who grow beards. If our effect size is 0, then there are no men who grow beards.
+ - The effect size is important because it can help us to determine whether a certain effect is important or not. If we have a large effect size, then we can say that the effect is important. If we have a small effect size, then we are giving overvaluing it if we decide that it is important. If we have an effect size of 0, then we can say that the effect is not important.
+ - Because the effect size is an objective and standardized way of measuring effect, we can use it compare different hypothesis tests to each other. We can compare the effect sizes of the different hypothesis tests to see which hypothesis test gives us the greatest effect size or the least effect size.
+
+
+#### 14.4. Type I and Type II Errors
+ - A Type I error is when the null hypothesis is rejected when it is actually true. This is also known as a false positive. For example, if you said(and "proved") that every American can dunk a basketball, that would be a Type I error. 
+ - A Type II error is when the null hypothesis is accepted when it is actually false. This is also known as a false negative. For example, if you said(and "proved") that no American can dunk a basketball, that would be a Type II error.
