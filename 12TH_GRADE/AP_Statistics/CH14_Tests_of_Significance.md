@@ -32,3 +32,9 @@
 #### 14.4. Type I and Type II Errors
  - A Type I error is when the null hypothesis is rejected when it is actually true. This is also known as a false positive. For example, if you said(and "proved") that every American can dunk a basketball, that would be a Type I error. 
  - A Type II error is when the null hypothesis is accepted when it is actually false. This is also known as a false negative. For example, if you said(and "proved") that no American can dunk a basketball, that would be a Type II error.
+
+#### 14.5. The Relationship between confidence intervals and hypothesis tests
+ - if we wanted to find the average weight of a box of grapes ahead of time, we wouldn't want to harvest all of the grapes and then weight them. No we would take a small sample, <30, and then use that to find the average weight of the box.
+ - If we took a sample of 12 boxes of grapes and found that the mean weight was 43.5, a standard deviation of 3.947, and the ideal was 41.5 is this close enough to the ideal? We can use a null hypothesis and an alternative hypothesis to find out. The null hypothesis could be that the average weight of a box of grapes is 41.5, and the alternative hypothesis could be that the average weight of a box of grapes is not 41.5. Then, we could choose a significance level, like 0.05, and then use the p-value method to find out if the null hypothesis is valid or not.  If the p-value is less than or equal to α we decide to reject the null hypothesis. If the p-value is greater than α we fail to reject the null hypothesis. 
+ - Calculating it out, we find that the p-value is 0.1060, which is greater than 0.05. So, we fail to reject the null hypothesis.
+ - We can however, use this to find out the confidence interval. Using the previous values, we can find that the confidence interval is [41, 46]. This means that we can be 95% confident that the average weight of a box of grapes is between 41 and 46 pounds.
