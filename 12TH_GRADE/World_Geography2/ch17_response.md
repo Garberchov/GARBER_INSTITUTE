@@ -10,3 +10,8 @@ The existence of Saudi Arabia is down to two things: a deal with the British a c
 Iran is a bit different. They have a lot of oil, not as much as Saudi Arabia, but due to the revolution that deposed the Shah and installed the Ayatollah, they have had limited external markets for that oil. Specifically, the US(and by extension, a bunch of other first world countries) maintained a trade embargo on Iran for a long time. The more limited profits have not been focused on social services, but rather the enrichment of the ruling class, funding proxy wars *cough* Hezbollah, Houthis, Yemeni Civil War, and a lot of others *cough*. This has led to a great degree of regional animus between Saudi Arabia and Iran, in addition to the existing Sunni-Shia divide.
 
 The oil deposits across Central Asia are generally poorer than those in Southwest Asia proper, with perhaps the very notable exception of the Caucasus. Oil was discovered in the Caucasus mountains centuries ago, and has been a source of wealth and conflict ever since. Currently Russia and Azerbaijan are the main controllers of this oil. Many a dictatorship has been propped up by oil profits, and many a war fought over it. This will continue to be the case for the forseeable future, but as the demand for oil peaks and then falls, the geopolitical importance of the region will likely wane - maybe they should catch up on that industry after all.
+
+TEACHER RESPONSE:
+Ha!  yes and I liked your pun too.  The focus on the region being fairly singularly focused will and does cause issues, and I imagine those will intensify in the future.
+
+Ch. 17--100/A
