@@ -46,7 +46,7 @@ II.3: The League of Nations - why did it fail? What can its lack of adoption, an
 III.1: What is the economic philosophy of the world government? How much intervention/interference does it have over the economy? 
  - III.1.a: Is it a free market, planned economy, or something in between? 
 		- III.1.a.a: Hayek & Friedman.
-		- III.1.a.b: Keynes & Rawls (Roosevelt's New Deal is the greatest political manifestation of this.)
+		- III.1.a.b: Keynes & Beveridge.
 		- III.1.a.c: Marx & Engels
 		- III.1.a.d: Case Study on East and West Germany, and the superiority of the West German model which is still visible.
 		- III.1.a.e: Case Study on South and North Korea, and the superiority of the South Korean model which is *literally* visible from space.
