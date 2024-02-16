@@ -41,6 +41,7 @@ More important than their sentimental similarity, however, is their policy simil
 #### III.1.a.a.ii: Why central planning is impossible, at least not more efficiently or justly than the market.
 
 <!-- quote Hayek The Road to Serfdom Page 51, and the dedication of the Road to Serfdom -->
+<!-- Hayek Epistemology, the market is fundamentally a "highway" for knowledge to be distributed where it is needed. -->
 
 ### III.1.a.b: Keynes & Beveridge 
 
