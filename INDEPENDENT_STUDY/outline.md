@@ -132,6 +132,7 @@ IV.4: Inherent Problems with the Global Nation
 	- IV.4.c: The Roman Empire fell due to its lack of external competitors to unite, drive forward, and focus its efforts. How would the Global Nation avoid this fate?
 		- IV.4.c.i: Case Study on the Roman Empire, and how it fell due to a lack of external competitors.
 		- IV.4.c.ii: Case Study on the United States, and how it hasn't been able to avoid this fate(in large part - it can still avoid it, but is trending inward, isolationist, and protectionist).
+	- IV.4.d: With no external competitors, how would the Global Nation avoid tyranny, especially through intervention in the economy?
 
 IV.5: Structures for Citizen Participation/Government Structure.
 	- IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?

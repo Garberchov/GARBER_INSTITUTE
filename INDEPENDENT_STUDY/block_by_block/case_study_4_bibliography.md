@@ -19,3 +19,9 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 7. Ravier, Adrian. "Friedrich Hayek on Monetary and Banking Systems Reform". 2020 [Journal of New Finance](https://jnf.ufm.edu/cgi/viewcontent.cgi?article=1006&context=journal)
 
 8. Hayek, Friedrich. "The Denationalization of Money". 1976. [The Denationalization of Money](https://archive.org/details/DenationalisationOfMoneyTheArgumentRefined)
+
+<!-- Cite https://mises.org/library/economic-calculation-socialist-commonwealth/html  -->
+
+9. Mises, Ludwig von. "Economic Calculation In the Socialist Commonwealth". 1920. [Mises Institute](https://mises.org/library/economic-calculation-socialist-commonwealth/html)
+
+10. Read, Leonard E. "I, Pencil: My Family Tree as Told to Leonard E. Read". 1958. [Online Library of Liberty](https://oll.libertyfund.org/titles/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958)
