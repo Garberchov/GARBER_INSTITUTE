@@ -50,6 +50,7 @@ This is not to say that this government is *objectively* perfect, as no governme
 
 ### III.1.a.c: Marx & Engels
 
+<!-- Does a sufficiently large resource/population base, the "world revolution" allow for socialism to work. no, that's dumb. -->
 
 ### III.1.a.d: East and West Germany
 
