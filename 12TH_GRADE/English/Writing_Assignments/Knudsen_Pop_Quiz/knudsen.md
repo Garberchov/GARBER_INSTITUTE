@@ -19,3 +19,6 @@ Knudsen was, in the spirit of the time, a "self-made man". He was not callous in
 ### Sources:
  - Beasley, Norman. *Knudsen: A Biography*. Pampona Press: 2017. Accessed 23 February 2024.
  - Britannica, The Editors of Encyclopaedia. "William S. Knudsen". Encyclopedia Britannica, 23 Apr. 2023, https://www.britannica.com/biography/William-S-Knudsen. Accessed 23 February 2024.
+
+### Feedback/Grade:
+My heart is racing - I can FEEL your excitement!! 95 / 100 -- only demerit points for run ons, and grammar hiccups that we MUST fix pre collegiate writing.  For a pop quiz - you had your idea and gave the excitement back to me. But as we advance to next stage we have to be sure that even in short form, all the pieces (structure, content, presentation) are on par. 
