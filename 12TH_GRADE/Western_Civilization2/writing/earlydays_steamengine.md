@@ -11,8 +11,7 @@ Create a summary session on the early days of steam egine, and its immediate imp
  - I. Introduction
  - II. Who Invented the Steam Engine?
  - III. What made the steam engine so important?
- - IV. Impacts on sparking the Industrial Revolution
-
+-  IV. Conclusion
 
 #### I. Introduction
 In my opinion, the steam engine is the second most important invention in human history. The only thing that surprasses it is the printing press, for its unparalleled ability to perpetuate and spread the ideas of human civilization. However, the steam engine was the first human creation that allowed humanity to harness nature in a fundamentally new way - not just an improvement on nature, a fundamental change in the way humans interacted with the world. The steam engine was the first machine that allowed an exponential increase in human productivity, instead of just a linear increase(even if a very steep linear increase like water wheels), allowing for a new era of human history - the Industrial Revolution.
@@ -31,9 +30,21 @@ So to answer the question of who invented the steam engine, Hero of Alexandria -
 
 #### III. What made the steam engine so important?
 
-> "Science owes more to the steam engine than the steam engine owes to science." - Lawrence Joseph Henderson
+> "Science owes more to the steam engine than the steam engine owes to science." - Lawrence Joseph Henderson 
 
-The energy wealth--that fundamental currency of civilization--of humanity was never more increased by a single technology or innovation than by the steam engine. 
+The energy wealth--that fundamental currency of civilization--of humanity was never more increased by a single technology or innovation than by the steam engine. While the atomic age allowed for--even if not properly utilized to this day--a far greater amount of energy to be harnessed in absolute terms, the percentage increase in energy wealth was far greater with the steam engine. Before the steam engine, the only sources of non animal/human power were water and wind, and both of these were only practicable in extremely limited geographic areas. The steam engine could be used anywhere, and was not limited by the weather, the time of day, or the season. Give it coal or wood, and you had more power than anything else in history. This is not hyperbole, according to [www.encyclopedie-energie.org](https://arc.net/l/quote/dsmqgmim), in 1800 the world consumption of energy(in MTOE, or million tons of oil equivalent) was 305 - 7 from coal, 298 from traditional biomass: wood, charcoal, manure. Note that this does not include the energy from wind or water, but that does not change the fundamental point. By 2000, the world consumption of energy was 9,242 MTOE, and has continued to accelerate to near 15,000 MTOE today.
+
+Without the steam engine, this unbelievable increase in energy wealth--a measure near-directly tied to human prosperity--would have been impossible. Even today, with all of the advances in technology and energy generation, in oil, natural gas, and nuclear power, they still spin steam turbines to generate electricity, effectively an incredibly advances and efficient version of the original technology. More than that, as a singular technology it led to the industrial revolution, which itself was a proliferation of technologies and innovations that compounded on each other, leading to the world we live in today. Just look at these two graphs:
+
+![GDP Straight Line](https://humanprogress.org/wp-content/uploads/2016/12/Most-Important-Graph-1.jpg)
+![Global Primary Energy Consumption](global-primary-energy.png)
+
+In both graphs, human wealth and energy consumption were relatively constant for most of human history--asymptoting near zero--and then the industrial revolution hit, caused by the steam engine, and both skyrocketed. While the most common criticism of these graphs is that they are either cherry-picked, which is demonstrably false just by looking at the pre-industrial revolution part of the first graph, or that the increase in wealth and energy consumption is a bad thing, leading to pollution and climate change, which is illogical for two main reasons. The first is that the increase in energy wealth has led to the greatest growth of human prosperity, population, and life expectancy in human history, and the second that is climate change is a *luxury* problem, the good kind that only comes from being so prosperous that you might actually be able to have it happen to you. This doesn't deny the negative effects of climate change, but the same industry that brought us to this point, dealing with climate change as a result of gigantic prosperity is inevitably the same industry and prosperity that will solve it. It is a technical problem, and much like Watt and his condenser, we will find a solution.
+
+#### IV. Conclusion
+
+This is in no way an exhaustive exploration of the steam engine, nor was it meant to be. I would gladly spend a decade writing about the development and impacts of the steam engine, but for this limited scope I hope to have provided a brief but comprehensive understanding of the steam engine and its impacts, and why we all owe it, and its inventors, a debt of gratitude. The society we live in today, the civilization our species has created, is intimately tied to this single invention, a token of human genius and ingenuity, and a testament to the power of human industry and the human mind. The steam engine, and the industrial revolution it sparked, is the most important event in human history, and the single greatest driver of human prosperity and wealth.
+
 
 #### Sources:
  - [Britannica](https://www.britannica.com/technology/history-of-technology/Steam-locomotive)
