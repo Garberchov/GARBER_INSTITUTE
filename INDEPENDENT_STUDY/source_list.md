@@ -78,3 +78,7 @@
     - [Swiss Tourism Growth](https://www.statista.com/outlook/mmo/travel-tourism/switzerland)
     - [The Agreement on Mutual Recognition in relation to Conformity Assessment](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02002A0430(05)-20171222)
     - [Switzerland Stays in Schengen](https://www.bbc.com/news/world-europe-54316316)
+    <!-- KEYNES AND BEVERIDGE RESEARCH -->
+    - [What is Keynesian Economics?](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htms)
+    - [The Beveridge Report (Social Insurance and Allied Services)](https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf)
+    - [Keynesian Economics Theory: Definition and How It's Used](https://www.investopedia.com/terms/k/keynesianeconomics.asp)
