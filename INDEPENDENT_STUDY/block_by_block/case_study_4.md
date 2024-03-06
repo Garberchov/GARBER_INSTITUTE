@@ -46,7 +46,7 @@ This is not to say that this government is *objectively* perfect, as no governme
 
 ### III.1.a.b: Keynes & Beveridge 
 
-
+In the same way that Hayek and Friedman are often put together due to similarities in their political and economic beliefs, Keynes and Beveridge are often put together due to the similarities in what their policy implementations look like when put into practice. It is important to note that their actual recommendations are far from identical, but they are similar enough that they provide a 'band' of economic policy--and its effects on public policy--that can be analyzed in the same way as Hayek and Friedman. There are two critical points of difference between the two, which are the basis of their policy recommendations and their recommendations for the structural implementation of those policies. These differences--outstripped by their similitaries, but notable in defining the outer boundaries of their 'band' of thinking--are given context when examined under the lens of their professions: Keynes was an academic, and then a practicing economist, while Beveridge was a civil servant. These professions unto themselves do not arbitrarily lend support to either of their policy recommendations, but they are telling of the different methods and mindsets that each man held while conceiving of their policy recommendations and their basis.
 
 ### III.1.a.c: Marx & Engels
 

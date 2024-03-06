@@ -10,7 +10,7 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 
 3. Garrison, Roger W. "Hayek and Friedman: Head to Head". n.d. Auburn University. [https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf](https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf)
 
-4. Beveridge, William. "Social Insurance and Allied Services". 1942. [The Beveridge Report](http://pombo.free.fr/beveridge42.pdf)
+4. Beveridge, William. "Social Insurance and Allied Services". 1942. [The Beveridge Report](https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf)
 
 5. Hayek, Friedrich. "The Pretense of Knowledge". 1974. [Nobel Prize Acceptance Speech](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/)
 
@@ -20,8 +20,12 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 
 8. Hayek, Friedrich. "The Denationalization of Money". 1976. [The Denationalization of Money](https://archive.org/details/DenationalisationOfMoneyTheArgumentRefined)
 
-<!-- Cite https://mises.org/library/economic-calculation-socialist-commonwealth/html  -->
-
 9. Mises, Ludwig von. "Economic Calculation In the Socialist Commonwealth". 1920. [Mises Institute](https://mises.org/library/economic-calculation-socialist-commonwealth/html)
 
 10. Read, Leonard E. "I, Pencil: My Family Tree as Told to Leonard E. Read". 1958. [Online Library of Liberty](https://oll.libertyfund.org/titles/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958)
+
+11. Jahan, Sarwat. "What is Keynesian Economics". 2014. [IMF](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm)
+
+12. "Keynesian Economics Theory: Definition and How It's Used". 2023. [Investopedia](https://www.investopedia.com/terms/k/keynesianeconomics.asp)
+
+13. Keynes, John Maynard. "The General Theory of Employment, Interest, and Money". 1936. [The General Theory of Employment, Interest, and Money](http://keynes-general-theory.com/generaltheory.pdf)
