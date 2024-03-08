@@ -11,3 +11,4 @@ The 800 pound gorilla in a dark corner of the room is China--relatively then, In
 
 To wrap up what could become a 20 page essay pretty quickly, the relationship between India, Pakistan, and Bangladesh--formerly just one country--is a complex one due largely to the legacy of Imperialism, religious differences, and the strategic interests of the great powers. When China, the *regional* superpower, is throwing itself into the mix in a Bismarckian fashion, the situation becomes even more complicated. Combined with Russia's interests in the region--specifically energy and arms sales--and the United States' continued desire to support democratic and free-market institutions in the region, the subcontinent earns its third place ranking in the world for geostrategic powder kegs(behind the Taiwan Strait and the area including and surrounding Israel). 
 
+Ch. 24 and 25--100/A
