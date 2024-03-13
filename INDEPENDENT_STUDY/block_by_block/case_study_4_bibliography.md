@@ -29,3 +29,9 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 12. "Keynesian Economics Theory: Definition and How It's Used". 2023. [Investopedia](https://www.investopedia.com/terms/k/keynesianeconomics.asp)
 
 13. Keynes, John Maynard. "The General Theory of Employment, Interest, and Money". 1936. [The General Theory of Employment, Interest, and Money](http://keynes-general-theory.com/generaltheory.pdf)
+
+14. Hegelund, Dan. "The Keynesian/Austrian Debate". 2012. Örebro University, Sweden.
+
+<!-- Full employment in a free society,  https://archive.org/details/in.ernet.dli.2015.228995 -->
+
+15. Beveridge, William "Full Employment in a Free Society". 1944. [Internet Archive](https://archive.org/details/in.ernet.dli.2015.228995/page/n1/mode/2up)
