@@ -32,6 +32,20 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 
 14. Hegelund, Dan. "The Keynesian/Austrian Debate". 2012. Örebro University, Sweden.
 
-<!-- Full employment in a free society,  https://archive.org/details/in.ernet.dli.2015.228995 -->
-
 15. Beveridge, William "Full Employment in a Free Society". 1944. [Internet Archive](https://archive.org/details/in.ernet.dli.2015.228995/page/n1/mode/2up)
+
+16. Marx, Karl. Engels, Friedrich "The Communist Manifesto". 1848. [Marxists Internet Archive](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
+
+17. "Communism: Karl Marx to Joseph Stalin". n.d. [University of North Carolina](https://europe.unc.edu/iron-curtain/history/communism-karl-marx-to-joseph-stalin/)
+
+<!-- https://www.econlib.org/library/Enc/Communism.html -->
+
+18. Caplan, Bryan. "Communism". n.d. [Econlib](https://www.econlib.org/library/Enc/Communism.html)
+
+19. Chen, James. "What Is Communism?" 2023. [Investopedia](https://www.investopedia.com/terms/c/communism.asp)
+
+20. Schumpeter, Joseph. "Capitalism, Socialism, and Democracy". 1942. Physical copy.
+
+<!-- https://www.investopedia.com/terms/l/labor-theory-of-value.asp -->
+
+21. "Labor Theory of Value". 2023. [Investopedia](https://www.investopedia.com/terms/l/labor-theory-of-value.asp)
