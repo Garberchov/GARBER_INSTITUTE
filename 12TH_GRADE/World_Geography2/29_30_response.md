@@ -12,3 +12,11 @@ Vietnam is another country that has seen a lot of change in the last few decades
 The Phillipines could be the definition of a "mixed-bag" - the country has seen significant economic growth, specifically in global services, and has a young and fairly large population to draw from. However, the country is also known for its political instability, corruption, and human rights abuses. The country has also seen a rise in authoritarianism, with the former president, Rodrigo Duterte, being openly supportive of extrajudicial killings of drug dealers and users, as well as political opponents. He did lose office in 2022, but the country is still struggling with the aftermath of his rule. He did significant damage to the nation's democratic institutions, as well as their geostrategic alignment with the US, by trying to weasel into China's pocket. Despite this, the country could be a great example of what can be achieved with good geostrategic sense, aligning with the US to form a Japan-Phillipines-Vietnam-Indonesia-India-Australia barrier to Chinese expansionism, with the 9-dash line being a major point of contention.
 
 In conclusion, South East Asia is on the rise - unfortunately, that rise includes a lot of strongmen, corruption, and environmental issues as a result of rapid development and the aforementioned corruption. Despite this, the region holds some of the world's fastest economic and population growth, and will be emerging as strong players on the world stage within the next decades.
+
+#### Teacher Response: 
+```
+Ch. 29 and 30--100/A
+
+When I was in Vietnam, I struggled to even remember it was supposed to be communist because of all the capitalism. But I remembered when we had to register at the hotel so that government knew where we were, and at the war museum which was an interesting display of anti-American propaganda. "Communism" felt like government control and not at all economic.
+
+```
