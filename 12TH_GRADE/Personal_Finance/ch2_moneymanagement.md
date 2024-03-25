@@ -1,0 +1,31 @@
+### Andrew Garber
+### march 25 2024
+### Personal Finance
+### Chapter 2: Money Management
+
+
+#### 2.1. Financial Goals
+ - Financial goals are goals you set that revolve around finances or money. Financial goals are targets, usually driven by specific future financial needs. Some financial goals you might set as an individual include saving for a comfortable retirement, saving to send your children to college, or managing your finances to enable a home purchase.
+ - short term goals are those that can be achieved in three months or less based on your current income.
+ - medium term goals are those that are between three months to one year - this is the time frame to save for a vacation.
+ - long term goals are those that take more than a year to achieve, such as saving for a down payment on a house or a car.
+ - Financial goals should be specific, measurable, achievable, relevant, and time-bound (SMART).
+ - Saving and investing are the best ways to do this - though investing is better for intermediate and long-term goals as the return is better and short-term market pressures generally iron out over time, presuming a good investment strategy.
+
+#### 2.2. Calculating A Personal Cash Flow Statement
+ - The purpose of a cash flow statement is to track the net change in your cash over time. So, one of the first things you need to do is decide what time frame you want to track. Companies, and most people, typically settle on monthly.
+ - Once you figure out the time frame, you need to start tracking your cash inflow. This is all the cash that you receive. An important note to remember: You need to receive the cash. If you split the dinner check and your friend says, 'I'll pay you my half later,' you don't count that as income because you haven't received the cash yet. If you get $20 from your grandmother for your birthday, you do count it. Your goal isn't to determine how much cash you can expect to receive every month, but to track the exact amount you bring in. Fluctuations are okay.
+ - As much fun as it is to see the money that comes in, the goal of a cash flow statement is to track where and when it goes out, too. So, the second part of the statement is to see where the cash goes out. This part can be tricky, for a number of reasons. First of all, it's hard to keep track of all your cash outflows. You might have the habit of throwing a dollar or four quarters in a vending machine for a snack break. You might give $5 to the disenfranchised gentleman on the street playing guitar. You might lend your friend $10 for a movie ticket. All of this is cash going out, but when you sit down at the end of the day to track it, remembering all of those quick decisions can be difficult.
+ - The second reason it's difficult to track cash going out is that there are so many ways to spend money now, it might be tough to realize when you spend cash. For example, if you use your credit card to pay for lunch, do you count it in your cash outflow? Not the day you spend it; your cash didn't go out. But, what if you make a payment on your credit card balance by the end of the month with cash from your checking account? Then you would record it the day you made the payment, because your cash went out.
+ - It always hurts more to see the money go out than it does to see it come in, but that is part of the process.
+ - At the end of the month, you should have two numbers: your total cash coming in and your total cash going out. Hopefully, the first number is larger than the second. If it is, you could put it in your savings account to save for Cancun or some other kind of fun! If it's not, you might need to borrow from your savings. Either way, now you know, so you can track your trends and make sure you're spending responsibly.
+
+#### 2.3. Balance Sheet
+ - A balance sheet is a financial statement that takes a point-in-time picture of the financial state of the company, by listing all assets owned and all liabilities owed.
+ - Let's start with preparing your balance sheet. A personal balance sheet typically isn't a difficult document to prepare. In summary, all you do is list all of your assets - anything you own that has financial value - and all of your liabilities - any debt or financial obligations you have the responsibility to pay. Here you can see an example of a simple balance sheet:
+ - ![alt text](https://study.com/cimages/multimages/16/beaf9659-49cb-45c5-bbb9-4b688c9065d6_personal_balance_sheet.jpg)
+ - After you list your assets and liabilities, you list the values of the assets and the balance of the liabilities, and then total up both categories. These numbers will rarely be the same; you don't want them to be. The difference between your assets and liabilities is called your net worth. Basically, your net worth is how much cash you would have if you sold all of your assets and paid off all your debt.
+ - Hopefully your net worth is positive, but it isn't for everyone, and this is okay. It's important to remember in personal finance to consider your stage of life. When you are younger, you may be paying off student loans - something that would show up on your balance sheet as a liability but not have a corresponding asset. Over time, as you pay down that loan, your net worth will rise.
+ - Even if you don't own 100% of an asset, include it on your balance sheet. This is most likely the case with your house and car, or a company. You can include them because you'll be listing the percent you don't own (the balance on the loan) on the liabilities side of the balance sheet. So, if you have a $15,000 car and still owe $10,000 on the loan, you'll end up listing the car as an asset and the loan as a liability, and in the end, it will add $5,000 to your net worth ($15,000 - $10,000).
+ - Your liabilities are the balances of the debt you have and obligations to other people. This is an important part of listing your liabilities - do not list the payment on the debt, list the balance of the debt. If your car payment is $200 per month on a $10,000 loan, your liability would be $10,000, not $200.
+ - Business liabilities are a whole different matter, especially considering the structure of the business.
