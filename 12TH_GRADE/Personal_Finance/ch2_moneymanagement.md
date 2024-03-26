@@ -10,7 +10,7 @@
  - medium term goals are those that are between three months to one year - this is the time frame to save for a vacation.
  - long term goals are those that take more than a year to achieve, such as saving for a down payment on a house or a car.
  - Financial goals should be specific, measurable, achievable, relevant, and time-bound (SMART).
- - Saving and investing are the best ways to do this - though investing is better for intermediate and long-term goals as the return is better and short-term market pressures generally iron out over time, presuming a good investment strategy.
+ - Saving and investing are the best ways to do this - though investing is better for intermediate and long-term goals as the return is better and short-term market pressures generally iron out over time, presuming a good investment strategy. 
 
 #### 2.2. Calculating A Personal Cash Flow Statement
  - The purpose of a cash flow statement is to track the net change in your cash over time. So, one of the first things you need to do is decide what time frame you want to track. Companies, and most people, typically settle on monthly.
@@ -29,3 +29,20 @@
  - Even if you don't own 100% of an asset, include it on your balance sheet. This is most likely the case with your house and car, or a company. You can include them because you'll be listing the percent you don't own (the balance on the loan) on the liabilities side of the balance sheet. So, if you have a $15,000 car and still owe $10,000 on the loan, you'll end up listing the car as an asset and the loan as a liability, and in the end, it will add $5,000 to your net worth ($15,000 - $10,000).
  - Your liabilities are the balances of the debt you have and obligations to other people. This is an important part of listing your liabilities - do not list the payment on the debt, list the balance of the debt. If your car payment is $200 per month on a $10,000 loan, your liability would be $10,000, not $200.
  - Business liabilities are a whole different matter, especially considering the structure of the business.
+
+#### 2.4. Personal Budget
+ - Just like companies need a budget, individuals need to have an understanding of how much money they're earning and what their expenses are. A personal budget is an analysis of income or money available and how that money is spent. In creating a personal budget, it is important to establish a savings and donation plan. Additionally, it is important to evaluate expenses and understand which expenses can be decreased, if necessary. To create an effective budget, there are four key elements.
+ - Every expert will tell you to pay yourself first. However, establishing the amount you want to put in savings and the amount you want to contribute to a charitable or religious organization is important. If you were to make this the fourth step, it's probable there wouldn't be any money left. It is critical to put some money into savings with every paycheck, even if the amount is very small. This habit will allow you to build security and have resources available in case of an emergency or unexpected financial need.
+ - Within each of our lives, there are non-negotiable expenses that must be paid. These types of expenses include mortgages, car payments, utilities, set fees, and monthly expenses. It also includes food, clothing, household repairs, and other necessary costs that may not happen every month but need to be considered and included in the budget.
+ - The non-essential expenses should be budgeted last because they're usually flexible. Non-essential expenses include entertainment, fun expenses, and items you want but are not necessary for survival. This isn't social darwinism; it's just a fact of life. If you don't have enough money to pay your mortgage, you'll lose your house. If you don't have enough money to pay for a movie, you'll miss out on a movie. It's important to prioritize your expenses.
+
+#### 2.6. Spending Wisely
+ - Closely linked to budgeting, let's move on to planned purchasing. This is when one avoids impulse buying and researches larger expenditures before purchasing. This is a good way to avoid buyer's remorse. Buyer's remorse is when you regret a purchase after you've made it. This can happen for a number of reasons, but it's usually because you didn't think the purchase through. You might have bought something on a whim, or you might have bought something without doing any research. Either way, you're left with a product you don't want or need, and you're out the money you spent on it. 
+ - Before you buy something, spend at least some time considering it and ensuring it holds some value to you.
+ - Speaking of repairs, this leads us to our last piece of advice for becoming a wise consumer: protect yourself and your purchase. Don't give out personal information on random websites, and don't buy from websites that don't have a secure payment system. Don't be an idiot.
+ - 
+
+#### 2.7. Household Expenses
+ -Expenses are defined as the cost of running a household. Expenses are also separated by fixed and variable. Examples of fixed expenses are rent, car payment, credit card payments, insurance, and student loan payments. Variable expenses can include gas for your car, utilities, food, and cell phone service.
+
+![ch2](12TH_GRADE/Personal_Finance/media/ch2.png)
