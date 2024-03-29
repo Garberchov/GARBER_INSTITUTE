@@ -12,3 +12,9 @@ Australia has always been hot--but it's getting still hotter. The nation is one 
 Australia's status as a commonwealth member and former British colony has led to a strong alignment with western nations, particularly the US, UK, and EU. This alignment has proven extremely beneficial to Australia, as large mutually beneifical trade and security relationships have been formed. Despite this, they are an ocean away--nearer partners in the region like Indonesia, Japan, South Korea, and its quirkier neighbor New Zealand are critical in providing the bullwark against China that the US Navy would need in event of a war. Australia's salvation, technologically, economically, and militarily, is in its collaboration with these nations, supplementing its own capabilities instead of trying to go it alone.
 
 In conclusion, the path for Australia will be a rocky one in the coming years. It is a high wealth nation with a small population, small industrial base, and an over-reliance on resources for its material wealth. It is likely to feel some of the worst effects of climate change, and its most powerful allies are oceans away. The path forward will require a careful collaboration with local and global partners, as well as the consideration of sometimes contradictory interests in the realms of security, economics, and ideology.
+
+
+#### Teacher Response: 
+```
+Ch. 32--100/A
+```
