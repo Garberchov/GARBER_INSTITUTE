@@ -49,3 +49,7 @@ Note: This is a list of sources used for Case Study #4 on the economic philosoph
 <!-- https://www.investopedia.com/terms/l/labor-theory-of-value.asp -->
 
 21. "Labor Theory of Value". 2023. [Investopedia](https://www.investopedia.com/terms/l/labor-theory-of-value.asp)
+
+22. Pipes, Richard. "The Russian Revolution". 1990, Random House. Physical copy.
+
+23. Moshe, Lewin. "Soviet Bureaucracy in Historical Perspective". 1996. [University of Pennsylvania](https://www.ucis.pitt.edu/nceeer/1996-810-13-Lewin.pdf)
