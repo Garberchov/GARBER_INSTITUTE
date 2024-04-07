@@ -57,16 +57,11 @@ III.2: How would the numerically greater but significantly poorer areas of the w
 		- III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
 			- II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be.
 			- II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
-		- III.2.a.b: How would the world government ensure that the wealth drain on the wealthy areas is not permanent, and that the poorer areas of the world are able to become self-sufficient and self-sustaining?
-			- III.2.a.b.i: Case Study on the failures of foreign aid in Africa, and how the world government would have to avoid these failures.
-		- III.2.a.c: If a wealth drain is necessary, what would be the highest priority/return on investment(not for businesses, but for the long-term stability of the world government) areas to invest in?
-			- III.2.a.c.i: Case Study on the Post-WWII Japanese economic miracle, and where the greatest growth was relative to the investment.
- - III.2.b: How would the world government ensure that the poorer areas of the world are not exploited by the richer areas of the world, or by large conglomerates in a second "Scramble for Africa"? Is this something that can be structurally built in and prevented, or must it be policed on a case-by-case basis?
-	- III.2.b.a: Case study on large oil companies in Nigeria and the Congo(and others if found in research) and how they have limited the development of the countries they are in.
-	- III.2.b.b: Case study on the Banana Republics of Central America, and how they were exploited by large companies.
- - III.2.c: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all?  
+			- II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort.
+		- III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
+ - III.2.b: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all?  
 	 - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and poorer nations like India to the United States.
-	 - III.2.c.b: Should it be prevented? 
+	 - III.2.c.b: Should it be prevented? Is there value in preventing it?
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
  - III.3.a: Finland vs USA vs Canada taxation and government spending.
@@ -85,13 +80,7 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
 	 - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 	 - III.4.c.a: Connection to II.1.a, Switzerland economic growth from its bilateral agreements with the EU.
- - III.4.d: Is this just the maximum extent of comparative advantage? Is the end state here(not the end *goal*) the maximally efficient production of goods by the locality that can produce them the most efficiently, with a highly intertwined system of trade and economic growth. 
-	- Smith's "Wealth of Nations" does reference it, use the quote.
-	- Ricardo's "Principles of Political Economy and Taxation" is the foundation of it, use the quote.
-	- There is no case study here, but a theoretical application of an economic principle - nothing to this scale has ever been tried before. Even the most likely comparison point, the EU, has too many extentuating factors to be a good comparison point(there is wealth dispartiy between EU nations, but not as significant as the world as a whole).
-	- Hayek's epistemological argument against central planning that no one person or group of people can know enough about the relevant factors of the economy as a whole or the personal desires of every individual to be able to make better decisions than the market mechanism. 
-
-
+	 - 
 III.5: Addressing some economic problems inherent to a global nation.
 	- III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined?
 		- III.5.a.a: The Roman Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include.
@@ -100,12 +89,7 @@ III.5: Addressing some economic problems inherent to a global nation.
 		- III.5.b.a: Brief discussion of the causes of corruption, and their lasting effects on the economy and society.
 		- III.5.b.b: Case Study on Singapore, and how they were able to eliminate corruption(though it was done through semi-autocratic means).
 ## IV: Consideration of Political&Systemic Structures for a Global Government
-IV.1: [RELATED TO III.2] How would the political power of the numerically greater, but significantly poorer areas of the world be balanced against the much wealthier but numerically inferior areas? 
- - IV.1.a: Should greater per-person political power according to wealth be implemented? 
- - IV.1.b: If not, how would tyranny-of-the-majority redistribution efforts be prevented? Is this something that can be fixed electorally, or is it a taxation structure?
- - IV.1.b.i: Point to new taxation structures in III.3
-
-IV.2: Hold-outs from before the Global Nation.
+IV.1: Hold-outs from before the Global Nation.
  - IV.2.a: One of the preconditions was that the government structures of all the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
  - IV.2.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled?
 	- IV.2.b.a: What happened to the debt of the Confederate States of America after the American Civil War? 
@@ -115,14 +99,14 @@ IV.2: Hold-outs from before the Global Nation.
 	- IV.2.c.a: I do not believe that any past example is relevant in this case, as it would the patents of EVERY country in the world being merged into a single patent/intellectual properly market.
 	- IV.2.c.b: Is a grandfathered phase-out of patents the best way to handle this?
 
-IV.3: On what bounds would lower levels of government be structured upon
+IV.2: On what bounds would lower levels of government be structured upon
  - > It has already been established by this point that it is a unitary state, not a federation or union in the sense of the European Union. Leaving is not an option. The question here is what the "provinces" of the Global Nation would be, what their powers would be, and how they would be structured. 
  - IV.3.a: Would the Global Nation be federalist, unitary, or directly controlled by the central government?
 	- IV.3.a.i: Case Study on the United States, and how it follows the federalist model.
 	- IV.3.a.ii: Case Study on France(find paper I wrote on France vs Israel Government Structure), and how it follows the unitary model.
 	- IV.3.a.iii: The combination structure of some elements of federalism for innovations in government structure & function that can be tried on a smaller scale, some elements of unitary government for efficiency and standardization, and some elements of direct control/direct democracy for citizen buy-in and decision making.
 
-IV.4: Inherent Problems with the Global Nation
+IV.3: Inherent Problems with the Global Nation
  - IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less? 
 	- IV.4.b: Defeating Cardwell's Law, and how the Global Nation would have to be structured to prevent it.
 		- IV.4.b.i: Cardwell's Law: "States can only be innovative/technically creative for a limited period of time, after which point they move about the pace of every other state"
@@ -132,9 +116,9 @@ IV.4: Inherent Problems with the Global Nation
 	- IV.4.c: The Roman Empire fell due to its lack of external competitors to unite, drive forward, and focus its efforts. How would the Global Nation avoid this fate?
 		- IV.4.c.i: Case Study on the Roman Empire, and how it fell due to a lack of external competitors.
 		- IV.4.c.ii: Case Study on the United States, and how it hasn't been able to avoid this fate(in large part - it can still avoid it, but is trending inward, isolationist, and protectionist).
-	- IV.4.d: With no external competitors, how would the Global Nation avoid tyranny, especially through intervention in the economy?
+	- IV.4.d. Is tyranny of the majority, of wealthy vs poor as the divide, going to lead to demands of wealth redistribution?
 
-IV.5: Structures for Citizen Participation/Government Structure.
+IV.4: Structures for Citizen Participation/Government Structure.
 	- IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
 		- IV.5.a.i: Tie back to Switzerland, and their implementation of direct democracy.
 		- IV.5.a.ii: The United States as a general example of a representative democracy.
