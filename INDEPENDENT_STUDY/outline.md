@@ -59,9 +59,6 @@ III.2: How would the numerically greater but significantly poorer areas of the w
 			- II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
 			- II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort.
 		- III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
- - III.2.b: How would a mass flight of human capital from the poorer areas of the world to the richer areas of the world be prevented, if it should be prevented at all?  
-	 - III.2.c.a: Case Study on the "brain drain" from wealthy places like Ireland, and poorer nations like India to the United States.
-	 - III.2.c.b: Should it be prevented? Is there value in preventing it?
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
  - III.3.a: Finland vs USA vs Canada taxation and government spending.
@@ -80,6 +77,7 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
 	 - III.4.b.b: Quotes from "The Industrial Revolutionaries" by Gavin Weightman.
  - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
 	 - III.4.c.a: Connection to II.1.a, Switzerland economic growth from its bilateral agreements with the EU.
+ - III.4.d: No brain drain, because only the people with specialized professions would move(and they will anyway). production of those "brains" now spreads more widely.
 	 - 
 III.5: Addressing some economic problems inherent to a global nation.
 	- III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined?
