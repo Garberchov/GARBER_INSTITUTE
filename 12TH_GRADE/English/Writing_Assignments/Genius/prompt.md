@@ -1,0 +1,7 @@
+### Prompt for "Genius" Essay:
+Genius comes in many forms and is a QUALITY that we (as a society) have tried to QUANTIFY when it comes to individual achievement.  
+Using and CITING evidence from the two texts - compare / contrast the experience of Leonardo Da Vinci and Alfred Sloan in their given areas, with a discussion of how they "came up/into" their respective areas of expertise (&how that experience shaped their future accomplishments), how they each themselves nurtured the qualities they identified as important for their success, and where their weaknesses were / are identified - did they do things to correct them? live with them? never realized but others have judged them?   
+Ultimately -- include some discussion of why "broader society" can tag them as GENIUS ...try to capture the sparkle and give it to me in words. 
+Be SPECIFIC about the individuals.  Be SPECIFIC in your examples and discussion.  USE EXAMPLES TO DESCRIBE YOUR POINTS. 
+Do not use "I / we" - do NOT use should / could / would construction ad nauseum; any OUTSIDE sources should be cited at end and in parenthetical references (eg. Sloan's best dinner creation was meatloaf (Craft  24)." (then in Work Cited page   Craft, Robert. The Genius of Alfred Sloan. New York:  Bantam Books, 2022.
+Pay attention to tenses - not everything is PAST tense ... "Alfred's genius is categorized as limited because of his business focus." Not WAS ... *IS*. 

@@ -11,3 +11,14 @@ The second example is the islands of Oceania. The islands of Oceania are small, 
 The final example here is New Zealand, the little-island-that-could. New Zealand, while not small, is geographically isolated--so much so that it keeps getting cut off maps--but despite this is temperate, fertile, and holds a few resources. It has developed a small, if high-tech, economic base that is growing at a steady pace. This is a simple case of "more is better", New Zealand could increase density and just go "up-and-to-the-right" economically, geostrategically, and in terms of quality of life(where it is already doing well). Make it easier to build things, make it easier to start companies, get government out of the way, and New Zealand could be a major player on the world stage despite its isolation. There is a pathway here for New Zealand to start "grabbing" talented engineers, scientists, and entrepreneurs from around the world who can't get into the US or Europe due to poor immigration policies, and build itself a massively resilient, rapidly growing economy as a tech-hub. Please do this New Zealand, I beg of you.
 
 In conclusion, population is awesome and Australasia needs more of it. The potential for growth in the region is massive, and it is largely being held back by a series of cold-start problems that could be solved with a concerted effort by just one nation to make Australasia easy and attractive to move to. Samoa could drop immigration restrictions to near-zero and create the next Silicon Valley, Australia could terraform the Outback and become the world's breadbasket, and New Zealand could be the world leader in robotics. Get on it Australasia, I believe in you.
+
+
+Teacher Response:
+```
+Blackline map Australia--100/A
+Blackline map Southwest Asia--100/A
+Blackline map Africa--100/A
+Blackline map South Asia--100/A
+Ch. 33--100/A
+
+```
