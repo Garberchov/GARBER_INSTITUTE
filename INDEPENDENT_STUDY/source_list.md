@@ -87,3 +87,7 @@
 https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race
 https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1126&context=history_theses
 https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1837&context=ils
+https://www.elizabethan.org/compendium/21.html	
+Against Borders: Why the World Needs Free Movement of People by Alex Sager
+Pew Research Center, "U.S. Tarriffs vary a lot, but the highest duties tend to be on imported clothing", 2018.
+https://www.pewresearch.org/wp-content/uploads/2018/12/FT_18.03.19_Tariffs_BiggestImports.png
