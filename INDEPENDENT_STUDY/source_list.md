@@ -82,3 +82,8 @@
     - [What is Keynesian Economics?](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm)
     - [The Beveridge Report (Social Insurance and Allied Services)](https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf)
     - [Keynesian Economics Theory: Definition and How It's Used](https://www.investopedia.com/terms/k/keynesianeconomics.asp)
+
+<!-- INTRODUCTION -->
+https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race
+https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1126&context=history_theses
+https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1837&context=ils
