@@ -126,7 +126,7 @@ IV.4: Structures for Citizen Participation/Government Structure.
 
 V.1: How does the political structure of the Global Nation prevent the dominance of a single culture, or the dominance of political entity on the lines of cultural identity, while still allowing for free expression?
 	- V.1.a: This question comes into play especially in the case of ethic or cultural groups starting to form political parties or entities for the sole benefit of their own group, instead of a party on ideological lines. Should this be prevented? If not, how would it be prevented from doing harm to the stability and freedom of the Global Nation while not infringing on the freedoms of the group?
-
+	<!-- This is going to come back to the representation part of it, is it unitary, federal, etc. -->
 V.2. How would cultural checks and balances be made to allow for free expression of individuals, whilst preventing what might be seen as gross oppression in one culture and normal in another.
  - V.2.a: This becomes a question of whether the Global Nation has a cultural relativist or universalist philosophical view, and if so, how is it enforced. 
 	- V.2.a.i: For example, there is a belief from some Western Points of View that the Hijab that Muslim woman must wear is an affront to the self-determination and self-expression of that woman. How would the Global Nation handle this?
