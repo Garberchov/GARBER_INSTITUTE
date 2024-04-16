@@ -11,3 +11,7 @@ The vastness also makes infrastructure difficult to build. Roads, railways, port
 New Zealand suffers from this problem in a slightly different manner: it is far smaller, and can certainly connect its population with roads and rail, but the gap between North and South Island(I personally feel they should build a bridge or tunnel) required constant ferry service, and that dramatically cuts down on what would be "easy" travel between the two islands. This would be the largest bridge in the world, and I personally feel that it would be a great boon economically, geostrategically(soft power - "yeah, we built the biggest bridge in the world"), and for the people of New Zealand. It would be a massive project, but I think it would be worth it.
 
 In conclusion, the trait defining Oceania is its vastness and emptiness. This has led to a great deal of diversity in the region, but also to challenges in communication, infrastructure, and economic development. The region is home to some of the most remote places on Earth, and the people who live there are often cut off from the rest of the world for many months of the year. The internet has helped to bridge some of these gaps, but the physical distances between places in Oceania remain a major obstacle to development.
+
+
+### Teacher Response:
+Ch. 34--100/A
