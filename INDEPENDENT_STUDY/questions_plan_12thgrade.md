@@ -2,6 +2,8 @@
 ### May 23
 ### Independent Study on The Structure and Effects of the Global Integration of Geopolitical Boundaries 
 
+<!-- NOTE FROM APRIL 17 2024, ALMOST A YEAR LATER - MUCH OF THIS IS NO LONGER RELEVANT -->
+
 #### Premise, preconditions, and preliminary questions to be answered:
  - The world is becoming more and more globalized and intertwined internationally through trade, communication, and travel.
  - This paper is not about the political, economic, or military causes of the creation of a singular global nation, encompassing all of the world's people, but rather the effects of this and to suggest a potential structure for this global nation.

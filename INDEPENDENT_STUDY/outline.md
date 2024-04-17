@@ -4,17 +4,19 @@
 
 ## I: Premise and Introduction
 
+
 I.1: Vision of an integrated world, free of borders and boundaries between people, ideas, information, and goods. 
  - I.1.a: Borders are artificial constructs, a human invention, individuals are no different from each other based on where they were born, and only exist as the relic of a bygone era of tribalism and fiefdom.
  - I.1.b: Reasons why making an integrated world is necessary, a discussion of the systemic failings and missed opportunities of the current world of borders, boundaries, and friction between nations.
 	- I.1.b.a: Amount of resources wasted on international conflict, and how that lessened tax burden(NOT state spending being redirected to social programs) could further the prosperity of humanity.
 	- I.1.b.b: The exponential effects of the elimination of barriers for ideas and humans would lead to a considerable increase in the rate of innovation, and the subsequent increase in the rate of economic growth. Silicon Valley is a prime example of this, due to having a high concentration of innovative people and capital, it has led the world in technological innovation for decades.
- - *Thesis Statement*, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single world government, and the benefits in the political, economic, cultural, and social spheres of such a government.
- - I.1.c. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
-	- I.1.c.a: Name for "The Global Nation" - "Global Nation" is a general political science term, but we need a name for the specific Global Nation that is the subject of this paper.
-	- I.1.c.b: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
-	- I.1.c.c: The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
- - I.1.d: Fundamental beliefs and values of the Global Nation.
+*Thesis Statement*, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single world government, and the benefits in the political, economic, cultural, and social spheres of such a government.
+ - I.1.D. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
+	- I.1.d.a: Name for "The Global Nation" - "Global Nation" is a general political science term, but we need a name for the specific Global Nation that is the subject of this paper.
+	- I.1.d.b: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
+	- I.1.d.c: The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
+
+
 ## II: What has been tried, and what has failed.
 
 II.1. The EU

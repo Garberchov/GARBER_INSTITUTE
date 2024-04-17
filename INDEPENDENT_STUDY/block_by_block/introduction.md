@@ -11,12 +11,15 @@ I.1: Vision of an integrated world, free of borders and boundaries between peopl
 	- I.1.b.a: Amount of resources wasted on international conflict, and how that lessened tax burden(NOT state spending being redirected to social programs) could further the prosperity of humanity.
 	- I.1.b.b: The exponential effects of the elimination of barriers for ideas and humans would lead to a considerable increase in the rate of innovation, and the subsequent increase in the rate of economic growth. Silicon Valley is a prime example of this, due to having a high concentration of innovative people and capital, it has led the world in technological innovation for decades.
 *Thesis Statement*, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single world government, and the benefits in the political, economic, cultural, and social spheres of such a government.
- - I.1.c. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
-	- I.1.c.a: Name for "The Global Nation" - "Global Nation" is a general political science term, but we need a name for the specific Global Nation that is the subject of this paper.
-	- I.1.c.b: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
-	- I.1.c.c: The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
- - I.1.d: Fundamental beliefs and values of the Global Nation.
-
+ - I.1.D. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
+	- We will not be discussing how the Global Nation would be formed, as this is not a sci-fi novel, but a political/economic/social analysis.
+	- The world is in a fundamentally similar state to today, meaning no nuclear war, no world war.
+	- It must be assumed that the people of the world do not desire a monarchy, dictatorship, plutocracy, or any other form of government that is not a democracy in some form.
+	- It must be assumed that the people of the world desire this, this is not a conquering of the world, but a unification of it. Additionally to this, there are no exceptions: North Korea will be a part of it.
+	- Military matters will not be discussed, as this is a paper on the economic, political, and social implications of a Global Nation, not a military analysis nor a general staff plan.
+	- The transition period of fazing out old institutions, except when specifically mentioned, will not be included. That is something that the representative body of the Global Nation would have to decide.
+	- The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
+	- GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
 
 NOTE: Don't be so didactic that my mom throws up.
 ```
@@ -56,6 +59,12 @@ Contrary to the popular perception of monoculture states as more stable than mul
 #### I.1.C: The Structure, Function, and Benefits of the Formation of a Global Nation
 <!-- Thesis -->
 The jealously-guarded divisions between nations hinder human progress, prosperity, and fellowship by restricting the free movement of people, ideas, goods, and capital. The formation of a Global Nation that eliminates these barriers is desirable to enable humanity to reach its full potential across all spheres of life. This paper will examine the historical attempts at forming a Global Nation, or the closest approximations thereof, propose potential economic and political structures for a world government, explore the societal and cultural implications, and analyze the immense benefits of a unified world, including accelerated economic growth, increased innovation, greater cultural exchange, and a more just and peaceful society. Ultimately, the unification of humanity under a single flag is necessary for us to overcome the challenges we face, safeguard our planet and our species, and achieve our highest aspirations as a species. 
+
+#### I.1.D: Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
+
+Before proceeding further, it is necessary to establish some preconditions, premises, terminology, assumptions, and non-relevant topics for the discussion of a Global Nation. Some things are necessary to be established, while it must be cemented that others cannot or will not be covered in this paper as they are either not relevant or cannot be established with sufficient certainty to be worthy of inclusion or debate. 
+
+
 
 ### Footnotes:
 [^1]: In a global nation which is a unitary state, if it is a federalist model then some of the individual states may have different levels of social services, but the World Government in its highest-level provides the same baseline level of funding for whatever level of social services are implemented globally.
