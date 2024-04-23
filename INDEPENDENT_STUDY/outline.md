@@ -49,7 +49,10 @@ II.3: The League of Nations - why did it fail? What can its lack of adoption, an
 
 III.1: What is the economic philosophy of the world government? How much intervention/interference does it have over the economy?
 
-- III.1.a: Is it a free market, planned economy, or something in between? - III.1.a.a: Hayek & Friedman. - III.1.a.b: Keynes & Beveridge. - III.1.a.c: Marx & Engels - III.1.a.d: Case Study on East and West Germany, and the superiority of the West German model which is still visible. - III.1.a.e: Case Study on South and North Korea, and the superiority of the South Korean model which is _literally_ visible from space. - III.1.a.f: Case Study on the United States and Denmark, with the United States being a more free-market economy, and Denmark being a comparatively more planned economy(democratic socialism).
+- III.1.a: Is it a free market, planned economy, or something in between?
+  - III.1.a.a: Hayek & Friedman.
+  - III.1.a.b: Keynes & Beveridge.
+  - III.1.a.c: Marx & Engels
 
 III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?
 

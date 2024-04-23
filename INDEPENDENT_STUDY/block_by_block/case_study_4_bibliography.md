@@ -1,9 +1,13 @@
 ### Andrew Garber
-### Independent Study 
-### Case Study 3 Bibliography
+
+### Independent Study
+
+### Case Study 4 Bibliography
+
 ```
 Note: This is a list of sources used for Case Study #4 on the economic philosophy of the world government. It is done in ASPA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
 ```
+
 1. Hayek, Friedrich. "The Road to Serfdom." 2007. University of Chicago Press.
 
 2. Hall, Mary. "Austrian School of Economics". 2021. [Investopedia](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp)
