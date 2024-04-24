@@ -1,8 +1,10 @@
 ### Andrew Garber
+
 ### World Geography 2
+
 ### Chapter 34: Australia, Oceania, Antarctica
 
-Oceania(for today, this will include Antarctica and Australia for simplicity) has one notable characteristic that outshines all others: it is *huge*. More than this, within that huge-ness, it is incredibly sparse. Australia, the most populous of the three, has a population of only 25 million people, less than Texas. New Zealand has only about 5 million, and there are but a few million more spread across the whole of Oceania - Antarctica has no permanent residents at all. This is a region of the world that is defined by its emptiness, and the challenges that come with that.
+Oceania(for today, this will include Antarctica and Australia for simplicity) has one notable characteristic that outshines all others: it is _huge_. More than this, within that huge-ness, it is incredibly sparse. Australia, the most populous of the three, has a population of only 25 million people, less than Texas. New Zealand has only about 5 million, and there are but a few million more spread across the whole of Oceania - Antarctica has no permanent residents at all. This is a region of the world that is defined by its emptiness, and the challenges that come with that.
 
 Even in the era of the internet, the vast distances between cities and towns in Oceania make communication difficult. The region is home to some of the most remote places on Earth, and the people who live there are often cut off from the rest of the world. This isolation has historically led to a great deal of diversity in the region, with many different cultures and languages coexisting in "island worlds" that are separated by vast stretches of ocean. In the modern day, it means that trying to get things, people, or information from one place to another can be a real challenge. In addition, it hampers their economic development, as building any kind of industry on such tenuous supply lines is difficult.
 
@@ -12,6 +14,8 @@ New Zealand suffers from this problem in a slightly different manner: it is far 
 
 In conclusion, the trait defining Oceania is its vastness and emptiness. This has led to a great deal of diversity in the region, but also to challenges in communication, infrastructure, and economic development. The region is home to some of the most remote places on Earth, and the people who live there are often cut off from the rest of the world for many months of the year. The internet has helped to bridge some of these gaps, but the physical distances between places in Oceania remain a major obstacle to development.
 
-
 ### Teacher Response:
+
 Ch. 34--100/A
+
+MEGACITY: Megacity project--100/A
