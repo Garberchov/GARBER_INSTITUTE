@@ -29,4 +29,4 @@ Nation comparisons will be somewhat brief, but will be used to illustrate the ra
 
 <!-- Taxation as a window into model of objectively scalable government, which will be discussed more widely in political structures as part of federalism vs unitary; parlimentary vs direct. -->
 
-<!-- Minimally Graduated Progressive Tax -->
+<!-- Minimally Graduated Progressive Tax, flat tax from 12 to 18% on all sales save for food and housing. -->
