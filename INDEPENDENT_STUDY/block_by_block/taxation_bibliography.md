@@ -49,3 +49,9 @@ Note: This is a list of sources used for the case study on Taxation Structures f
 20. "Taxing Wages - the United States". 2024. [OECD](https://www.oecd.org/tax/tax-policy/taxing-wages-united-states.pdf)
 
 21. Friedman, Milton. "Why Government is the Problem". 1993. Hoover Instituion.
+
+22. Brainerd, Jackson. "What Happens When States Ditch Income Tax for Sales Tax?" 2023. [NCSL](https://www.ncsl.org/state-legislatures-news/details/what-happens-when-states-ditch-income-tax-for-sales-tax)
+
+23. Netzer, Dick. "Land Value Taxation". 1998. [Lincoln Institute of Land Policy](https://www.lincolninst.edu/publications/articles/land-value-taxation)
+
+24
