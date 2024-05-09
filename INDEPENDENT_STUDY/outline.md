@@ -56,7 +56,12 @@ III.1: What is the economic philosophy of the world government? How much interve
 
 III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?
 
-- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the world government to ensure consistency] - III.2.a.a: Case Study on the Marshall Plan, and how it was a success. - II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be. - II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer. - II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort. - III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
+- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the world government to ensure consistency]
+  - III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
+    - II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be.
+    - II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
+    - II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort.
+  - III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
 
 III.3: Discussion of taxation structures, and how to balance them against huge regional differences in both income AND cost of living.
 
@@ -78,7 +83,9 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
 - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
   - III.4.c.a: Connection to II.1.a, Switzerland economic growth from its bilateral agreements with the EU.
 - III.4.d: No brain drain, because only the people with specialized professions would move(and they will anyway). production of those "brains" now spreads more widely. -
-  III.5: Addressing some economic problems inherent to a global nation. - III.5.a: How would currency devaluation be prevented? With no external currency to compare to, how would the value of the currency be determined? - III.5.a.a: The Roman Empire suffered heavily from this problem, but the Solidus was able to prevent this problem for a time. Historical Reference to include. - > Picking, designing, or planning the implementation of a currency is not in the scope of this paper, but structurally preventing currency devaluation and runaway inflation(without another currency to balance against) is. - III.5.b: Many of the former-nations now part of the Global Nation have suffered from endemic corruption - what would be the Global Nation's anti-corruption policy & strategy. - III.5.b.a: Brief discussion of the causes of corruption, and their lasting effects on the economy and society. - III.5.b.b: Case Study on Singapore, and how they were able to eliminate corruption(though it was done through semi-autocratic means).
+- III.5: Many of the former-nations now part of the Global Nation have suffered from endemic corruption - what would be the Global Nation's anti-corruption policy & strategy.
+  - III.5.a: Brief discussion of the causes of corruption, and their lasting effects on the economy and society.
+  - III.5.b: Case Study on Singapore, and how they were able to eliminate corruption(though it was done through semi-autocratic means).
 
 ## IV: Consideration of Political&Systemic Structures for a Global Government
 
