@@ -27,3 +27,17 @@ Note: This is a list of sources used for the case study on anti-corruption. It i
 9. Seng, Lin Yi, Martin, Andrew. "Anti-Corruption in Singapore". n.d. [Global Compliance News](https://www.globalcompliancenews.com/anti-corruption/anti-corruption-in-singapore/)
 
 10. Eleftherios Spyromitros, and Minas Panagiotidis. "The impact of corruption on economic growth in developing countries and a comparative analysis of corruption measurement indicators". 2022. [Cogent Economics & Finance](https://www.tandfonline.com/doi/full/10.1080/23322039.2022.2129368?scroll=top&needAccess=true)
+
+11. "Why Corruption Occurs". 2023. [GIACC](https://giaccentre.org/why-corruption-occurs/)
+
+12. Tanzi, Vito. "Corruption Around the World: Causes, Consequences, Scope, and Cures". 1998. [IMF](https://www.imf.org/external/pubs/ft/wp/wp9863.pdf)
+
+13. "Argentina Risk Report". 2020. [Gan Integrity](https://www.ganintegrity.com/country-profiles/argentina/)
+
+14: "Corruption Perceptions Index 2023". 2023. [Transparency International](https://www.transparency.org/en/cpi/2023)
+
+15. "Office of Overseas Prosecutorial Development, Assistance, and Training (OPDAT)". n.d. [U.S. Department of Justice](https://www.justice.gov/criminal/criminal-opdat)
+
+16. Wyden, Ron. "Wyden Statement on Clarence Thomas's Forgiven Quarter Million Dollar RV Loan". 2024. [U.S. Senate Finance Committee](https://www.finance.senate.gov/chairmans-news/wyden-statement-on-clarence-thomass-forgiven-quarter-million-dollar-rv-loan)
+
+17. Wasielewski, Philip. "The Roots of Russian Military Dysfunction". 2023. [Foreign Policy Research Institute]

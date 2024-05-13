@@ -14,3 +14,4 @@ Note: This is a list of sources used for the introduction. It is done in ASPA (A
 4. Elizabethan. "More Religion". N.d. [Elizabethan](https://www.elizabethan.org/compendium/21.html)
 5. Sager, Alex. "Against Borders: Why the World Needs Free Movement of People". 2019. [Academia.edu](https://www.academia.edu/43291472/Against_Borders_Why_the_World_Needs_Free_Movement)
 6. Desilver, Drew. "U.S. tariffs vary a lot, but the highest duties tend to be on imported clothing". 2018. [Pew Research Center](https://www.pewresearch.org/short-reads/2018/03/28/u-s-tariffs-vary-a-lot-but-the-highest-duties-tend-to-be-on-imported-clothing/)
+7. "What is Corruption". n.d. [Transparency International](https://www.transparency.org/en/what-is-corruption)
