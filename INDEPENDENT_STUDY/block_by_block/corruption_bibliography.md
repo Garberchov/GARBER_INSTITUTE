@@ -40,4 +40,6 @@ Note: This is a list of sources used for the case study on anti-corruption. It i
 
 16. Wyden, Ron. "Wyden Statement on Clarence Thomas's Forgiven Quarter Million Dollar RV Loan". 2024. [U.S. Senate Finance Committee](https://www.finance.senate.gov/chairmans-news/wyden-statement-on-clarence-thomass-forgiven-quarter-million-dollar-rv-loan)
 
-17. Wasielewski, Philip. "The Roots of Russian Military Dysfunction". 2023. [Foreign Policy Research Institute]
+17. Wasielewski, Philip. "The Roots of Russian Military Dysfunction". 2023. [Foreign Policy Research Institute](https://www.fpri.org/article/2023/03/the-roots-of-russian-military-dysfunction/)
+
+18. "University Module Series: Anti-Corruption, Transparency as a precondition." n.d. [UNODC](https://www.unodc.org/e4j/en/anti-corruption/module-6/key-issues/transparency-as-a-precondition.html)
