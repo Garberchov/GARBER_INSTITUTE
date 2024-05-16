@@ -89,28 +89,28 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
 
 ## IV: Consideration of Political&Systemic Structures for a Global Government
 
-IV.1: Hold-outs from before the Global Nation.
-
-- IV.2.a: One of the preconditions was that the government structures of all the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
-- IV.2.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled?
-  - IV.2.b.a: What happened to the debt of the Confederate States of America after the American Civil War?
-  - IV.2.b.c: What happened to the debt of the East German government after German reunification?
-  - IV.2.b.d: Is the "price of doing business" for the creation of the Global Nation the cancelling out of all state to state debt(obviously privately held debt would not be affected in this case), or is an addition to that wealth transfer mechanism relative to indebtedness the better way to handle this[III.2.a]?
-- IV.2.c: How would patents and intellectual property be handled? If one person owns a patent in one country, and another person in another country, and they are now both a part of the Global Nation, who owns the sole rights to the patent?
-  - IV.2.c.a: I do not believe that any past example is relevant in this case, as it would the patents of EVERY country in the world being merged into a single patent/intellectual properly market.
-  - IV.2.c.b: Is a grandfathered phase-out of patents the best way to handle this?
+- IV.1: Hold-overs from before the Global Nation.
+  - IV.1.a: One of the preconditions was that the government structures of all the world's nations would be transferred to the Global Nation - how would a transition to new government structures be handled?
+  - IV.1.b: How would national debt be handled? Would it be forgiven, or would it be transferred to the Global Nation? The Global Nation can't owe and be paid by itself, so how would this be handled? - IV.1.b.a: What happened to the debt of the Confederate States of America after the American Civil War?
+    - IV.1.b.c: What happened to the debt of the East German government after German reunification?
+  - IV.1.b.d: Is the "price of doing business" for the creation of the Global Nation the cancelling out of all state to state debt(obviously privately held debt would not be affected in this case), or is an addition to that wealth transfer mechanism relative to indebtedness the better way to handle this[III.2.a]?
+    - IV.1.c: How would patents and intellectual property be handled? If one person owns a patent in one country, and another person in another country, and they are now both a part of the Global Nation, who owns the sole rights to the patent? - IV.2.c.a: I do not believe that any past example is relevant in this case, as it would the patents of EVERY country in the world being merged into a single patent/intellectual properly market. - IV.2.c.b: Is a grandfathered phase-out of patents the best way to handle this?
 
 IV.2: On what bounds would lower levels of government be structured upon
 
-- > It has already been established by this point that it is a unitary state, not a federation or union in the sense of the European Union. Leaving is not an option. The question here is what the "provinces" of the Global Nation would be, what their powers would be, and how they would be structured.
-- IV.3.a: Would the Global Nation be federalist, unitary, or directly controlled by the central government?
+<!-- Lower government having a lot of freedom, just an offshoot. -->
+
+- IV.3.a: Would the Global Nation be federalist, unitary, or something else?
+
   - IV.3.a.i: Case Study on the United States, and how it follows the federalist model.
   - IV.3.a.ii: Case Study on France(find paper I wrote on France vs Israel Government Structure), and how it follows the unitary model.
   - IV.3.a.iii: The combination structure of some elements of federalism for innovations in government structure & function that can be tried on a smaller scale, some elements of unitary government for efficiency and standardization, and some elements of direct control/direct democracy for citizen buy-in and decision making.
+    <!-- Objectively scaleable - so like a scaled down, distributed version of central structure and philosophy. -->
 
-IV.3: Inherent Problems with the Global Nation
+- IV.4: Inherent Problems with the Global Nation
 
 - IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less?
+
   - IV.4.b: Defeating Cardwell's Law, and how the Global Nation would have to be structured to prevent it.
     - IV.4.b.i: Cardwell's Law: "States can only be innovative/technically creative for a limited period of time, after which point they move about the pace of every other state"
     - IV.4.b.ii: How would the Global Nation be structured to prevent this? Is it possible to structurally prevent it.
@@ -121,7 +121,12 @@ IV.3: Inherent Problems with the Global Nation
     - IV.4.c.ii: Case Study on the United States, and how it hasn't been able to avoid this fate(in large part - it can still avoid it, but is trending inward, isolationist, and protectionist).
   - IV.4.d. Is tyranny of the majority, of wealthy vs poor as the divide, going to lead to demands of wealth redistribution?
 
-IV.4: Structures for Citizen Participation/Government Structure. - IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely? - IV.5.a.i: Tie back to Switzerland, and their implementation of direct democracy. - IV.5.a.ii: The United States as a general example of a representative democracy. - IV.5.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation. - IV.5.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy into a cohesive form, and how it interacts with a system of objectively scalable government(see III.3).
+- IV.4: Structures for Citizen Participation/Government Structure.
+- IV.5.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
+  - IV.5.a.i: Tie back to Switzerland, and their implementation of direct democracy.
+  - IV.5.a.ii: The United States as a general example of a representative democracy.
+  - IV.5.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
+  - IV.5.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government(see III.3).
 
 ## V: Consideration of Cultural&Social Structures for a Global Government
 
