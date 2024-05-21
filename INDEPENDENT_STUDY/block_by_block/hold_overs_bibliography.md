@@ -17,3 +17,11 @@ Note: This is a list of sources used for the case study on hold-overs from the s
 4. Miller, E. T. "Debt of the Republic of Texas." 2020. [Handbook of Texas Online](https://www.tshaonline.org/handbook/entries/debt-of-the-republic-of-texas)
 
 5. "The Annexation of Texas, the Mexican-American War, and the Treaty of Guadalupe-Hidalgo, 1845–1848". n.d. [U.S. Department of State Office of the Historian](https://history.state.gov/milestones/1830-1860/texas-annexation)
+
+6. Acquaviva, Guido. "The Dissolution of Yugoslavia and the Fate of its Financial Obligations". 2002. [Denver Journal of International Law and Policy](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1470&context=djilp)
+
+7. "Amendmnet XIV". 1868. [National Archives](https://www.archives.gov/milestone-documents/14th-amendment)
+
+8. Guinnane, Timothy. "Financial Vergangenheitsbewältigung: The 1953 London Debt Agreement." 2015. [Economic Growth Center Yale University](http://www.econ.yale.edu//growth_pdf/cdp880.pdf)
+
+9. "30 Years of German Unity - two German patent offices merged to become one office". 2020. [German Patent and Trade Mark Office](https://www.dpma.de/english/our_office/about_us/history/30yearsofgermanunity/index.html)
