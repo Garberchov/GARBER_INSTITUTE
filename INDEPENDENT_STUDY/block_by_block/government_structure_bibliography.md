@@ -21,3 +21,11 @@ Note: This is a list of sources used for the case study on the governmental stru
 6. Longley, Robert. "What is a Unitary State?". 2022. [ThoughtCo](https://www.thoughtco.com/unitary-state-government-pros-cons-examples-4184826)
 
 7. Hamilton, Alexander, Madison, James, and Jay, John. "The Federalist Papers". 1787. [ETH Zurich](https://www.files.ethz.ch/isn/125481/5008_Federalist%20Papers.pdf)
+
+8. "The Executive Branch". n.d. [The White House](https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/)
+
+9. "The Government of the United States". n.d. [U.S. Government Manual](https://www.usgovernmentmanual.gov/ReadLibraryItem.ashx?SFN=Myz95sTyO4rJRM/nhIRwSw%3D%3D&SF=VHhnJrOeEAnGaa/rtk/JOg%3D%3D)
+
+10. "Structure of the United States Federal Government". 2021. [Simple Legal Guides](https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government)
+
+11. "U.S. Department of Transportation Organization Chart". 2017. [U.S. Department of Transportation](https://www.transportation.gov/org-chart)
