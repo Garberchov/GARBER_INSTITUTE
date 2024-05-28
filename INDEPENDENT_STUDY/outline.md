@@ -105,26 +105,27 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
   - IV.2.a.iv: Include mention of what bounds lower levels of government would be structured upon in this new system - what would be their function, what would be their powers, how much latitude would they have in their decision making processes - must include relative to citizen participation in government, which hasn't been discussed yet.
     <!-- Objectively scaleable - so a scaled down, distributed version of central structure and philosophy. -->
 
-- IV.3: Inherent Problems with the Global Nation
+- IV.3: Structures for Citizen Participation/Government Structure.
+- IV.3.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
 
-- IV.3.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less?
+  - IV.3.a.i: Tie back to Switzerland, and their implementation of direct democracy.
+  - IV.3.a.ii: The United States as a general example of a representative democracy.
+  - IV.3.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
+  - IV.3.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government.
 
-  - IV.3.b: Defeating Cardwell's Law, and how the Global Nation would have to be structured to prevent it.
-    - IV.3.b.i: Cardwell's Law: "States can only be innovative/technically creative for a limited period of time, after which point they move about the pace of every other state"
-    - IV.3.b.ii: How would the Global Nation be structured to prevent this? Is it possible to structurally prevent it.
-      - IV.3.b.ii.a: Case Study on the United States, and how it has been able to avoid Cardwell's Law for so long.
-      - IV.3.b.ii.b: Case Study on the United Kingdom, and how it was a victim of Cardwell's Law.
-  - IV.3.c: The Roman Empire fell due to its lack of external competitors to unite, drive forward, and focus its efforts. How would the Global Nation avoid this fate?
-    - IV.3.c.i: Case Study on the Roman Empire, and how it fell due to a lack of external competitors.
-    - IV.3.c.ii: Case Study on the United States, and how it hasn't been able to avoid this fate(in large part - it can still avoid it, but is trending inward, isolationist, and protectionist).
-  - IV.3.d. Is tyranny of the majority, of wealthy vs poor as the divide, going to lead to demands of wealth redistribution?
+- IV.4: Inherent Problems with the Global Nation
 
-- IV.4: Structures for Citizen Participation/Government Structure.
-- IV.4.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
-  - IV.4.a.i: Tie back to Switzerland, and their implementation of direct democracy.
-  - IV.4.a.ii: The United States as a general example of a representative democracy.
-  - IV.4.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
-  - IV.4.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government.
+- IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less?
+
+  - IV.4.b: Defeating Cardwell's Law, and how the Global Nation would have to be structured to prevent it.
+    - IV.4.b.i: Cardwell's Law: "States can only be innovative/technically creative for a limited period of time, after which point they move about the pace of every other state"
+    - IV.4.b.ii: How would the Global Nation be structured to prevent this? Is it possible to structurally prevent it.
+      - IV.4.b.ii.a: Mention the United States, and how it has been able to avoid Cardwell's Law for so long.
+      - IV.4.b.ii.b: Mention the United Kingdom, and how it was a victim of Cardwell's Law.
+  - IV.4.c: The Roman Empire fell due to its lack of external competitors to unite, drive forward, and focus its efforts. How would the Global Nation avoid this fate?
+    - IV.4.c.i: Mention the Roman Empire, and how it fell due to a lack of external competitors.
+    - IV.4.c.ii: Mention the United States, and how it hasn't been able to avoid this fate(in large part - it can still avoid it, but is trending inward, isolationist, and protectionist).
+  - IV.4.d. Is tyranny of the majority, of wealthy vs poor as the divide, going to lead to demands of wealth redistribution?
 
 ## V: Consideration of Cultural&Social Structures for a Global Government
 
