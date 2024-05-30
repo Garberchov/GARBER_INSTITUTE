@@ -29,10 +29,31 @@ The United States, partly as a function of its federalism but also as an intenti
 
 Technodemocracy, as described by Jason M. Hanania in _Architecture of a Technodemocracy_[^2], is a system of government that uses technology to allow for the direct participation of the citizenry in the day-to-day functioning of the state, keeps the state accountable, and allows for the state to be more directly responsible for acting contrary to the interests of the voters. The foundational tenets of it are rapid peer-to-peer communication, electronic(internet/blockchain) voting on day-to-day and long-term issues, and the power of the people to recall their representatives at any time. As Hanania describes it, "each group member would have communication power, option power, decision power, and accountability power, equal to that of any other group member, including representatives. The representatives would simply carry out the decisions of the group (Hanania)." This is a powerful model for the Global Nation, as it allows for the day-to-day management to be off-loaded to representatives as long as they act rigteously in service of their constituents, with an immediate and continual check on their power. The structure of Hanania's technodemocratic model is far more extensive than this, but functionally the keys are explained in this example.
 
+<!-- combination of all for the unique use case of a global nation-->
+
+<!-- remove executive recall - we 4 year terms, but can't have year of 4 emperors. -->
+
+The Global Nation's system of citizen participation would combine the fundamental principles of a hybrid direct and representative democracy, the checks and balances of a specifically compartmentalized representative democracy, and modern improvements on democracy itself through the use of technology in the form of a technodemocracy. This system would include the relevant useful mechan isms from each of these and counterbalance their flaws through thoughtful combination and re-imagining, and would functionally allow for the direct will of the people to be enacted in the day-to-day functioning of the state, their representatives' interests being held in direct correlation to their constituents, and the public trust mantained and expanded as a function of the state's total and immediate accountability to the people. While the daily operations of this system at the Town/City, State/Province, and Federal levels would be different and will be examined next, first the structure of the executive must be addressed, as the executive is as much a representative of the people as the legislative. While direct recall of the executive is an attractive notion in theory--an identical system to that of the legislative branch wherein if the executive is not acting in the direct interests of the citizenry they can be removed after a petition of a certain percentage of the citizenry--the Global Nation's executive, and those of the lower levels structured in the same way, need the stability of a fixed term to avoid the chaos of something akin to the "Year of the Four Emperors" in Rome. While a direct recall measure might work well at the Town/City level, or possibly even the State/Province level, at the Federal level it is functionally untenable as the executive, elected for their experience and character, must be allowed to govern under the mandate of that election. Checks and balances still do exist, as the agenda of any executive must be doubly approved by the citizenry and the legislature as a function of the unique dual legislative process of the Global Nation, and the judiciary holds a similar check on the executive as it does in the United States. The executive must be allowed to exercise their power, perhaps even in the face of public opposition, as long as they are within the bounds of the law of the Global Nation, and subject to censure by the citizenry and the legislature as a matter of course.
+
+<!-- DUAL LEGISLATIVE PROCESS, approval by citizenry and by legislature, veto by executive - over ride at 60%.  -->
+
+To return to the legislative branch, the unique dual legislative process of the Global Nation is worthy of more thorough inspection to flesh out the mechanisms and reasoning behind it.
+
+<!-- how it would look at Town/City -->
+
+In the smaller scale implementation of this structure of citizen participation applied to the Town/City level, and in appreciation of the objectively scalable model of government organization of the Global Nation, significant and sweeping changes--within the limited conception of righteous government operations--could be affected by the direct will of the politically active citizenry[^3]. While all levels would be identical functionally, details of local implementation such as number of representatives in the legislative branch--from city council to a full legislature in the mega-cities of the world--would be decided by the votes of the citizenry,
+
+<!-- Dual legislative process, approval by citizenry  -->
+
+<!-- how it would look at State/Province -->
+
+<!-- how it would look at Federal -->
+
 #### Footnotes
 
 [^1]: When talking about the will of the public in this context, it is referring to the many individual thoughts, opinions, and desires of the citizenry, and not a "general will" as described by Rousseau. A "general will" allows for conceptions of "the greater good" or "the common interest" to be used as a justification for the imposition of the will of the state on the individual, coercion, and this is expressly against what the Global Nation stands for, and what "the will of the people" is meant to represent in this context.
 [^2]: Hanania's book includes valuable insights into the implementation of technodemocratic principles into governance, but also includes some ideas that are entirely contrary to the principles of the Global Nation, most notably including the nationalization of the tech industry. His useful ideas are not less useful as a result of this, but this examination does not endorse--or utilize the ideas of--his book in its entirety.
+[^3]: The hope of the Global Nation is that the citizenry will be politically active, but inevitably some portion--though hopefully a small portion--will tune out politics entirely. This appears a natural consequence of the human condition, but as a function of the smaller scope of government in the Global Nation, those who are politically inactive will be less affected by the decisions of the politically active portion, as government fundamentally does less.
 
 #### Sources
 
@@ -41,7 +62,8 @@ Note: This is a list of sources used for the case study on the citizen participa
 ```
 
 1. Hanania, Jason M. "Architecture of a Technodemocracy." 2018. ISBN: 978-1-7321197-0-3
-<!-- Because sources will be combined in all case studies, I am *not* re-inputting the same sources from the Switzerland case study, nor those for France -->
+<!-- Because sources will be combined in all case studies, I am *not* re-inputting the same sources from the Switzerland case study -->
 2. Killian, H. Johnny. "The Constitution of the United States of America." 1994. [U.S. Senate](https://www.senate.gov/civics/resources/pdf/US_Constitution-Senate_Publication_103-21.pdf
 3. "The Federal Assembly (Parliament)". 2023. [About Switzerland](https://www.eda.admin.ch/aboutswitzerland/en/home/politik-geschichte/politisches-system/bundesversammlung.html)
 4. Alonso, Sonia; Keane, John; Merkel, Wolfgang. "Editors’ introduction: Rethinking the future of representative democracy". 2011. [Cambridge University Press](https://assets.cambridge.org/97805211/77030/excerpt/9780521177030_excerpt.pdf)
+5. Wasson, Donald L. "The Year of the Four Emperors & the Demise of Four Roman Legions". 2021. [World History Encyclopedia](https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/)
