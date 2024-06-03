@@ -113,7 +113,7 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
   - IV.3.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
   - IV.3.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government.
 
-- IV.4: Inherent Problems with the Global Nation
+- IV.4: Inherent Problems to Address with the Global Nation
 
 - IV.4.a: The Global Nation will by its nature have no outside competitor to compare itself to, and no outside force to keep it in check. How would this be handled? Are stronger institutions the answer here, or weaker ones? Is greater regional and local autonomy the answer here, or less?
 
