@@ -6,6 +6,8 @@
 
 #### Outline
 
+<!-- TODO: When revising, add something about naming the provinces just by number. We want to eliminate a kind of "allegiance" there. -->
+
 ```
 - IV.2.a: Would the Global Nation be federalist, unitary, or something else?
 
