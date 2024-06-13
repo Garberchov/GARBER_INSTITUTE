@@ -10,11 +10,10 @@ I.1: Vision of an integrated world, free of borders and boundaries between peopl
 
 - I.1.a: Borders are artificial constructs, a human invention, individuals are no different from each other based on where they were born, and only exist as the relic of a bygone era of tribalism and fiefdom.
 - I.1.b: Reasons why making an integrated world is necessary, a discussion of the systemic failings and missed opportunities of the current world of borders, boundaries, and friction between nations. - I.1.b.a: Amount of resources wasted on international conflict, and how that lessened tax burden(NOT state spending being redirected to social programs) could further the prosperity of humanity. - I.1.b.b: The exponential effects of the elimination of barriers for ideas and humans would lead to a considerable increase in the rate of innovation, and the subsequent increase in the rate of economic growth. Silicon Valley is a prime example of this, due to having a high concentration of innovative people and capital, it has led the world in technological innovation for decades.
-  _Thesis Statement_, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single world government, and the benefits in the political, economic, cultural, and social spheres of such a government.
+  _Thesis Statement_, a statement of the intended goal of the paper through a discussion of potential economic and political structures of a single Global Nation, and the benefits in the political, economic, cultural, and social spheres of such a government.
 - I.1.D. Preconditions, Premises, Terminology, Assumptions, and Non-Relevant Topics
-  - I.1.d.a: Name for "The Global Nation" - "Global Nation" is a general political science term, but we need a name for the specific Global Nation that is the subject of this paper.
-  - I.1.d.b: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
-  - I.1.d.c: The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
+  - I.1.d.a: GDP and GDP per capita are the primary metrics we will be using to measure the economic success/power of nations in this paper - standard of living does not adequately capture any innovation, industrial power, or economic influence that a nation has.
+  - I.1.d.b: The political science terms "left" and "right" will not be used in this paper, as they are specific to the political climates of individual nations. The philosophies themselves will be the terms used, such as "democratic socialism" or "libertarianism" instead of "left" and "right".
 
 ## II: What has been tried, and what has failed.
 
@@ -32,9 +31,9 @@ II.1. The EU
     - II.1.a.ii.a: Strengthened the Swiss economy, from tourism, greater labor market, and manufacturing standards.
     - II.1.a.ii.b: Made it easier for Swiss citizens to travel abroad.
 
-II.2: Case study on the UN - is it not a world government? Why not? Is it the foundation a global government could be built on?
+II.2: Case study on the UN - is it not a Global Nation? Why not? Is it the foundation a global government could be built on?
 
-- II.2.a: UN in Korea, the closest that the UN came to genuinely acting as a world government.
+- II.2.a: UN in Korea, the closest that the UN came to genuinely acting as a Global Nation.
 - II.2.b: The UN's fall from international grace and influence.
 
 II.3: The League of Nations - why did it fail? What can its lack of adoption, and lack of 'teeth' tell us about the pitfalls that must be avoided in a global government?
@@ -47,7 +46,7 @@ II.3: The League of Nations - why did it fail? What can its lack of adoption, an
 
 ## III: Consideration of Economic Structures for a Global Government
 
-III.1: What is the economic philosophy of the world government? How much intervention/interference does it have over the economy?
+III.1: What is the economic philosophy of the Global Nation? How much intervention/interference does it have over the economy?
 
 - III.1.a: Is it a free market, planned economy, or something in between?
   - III.1.a.a: Hayek & Friedman.
@@ -56,7 +55,7 @@ III.1: What is the economic philosophy of the world government? How much interve
 
 III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?
 
-- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the world government necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the world government to ensure consistency]
+- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the Global Nation necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the Global Nation to ensure consistency]
   - III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
     - II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be.
     - II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
@@ -136,9 +135,12 @@ V.1: How does the political structure of the Global Nation prevent the dominance
 V.2. How would cultural checks and balances be made to allow for free expression of individuals, whilst preventing what might be seen as gross oppression in one culture and normal in another.
 
 - V.2.a: This becomes a question of whether the Global Nation has a cultural relativist or universalist philosophical view, and if so, how is it enforced.
-  - V.2.a.i: For example, there is a belief from some Western Points of View that the Hijab that Muslim woman must wear is an affront to the self-determination and self-expression of that woman. How would the Global Nation handle this?
-  - V.2.a.i: In another example, should a certain age be mandated to wait until before you can accept a specifically religious or cultural practice? For example, should a child in the Christian faith be able to be baptized before they have a certain number of years of life experience? If they aren't declared old enough to vote as they do not have sufficient cognitive ability to make that decision, why should they be able to join a religion? Does that not infringe on their fundamental rights of self-expression and self-determination[I.1.d]?
 
 ### VI: Conclusion
 
-- VI.1: Why Give Up Sovereignty? - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation. - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation? Use them as the example of a nation that despite great wealth would benefit from the Global Nation. - VI.1.a.ii: Back to Nigeria, an example of a poor but growing nation that would benefit from the Global Nation for their own reasons: economic growth, political stability, elimination of corruption, integration into the global economy. - VI.1.a.iii: Back to the United States, an example of a nation that would benefit from the Global Nation despite already being the most powerful, wealthiest, and most influential nation in the world. - VI.1.b: Summary of the benefits of the Global Nation, and how it would be a net benefit for all of humanity.
+- VI.1: Why Give Up Sovereignty?
+  - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation.
+    - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation? Use them as the example of a nation that despite great wealth would benefit from the Global Nation.
+    - VI.1.a.ii: Back to Second Marhshall Plan, and the effective short-term bribe to the poorer regions of the world to speed up development to ensure long-term stability of the Global Nation.
+    - VI.1.a.iii: Back to the United States, an example of a nation that would benefit from the Global Nation despite already being the most powerful, wealthiest, and most influential nation in the world.
+  - VI.1.b: Summary of the benefits of the Global Nation, and how it would be a net benefit for all of humanity.
