@@ -5,55 +5,53 @@
 ### Case Study 4 Bibliography
 
 ```
-Note: This is a list of sources used for Case Study #4 on the economic philosophy of the world government. It is done in ASPA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
+Note: This is a list of sources used for Case Study #4 on the economic philosophy of the world government. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
 ```
 
-1. Hayek, Friedrich. "The Road to Serfdom." 2007. University of Chicago Press.
+1. Hayek, Friedrich. 2007. _The Road to Serfdom_. University of Chicago Press.
 
-2. Hall, Mary. "Austrian School of Economics". 2021. [Investopedia](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp)
+2. Hall, Mary. 2021. "Austrian School of Economics." Investopedia. Accessed June 21, 2024. [https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp).
 
-3. Garrison, Roger W. "Hayek and Friedman: Head to Head". n.d. Auburn University. [https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf](https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf)
+3. Garrison, Roger W. n.d. "Hayek and Friedman: Head to Head." Auburn University. Accessed June 21, 2024. [https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf](https://webhome.auburn.edu/~garriro/hayek%20and%20friedman.pdf).
 
-4. Beveridge, William. "Social Insurance and Allied Services". 1942. [The Beveridge Report](https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf)
+4. Beveridge, William. 1942. _Social Insurance and Allied Services_. Accessed June 21, 2024. [https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf](https://ia904705.us.archive.org/29/items/in.ernet.dli.2015.275849/2015.275849.The-Beveridge.pdf).
 
-5. Hayek, Friedrich. "The Pretense of Knowledge". 1974. [Nobel Prize Acceptance Speech](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/)
+5. Hayek, Friedrich. 1974. "The Pretense of Knowledge." Nobel Prize Acceptance Speech. Accessed June 21, 2024. [https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/).
 
-6. Friedman, Milton. "Free to Choose". 1980. Harcourt Brace Jovanovich.
+6. Friedman, Milton. 1980. _Free to Choose_. Harcourt Brace Jovanovich.
 
-7. Ravier, Adrian. "Friedrich Hayek on Monetary and Banking Systems Reform". 2020 [Journal of New Finance](https://jnf.ufm.edu/cgi/viewcontent.cgi?article=1006&context=journal)
+7. Ravier, Adrian. 2020. "Friedrich Hayek on Monetary and Banking Systems Reform." _Journal of New Finance_. Accessed June 21, 2024. [https://jnf.ufm.edu/cgi/viewcontent.cgi?article=1006&context=journal](https://jnf.ufm.edu/cgi/viewcontent.cgi?article=1006&context=journal).
 
-8. Hayek, Friedrich. "The Denationalization of Money". 1976. [The Denationalization of Money](https://archive.org/details/DenationalisationOfMoneyTheArgumentRefined)
+8. Hayek, Friedrich. 1976. _The Denationalization of Money_. Accessed June 21, 2024. [https://archive.org/details/DenationalisationOfMoneyTheArgumentRefined](https://archive.org/details/DenationalisationOfMoneyTheArgumentRefined).
 
-9. Mises, Ludwig von. "Economic Calculation In the Socialist Commonwealth". 1920. [Mises Institute](https://mises.org/library/economic-calculation-socialist-commonwealth/html)
+9. Mises, Ludwig von. 1920. "Economic Calculation In the Socialist Commonwealth." Mises Institute. Accessed June 21, 2024. [https://mises.org/library/economic-calculation-socialist-commonwealth/html](https://mises.org/library/economic-calculation-socialist-commonwealth/html).
 
-10. Read, Leonard E. "I, Pencil: My Family Tree as Told to Leonard E. Read". 1958. [Online Library of Liberty](https://oll.libertyfund.org/titles/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958)
+10. Read, Leonard E. 1958. "I, Pencil: My Family Tree as Told to Leonard E. Read." Online Library of Liberty. Accessed June 21, 2024. [https://oll.libertyfund.org/titles/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958](https://oll.libertyfund.org/titles/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958).
 
-11. Jahan, Sarwat. "What is Keynesian Economics". 2014. [IMF](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm)
+11. Jahan, Sarwat. 2014. "What is Keynesian Economics." IMF. Accessed June 21, 2024. [https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm).
 
-12. "Keynesian Economics Theory: Definition and How It's Used". 2023. [Investopedia](https://www.investopedia.com/terms/k/keynesianeconomics.asp)
+12. "Keynesian Economics Theory: Definition and How It's Used." 2023. Investopedia. Accessed June 21, 2024. [https://www.investopedia.com/terms/k/keynesianeconomics.asp](https://www.investopedia.com/terms/k/keynesianeconomics.asp).
 
-13. Keynes, John Maynard. "The General Theory of Employment, Interest, and Money". 1936. [The General Theory of Employment, Interest, and Money](http://keynes-general-theory.com/generaltheory.pdf)
+13. Keynes, John Maynard. 1936. _The General Theory of Employment, Interest, and Money_. Accessed June 21, 2024. [http://keynes-general-theory.com/generaltheory.pdf](http://keynes-general-theory.com/generaltheory.pdf).
 
-14. Hegelund, Dan. "The Keynesian/Austrian Debate". 2012. Örebro University, Sweden.
+14. Hegelund, Dan. 2012. "The Keynesian/Austrian Debate." Örebro University, Sweden.
 
-15. Beveridge, William "Full Employment in a Free Society". 1944. [Internet Archive](https://archive.org/details/in.ernet.dli.2015.228995/page/n1/mode/2up)
+15. Beveridge, William. 1944. _Full Employment in a Free Society_. Accessed June 21, 2024. [https://archive.org/details/in.ernet.dli.2015.228995/page/n1/mode/2up](https://archive.org/details/in.ernet.dli.2015.228995/page/n1/mode/2up).
 
-16. Marx, Karl. Engels, Friedrich "The Communist Manifesto". 1848. [Marxists Internet Archive](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
+16. Marx, Karl, and Friedrich Engels. 1848. _The Communist Manifesto_. Accessed June 21, 2024. [https://www.marxists.org/archive/marx/works/1848/communist-manifesto/](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/).
 
-17. "Communism: Karl Marx to Joseph Stalin". n.d. [University of North Carolina](https://europe.unc.edu/iron-curtain/history/communism-karl-marx-to-joseph-stalin/)
+17. "Communism: Karl Marx to Joseph Stalin." n.d. University of North Carolina. Accessed June 21, 2024. [https://europe.unc.edu/iron-curtain/history/communism-karl-marx-to-joseph-stalin/](https://europe.unc.edu/iron-curtain/history/communism-karl-marx-to-joseph-stalin/).
 
-<!-- https://www.econlib.org/library/Enc/Communism.html -->
+18. Caplan, Bryan. n.d. "Communism." Econlib. Accessed June 21, 2024. [https://www.econlib.org/library/Enc/Communism.html](https://www.econlib.org/library/Enc/Communism.html).
 
-18. Caplan, Bryan. "Communism". n.d. [Econlib](https://www.econlib.org/library/Enc/Communism.html)
+19. Chen, James. 2023. "What Is Communism?" Investopedia. Accessed June 21, 2024. [https://www.investopedia.com/terms/c/communism.asp](https://www.investopedia.com/terms/c/communism.asp).
 
-19. Chen, James. "What Is Communism?" 2023. [Investopedia](https://www.investopedia.com/terms/c/communism.asp)
+20. Schumpeter, Joseph. 1942. _Capitalism, Socialism, and Democracy_. Physical copy.
 
-20. Schumpeter, Joseph. "Capitalism, Socialism, and Democracy". 1942. Physical copy.
+21. "Labor Theory of Value." 2023. Investopedia. Accessed June 21, 2024. [https://www.investopedia.com/terms/l/labor-theory-of-value.asp](https://www.investopedia.com/terms/l/labor-theory-of-value.asp).
 
-<!-- https://www.investopedia.com/terms/l/labor-theory-of-value.asp -->
+22. Pipes, Richard. 1990. _The Russian Revolution_. Random House. Physical copy.
 
-21. "Labor Theory of Value". 2023. [Investopedia](https://www.investopedia.com/terms/l/labor-theory-of-value.asp)
+23. Lewin, Moshe. 1996. "Soviet Bureaucracy in Historical Perspective." University of Pennsylvania. Accessed June 21, 2024. [https://www.ucis.pitt.edu/nceeer/1996-810-13-Lewin.pdf](https://www.ucis.pitt.edu/nceeer/1996-810-13-Lewin.pdf).
 
-22. Pipes, Richard. "The Russian Revolution". 1990, Random House. Physical copy.
-
-23. Moshe, Lewin. "Soviet Bureaucracy in Historical Perspective". 1996. [University of Pennsylvania](https://www.ucis.pitt.edu/nceeer/1996-810-13-Lewin.pdf)
+24. Rawls, John. 1971. _A Theory of Justice_. Harvard University Press.
