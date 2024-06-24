@@ -474,7 +474,7 @@ ensure a buffer state between France, Italy, and Germany(Pauchard 2014),
 and has been a cornerstone of Swiss foreign policy ever since.
 
 ![Switzerland Road Map - note the lack of entry points on the
-border.](data/Switzerland_Case_Study/switzerlandmap.png)
+border](data/Switzerland_Case_Study/switzerlandmap.png)
 
 This individuation and neutrality in Swiss foreign policy sits in stark
 relief when compared to the EU's Common Foreign and Security
@@ -537,7 +537,7 @@ terms of GDP per capita and thus the promises of economic growth sound
 hollow compared to the economic growth that a nation like Romania,
 Bulgaria, or Croatia could expect.
 
-![Wealth of Switzerland in context of its neighbors](data/Switzerland_Case_Study/europe_gdp_pps_nuts2_2019.png)
+![Switzerland's Wealth in the context of its neighbors](data/Switzerland_Case_Study/europe_gdp_pps_nuts2_2019.png)
 Source: Eupedia, Eurostat for 2019 GDP in PPS per Capita by NUTS2 Region
 in 2019
 
@@ -1834,1917 +1834,224 @@ Global Nation can create a society that is free, prosperous, and just.
 
 ### Independent Study
 
-### Citizen Participation
-
-#### From Outline
-
-    - IV.3: Structures for Citizen Participation/Government Structure.
-    - IV.3.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
-
-     - IV.3.a.i: Tie back to Switzerland, and their implementation of direct democracy.
-     - IV.3.a.ii: The United States as a general example of a representative democracy
-     - IV.3.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
-     - IV.3.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government.
-
-#### Response
-
-Throughout history, the citizenry of a state has held varying degrees of
-influence over the actions, policies, and decisions of their state(in so
-much as it was 'their' state at all). As a pre-condition of this
-examination, the Global Nation must be structured in such a way that it
-could be correctly considered a "Democracy", and the previous sections
-have laid out the groundwork for this both morally, as it relates to the
-Liberal foundation of the Global Nation, and systemically, as the
-organizational structure of the Global Nation includes a system of
-government that takes in the direct will of the people. This still
-leaves a wide range of possibilities for what such a system of citizen
-participation could look like, and as no "optimal" systems exists, a
-series of trade-offs must be made to create a system that fits the
-unique constraints and goals of the Global Nation. A wide range of
-systems are available for consideration, but in seeking the fine
-principles to combine into a cohesive whole, brief examinations of the
-direct democracy of Switzerland(previously mentioned in \[II.1.a.\]),
-the representative democracy of the United States, and the
-technodemocracy of Jason M. Hanania's _Architecture of a
-Technodemocracy_ will be made, and useful principles co-opted, combined,
-and re-imagined for the Global Nation.
-
-Switzerland, as mentioned in \[II.1.a.\]: "Why is Switzerland in the
-Schengen Area but not the EU itself?", is a direct democracy--a unique
-fixture in the world of modern states--with two primary mechanisms for
-direct citizen participation: the referendum and the initiative. The
-referendum is a vote on a law that has been passed by the Swiss
-parliament, and the initiative is a vote on a law that has been proposed
-by the Swiss people. Both of these allow the will of the people[^23], in
-separate ways, to hold large sway in the rules of the state that holds
-legitimacy as a result of their grace. What makes these mechanisms
-astounding, and useful for the Global Nation, is that these same
-mechanisms have been in place since the middle of the 19th century, when
-infrastructure for intellectual, political, and cultural connectivity
-was far more primitive than it is in even the least developed regions
-today. That Switzerland has prospered under this system and did so even
-before the advent of modern communication technology, is a direct
-contradiction to the popular conception of any form of direct democracy
-as too cumbersome or feeble to be effective. More than this, the Swiss
-system of direct democracy also includes a legislative branch of elected
-representatives, who also hold the power to draft laws and pass them to
-the consideration of the people. Despite this, the Swiss system of
-professional political representation is unmistakably different from
-that of the United States or France, "The National Council and the
-Council of States meet separately for three-week sessions four times a
-year. The two chambers debate all constitutional amendments before
-putting them to the popular vote. They also adopt, amend or repeal
-federal legislation(About Switzerland)", but this frequency is less
-symptomatic of the Swiss system as a whole and more wholly
-representative of Swiss political culture. This form of hybrid direct
-and representative democracy(referred to henceforth as simply "hybrid
-democracy") is an invaluable model for the Global Nation, as it allows
-for the direct consultation of the people, their direct input and
-suggestions into the laws that govern them, a veto over laws which may
-prioritize the interests of the government over its people, and a system
-of elected representatives who can use their experience and character to
-act as the people's delegate in the day-to-day functioning of the state.
-
-The United States, partly as a function of its federalism but also as an
-intentional choice of its framers, is a representative democracy with
-several intermediaries between the direct will of the people and the
-decisions that affect them. In many ways, this is a useful function of a
-highly compartmentalized representative model, as different branches and
-levels of government can be structured as checks on each other to avoid
-the concentration of power in any one place, and to incentive
-cooperation between different groups of people to achieve political aims
-of mutual interest. While not referring to the United States
-specifically, Alonso, Keane, and Merkel bring this point to the fore,
-"Representative government was also hailed as an effective new method of
-apportioning blame for poor political performance; a new way of
-encouraging the rotation of leadership, guided by merit. Right from the
-beginning, some critics thought of it as a form of elected aristocracy,
-but that rather understated another claimed advantage of representative
-democracy: that it cleared space for political minorities and
-competition for power that in turn enabled elected representatives to
-test out their political competence in the presence of others (Alonso,
-Keane, and Merkel 2011)." These are significant virtues of the
-representative model, and these become even more important when
-considering the huge area and population of the Global Nation. The
-system is not without its flaws--both in the United States, and as a
-general model--as the actions of the representatives are necessarily
-disconnected from those who empowered them, and the constituents of a
-representative are not entirely homogenous in opinion. While the models
-of Switzerland and the United States both include representative
-elements, in this view the United States' model falls prey to the
-criticisms of representative democracy more strongly, "It frustrates
-collective action by splintering the _demos_ \[populace\] and by
-disconnecting the exercise of power from its rightful source; an active
-_demos_ \[populace\] is replaced by political professionals who protect
-powerful particular interests. Representation makes a mockery of the
-power-principle of democracy, majority rule: 'majorities are artifacts
-manufactured by money, organization and the media' (Alonso, Keane, and
-Merkel 2011)." This underscores, albeit slightly exaggerates, the
-importance of direct mechanisms of citizen participation in the Global
-Nation, especially considering the total political scale of the Global
-Nation.
-
-Technodemocracy, as described by Jason M. Hanania in _Architecture of a
-Technodemocracy_[^24], is a system of government that uses technology to
-allow for the direct participation of the citizenry in the day-to-day
-functioning of the state, keeps the state accountable, and allows for
-the state to be more directly responsible for acting contrary to the
-interests of the voters. The foundational tenets of it are rapid
-peer-to-peer communication, electronic(internet/blockchain) voting on
-day-to-day and long-term issues, and the power of the people to recall
-their representatives at any time. As Hanania describes it, "each group
-member would have communication power, option power, decision power, and
-accountability power, equal to that of any other group member, including
-representatives. The representatives would simply carry out the
-decisions of the group (Hanania 2018)." This is a powerful model for the
-Global Nation, as it allows for the day-to-day management to be
-off-loaded to representatives as long as they act righteously in service
-of their constituents, with an immediate and continual check on their
-power. The structure of Hanania's technodemocratic model is far more
-extensive than this, but functionally the keys are explained in this
-example.
-
-The Global Nation's system of citizen participation would combine the
-fundamental principles of a hybrid direct and representative democracy,
-the checks and balances of a specifically compartmentalized
-representative democracy, and modern improvements on democracy itself
-through the use of technology in the form of a technodemocracy. This
-system would include the relevant useful mechanisms from each of these
-and counterbalance their flaws through thoughtful combination and
-re-imagining, and would functionally allow for the direct will of the
-people to be enacted in the day-to-day functioning of the state, their
-representatives' interests being held in direct correlation to their
-constituents, and the public trust maintained and expanded as a function
-of the state's total and immediate accountability to the people. While
-the daily operations of this system at the Town/City, State/Province,
-and Federal levels would be different in the scale of the decisions and
-policies implemented, the structure would be nearly identical. Before
-looking at that, the structure of the executive must be addressed, as
-the executive is as much a representative of the people as the
-legislative. While direct recall of the executive is an attractive
-notion in theory--an identical system to that of the legislative branch
-wherein if the executive is not acting in the direct interests of the
-citizenry they can be removed after a petition of a certain percentage
-of the citizenry--the Global Nation's executive, and those of the lower
-levels structured in the same way, need the stability of a fixed term to
-avoid the chaos of something akin to the "Year of the Four Emperors" in
-Rome. While a direct recall measure might work well at the Town/City
-level, or possibly even the State/Province level, at the Federal level
-it is functionally untenable as the executive, elected for their
-experience and character, must be allowed to govern under the mandate of
-that election. Checks and balances still do exist, as the agenda of any
-executive must be doubly approved by the citizenry and the legislature
-as a function of the unique dual legislative process of the Global
-Nation, and the judiciary holds a similar check on the executive as it
-does in the United States. The executive must be allowed to exercise
-their power, perhaps even in the face of public opposition, as long as
-they are within the bounds of the law of the Global Nation, and subject
-to censure by the citizenry and the legislature as a matter of course.
-return to the legislative branch, the unique dual legislative process of
-the Global Nation is worthy of a more thorough inspection to flesh out
-the mechanisms and reasoning behind it. The total elimination of an
-elected representative's power to draft and pass laws--as well as the
-other functions of the elected legislature: impeachment, approving
-judicial nominations, and more--would be a significant loss, for the
-experience and character of the elected representatives is a valuable
-asset to the state, and to their constituents. To avoid either the
-people's direct legislative authority being merely a rubber-stamp on the
-decisions of the elected legislature, or the reverse happening, the
-Global Nation's system of dual legislature makes these bodies equal in
-legislative power. Both the citizenry and the elected representatives
-must approve any law by majority vote--no fillibuster, no
-super-majorities save for veto override--with a proportion of the
-citizenry of any level(perhaps 10%) having to sign a petition to put it
-on the ballot. This system allows for the direct input of the citizenry
-into the laws that govern them while ensuring that a minimum of nuisance
-bills get on the ballot. The executive, as mentioned, has veto power
-over any law, but this veto can be over-ridden by a 60% vote of the
-legislature--if a representative does not vote to override the veto
-against the will of their constituents, they can be recalled--adding a
-specific check on the executive's power to the legislature's toolbox.
-This legislative process applies equally to the Town/City,
-State/Province, and Federal levels, with the only variable being the
-number and form of the legislative bodies at each level. A final point
-of uniqueness in the direct voting process of the Global Nation is the
-inclusion of an "explainer section" on the ballot, where the citizenry
-can read a summary of the law, its implications, and the arguments for
-and against it, these will be drafted by the legislature ahead of the
-vote, and if the citizenry finds them to be biased or incomplete as a
-function of partisanship or incompetence, those representatives involved
-can be recalled. The clear counterargument to the idea that a key
-function of the representative form of government is to willingly
-delegate the day-to-day functioning of the state to those with greater
-understanding and experience and that it would take too much time and
-effort for the citizenry to be informed on every issue. These would be
-valid concerns in an era of limited communication and education, but in
-the information age where anyone can inform themselves on the
-particulars of any issue to a moderate degree of depth, these concerns
-are less valid. In addition, if the citizenry is so poorly reared in the
-ways of governance and issues that affect their lives, the state may not
-be sufficiently open and transparent--see \[III.5\]--in what issues face
-that level of government, what the implications of those issues are, and
-what actions have been taken in remedy. In addition, the issues of the
-tyranny of the majority aren't valid in the face of the alternative and
-are significantly minimized in a system where the role of government in
-the economy and the lives of the citizenry is so much more limited in
-comparison to almost any other pre-unification state. In consideration
-of the technological marvels of the modern age, the Global Nation's
-system of citizen participation is not only possible but a moral
-imperative in the face of the rule of the few over the many, no matter
-how democratic the election that put them there.
-
-#### Footnotes
-
-### Andrew Garber
-
-### Independent Study
-
-### Conclusion: Why Give Up Sovereignty to Join the Global Nation?
+### Wealth Transfer Case Study
 
 #### From Outline:
 
 ```markdown
-- VI.1: Why Give Up Sovereignty?
-  - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation.
-    - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation? Use them as the example of a nation that despite great wealth would benefit from the Global Nation.
-    - VI.1.a.ii: Back to Second Marhshall Plan, and the effective short-term bribe to the poorer regions of the world to speed up development to ensure long-term stability of the Global Nation.
-    - VI.1.a.iii: Back to the United States, an example of a nation that would benefit from the Global Nation despite already being the most powerful, wealthiest, and most influential nation in the world.
-  - VI.1.b: Summary of the benefits of the Global Nation, and how it would be a net benefit for all of humanity.
+III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?
+
+- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the Global Nation necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the Global Nation to ensure consistency]
+- III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
+  - II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be.
+  - II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
+  - II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort.
+- III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
 ```
 
-#### Response:
+### Case Study
 
-With the justification for, structures of, and mechanisms by which the
-Global Nation would function in place, the question remains: why should
-a nation give up its sovereignty to join the Global Nation[^25]? The
-pull of the individual towards a collective with whom they hold at least
-a nominal fellowship with is a powerful one, and even with the promise
-of a better future under a unified world, fellowship with all, the
-question remains: why should a nation, and its people, give up their
-sovereignty to join the Global Nation? The economic, political, and
-cultural facets of the Global Nation offer unique benefits to nations of
-all kinds, positions, and sizes, but the combination of benefits that
-make it worth it for any particular nation are unique to that nation.
-For that purpose, three case studies--representing nations with uniquely
-strong potential gains from joining the Global Nation--will be
-presented: Switzerland, the United States, and those nations that would
-be the recipients of a Second Marshall Plan. While precondition #5 of
-this examination is that the people of the world desire the unification,
-that is not what is being addressed here: this is a specification of the
-benefits that would be most pronounced for nations of specific
-"archetypes" that would, of all the Global Nation's benefits, be the
-most valuable to them.
+In accordance with the economic philosophy of the world-government, the
+question of ensuring the rapid development of the less-developed areas
+of the world is a pressing one both economically and politically, as the
+centrifugal forces of a huge wealth disparity could threaten the
+stability and political legitimacy of the Global Nation. The question of
+how to bring the numerically greater but significantly poorer areas of
+the world up to the level of the numerically smaller but significantly
+richer areas of the world is a complex one, especially in consideration
+of the long precedent that this implementation would set for the future
+of the Global Nation. The economic philosophy of the Global Nation, as
+explored previously, equivocally does not support or provide for a
+continual anti-wealth-inequality mechanism, but rather a system of
+strong institutions and the opening of barriers to ensure that the
+wealth of the world grows in totality instead of being redistributed
+from a fixed-sum pool. However, the question of whether a short-term
+"wealth drain" from the wealthy areas to the poorer areas of the world,
+directed in some measure by the government, to dramatically speed up
+development to ensure long-term stability of the Global Nation is
+necessary is a pressing one. Relevant historical precedents for this are
+lacking, as States are generally not in the business of adding
+territorially those areas that are significantly poorer than themselves,
+but the post-World War II Marshall Plan is a notable example of a
+successful short-term wealth transfer from a richer area to a
+significantly poorer one--even if it is for reasons of war rather than
+poor economic development in the first place--that greatly accelerated
+the economic growth of Western Europe and provides for strong, lasting
+ties between the United States and Europe.
 
-Beginning with Switzerland, a nation that is wealthy, secure, and
-stable, the question of why they should give up ownership of that among
-a fairly small population to join the Global Nation is a valid one. The
-answer, simply, is that the weight of numbers of being in fellowship
-with all of humanity will produce more wealth and individual opportunity
-than the current system of being a wealthy, secure, and stable nation of
-a small population, as well as an existing cultural acceptance of the
-functions of direct democracy. More than this, it is a direct extension
-of the benefits it gained from joining the Schengen Area, and at a more
-mediocre cost and with stronger additional benefits compared to joining
-the European Union in full. While Switzerland has become enormously
-wealthly largely through its position as the world's banker, sitting as
-the neutral mixing point for the wealth of nations, companies, and
-individuals for centuries, by being part of the Global Nation they could
-retain this, have access to an even greater serviceable population--the
-region would lend itself into a heavy specialization in banking and
-financial services--and build on this strong foundation to even stronger
-economic growth. 5.4% of Swiss employment is in the financial sector,
-but making up 9.3% of GDP("The Financial Sector: A Stable Mainstay of
-the Swiss Economy" 2023), and while dispropriate economic output from a
-single sector is not necessarily a bad thing, the Global Nation would
-offer the opportunity to turn it into a direct advantage for the nation
-as a whole, as wealth from the financial sector would radiate into other
-sectors of the economy. As a function of the Global Nation's taxation
-structure, as well as total freedom of movement, entrepreneurship will
-increase sharply: Switzerland could hold a unique position as the region
-to go to for innovation in financial services, and as the _funders_ of
-innovation more broadly. The Global Nation would offer Switzerland the
-opportunity to leverage its existing wealth, largely radiating from the
-financial sector[^26], into a broader economic base, and to become the
-financial foundation of innovation in the Global Nation.
+#### Historical Background & Caveats
 
-Switzerland's choice to join the Schengen area but not the European
-Union reflects a desire for the benefits of free-trade and greater
-export opportunities, with "Chemical and pharmaceutical products make up
-more than 44 percent of the country's total exports; machinery and
-electronics over 14 percent (Schneider 2019)," while avoiding the
-foreign entanglements of truly becoming part of the European Union. This
-concern, when applied to the Global Nation, is somewhat mitigated by the
-structural differences between the Global Nation and the European Union,
-with the latter offering another level of governmental overhead without
-the same level of direction, unity, and benefit that the Global Nation
-would offer. The European Union is a political entity offering another
-level of governmental abstraction, while the Global Nation offers a more
-logical reorganization of world political structures and simply swaps
-out the nation-state for the Global Nation, while decreasing the power
-of the state and increasing the power of the individual. The free
-movement of people in the Schengen area, both for tourism and for work,
-has been a boon to Switzerland, and the Global Nation would offer the
-same, but on a global scale. Specialized labor would be able to move
-freely to where it is needed, increasing the efficiency of the global
-economy generally, including the Swiss economy, and with positive
-exponential effects on the financial sector due to general economic
-growth. With Switzerland's status as a financial leader, as well as an
-R&D powerhouse--ranked 1st in the Global Innovation Index 2023("Global
-Innovation Index 2023" 2023)[^27]--the Global Nation would offer the
-opportunity to leverage these strengths into a stronger, more
-diversified economy, and to have the financial and innovative capital of
-the world flow through Switzerland, rather than just to it.
+George C. Marshall, Chief of Staff of the United States Army during
+World War II, and then Secretary of State under Truman, proposed the
+Marshall Plan in 1947 as a way to rebuild Europe following the
+devastation of World War II. There was widespread worry that the
+economic instability of Western Europe: high inflation, unemployment,
+and a lack of food and housing, would lead to the spread of communism.
+The Marshall Plan was signed into law by President Truman in
+1948--really, the "Economic Cooperation Act of 1948", but forever known
+as The Marshall Plan--granting \$5 billion in aid to 16 European
+countries over four years - this number would rise to \$13.6 billion by
+1951, approximately \$190 billion in 2024 dollars. While this was a
+large amount of money, especially when taken as a percentage of USD GDP
+at the time(giving away \$5 billion to start from a GDP of \$274.5
+billion), it was still a small amount of money compared to GDP of the
+recipient nations. The justifications for the Marshall Plan were
+wideranging from the humanitarian, the economically self-interested, and
+the geostrategic. The economic and geostrategic justifications
+principally interest this examination and Marshall himself stated them
+well, "Aside from the demoralizing effect on the world at large and the
+possibilities of disturbances arising as a result of the desperation of
+the people concerned, the consequences to the economy of the United
+States should be apparent to all. It is logical that the United States
+should do whatever it is able to do to assist in the return of normal
+economic health in the world, without which there can be no political
+stability and no assured peace ("Marshall Plan (1948)" 2022)." The
+Marshall Plan helped to rapidly, if not instantaneously, rebuild Western
+Europe, but this economic blessing wasn't able to be felt in the Soviet
+Union and Eastern Europe, as the Soviet Union refused to participate in
+the Marshall Plan and forbade its satellite states from participating as
+well. Without this, and under the strain of rebuilding its own shattered
+lands, the Soviet Union was unable to provide the same level of economic
+support to its satellite states, leading to a widening economic gap
+between Western Europe and Eastern Europe that would lead to greater
+privations for the people of Eastern Europe and a yawning technological
+and economic gap between the two spheres of global influence.
 
-In a general sense, Switzerland without the Global Nation is a wealthy,
-secure, and stable nation doing extraordinarily well. With the Global
-Nation, Switzerland could expand upon this, becoming more than just an
-enclave of neutrality and wealth, but a global hub of innovation and
-finance, and a leader in democratic governance. The Swiss people have
-centuries of experience with direct democracy, and a local bid for
-location of the Global Nation's capital would be a strong one, as the
-history of global neutrality, stability, and experience with direct
-democracy would make it a popular choice. The Global Nation would offer
-Switzerland the opportunity to go from wealth and stability relative to
-current global conditions, to dramatically wealthier along with the rest
-of the world, more influential, and a true global leader, outsized to
-its population and size.
+Economic growth in Western Europe was rapid following the implementation
+of the Marshall Plan, though not entirely due to it--equally critical,
+and as a condition of receiving Marshall Plan aid, was the opening of
+trade barriers(part of the Bretton Woods system) and the establishment
+of strong institutions to ensure that the aid was used effectively. The
+Marshall Plan, and its accompanying second-order institutional effects,
+"made a decisive contribution to the renewal of the transport system,
+the modernization of industrial and agricultural equipment, \[and\] the
+resumption of normal production(Notre Dame International Security Center
+2023)." This effect, not buying the development of a whole region but
+sparking it with a short-term infusion of capital and long-term
+technological cooperation and trade, is a model that could be used to
+bring the less-developed areas of the world up to the level of the more
+developed areas of the world. However using the Marshall Plan as a
+direct model for this needs to be done with a few caveats, notably that
+the Marshall Plan was between nations, not an internal wealth transfer
+which is what this would be; that the Marshall Plan was a short-term
+wealth transfer, not something that was a continuous mechanism to ensure
+total economic parity, and that the Marshall Plan was a geostrategic
+counter to the spread of Communism(as pushed by the Soviet Union).
 
-The United States has been the world's largest economy since 1890("The
-United States Becomes a World Power" n.d.), and is unquestionably the
-most powerful military and diplomatic entity in the world. The United
-States doesn't _need_ the Global Nation to survive or even to thrive,
-similar to Switzerland, but it would significantly benefit--perhaps more
-than Switzerland--from joining the Global Nation. Functionally, as the
-world's largest economy, the free movement of people and goods would be
-a boon of unimaginable scale to the United States, as the world's
-largest consumer market and world leader in total innovation[^28] would
-be able to leverage its existing strengths into a stronger, more
-directly innovation-focused economy, leading to continued prosperity.
-Already as a pre-unification state, a large percentage of the United
-States' high-skilled power comes from immigration, something which would
-be advanced by total freedom of movement, "Immigrants support the U.S.
-economy in many ways, accounting for 22.6 percent of entrepreneurs, 23.1
-percent of STEM workers, and 15.6 percent of nurses ("Immigrants in the
-United States" n.d.)." The United States would be able to leverage its
-existing strengths culturally in innovation and entrepreneurship, as
-well as its existing economic power in finance, as well as a huge
-consumer market, into a stronger, more innovative economy. More
-generally, the ability of people to move to places of maximum
-opportunity would increase the efficiency of the global economy, and
-with so many high-skilled jobs in America, the region of the United
-States would be a major net beneficiary of this. Additionally, the "soft
-power" of the region of the United States would be notably advanced by
-joining the Global Nation. "Americanization"[^29] is a global phenomenon
-that has been ongoing since the end of World War II, with American
-brands, television, movies, and music--as well as American culture more
-broadly--being dominant across the World. The power of American culture
-is so strong that Stalin was said to have remarked, "If I could control
-the medium of the American motion picture, I would need nothing else to
-convert the entire world to communism (Rosendorf 2007)," and this power
-has only increased in the time since Stalin. Not only would an even more
-global market--and a more educated, wealthy global market--be a boon to
-those producing and selling artifacts of American culture, but American
-culture within the Global Nation would spread even more widely, good for
-the United States' internal political power in the Global Nation, as
-well as business more broadly.
+All of these caveats are interconnected as a function of it being an
+inter-state wealth transfer, it was never in question that the United
+States would keep doing it forever. The issue of precedents is critical
+here though, as the United States was clearly not endowing itself with
+the responsibility to ensure the continued economic growth of Western
+Europe, but rather primarily to ensure that Western Europe did not fall
+to Communism. The Global Nation, however, if it did not explicitly state
+that it was a one-time event, would be setting a precedent for continual
+wealth transfers from the richer areas to the poorer areas of the world
+forever, becoming a political football and a source of contention
+between any two areas of the world. It is not difficult to imagine a
+follow-up where a wealthy area of the world with low economic growth
+rates demands a wealth transfer from another wealthy area of the world
+with higher economic growth to stimulate it, or from the Global Nation
+at large, entirely divorcing the original intent and casting the
+economic philosophy of the World Government aside. It must be
+fundamentally established that this is a one-time event, and that the
+Global Nation will not be in the business of redistributing wealth from
+the richer areas to the poorer areas of the world, that this is purely
+for the sake of jump-starting the economic growth of the less-developed
+areas of the world to ensure the long-term stability of the Global
+Nation and the whole world's prosperity as a result.
 
-While not the main reason to join the Global Nation, a notable benefit
-to joining the Global Nation for the United States is that, as a
-function of global unification, does not have to be the world's
-policeman or arsenal of democracy. While an expansive discussion of this
-point goes too deeply into military and military economic matters, which
-are outside the scope of this inquiry(I.1.D.6), in a brief sense any
-conflict in a Global Nation would be considered a civil war which would
-provoke a total, unified response from the Global Nation, rather than
-the United States being called upon to fund, arm, or fight in conflicts
-around the world. This is not a review of the justness of these
-involvements, arming Ukraine in its fight against Russia or the war in
-Afghanistan, but instead the recognition that the region of the United
-States in the Global Nation would only be called upon in the event of a
-civil war in equal measure to all other regions, rather than being the
-first responder to global conflicts. The economic benefits of this are
-outside the scope of this inquiry, in so much as it relates to how much
-military spending the Global Nation would require--something that is not
-truly predictable, being a function of the formation and internal
-political situation of the Global Nation--but the political and systemic
-benefits are clear: the region of the United States would be able to
-fully focus on its own internal development, economically, politically,
-and culturally, rather than having to hold some energy in reserve for
-global conflicts.
+#### The Second Marshall Plan
 
-Of all three case studies, the most nations who will feel the greatest
-benefit in joining the Global Nation are those who will receive the
-first-order effects[^30] of the Second Marshall Plan, a one-time wealth
-transfer to the poorest regions of the world to fund projects that will
-improve the developmental status of those regions. The Second Marshall
-Plan would be a direct bribe to the poorest regions of the world to
-speed up their development, both to improve the lots of hundreds of
-millions of the worst-off people in the world, and to ensure the
-long-term political stability of the Global Nation by ensuring at least
-a baseline of prosperity. The Second Marshall Plan is the accelerant to
-the development and prosperity that would have come comparatively slowly
-from the strong institutions and economic growth of the Global Nation as
-a whole, and would inspire a boom in economic growth, standard of
-living, and political participation unseen in these regions of the world
-to date. Going nation by nation for this is both unecessary and contrary
-to the design of the Second Marshall Plan which intentionally funds
-projects and programs on a case-by-case basis _across_ the ex-nations
-which it includes, instead of on a per-capita or per-ex-nation basis to
-ensure that a high "yield" of development per dollar[^31] is achieved.
-Functionally, in establishing a strong foundation of political and
-economic participation across the entirety of the Global Nation, even
-if, inevitably(and justly), some regions will be more developed than
-others, the Second Marshall Plan would guard against the political
-instability that comes from large disparities in wealth and development
-within a single polity, while beginning the flywheel of development that
-will improve the lives of millions directly, and billions indirectly.
+With those caveats and modifications to the mechanism of the Marshall
+Plan in mind, it is possible to outline a "Second Marshall Plan" for the
+wealthier nations of the world to make a one-time endowed transfer of
+wealth to the less-wealthy areas of the world to kickstart their
+developmnent. It is critical to state that the direct infusion of
+capital will be less important than the establishment of strong
+institutions and the opening of trade barriers, but these go
+hand-in-hand to stimulate local entrepreneurship and let that growth
+connect with local and global markets without the crippling weight of
+corruption and tarriffs. While it may appear to be putting the cart
+before the horse to say that strong instituions and the opening of trade
+barriers are more important than the direct infusion of capital,
+corruption by itself(tarriffs will be discussed in a later section) is a
+significant drag on economic growth and development, with Africa
+providing a clear case of this, "Africa loses \$128 billion a year to
+corruption, equivalent to 50% of its tax revenues and 25% of its GDP.
+... These figures make it clear that corruption remains a major
+challenge to sustainable economic growth, good governance, peace and
+stability, which are requirements for tangible economic development in
+Africa. (Njangang, Asongu, and Mouchili 2024." However with the
+establishment of strong anti-corruption, pro-growth institutions, the
+opening of trade barriers, and the infusion of capital either directly
+or through second-order effects like the building of infrastructure, the
+less-developed areas of the world(Africa, South America, South Asia)
+could be brought up to the level of developed areas of the world(North
+America, Europe, Oceania) rapidly and in doing so ensure the long-term
+stability of the Global Nation and accelerate the growth of the world's
+prosperity as a whole.
 
-Sovereignty is a powerful concept, intrinsically tied to national
-identity and a feeling of union with one's fellow citizens. The greatest
-change that the Global Nation will forment, largely
-unintentionally[^32], is the relation to one's fellows as not only those
-of the same geographic region, ethnicity, language, religion, or values,
-but as those of the same species, sharing a fundamental likeness to one
-another more important than that of arbitrary divisions. The Global
-Nation offers unique benefits to nations of all kinds, positions, and
-sizes, but the benefits will be not be reaped primarily by those leaders
-who make the decision to join the Global Nation, but by the individuals
-granted liberty, opportunity, and fellowship by the Global Nation never
-before seen in human history. Economic opportunity lies at the heart of
-the Global Nation as human excellence given form, but the opportunities
-for citizenship in a nation of all humnaity whose decisions are made by
-those citizens from the day-to-day to the grandest scale, is the true
-benefit of the Global Nation. The Global Nation, as outlined in this
-examination, seeks to be the just manifestation of the human spirit as
-applied to the political, economic, and social spheres of life in order
-to maximize the potential of all individuals, and to ensure that the
-future of humanity is one of individual liberty, opportunity, and
-fellowship.
+Upon that justification, the question naturally arises of what form this
+"Second Marshall Plan" would take, how it would be implemented, and how
+much it would cost. An exact figure nor a precise plan is possible to
+predict ahead of time, as it would likely be a matter of cosniderable
+political wrangling in the convincing of many nations to join the Global
+Nation, but based on the Marshall Plan it would be possible to make a
+fair estimate. As previously stated, the Marshall Plan gave
+approximately \$13.6 billion in aid to 16 European countries over four
+years, and when taken as a percentage of US GDP in 1948 when the program
+began(\$274.5 Billion), it represented just under 5% of one year's GDP.
+While it was a tremendous amount of money, for the benefit it gave both
+parties it was a great deal, and a similar percentage infusion of
+capital from the developed areas of the world could have similar
+effects. The wealthy areas of the world[^23], under their reorganized
+nature in the Global Nation, with a yearly GDP(in their current form of
+nation states) of \$57,470,602 million in 2022, or \$57.4 trillion, to
+the world's 47 least developed countries("Annex A. The least developed
+country category: criteria for inclusion and graduation" n.d.)[^24],
+reorganized as part of the Global Nation, splitting on a case-by-case
+basis where the money would be most effective in accelerating economic
+development--notably, not on a per-capita or per-ex-nation basis--and
+raising the standard of living of the people of that area. At the 5% of
+GDP rate, this would be 2.87 trillion dollars, and spreading that over
+five years would decrease the yearly cost to the wealthy areas of the
+world to \$574 billion among them. This is a significant amount of
+money, but the first, second, and third-order effects of this would be a
+tremendous boon to the world as a whole, and would go far to ensure the
+long-term stability of the Global Nation as well as the raising of all
+areas to the level of the most developed areas of the world, and then
+beyond.
+
+Notably, this is to be strictly non-precedential in legal and political
+terms, and to be established as such in the documents establishing the
+program. The Marshall plan was not designed to be a continual mechanism
+of wealth transfer, but rather a one-time event to ensure geostrategic
+alignment and economic growth among those nations that were most in need
+of it, and who could otherwise turn to Communism and the Soviet Union
+for support. The precedent of the Marshall Plan has been co-opted in the
+United States as that of a justification for foreign aid and development
+assistance in any circumstance that may arise[^25], but in the Global
+Nation this kind of precedent would be hugely dangerous and undercut the
+economic philosophy of the Global Nation. Functionally, the
+eccentricites and political realities of the Global Nation require a
+one-time infusion of capital to jump-start the economic growth of the
+less-developed areas of the world built upon the foundation of strong
+institutions and the opening of trade barriers, and not a continual
+mechanism of wealth transfer from the richer areas to the poorer areas
+of the world. The establishment of strong institutions and the opening
+of trade barriers are the most effective ways to ensure the long-term
+stability of the Global Nation and the growth of the world's prosperity,
+and the direct infusion of capital is a secondary mechanism to ensure
+that the less-developed areas of the world are brought up to the level
+of the most developed areas of the world, in order to ensure the
+stability and prosperity of the Global Nation and the world as a whole.
 
 #### Footnotes:
 
 -
 -
 -
--
--
--
--
--
-
-### Andrew Garber
-
-### Independent Study
-
-### Anti-corruption
-
-Corruption is the foundational cause of untold suffering and misery in
-the world. Its nature is insidious, and its effects are far-reaching -
-it eats away at the fabric of our society, creating a culture of
-distrust, apathy, and a lack of accountability in daily life. Nations
-that are successful in combating corruption are almost always more
-prosperous, more stable, and more equitable as a function of having done
-so, and it makes it easier to fight corruption in the future. The
-opposite is also true - corrupt nations are almost always less
-prosperous, less stable, and less equitable as a function of being
-corrupt, and their current corruption makes it easier to be corrupt in
-the future. To begin with, corruption has been defined in this
-examination as, "the abuse of entrusted power for private gain", the
-definition used by Transparency International. While there are valid
-critiques of this definition as being too broad when taken in the scope
-of the wide disparity in levels of corruption across the world, and the
-aggressive nature of the needed anti-corruption measures, broader is
-unfortunately necessary.
-
-The causes of corruption, much like the economic decisions of any
-individual or group, are too varied to be accurately calculated, but
-some major causes are known. The first is a voluntary motivation to look
-for a competitive advantage, special treatment, or "service" from a
-government official. Another is to counter the real or perceived threat
-of an economic or personal competitor doing the same or to counter the
-real or perceived threat of a government official abusing their power.
-This is especially problematic because it creates a culture of
-preventative bribery, and thus those being bribed can use their power to
-solicit more widely. A third cause of corruption is a lack of a strong,
-active judiciary--or an actively complicit one--to police and root out
-corruption. If the part of the government that is supposed to be the
-most independent and act as a monitor of the other branches is itself
-corrupt, or severely diminished in scope(perhaps due to lack of funding
-for it _by_ the corrupt), then the other branches of government are free
-to act with impunity. The fourth cause of corruption is geographic
-dispersion: if people, and the government officials they are bribing,
-are spread out over a wide area, it is much harder to police and root
-out corruption. While very high population density can cause a similar
-problem, when only a few people are the governmental officials in a huge
-area, the number of people to be bribed to get one's desired end is
-fixed and easier to execute upon. This is a chicken and egg problem for
-developing nations, as the corruption makes it harder to grow enough of
-a tax base to build the infrastructure to police and root out
-corruption, which would then allow for a larger tax base to be built.
-The fifth, and final to be examined here, cause is a lack of
-transparency in government and the associated culture of apathy towards
-politics in society that results: if the people do not care about what
-their government is doing, then the government can do whatever it wants.
-This is the factor which the Global Nation, if done poorly, is most
-susceptible to relative to the world's current disparate nations. One
-silver lining in a large number of disparate states is that a more
-transparent state can generally outcompete a less transparent one, as
-the people in the more transparent state can see what their government
-is doing and hold it accountable which makes the state more stable and
-prosperous. This is why, among other reasons, the Global Nation must
-have a strong, active, and holistic anti-corruption policy. Now, a brief
-examination of how the Global Nation's anti-corruption policy will work
-for each of the causes of corruption.
-
-To fight the voluntary motivation for corruption, the first step has to
-be the elimination of the need for corruption. Government employees
-should make a similar amount to their private sector counterparts for a
-similar role at a similar level[^33] such that government officials
-don't have to take bribes to put food on the table--something not
-uncommon in the developing world. Argentina, which is currently seeking
-to reform itself but has decades of corruption to overcome, is a good
-example of this, especially its police force, "Interacting with
-Argentina's police carry a high risk of corruption. The police force is
-among the most corrupt institutions in the country and its actions are
-cited as arbitrary and politicized ... Businesses report that the police
-cannot be consistently relied upon to enforce law and order ("Argentina
-Risk Report" 2020)." While police officers may seem a unique case, more
-likely to be corrupted by their on-the-street interactions with the
-public, it is due to this that they are a good example of the need for a
-strong, active, and holistic anti-corruption policy. Police officers are
-the most visible instrument of government, and if the public sees them
-as non-receptive to bribes and actively working to root out corruption,
-then public trust as a whole will increase. This same principle applies
-to all government employees, and the Global Nation must be vigilant in
-ensuring that all government employees are held to the highest standard
-of conduct. Singapore, which went from a corrupt, poor, post-colonial
-nation to an economic juggernaut based on being an oasis for business in
-East Asia due to its strict anti-corruption policy[^34], has an official
-government Code of Conduct, "which sets out the high standards of
-behaviour expected of public officers based on principles of integrity,
-incorruptibility, and transparency ("Singapore's Corruption Control
-Framework" n.d.) This is a tool that the Global Nation should adopt, a
-clear, concise, and easily understood handbook for the right and just
-actions of servants of the public trust. By making the need for
-corruption lessened, the boundaries of what constitutes corruption
-clearer, and the consequences of corruption more severe, the Global
-Nation can fight the voluntary motivation for corruption.
-
-The strategies and techniques, as well as the effects of the fight
-against the voluntary motivation for corruption, does much to counter
-the preventative motivation for corruption, but a few specific
-strategies are needed. First among these is an anti-corruption office or
-agency, which is independent of the other branches of government, where
-people can report corruption without fear of retribution. This can only
-work if _what_ corruption is, and the penalties for it are clearly
-defined and widely understood--which comes back to the Code of
-Conduct--and if the office is well-funded and staffed with competent
-people to investigate quickly and efficiently. If a business owner
-suspects a competitor of soliciting government officials for special
-treatment, the impulse to do the same must be replaced with the impulse
-to report the competitor(and the government officials) to root out
-corruption entirely. The World Bank, which funds developmental projects
-in areas of the world which need them most, has begun to include this as
-part of its approach, "The Bank Group's independent Sanctions System
-includes the Integrity Vice Presidency, which is responsible for
-investigating allegations of fraud and corruption in World Bank-funded
-projects. Public complaint mechanisms are built into projects to
-encourage and empower oversight, and projects are actively supervised
-during implementation ("Combating Corruption" 2023)." In the case of the
-World Bank, the effect of this approach comes under some doubt because
-it doesn't hold the prerogatives of a state, but the mechanism itself is
-sound. The United States itself does something similar in an attempt to
-decrease global corruption with the Office of Overseas Prosecutorial
-Development, Assistance, and Training (OPDAT)[^35], "Programs are
-tailored to host country legal infrastructures as well as international
-norms and standards. OPDAT coordinates these efforts with the U.S.
-interagency and the international community ("Office of Overseas
-Prosecutorial Development, Assistance, and Training (OPDAT)" n.d.)."
-This is a different angle on the same approach, and a combination of the
-two would provide a sound basis--even if internal instead of
-external--for the Global Nation's anti-corruption policy.
-
-Fighting the third cause of corruption, a lack of a strong, active
-judiciary, is a more difficult task because of its disparate nature. In
-wealthy areas, a few might be able to be bribed, but the vast majority
-of judges are incorruptible. In poor areas, the opposite is true. The
-difficulty is in punishing corrupt judges without hampering the ability
-of the non-corrupt judges to do their jobs, all while acting
-simultaneously as a check on the other parts of the government trying to
-root out their corruption. Many authoritarians have used pretexts of
-anti-corruption to take political opponents off the board, and the
-Global Nation must be vigilant against this. The United States is
-failing in this right now--though much of that has to be put down to the
-politically fraught nature of this--concerning Associate Justice of the
-Supreme Court Clarence Thomas's Quarter-Million Dollar Loan being
-largely forgiven by a friend and conservative political donor, "So, the
-documents we've seen indicate Justice Thomas received a \$267,000 loan
-to buy a luxury RV and never repaid most--- and likely not even a dollar
----of the money that his friend originally loaned him. This has legal
-consequences ... The tax code makes clear that in instances where debt
-is canceled, forgiven, or discharged for less than the amount owed, the
-borrower must report the amount canceled or forgiven as income for tax
-purposes (Wyden 2024)." While the most egregious thing here isn't the
-tax evasion but the fact that a Supreme Court Justice is taking--and
-being forgiven of--quarter-million-dollar loans from political donors,
-something that is unfortunately legal in the United States, it must be
-in the Global Nation to have a judiciary that is truly independent and
-active in rooting out corruption. The Judiciary should be paid well for
-their legal acumen, and shouldn't need to take bribes, but that isn't
-what Judge Thomas did - he was paid well and still took a bribe because
-save for impeachment(or tax evasion prosecution), what he did was legal.
-The Global Nation's anti-corruption policy must legally prohibit these
-kinds of actions, and the judiciary--as well as a separate, independent
-anti-corruption office--must be able to investigate and prosecute them.
-
-Fighting the fourth cause of corruption, geographic dispersion is an
-interesting case for the Global Nation. The structure of the government
-will be explored in this examination later, but regardless of the
-structural specifics, the Global Nation is gigantic--the whole
-Earth--with a high disparity in population density across its surface.
-There are few ways to systemically root out this kind of corruption save
-for those methods that work to make a more honest, transparent
-government as a whole, and to work with the population to make
-corruption a societal ill. Russia, despite being a thoroughly corrupt
-nation as a whole, struggles with this issue specifically, and
-especially as it relates to its military. Russia is simply huge, and has
-military bases spread over its entire area, sometimes hundreds of miles
-from the nearest neighboring base. This, in addition to the strong
-centralization focus, means that officers and enlisted men have big
-incentives for corruption without much threat of oversight. In the mind
-of Russian commanders in the period between the end of the Soviet Union
-and the beginning of the war in Ukraine, it didn't matter if the tanks
-could move more than a few kilometers before breaking down, as long as
-you had that many tanks under your command to report. In the words of
-Philip Wasielewski, "Graft and corruption skyrocketed after 1991. During
-the First Chechen War (1994-1996), Russian soldiers and officers sold
-weapons, ammunition, and sometimes armored vehicles to Chechen
-rebels.\[38\] Russian peacekeepers in the Balkans resold fuel from
-United Nations stocks and engaged in other types of graft.\[39\] In one
-case, when a Russian airborne battalion finished its tour of duty, its
-soldiers flew home on a military transport while its officers drove to
-Russia in a convoy of over 120 stolen vehicles (Wasielewski 2023)." This
-extends to bases, and corruption as a phenomenon more generally. When
-fewer parties have more power, and the investigative authorities are
-spread out over a wide area, it is much easier to be corrupt. Specific
-mechanisms to fight this kind of corruption are difficult to come by, so
-the Global Nation must rely on the previously stated mechanisms of a
-strong judiciary to punish corruption, an active anti-corruption office
-to root out corruption, a transparent and well-paid government to build
-trust in its citizenry, and a society that is actively engaged in the
-political process to hold the government accountable all of which will
-make this kind of corruption less likely.
-
-To fight the last cause of corruption examined here, the nebulous and
-difficult-to-pin-down effects of a lack of transparency in government
-and the associated cultural effect of greater apathy towards the
-government, all of the previous techniques must be used in concert, and
-in conjunction with a general governmental philosophy towards
-transparency and openness with its citizenry. To combat this cause of
-corruption, no additional punishment or investigatory mechanisms are
-needed, but structural mechanisms for the continuous sharing of
-information, policy, and decision-making processes are. More than just
-combatting societal malaise and apathy towards the government,
-transparency directly combats corruption by making it harder to hide,
-"There is a general consensus that transparency - a situation in which
-information about a decision-making process is made publicly available
-and can easily be verified both in terms of the rules and the identities
-of the decision makers - increases the probability of detection of
-corruption ("University Module Series: Anti-Corruption, Transparency as
-a precondition" n.d.)." This focus on making information publicly
-available, allowing it to be easily verified, and making the identities
-of the decision makers clear provides an exponential effect on measures
-to improve citizen's trust and ownership of their government. The reason
-that having an active, engaged citizenry is so important is that without
-it the government, with its monopoly on force, can do whatever it wants:
-including being corrupt. There are virtuous and vicious cycles here that
-need to be fostered and fought against in turn, that a transparent
-government leads to greater citizen trust and engagement, which leads to
-a more transparent government, and that a corrupt government leads to a
-citizenry stuck in the belief that the government is corrupt and can't
-be changed, which provides the foundation of apathy and disengagement
-that allows the government to be corrupt. Specific measures that can be
-taken to foster this kind of transparency are the publication of all
-government decisions, the minimization of interest groups in the
-decision-making process, a total ban on 'soft-money' political
-donations[^36], a line-item type tax bill that shows where every dollar
-of tax money is going, as well as various other measures related to
-political engagement systems that will be discussed in the citizen
-participation section of this examination. When citizens are engaged in
-the political process, when they feel that their voice matters and holds
-equal weight to the voices of their peers, and when they can see what
-their government is doing with the legitimacy they have given it, then
-corruption is much less likely to occur and can be more easily rooted
-out when it does.
-
-Anti-corruption policy and strategy are key for any nation, but in a
-Global Nation where no external competitor can work to keep the Global
-Nation honest, it must be structurally done so from the beginning. The
-Global Nation as a governmental entity must be fundamentally obsessed
-with rooting out corruption in its ranks, as doing anything less would
-sacrifice the mandate of the people to the whims of the corrupt. Key
-strategies that must be employed--and new strategies must be developed
-from lessons learned--are the elimination of the need for corruption by
-ensuring that government employees don't _need_ corruption to survive,
-the creation of an independent anti-corruption office to actively
-investigate and root out corruption, the creation of a strong judiciary
-to punish corruption when it is found, and the fostering of a
-transparent government that actively seeks the input and accountability
-of its citizenry. These strategies, when taken together, will provide
-the beginnings of a holistic anti-corruption policy to ensure that the
-Global Nation is a place where the rule of law cannot be perverted by
-the corrupt, and where the people can know that their government is
-truly their own.
-
-### Andrew Garber
-
-### Independent Study
-
-### Preventing Mono-Cultural Dominance
-
-#### Response:
-
-The awe-inspiring scale of the Global Nation, encompassing the whole
-world and all of its people, is threatened by the potential for
-political entities[^37] to form along cultural lines and a form of
-mono-cultural dominance through political means to be established. In
-pre-unification states, political parties founded for the specific
-advancement of a single ethnicity, religion, geographic region, or other
-cultural identity fomented artificial divisions outside of political
-ideology, through the pretense of an "us vs. them" mentality. These
-parties, and other spontaneous social movements like them, have
-exemplified and magnified some of the worst humanity is capable of
-throughout history, from genocide, civil war, the suppression of human
-rights, and the definite political and economic distinction between
-people based on their cultural identity. However, equally contrary to
-the principles of freedom, individual liberty and responsibility, and
-self-determination, is the idea of government using its power to prevent
-the formation of these spontaneous social groupings, which in itself
-would be the exact kind of tyranny this measure would be meant to
-prevent. Fundamentally, this problem offers a question for the nature of
-the Global Nation, the greatest conceivable multicultural society: what
-is multiculturalism in the Global Nation, how is it different from the
-multiculturalism of the pre-unification world, and how is social
-dominance by a single culture--whatever that culture may be--to be
-prevented, if at all?
-
-As explored in the Economic Philosophy of the Global Nation \[III.1\],
-the Global Nation adheres to a strongly Liberal[^38] economic
-philosophy, which asserts strong individual rights in the political
-sphere more generally. As Irene Bloemraad defined it, "Under classical
-liberalism, all people must be treated the same, and governments should
-remain blind to particularities of ethnicity, religion, or national
-origin. They should not, for example, provide public funding for
-cultural minority groups," which is countered by the modern
-multiculturalist approach, which "argues that cultural neutrality in
-public institutions is impossible. Since democracy is based on
-government by the majority, minorities face disadvantages in the public
-sphere despite laws guaranteeing certain rights and freedoms (Bloemraad
-2011)." The Global Nation, structurally designed to counter Tyranny of
-the Majority \[IV.4\], does reasonably defend against this as a
-functional safeguard against the growth of tyranny in any form,
-including this. More strongly though, the idea of a government that must
-treat people differently to make them equal, as Hayek asserted, is
-fundamentally flawed. The Global Nation, to maintain internal stability
-and uphold its values must enforce its continence as a non-arbiter of
-culture, a self-organizing phenomenon impossible to dictate. A policy,
-not of mandated equality, but of mandating that all people are equal
-under the law bar none is the only way to abide by the Global Nation's
-purpose as the vehicle for the greatest possible freedom and prosperity
-for all people by the elimination of the legal, economic, and political
-barriers that have historically divided them. That is what
-multiculturalism in the Global Nation must be: not the government
-forcing people to see each other as equals, but the government treating
-all people as equals, and letting that radiate outwards into the
-culture. This is a different kind of multiculturalism to that of most
-Western pre-unification states[^39] which have attempted to legislate
-multiculturalism into existence, largely due to being expressly
-non-equal in their treatment of different groups at the time of their
-inception. The modern political philosophy of multiculturalism endorses
-a view that "social equality is enhanced when governments explicitly
-recognize cultural minorities, valorize pluralism, and accommodate the
-cultural needs of groups. In this way, if a legislature mandates store
-closings one day a week to give workers a day of rest, businesspeople of
-different religious faiths should be able to choose the day they close
-rather than having a Sunday closing --- rooted in Christian traditions
---- imposed upon them (Bloemraad 2011)," provides a stark contrast to
-the Global Nation's approach to a situation such as this, which would be
-to not mandate store closings at all, let the business owner decide, and
-let the market judge if the business owner's decision was a good one by
-the increase or decrease in market share. The pre-unification states'
-approach to multiculturalism holds a distinct disadvantage in that the
-legal rights of many people were not originally equal, with certain
-groups actively selected as the "true" citizenry and others actively
-discriminated against, which eventually led to the government stepping
-in and attempt to rectify the situation, by which point a legacy of
-political, economic, and social inequality had formed in the roots of
-the society. The Global Nation, by contrast, is founded on the principle
-of equality under the law and thus does not need to legislate legal
-equality between groups, as it is the foundational principle of the
-state itself.
-
-In the question of political parties formed along the lines of cultural
-identity, the Global Nation must strictly avoid any intervention in
-their formation, as they are simply manifestations of the spontaneous
-social order. Even if one accepts the premise that political parties
-formed on cultural lines of any sort are more harmful to the political
-culture of the state than those formed through honest differences of
-policy, to bar their formation in any way would be a dangerous precedent
-to set. If any coalescing of the people into a political party or other
-organizational group happens and does so without coercion or
-interruption of an individual's rights, then it is a natural and organic
-process that must not be interfered with[^40]. Any law put in place to
-prevent cultural dominance via government regulation, to control
-something of the natural social order of individuals and groups, will be
-perverted in support of the dominance of a few, perhaps a majority,
-instead of in defense of the universal rights of all. It is the
-antipathy of the popular tide in the field of political science to offer
-no solution where one could be imagined--some mandate or mechanism to
-prevent something that could reasonably be seen as harmful to the
-political system itself--but in this case, the only solution that
-corresponds to the principles and values, not to mention results, of the
-Global Nation is to decisively remove government from this field and all
-its neighbors.
-
-#### Footnotes:
-
-### Andrew Garber
-
-### Independent Study
-
-### Culture and Law: Differing cultural customs and the law of the Global Nation
-
-#### From Outline:
-
-#### Response:
-
-Discussions of the intersection of cultural differences and the law are
-fraught with difficulty, potential for misunderstanding, and viewpoints
-that are often in direct opposition to one another without a pathway for
-clear resolution. The Global Nation, as a multicultural society, must be
-prepared to handle these issues with a deft hand and a precise
-understanding of the principles that underlie its existence, and its
-citizens' relations to it. Functionally, there is no way to please
-everyone, especially when it comes to deeply held beliefs and cultural
-practices that directly contradict one another--wars have been fought
-over this issue for the whole of the history of human civilization.
-Despite this impressive hurdle, the Global Nation must be willing to
-undergo the hardship of setting a new standard for justice and fairness
-in both tolerance and legal righteousness. The core question remains
-whether the Global Nation will hold legal standards that allow for what
-could well be called illegal if it wasn't for the cultural context, or
-if it will hold to a universalist standard that is applied to all
-citizens regardless of their cultural background. The answer to this
-question is not simple, and the implications of the answer bump up
-against the core goals and values of the Global Nation in the realms of
-economics, politics, and the rule of law.
-
-To begin with, a definition of terms, starting with the two most central
-to this discussion: cultural relativism and cultural universalism[^41].
-Cultural relativism, as per John J. Tilley, is the belief that "Although
-for every culture some moral \[judgments\] are valid, no moral
-\[judgments\] is _universally_ valid, meaning valid for all cultures.
-Instead, every moral \[judgment\] is culturally relative (Tilley 1998)".
-This means that what is considered right or wrong, good or bad, moral or
-immoral, is determined by the circumstances--in this case, the
-culture--in which the judgment is made. In contrast, cultural
-universalism is, "the view that the values, concepts, and behaviors
-characteristic of diverse cultures can be viewed, understood, and judged
-according to universal standards ("Cultural Universalism" 2018)". This
-means, in practical terms, that there are moral standards that can be
-universally applied as a function of being human, above and beyond the
-cultural context in which they are applied. This would appear an
-appealing standard to hold to in the most multicultural society
-imaginable, as it would allow for a common standard of justice and
-fairness to be applied to all citizens, regardless of their cultural
-background. However, the implications of this standard are not as simple
-as they might appear at first glance. One must look no further than the
-United Nations' Universal Declaration of Human Rights to see the
-potential for conflict between cultural relativism and universalism, and
-how it affects law.
-
-It must first be remarked that the legal effect of the Universal
-Declaration of Human Rights, as a function of the United Nations
-powerlessness (see \[II.2\]), is limited to the extent that it is
-enforced by the member states of the United Nations--which is to say,
-not at all. However, the principles the document espouses are certainly
-the most notable example of a universalist standard of human rights that
-has been agreed upon, at least in principle, by the majority of the
-world's nations, and it says so in Article 1: "All human beings are born
-free and equal in dignity and rights. They are endowed with reason and
-conscience and should act towards one another in a spirit of brotherhood
-(United Nations 1948)". This universalist statement is the foundational
-claim of the document, the cornerstone on which even more expansive
-declarations are made, including a definition of universal rights
-themselves in Article 2, "Everyone is entitled to all the rights and
-freedoms set forth in this Declaration, without distinction of any kind,
-such as race, colour, sex, language, religion, political or other
-opinion, national or social origin, property, birth or other status
-(United Nations 1948)," and a statement in Article 7 of cultural
-universalism before the law, "All are equal before the law and are
-entitled without any discrimination to equal protection of the law. All
-are entitled to equal protection against any discrimination in violation
-of this Declaration and against any incitement to such discrimination
-(United Nations 1948)." These statements endorse a universalist standard
-of human rights, and a recognition of this standard as not only
-politically but _legally_ forceful. One need only look to Article 16.2
-of the Declaration to see where this runs into conflict with cultural
-relativism, though, "Marriage shall be entered into only with the free
-and full consent of the intending spouses (United Nations 1948)." This
-statement, clearly universalist, runs into direct conflict with the
-cultural practices of many nations, where arranged marriages are the
-norm, and the consent of the spouses is not a consideration--and
-frequently, the spouses are _accepting_ of this arrangement, seeing
-nothing wrong or objectionable in it due to its pervasion in their
-culture. Should the Global Nation hold to a universalist standard, it
-would be forced to condemn these practices as illegal, and potentially
-even criminal, even though the spouses involved see nothing wrong with
-it. Many more examples could be given, but this one is sufficient to
-illustrate the point: is complaint the point at which the Global Nation
-should intervene in cultural practices, or should it hold to a
-universalist standard that is applied to all citizens regardless of
-their cultural background? Does the Global Nation enforce a standard of
-justice and fairness stemming from the most basic conceivable rights,
-and through this move the standard of normalcy in the whole world to a
-single standard over time, or is this equally as oppressive as the
-cultural practices it seeks to eliminate? If cultural practices give
-sovereignty of _individual1_ to _individual2_, are _individual1_'s
-rights to self-determination and self-expression being infringed upon,
-or is the Global Nation infringing upon _individual2_'s rights by
-"returning" _individual1_ to self-ownership? These are the questions
-this section seeks to answer.
-
-The argument that only at the point of complaint should the Global
-Nation intervene in cultural practices is a compelling one, as it both
-removes the state from the position of judge of cultural practices and
-allows for large autonomy in the cultural practices of the citizens of
-the Global Nation. However, this argument fails under the test that in
-waiting for a complaint, the Global Nation is allowing for oppression to
-continue, and potentially even to grow, as the oppressed are not given a
-voice to speak out against their oppressors, either through
-intimidation, lack of understanding of their rights and the law, or
-through the cultural pervasion of the practice itself. This argument
-also fails under the basis that at its core, and despite strong and
-continued efforts to minimize the _scope_ of the state, the Global
-Nation is not a passive "background entity", its laws are not merely
-suggestions, and its citizens are not merely "members of a club". Even
-Nozick, he of the minimal state, defended a state intervening so far as
-it is protecting the rights of an individual from another, "Side
-constraints \[on the actions of individuals\] express the inviolability
-of other persons. But why may not one violate persons for the greater
-social good? ... But there is no _social entity_ with a good that
-undergoes some sacrifice for its own good. There are only individual
-people, different individual people, with their own individual lives.
-Using one of these people for the benefit of others, uses him and
-benefits the others (Nozick 1974)." The basis of the Global Nation is
-the protection of the rights of the individual, to as great an extent as
-possible, from coercion by others, and from the state itself. By
-permitting cultural practices that cannot be rationally justified
-against the most basic rights of the individual, the rule of law itself
-is made meaningless--who would judge what a superior cultural practice
-to the law is, how is that defended?--and a spiral into mutually
-exclusive groupings of rights and responsibilities is created, where the
-rights of one group are in direct opposition to the rights of another,
-and the state is forced to choose between them. This is not a tenable,
-nor justifiable, position for the Global Nation to hold.
-
-The answer of delegating this question to more local forms of government
-such that people can associate with those who share their cultural
-practices is attractive as a first-principles solution, it fails under
-the consideration that it is directly contrary to the foundational
-purpose of the Global Nation, to unify the world under a standard of
-legality, free movement, free trade, free expression, and
-self-ownership. To allow for the delegation of this question to local
-governments would be to allow for the creation of a patchwork of laws
-that would be in direct opposition to the foundational principles of the
-Global Nation, and would create a situation where, as a function of this
-cultural monopoly, political power would be the arm of cultural designs,
-and the Global Nation would then become little better than the
-pre-unification nations that it replaced. A single standard of legality
-must be held to, otherwise, the Global Nation holds no meaning as a
-Nation, instead becoming a loose confederation of states that are in
-direct opposition to one another, self-organizing into conflicting
-factions based on local culture.
-
-Thus, the Global Nation must hold to a system of superior law and
-inferior culture in so far as they are in conflict. Despite this, the
-Global Nation is not an arbiter of culture. Any cultural practice that
-does not infringe upon the rights of the individual or the rights of
-another, is permitted, parents still hold a standard of sovereignty and
-guardianship over their children[^42], and all citizens are free to
-practice--or not, as the case may be--their religion, their customs, and
-their traditions as a matter of free expression. However, the Global
-Nation must be prepared to intervene in cultural practices that infringe
-upon the rights of the individual, or the rights of another, as a matter
-of law in so far as one party did not consent to the practice, or the
-party, through lack of understanding or intimidation, was not able to
-give _informed_ consent. This stands above the cultural relativism
-vs. universalism debate and instead is a matter of ensuring the total
-superiority of the law as a vehicle of justice. Just as with anything
-else, anything done with informed consent is permitted--and can be
-unpermitted by the party at any time--and anything done without informed
-consent, coercion, violates the rights of the individual, and is
-illegal. This is the standard the Global Nation must hold to, in
-reality, a far more liberal standard than that of any pre-unification
-nation, and one that provides a freedom to the citizens of the Global
-Nation that is unparalleled in human history, while maintaining legal
-protections for the maintenance of the infrangible rights of the
-individual. To apply this standard to the previous example of parents
-arranging marriages for their children, the Global Nation would not
-intervene in the practice so long as both parties--the children in
-question--consent to the agreement, and can give _informed_
-consent(above the age of majority or other standard for self-ownership).
-If either child is unable to give informed consent or does not consent
-to the arrangement, the children would hold legal recourse to prevent
-the marriage from taking place, and the parents would be held
-accountable for their actions. In effect, this ensures a maximum of
-total ownership of the self, while still allowing for cultural practices
-that can consensually delegate that ownership--in any amount--to another
-party.
-
-This question of cultural practices vs. rule of law is not a simple one,
-and a personal objection to this standard may prove a substantive
-objection to the idea of the Global Nation itself. However, as this
-examination does not include the fiction of how the Global Nation is to
-be formed, political pandering to compromise these standards to gain
-popular support is not a consideration. In defense of this standard, the
-unimpeachable rights of the individual are held above all else, and the
-Global Nation is held to a standard of justice towards all citizens, and
-in ensuring justice _between_ citizens as well. The ability to delegate
-self-ownership and enter into consensual agreements far beyond those
-allowed[^43] in nearly any pre-unification nation is a powerful tool for
-the citizens of the Global Nation to exercise their rights that the
-state has no claim to. The Global Nation, as a by-product of being a
-"clean-slate" nation, and without external competitors to conform to or
-posture against, is able to hold to a standard of justice, freedom, and
-citizen empowerment that is unparalleled in human history. This is a
-standard worth defending against the rot of internal political intrigue
-and the siren song of "us vs. them" cultural division that seek to blur
-the lines of humanity's true likeness to one another, and the rights
-that all humans are endowed with.
-
-#### Footnotes:
-
-### Andrew Garber
-
-### Independent Study
-
-### Government Structure
-
-#### Outline
-
-<!-- TODO: When revising, add something about naming the provinces just by number. We want to eliminate a kind of "allegiance" there. -->
-
-Operational structures of government reflect the values, beliefs,
-priorities, and attitudes of the people they serve at the time of their
-creation. The Global Nation is no different, but holds a unique position
-in that it is a new nation, created from the voluntary unification of
-separate nations, and holding a diverse population--the whole of
-humanity--with a wide range of beliefs, values, and priorities. In
-reference to the fundamental question of how the Global Nation would be
-structured, and in deference to the preconditions of this examination
-which ensure that the Global Nation be democratic[^44] not autocratic or
-monarchic, the systemic form of this government would have to be
-federal, unitary, or some combination of the two--all other options fall
-outside this scope, or outside of the scope of practicality[^45]. To
-disambiguate, this is not a question of the structures of how citizens
-participate in the government of the Global Nation nor how much
-day-to-day control they have over the government compared to elected
-representatives, but rather how the government is structured and how it
-is organized for its operations.
-
-To further define the terms in question here, Federalism is defined in
-the Stanford Encyclopedia of Philosophy as "sovereignty in federal
-political orders is non-centralized, often constitutionally, between at
-least two levels so that units at each level have final authority and
-can be self governing in some issue area. Citizens thus have political
-obligations to, or have their rights secured by, two authorities.
-(Follesdal 2022)", and can be specifically useful to "accommodate
-differences among populations divided by ethnic or cultural cleavages
-yet seeking a common, often democratic, political order (Follesdal
-2022)". This is to be contrasted with its opposite--in this very
-specific context, though not in general political science--the unitary
-model, which is defined as "a governing system in which a single central
-government has total power over all of its other political subdivisions
-(Longley 2022)". In the current world of nation-states, the United
-States unarguably carries the flag for the federalist model, while the
-majority of other nations, including France and China as prime examples,
-follow the unitary model. It is important to note that a calculation of
-an "optimal" government structure is impossible and that most nations
-operating on a federalist or unitary model incorporate elements,
-practices, and policy recommendations from the other model as they see
-fit. Absolutes in government structures are an impossibility due to the
-spontaneous nature of human society and the continually changing world
-these societies exist in.
-
-The implementation of the Federalist model in the United States has, to
-an incalculable extent, been successful in its ability to accommodate
-differences among populations and accelerate the United States' growth
-and development to that of the most economically, politically, and
-culturally powerful nation in the world. The principles, reasoning, and
-philosophy behind the Federalist model come _largely_ from the helpfully
-titled "Federalist Papers" by Alexander Hamilton, James Madison, and
-John Jay. In these articles, the authors argue for the necessity of a
-federalist model to ensure the rights of the people, the balance of
-power in the federal government, between the state and federal
-governments, and the stability of the nation. In doing so, they
-recognized what all conceptions of the political structure must, "Among
-the most formidable of the obstacles which the new Constitution will
-have to encounter may readily be distinguished the obvious interest of a
-certain class of men in every State to resist all changes which may
-hazard a diminution of the power, emolument, and consequence of the
-offices they hold under the State establishments; and the perverted
-ambition of another class of men, who will either hope to aggrandize
-themselves by the confusions of their country, or will flatter
-themselves with fairer prospects of elevation from the subdivision of
-the empire into several partial confederacies than from its union under
-one government (Hamilton, Madison, and Jay 1787)". This is to say, the
-Federalist model is not perfect, but it does an admirable job at
-restraining the power of the government--to the consternation of the
-intellectual desire to continually influence society in favor of the
-'right' way--and ensuring the rights of the people.
-
-This is not to claim that the unitary model is incapable of ensuring the
-rights of the people or the balance of power in the government, but
-rather that the federalist model makes that the central pillar for all
-governmental design choices. The unitary model, as seen in France[^46]
-is primarily oriented around operational efficiency and standardization,
-with the central government being the most 'direct' representation of
-the people, and thus having total dominion over the sub-governments.
-Some of the benefits of the unitary form of government are that it is
-easier to implement and change policy, the total scope of bureaucracy is
-smaller, and the central government does not require the level of
-cooperation for policy implementation that a federalist government
-does--smaller, faster, more nimble. France's national character makes it
-a poor data point for generalization, but on a strictly policy level, it
-does show some of the potential drawbacks as well. Mixing the nature of
-the unitary model with French national character, "this state-society
-relationship a specific pattern of policy processes emerges. The state
-often formulates policies unilaterally, without first consulting groups
-that may be affected (Daemen and Schap 2000)". This leads to the common
-protests and strikes that France is known for, as the people feel that
-they are not being heard by the government. This is partly due to the
-unitary nature of the government, but also due to the French national
-character, so this must be taken as something to be balanced by
-federalist elements in the Global Nation, but not as a reason for total
-rejection of the unitary model. Another obvious drawback of the unitary
-model is that it is, by its nature, unitary - the Global Nation holds a
-scope of diversity unparalleled among even the most heterogeneous of
-nation-states, and a unitary model _could_ struggle with a political
-environment aligned on ethnic or geographic lines instead of ideological
-ones. This is an issue that will be explored in more depth in the
-cultural and social sections of this examination, but within the context
-of government structure, it is a possible constraint to be aware of and
-consider.
-
-To reach its goals of political stability, rapid economic growth, and
-the acceleration of human development in its many forms, the
-organizational structure of the Global Nation must be a combination of
-federalist and unitary elements and arranged in a unique way: an
-"objectively scaleable" structure. The elements here are directly
-related to both the tax policy--distribution of resources between
-government levels--and the "structure of action" of the government, how
-decisions are made, how they are implemented, how much lee-way different
-entities have in the implementation of policy within the bounds of the
-Global Nation. To clarify the term "objectively scaleable", this
-strictly does not refer to the scaling up of government power,
-authority, or influence over the daily lives of its citizens; rather, it
-refers to the scaling of the structure of government itself based upon
-the geographical or population bounds an entity covers. For example, a
-city government holding a population of 10,000 should near-linearly be
-one-tenth the size of a city government holding a population of 100,000,
-which should be one-one-hundredth the size of a state or province
-government holding a population of 1,000,000, and so on. This
-near-linear scale--with some adjustments for the direct desires of the
-local citizenry in their participation in government, and specific
-considerations for the unique needs of geography and
-population--continues to the "federal"[^47] government of the Global
-Nation. This is not a "federalist" structure, nor is it a "unitary"
-structure, but a unique combination of the two that allows for the most
-efficient and effective government structure possible for the Global
-Nation. Concerning tax policy, 1/3 of all tax revenue collected by the
-Global Nation would be distributed to the federal government, 1/3 to the
-state/province governments, and 1/3 to the local governments. This is
-not a simplification, this is a necessity for the Global Nation to
-function effectively and efficiently, and to ensure a strong balance of
-power while also helping the total world with Global efforts and helping
-keep local knowledge and needs in the hands of the local governments.
-This is, in essence, a "scaled down, distributed version of central
-structure and philosophy" that allows for the most effective
-concentration of talent and resources at the level of government that
-can best utilize them, while also ensuring that the scope of government
-is very difficult to expand beyond the bounds expressly determined by
-this examination. Harkening back to the economic philosophy of the
-Global Nation,
-
-Exploring the specifics of the implementation of this structure,
-starting at the local level provides a holistic view of what the
-scaled-up operational principles of objectively scaleable government
-look like. Due to the directly proportional nature of the tax revenue
-distribution, local government would hold comparatively greater
-responsibility for action than in the majority of pre-unification
-nation-states where the vast majority of taxes are funneled to the
-regional or federal level. Despite this, due to the significantly
-smaller scope of government itself under the Global Nation and its
-correspondingly lower taxes, the primary functions of most local
-governments would be in policing, local infrastructure development, and
-providing a local vehicle for higher-level policy implementation. This
-is not to say that local governments would be powerless, but considering
-the considerably smaller scope of government in general, many of the
-previous responsibilities of local governments are no longer in the
-purview of government at all. For example, education is not a government
-responsibility, but a private one where the value of an education is
-determined by the individual and the market, not by the government. This
-is not to say that a local or state/provincial government couldn't
-provide vouchers or other forms of assistance to those within its
-purview, but they couldn't raise taxes beyond the set caps defined in
-the section on taxation policy to do it. Any new initiatives of the more
-local forms of government would have to both conform to the founding
-principles of the Global Nation and be paid for by reallocating
-resources from the existing total pot of resources, not by raising
-taxes. In reference to the Federal level regarding this point, it would
-be incapable of doing this as it cannot enact a policy
-non-universally--doing so out of the total sum of funds would be a
-violation of the principles of the Global Nation, save for the
-short-term "Second Marshall Plan" discussed previously--and thus exempts
-itself from this specific area. In addition, given whatever funds are
-not allocated elsewhere, the local government would be responsible for
-the execution of policy initiatives that are decided upon by the local
-legislature and population, _as long as they are not in opposition of
-the principles of the Global Nation nor policy at higher levels of
-government_. This is a key point, as local governments must act as both
-the most direct point of input for the population into how they are
-governed while also being a direct subsidiary entity in many ways of the
-Federal government of the Global Nation. It is also the sole power of
-the local government to deploy funds for the sole in-built "welfare
-policy" of the Global Nation, unemployment insurance. The specific
-details of how long unemployment benefits last for, how much they
-are--something relative to the cost of living in the area--is up to the
-local government's legislature and citizenry to decide upon, but is paid
-for in proportion from the town/city, state/provincial, and federal
-levels of government.
-
-Moving up to the state/provincial level[^48], the county or intermediary
-level between the town/city level and the state is eliminated in this
-organization. At this level, the main functions of government would
-include infrastructure development on a larger scale, facilitating
-coordination and unity of policy implementation between town/city level
-governments, and implementing wider scale policy initiatives decided
-upon by the state/provincial legislature and its citizens. While this
-does sound very familiar to the local government, that is exactly the
-point--they are, in effect, the same entity but scaled up. While the
-reach of the state/provincial government is slightly larger
-proportionally due to additionally being responsible for the
-coordination of policy between local governments, the scope of
-government is limited by the same fundamental principles as the Global
-Nation as a whole. Namely, that government should be strictly limited in
-its scope and power to influence the lives of its citizens through
-coercion beyond the most basic of functions. It is not powerless, it
-implements policy voted upon by the citizens and legislature and acts as
-a vehicle for the implementation of higher-level operational policy with
-its attached branch offices of the executive departments, but the
-in-built bias of the Global Nation--the policies that fit within the
-scope of the constitutional authority of the Global Nation--is strongly
-in favor of individual freedom of action, and against the arbitrary
-dictates of government. Of the funds not already apportioned, the
-majority of it would go to projects that wouldn't be funded at higher or
-lower levels due to, respectively, their scale being too small or too
-big to either be a universally applicable policy or a policy inside of a
-single town/city. This might include, in a mountainous state/province,
-the construction of a new road connecting many smaller towns/cities, or
-the construction of an irrigation canal benefitting several towns/cities
-in a heavily agricultural state/province. These kinds of projects which
-are too big of a scope for a single local government to take on but not
-a universally applicable policy would be the primary purview of the
-state/provincial government, acting both as the executor of the policy
-itself and also connecting relevant local governments to assist as well
-as departments of the executive branch in-so-far as they hold knowledge
-and resources that would be useful in the implementation of the policy.
-
-Scaling up to the widest scale imaginable[^49], the federal level of a
-Global Nation, the functions of this level do once again increase
-slightly more than proportionally to the state/provincial level, but the
-aims and principles remain the same. The addition of the executive
-departments [^50], something that the executives of lower levels do not
-hold--instead liaising with the branch offices of the departments--and
-the legislature's rule-making regarding their initiatives and the funds
-they are allocated, are the primary additions at this level. The
-executive departments are not, as in the pre-unification states,
-semi-autonomous fiefdoms acting at the direction but not the instruction
-of the executive branch using funds allocated in a politicized
-manner--either too broad strokes or for the direct benefit of an
-individual crafting the budget--but are instead the specialized
-execution arms of the executive branch. The purpose of the system of
-departments in the Global Nation is to ensure that the policy decided
-upon by the legislative branch and the citizenry, delegated to the
-executive branch for implementation, is carried out most effectively and
-efficiently. This is most effectively achieved by the departments
-acting--through the skills of specialized staff in positions where their
-unique knowledge or abilities are most useful--as the executor of
-deliberately narrow slices of policy, and not as the creator of any of
-its own. Without direct citizen participation in the operations and
-decisions of the executive departments, and in trying to limit their
-ability to act as independent administrative fiefdoms while also
-maximizing the output of taxpayer funds, the departments are most
-effective when operating in a highly vertical manner from the Federal
-down to the town/city level. In addition to the operational control and
-rule-making for the departments, the primary arms of implementing policy
-at all levels, the Federal level of government would also feature
-policies voted on by the legislature and the citizenry that are too
-large in scope for a state/provincial government to take on or are
-universally applicable(a tax cut, an expansion of rights, the funding of
-a program for the benefit of all citizens, etc.).
-
-It is valuable to return to the point regarding lower levels of
-government being a vehicle for the implementation of higher-level
-policy, as this mechanism means that a branch office of a department of
-the executive branch would be located in the local government, and would
-be responsible for the local specifics of policy implementation in this
-area. This is, in function as well as in form, not a miniaturized or
-local version of a higher-level department but simply a distributed arm
-of the higher-level department. This is to say, the local branch office
-of a singular department at a lower level of government liaises with and
-works in concert with the executive of the lower level following the
-guidelines and policies of the department at a higher level. How this
-would work in actuality is that the lower level government--paying for
-half of the department office's budget for its operations at that
-level--would hold partial sway over the direction, placement, or other
-factors of how a policy or project was to be carried out(assume it
-wasn't pre-determined from above) but would not have the ability to
-order the department office to act in a way that was in opposition to
-the guidelines set by the department at a higher level. This is to
-ensure that the policy is carried out most effectively and efficiently
-and that the department is acting as the executor of policy, not as the
-creator of it which is the role of the legislature and the citizenry.
-This is the critically unique aspect of the Global Nation's government
-structure, one that allows a high degree of local flexibility, something
-important due to the wide range of cultures, geographies, and
-populations that the Global Nation encompasses, while also ensuring that
-the policy remains in unity with the principles of the Global Nation as
-an institution and the will of the citizenry as a whole. An additional
-check on the departments is that lower forms of government have the
-right to deny funding for specific projects--though not department
-offices as a whole--dependent on a referendum of the citizens within
-that town/city or state/province. This check, which should be used
-sparingly, allows for the citizenry of a specific area to push back
-against higher-level dictates that they feel do not align with their
-values or needs, ensuring that the Global Nation is always acting in
-service of the public trust. Finally, in regards to the executive
-departments, it is essential that relative to the executive departments
-of pre-unification nations they must be much smaller in scope to be
-highly specialized in their function and minimally political in their
-operations. The goal is for each department to be as full of experts in
-their field as possible, giving a tool to the executive branch that
-doesn't have to be reformed and purged of political appointees every
-time a new administration comes into power. For example, the
-pre-unification United States Department of Transportation[^51] has
-separate Aviation, Highway, Maritime, Railroad, and Transit
-administrations, all of which should be separate departments in the
-Global Nation(if some or all aren't eliminated) to ensure that the most
-specialized knowledge is being used in the most effective way possible.
-In trying to coordinate all of these under a single department, their
-operations are less efficient and less effective, and the same would
-only be magnified at the Global level.
-
-### Andrew Garber
-
-### Independent Study
-
-### Hold-Overs
-
-#### Response
-
-Unifying the world's nations into a single entity would include the
-transfer of government structures, infrastructure, debt, patents,
-intellectual property, and other assets. While this is a monumental
-task, it is not unprecedented. This will not be narrative fiction of how
-the Global Nation could go about this, but rather an examination of how
-to structure such a transition to ensure maximal efficiency, minimal
-disruption, and to ensure that the transition to a Global Nation works
-in concert with the plans for the Global Nation's future. This task is
-complicated by the comparative dearth of historical examples, as cases
-of nations unifying are far rarer than splitting apart in recent
-history, so a necessarily small sample size must be called upon. Each of
-these issues will be examined in turn with a specific focus on how this
-political action--this is not an ordered economic transition, that is
-left for the market's spontaneous organization--would accelerate the
-Global Nation's goals, and how it sets up for the future success of the
-Global Nation.
-
-To begin with, the machinery of government: police, tax collectors,
-military[^52], and other government employees would be retained and
-employed by the Global Nation. Without question, a large number of these
-employees would be let go over time, but starting from scratch without a
-bureaucracy on day one of the Global Nation would be a disaster. While
-the faults of the old governments would be retained in the personnel
-that would be used for the transition to a Global Nation, under a new
-system some of the sycophants and self-serving individuals would perhaps
-change their ways under the new philosophy of the ascendant Global
-Nation. More than this, the functions of the retained individuals would
-be modified but not removed, as the necessity of a police force, tax
-collection, and bureaucracy (all of which will change in form and
-function) don't go away with the creation of the Global Nation. Tax
-collection would look different because of the new taxation system and
-economic philosophy, policing would look different in many parts of the
-world due to the Global Nation's anti-corruption focus, and the
-bureaucracy would look different due to the more minimal part the Global
-Nation will be playing in the economy compared to pre-unification
-nations, but most of the functions would in essence remain.
-
-The example of the semi-retenance of the East German government's
-bureaucracy after German reunification is a good example of how this
-could be done. This example is not perfect, as much of the East German
-government was let go, but this was due to the completely contrary
-political and economic systems of East and West Germany. According to
-Hellmut Wollmann, "The GDR's state was typical of the (post-Stalinist)
-'socialist' state model based on the dual structure of the intertwined
-state and communist party apparatus which, by 1990, was made up of
-around 1000 administrative units with about 2.1 million functionaries
-and employees (Wollmann 2021)." Much of the East German government was
-let go for either ideological or functional reasons--not a socialist
-state, the market managed production, not the government--but large
-portions of the staff were retained or retrained for the new government,
-"the new _Land_ governments were faced with the decision of whether to
-liquidate the administrative units 'inherited' from the GDR state or
-retain and fit them into a new organisational architecture. In pursuit
-of this task, 'often the ruins of the former administrative structure
-with its personnel and material equipment became a quarry for the new
-administrative units' (Wollmann 2021)." This provides a valuable insight
-into merging the world's governmental structures, created for their own
-government's economic and political systems, into a single entity with a
-unity of purpose. The Global Nation's economic and political systems as
-defined in this paper are significantly different from those of the
-current world's nations, somewhat as a function of it being a single
-entity, but not opposites as East and West Germany were. The scale of it
-would be much larger, and many of the states unified into the Global
-Nation would have similarly large and complex governmental structures
-for citizen and economic control as East Germany did, but the principle
-of retaining and retraining the staff--save for high-level officials and
-those who are ideologically opposed to the Global Nation's goals--is a
-good one.
-
-The question of governmental debt is an existential one for the
-formation of a Global Nation, one without a clear answer. In the case of
-individuals buying foreign or domestic government debt, it would go
-against the spirit and goals of the Global Nation--not to mention the
-economic philosophy, which holds with the liberal tradition in
-considering property rights to be fundamental--to not honor those
-obligations as they were made in the pre-integration parts of the
-integrated Global Nation. In the case of State-to-State debt, there are
-valid arguments for both wiping the slate clean as it would effectively
-be the Global Nation owing itself, and for transferring the debt to the
-Global Nation and functionally administering it as a 'gradient' to tax
-distribution until the amount owed is paid--the taxpayers of the
-debt-holder paid for the debt, the debtor got benefit from it so they
-should pay for it. Both of these must be explored, as a plan to deal
-with the debt is fundamental to the economic and political stability of
-the Global Nation, and planning for the scope of its operations.
-
-Beginning with the "wiping-the-slate-clean" option, two historical
-examples raise themselves as obvious examples[^53]: the Confederate
-States of America, and the 1953 London Debt Agreement forgiving much of
-West Germany's debt. The Confederate States of America, a government
-based on insurrection against the United States, was not held
-responsible for its debt after the American Civil War because it didn't
-exist anymore: this is a notable caveat to its use as a historical
-example, but the fundamental principle remains. The United States
-Constitution's 14th Amendment clearly states, "neither the United States
-nor any State shall assume or pay any debt or obligation incurred in aid
-of insurrection or rebellion against the United States, or any claim for
-the loss or emancipation of any slave; but all such debts, obligations
-and claims shall be held illegal and void ("Amendment XIV" 1868)." Given
-the non-existence of the government that incurred the debt--and its
-illegitimacy, something not applicable to nations pre-unification--the
-debt was absorbed by the United States government. The 1953 London Debt
-Agreement, on the other hand, was a case of a government forgiving the
-debt of another government. The London Debt Agreement was a plan to
-strengthen the West German economy as a matter of geostrategic necessity
-by waving and changing the terms of debts from the Treaty of Versailles
-and the inter-war period. The costs of WWI were tremendous, and it was
-politically as well as economically necessary to foist the costs of the
-conflict on the defeated parties: in the case of Germany, 132 billion
-marks were owed to the victors. The Weimar Republic delayed or failed to
-pay the greater portions of these debts, and much of what was paid was
-paid indirectly from American loans. This literal case of "taking a loan
-from Peter to pay Paul" became untenable for the German economy
-following the Great Depression, and tranches of default and
-renegotiation followed. The struggle for debt/reparations payments was
-finally mostly resolved during the inter-war period with the Lausanne
-Conference of 1932, but this didn't end the problem for post-war West
-Germany. "West Germany did not yet have full sovereignty, however, and
-one of the obstacles to its full independence was the outstanding issue
-of the defaults of the 1930s. As the legal successor state to the
-defunct German Reich, West Germany recognized its responsibility for the
-state debt. The Allies also wanted the Federal Republic to accept
-responsibility for ensuring the payment of private debts, which strictly
-speaking was not its responsibility as the Reich's successor state
-(Guinnane 2015)." The London Debt Agreement was a way to resolve the
-greater part of this issue, and it did so by forgiving large parts of
-the debt and making the terms on it far easier for the German government
-to pay. Large portions of the debt were even pushed off until the
-nebulous future point of the reunification of Germany, under the idea
-that the whole of Germany had been responsible for the debt in the past,
-and so only half of the country shouldn't bear the burden of it. In
-addition, not having the specter of so much debt would allow the German
-economy and industry to grow, providing a partner in the geostrategic
-struggle against the Soviet Union. This offers a fair point of view for
-the resolution of the inter-governmental debt of the pre-unification
-debts of the nations that make up the Global Nation - rapid economic
-growth is a central point of the economic philosophy of the Global
-Nation, and perhaps the best way to ensure that is to not have the
-burden of the debt of the past. Despite this, another point of view must
-be considered: the _regions_[^54] that got the benefit of the
-pre-unification debts should be held liable to those that bought the
-debt by some mechanism for the benefits received.
-
-The principles for the institution of a mechanism to have
-pre-unification debt obligations be reflected in Global Nation
-government spending--though no direct example of this exists because
-nations infrequently unify--can be taken from the reunification of
-Germany, and the dissolution of Yugoslavia. The reunification of
-Germany, despite its differences from the Global Nation's unification,
-is a good example of how to handle the debt of the pre-unification
-entities. The West German government(Federal Republic of Germany, but
-"West Germany" for simplicity here) simply assumed the debt of the East
-German government(German Democratic Republic, but "East Germany" for
-simplicity here) as a part of the reunification process. This was not a
-simple matter, but it was a necessary one for the reunification of the
-two Germanys. The "cost" of gaining the rest of Germany back for the
-unifying party, West Germany, was the assumption of the to-be-unified
-party's debt, and it was not as if the East German people wouldn't be
-helping to pay it down, as they were now part of the same country.
-Additionally, many state-owned enterprises in East Germany--Communist
-East Germany was a command economy--were sold off to private investors,
-and the proceeds were used to pay down the debt. This is something that
-will be done in the Global Nation and could help offset debt obligations
-between former regions of the unified Global Nation. For example, upon
-unification of Russia into the Global Nation, the state-owned
-enterprises of the Russian Federation would be sold off to private
-investors--even without the need to repay debts, just as a function of
-the economic philosophy of the Global Nation--and the proceeds would be
-used to pay down the debt, both individual and state-to-state debt, of
-the region that was the Russian Federation. In the case of the debt of
-the former state of Yugoslavia following its dissolution, the debt was
-divided between the new states that were formed from the dissolution.
-The two largest justifications for the splitting of the debt, unity of
-benefit and undue enrichment, explained by Guido Acquaviva as, "such
-debts are obligations under a sort of 'droit superdtatique', 'une
-institution de droit sui generis'\[62\] for which the entire fortune and
-all sources of income of the debtor state are responsible within the
-limits of the territory as it existed at the moment when the debt was
-contracted; it is this whole territory that remains burdened by it ...
-\[and\] a justification by generally recognized considerations of aequum
-et bonum, bona fide.' When a state contracts a debt, it should not be
-allowed subsequently to disallow it and get away with an 'undue
-enrichment.' (Acquaviva 2002)." Both of these principles, used in the
-splitting of the debt of the former Yugoslavia via a formula regarding
-population and economic output of the now-split-regions, have a likeness
-in the newly unified Global Nation. The regions that benefited from
-having the capital of the pre-unification nations should not be allowed
-to get away with an "undue enrichment" at the expense of the regions
-that provided the capital, expecting to be paid back.
-
-Both of these arguments have merit, and both hold feasible unity with
-the doctrines of the economic philosophy of the Global Nation, but the
-question must be answered from this examination and not be a matter left
-to representatives of the Global Nation upon unification. This issue,
-symptomatic of the larger issue of the transition to a Global Nation,
-must be answered before the unification of the world's nations into a
-single entity, otherwise, too much political infighting will occur in
-the direct self-interest of the regions that make up the Global Nation.
-This issue would create pseudo-national divides within the Global
-Nation, running contrary to the direct reason for being _of_ the Global
-Nation. The debt of the pre-unification nations must be handled in a way
-that is fair to all regions of the Global Nation, while not standing in
-the way of economic growth as well as political and economic
-interconnectedness that is the primary benefit of the Global Nation. The
-solution, of these two, that best fits these criteria is that of the
-debt of the pre-unification nations being assumed by the Global Nation,
-and a differential distribution of tax revenue _at the Global
-Governmental Level_ to pay down the debt of the regions that got the
-benefit of the pre-unification debt. This would allow the taxes owed to
-regional governments to be specifically allocated for their regions,
-while the 1/3 of the Global Nation's tax revenue that is distributed at
-the Global Governmental Level[^55] would be distributed to a
-proportionally greater degree to the creditor regions, and a
-proportionally lesser degree to the debtor regions until the balance
-between any two regions is paid off. The only aside to this is that
-debts from international organizations, such as the World Bank, the
-International Monetary Fund, and the United Nations, would have to be
-forgiven, as they are from funds provided by the world's nations, and
-the Global Nation would be paying itself back. This is not a perfect
-solution, but without honoring the debts of the pre-unification nations,
-the Global Nation wouldn't be fully making good on the commitments of
-its parts and would foster a sense of arbitrary division within the
-Global Nation. Within years of the unification of the world's nations
-into a single entity, the debt of the pre-unification nations would be
-paid off--starting first with those owed to individuals and then moving
-on to pre-unification state-to-state debts--and the Global Nation would
-be free from this burden. Without this, the specter of unequal treatment
-would hang over the Global Nation, and the political and economic unity
-of the Global Nation would be in jeopardy.
-
-The issue of patents and intellectual property being unified into a
-single common "market" is a thorny, but not insurmountable, issue.
-Returning to the example of German unification, both states were members
-of international intellectual property organizations, and so the patents
-of both states were largely able to be directly merged with priority
-given to the patent holder who filed first. The German Patent and Trade
-Mark Office described the process, "After 3 October 1990, the DPA had to
-ensure the processing of the IP rights existing or applied for in the
-GDR. For this purpose, 111,000 GDR patents, namely 97,000 economic
-patents (Wirtschaftspatente) and 14,000 exclusive patents
-(Ausschließungspatente), were integrated into a common register. German
-patents confer their holders the right to exclusive use of their
-invention for a limited period of time. In the GDR, such right of use
-was referred to as an exclusive patent ("30 Years of German Unity - two
-German patent offices merged to become one office" 2020)." This model is
-a useful one for the Global Nation, as some nations--despite
-international agreements on some standard patent and intellectual
-property practices--have separate classes or types of patents beyond the
-standards. A direct "translation" of these non-standard types into the
-standard types would be necessary, with the "right-of-way" going to the
-patent holder who filed first no matter which country they originally
-filed in. Terms of patents, conditions for filing, and other such
-details would be standardized but are out of the scope of this
-examination. A fair patent system is a critical part of ensuring a
-highly innovative economy by allowing inventors to recoup their research
-and development costs--something aided by the tax structure of the
-Global Nation--and by ensuring that true patent holders are rewarded for
-their work, the progress of the Global Nation will be accelerated.
-
-The transition from a system of disparate, competitive nations based on
-unique political and economic systems to a single entity with a unified
-political and economic system is a monumental task, but not a reason to
-avoid the creation of the Global Nation. This process of combination,
-elimination, and restructuring would provide the Global Nation with a
-strong foundation for the future and would ensure that the Global Nation
-would hold the tools--and restrictions--necessary to ensure the
-achievement of its goals. It is undeniable that the legacy of the
-pre-unification nations would be felt in the Global Nation, but it is
-the responsibility of the Global Nation to ensure that these legacies
-are managed and then put to rest in a way that ensures the principles
-and reasons for the Global Nation's creation are upheld. The Global
-Nation would be a new entity, but ignoring or sweeping away the efforts
-and commitments of the pre-unification nations would be a disservice to
-the Global Nation and its citizens. Upon the completion of an orderly
-transition, the Global Nation would be in an unparalleled position
-historically to accelerate the progress of humanity, and to ensure that
-the future of the world is one of peace, prosperity, and liberty.
-
-### Andrew Garber
-
-### Independent Study
-
-### Political Problems to Address
-
-#### Response
-
-The pre-unification world of nation-states had many problems that the
-disunity, factionalism, and artificial division of these states did not
-help to solve. The formation of a Global Nation in accordance with the
-principles, procedures, and policies outlined in this examination would
-not immediately make these problems vanish. It is the express purpose of
-the Global Nation to hold sufficient safeguards to avoid using the
-state's monopoly on force and considerable resources to increase its
-power--even if only accidentally--to try to solve these problems. The
-Global Nation is so designed to eliminate the need for a state to solve
-these problems because the elimination of artificial barriers and an
-increase in the flow of information, resources, and talented individuals
-will allow for the self-organization of individuals and groups to solve
-these problems. These pre-existing, "humanity-wide" problems such as
-climate change, the obesity epidemic, and others similar in nature are
-not solvable by edict or dictate of the Global Nation, but by the
-choices and actions of individuals and groups within the Global Nation.
-However, there are specific problems that fundamentally affect the
-political structure of the Global Nation, inherent to the nature of its
-structure, that must be addressed to defend the Global Nation from its
-internal weaknesses.
-
-Foremost among these problems is the lack of external competitors to
-keep the global nation in check through competition or to provide an
-external model of comparison. The Global Nation will, definitionally, be
-the only state in the world. There have been several cases in the
-history of states so asymmetrically powerful in their "scope" that they
-lose direction politically[^56] without an external force to balance
-against which fosters an internal culture of stagnation, cut-throat
-politicking, and societal malaise. This is seen most starkly in the late
-Roman Republic and for the whole of the Roman Empire almost immediately
-after the fall of Carthage, even when large or even existential threats
-appeared. Following the fall of Carthage, a sense of total superiority
-set in among Rome's political elite that they could master any threat
-that came to them, giving them a license to jockey for position even in
-controversion of the state's highest interests. While the culture of
-Ancient Rome is far different from that of any in the 21st-century
-world, the story of, "a population once devoted to national service and
-personal honor, was torn to shreds by growing wealth inequality,
-partisan gridlock, political violence and pandering politicians, and
-argues that the people of Rome chose to let their democracy die by not
-protecting their political institutions, eventually turning to the
-perceived stability of an emperor instead of facing the continued
-violence of an unstable and degraded republic (Daley 2018)" holds a
-lesson for the Global Nation. The ascension of Julius Caesar was not a
-solution to the societal malaise, but a symptom of it: so many crises
-had been allowed to fester, so many emergencies declared, and so many
-political norms--not to mention laws--broken that the false promise of a
-single man who could heal the wounds of the state was believed. The
-stakes for the Global Nation could not be higher, no political entity
-_could_ be more powerful on Earth, so every effort and every safeguard
-must be taken to prevent a similar fate.
-
-What safeguards could be taken? Before enumerating specific mechanisms,
-it is important to note that at the formation of the Global Nation, the
-"founding class" of leaders should be encouraged towards the
-implementation of their own legal and normal restrictions on their
-power. Much as the first generation of American statesmen set the tone
-for over a hundred years of a generally minimal state leaving the
-citizenry to live without the spectre of government intervention, the
-first generation of leaders of the Global Nation should be encouraged to
-ferment an attitude of government restraint and self-restriction. First
-among these, and relating to the system of citizen participation and
-representation in the Global Nation, the amending of the Constitution of
-the Global Nation should be made as difficult as possible. While the
-desire for a government that is "light on its feet" and able to respond
-to the needs of the citizenry is a noble one, the Global Nation must be
-designed to be able to withstand the pressures of a political class--as
-one will inevitably, though unfortunately, form--that would seek to
-change the rules of the game to their advantage. A threshold of 80% in
-the legislature and an 80% popular referendum should encourage only
-necessary, common-sense changes to the Constitution. While this
-mechanism may slow the pace of governmental change and structural
-innovations in the Global Nation, this is dually compensated for by the
-much more nimble structure of citizen participation using e-voting
-measures, and the value of holding back an increase in the power of the
-state given the unparalleled stakes of the Global Nation.
-
-Another safeguard that protects the Global Nation from the potential of
-internal rot in the political sphere from a lack of an external forcing
-function is another constitutional mechanism: a defined
-impossibility--save for it being overturned by an amendment--of taxes
-being raised beyond the fixed brackets, and collected in the manner
-defined in \[III.3\] which eliminates the possibility, so far as is
-possible, of the state entering the cycle of "bread and games" political
-patronage that symbolized the internally rotted Roman Republic. The
-Global Nation, while inevitably being led by a political class, must be
-designed from the outset to be as resistant to the efforts of the
-political class to use the state's resources to fight their own party or
-issue battles as possible. The state is the mechanism of governance for
-the entirety of humanity, it being misused for the smallest of political
-ends is a disservice to the citizenry they are nominally serving. By
-fixing the backstop of the tax system in place--it can always be
-lowered, which would of course be welcome--the Global Nation can avoid
-the downward spiral of so many pre-unification states that came before.
-The demands of the citizenry for redistribution of wealth from those who
-have it to those who do not use government power as the tool, envy by
-another name, or for the greater accumulation of wealth by the political
-class and their benefactors[^57] rob the spirit of personal
-responsibility and the dignity of the individual in favor of anger and
-resentment, foundationally weakening the Global Nation and in the end,
-making that same anger and resentment part of the bedrock of the state.
-
-The Global Nation also faces serious criticism in the face of Cardwell's
-Law, that states can only be innovative--what he called "technically
-creative" most of the time--for limited periods, at which point the
-leading state will move at the pace of every other state. The function
-of the leading state is as the pack leader, the one that sets the most
-aggressive pace of development which other states mimic and compete with
-fractionally until the forces of political economy make it fall back to
-the mean rate of innovation, waiting for another to burst ahead. In the
-words of Joel Mokyr who has studied this phenomenon of political economy
-extensively, "Sooner or later the forces of conservatism,
-the"if-it-ain't-broke-don't-fix-it," the
-"if-God-had-wanted-us-to-fly-he-would-have-given-us-wings," and the
-"not-invented-here-so-it-can't-possibly-work" people take over and
-manage through a variety of legal and institutional channels to slow
-down and if possible stop technological creativity altogether.
-Technological leaders like 17th-century Holland or early 19th-century
-Britain lost their edge and eventually became followers (Mokyr 1994)."
-This presents a thoroughly existential threat to the basis of the Global
-Nation's mission, rapid economic growth to increase the well-being of
-humanity as a result of the unimpeded flow of information, talent, and
-resources to increase the efficiency of the spontaneous organization of
-individuals and groups to areas of maximum benefit. With the talent flow
-of the entire world, the startups of the Global Nation would be both far
-more efficient in innovation per individual, while also having a
-considerably wider market to sell to. If this premise is flawed by
-Cardwell's Law, the Global Nation would be holding humanity back from
-its potential, not advancing it. While poking holes in Cardwell's Law
-and declaring it null, and not an issue, may suffice at the most basic
-level, Cardwell's law is symbolic of the structures necessary to combat
-the negative potential effects of the gargantuan civilizational inertia
-that the Global Nation possesses.
-
-In part, the mechanisms defined earlier to avoid the increase of scope
-in government: the difficulty of amending the Constitution, and a fixed
-tax system expressly designed to incentivize innovation do help to
-counter this problem. However, some part of the solution to Cardwell's
-Law is to be found in a mechanism of government that does not
-outrageously distort the price system of the market and does not attempt
-to pick winners and losers in the economy. The use of e-voting and
-public referendums outlined in \[IV.3\] raises the possibility of
-referendums deciding on prizes for inventions/achievements desired by
-the citizenry of any level of government. The citizens of that region
-would not be the only ones getting the benefit of it, so if a town
-funded a prize for a new type of solar panel, the entire Global Nation
-would benefit from the invention, making the funding/reward somewhat
-asymmetrically disadvantaging the region that funded it, but this could
-be counteracted by the increased economic activity in that region from
-the invention. This mechanism, not writing into law who the winner is
-but what the winner will get--including the standard reward for the
-invention of new technology, a temporary monopoly on the technology in
-the form of a patent--incentivizes the innovations directly desired by
-the citizenry, uses taxpayer funds to get technologies and improvements
-without favoring established companies, and does not drastically distort
-the price system of the market because the government is not purchasing
-the technology, but simply rewarding the inventor. This mechanism,
-applied at the highest or lowest levels of government, with
-corresponding rewards and votes from the citizenry, would be a powerful
-tool to combat Cardwell's Law. In a general sense, a government that
-abides by the general principle of not picking winners and losers in the
-economy, but rewarding those who achieve goals deemed worthy by the
-citizenry and its representatives, would be a government that would be
-able to avoid the stagnation of Cardwell's Law and ensure continued,
-rapid economic and technological growth.
-
-Tyranny of the majority, defined by Oxford Reference as, "If the
-majority rules, what is to stop it from expropriating the minority, or
-from tyrannizing it in other ways by enforcing the majority's religion,
-language, or culture on the minority ("Tyranny of the Majority" n.d.),"
-is a problem fundamental to democracy in any form. Structurally, it is
-mitigated to a certain extent by federal systems that divide power into
-more local majorities to allow for sectors of differing majority
-opinions, and by representative democracy by allowing for the election
-of representatives who are accountable by elections to the majority
-opinion of their constituents. Despite this, on the scale of the Global
-Nation, and with as many differences of religion, language, culture,
-geography, industry, and other factors as there are in the world, the
-tyranny of the majority is a serious concern. The Global Nation must
-hold a fundamental organizational antagonism to oppression by government
-monopoly on force, and in doing so ensure that the will of the people is
-still heard. The mechanisms for this have already been described, but
-deserve to be expanded upon, including the smaller role of government in
-general, meaning that any tyranny has a considerably smaller area of
-effect; the objectively scaleable nature of the Global Nation's
-governmental organization combines the benefits of a federal
-system--diversity of opinion--with the benefits of a unitary
-system--standardization of governmental organization--which allows for
-the citizenry to have a voice in local, regional, and global matters and
-have their voice distinctly heard; and the use of e-voting and public
-referendums to allow for the citizenry to have a direct say in the laws
-and policies that govern them. The Global Nation, by its nature, is a
-government that is designed to be as responsive to the will of the
-people as possible, while incorporating a philosophy of individual
-rights and responsibilities that is designed to protect the individual
-from the state being co-opted by those seeking to impose their own
-beliefs on the wider population.
-
-As examined in \[III.1\], the economic philosophy of the Global Nation,
-the role of government in the economy, and more generally in the lives
-of the citizenry, is to be kept to as far a minimum as is feasible. The
-Global Nation is designed to act as a vehicle for the greater voluntary
-coordination of individuals to solve their problems, something not best
-facilitated by the government using the individual's resources in the
-expansion and perpetuation of a paternalistic state. This original
-function helps to minimize the potential of a tyranny of the majority
-because the government, in most spheres of life, has little to no
-influence: the personal lives of individuals are expressly unregulated
-by the state save for the most basic of laws--child labor, age of
-consent, etc.--and the economic lives of individuals are left up to the
-choices of the individual, not a central authority, to decide. For
-example, an example of an area where a majority might want to enforce
-their will on a minority in the cultural realm such as language, the
-Global Nation would have no power to do so. A national language is, as a
-function of the many hundreds of languages spoken in the world, not
-defined in the constitution of the Global Nation, and so only an
-amendment at the 80% threshold at the Federal Level could change that.
-More than this, it would be clear to the citizenry that no one but such
-a local majority in one region--those who spoke only that
-language--would be rewarded by such a change, and so the incentive for a
-speaker of another language to vote for such a change would hard to
-find. The Global Nation, by carefully defining the scope of government
-and by using its wide diversity of opinion to its advantage, can
-minimize the potential for tyranny of the majority to take hold.
-
-The objectively scaleable organizational structure of the Global Nation,
-as described in \[IV.2\], is a powerful tool in itself to combat the
-potential negative effects of a tyranny of the majority. By allowing for
-a modicum of regional autonomy at the local and provincial levels to
-account for the specifics of local culture, geography, and industry, all
-while maintaining a fundamentally similar structure of government at all
-levels, the Global Nation can allow for the citizenry to have--as long
-as it is within the scope of the Global Nation's constitution--the
-government policies and programs that they desire, and avoid the ones
-they do not. While inevitably _some_ laws and programs at any given
-level of government will be unpopular or undesired by a portion of the
-citizenry, the Global Nation's structure and system of citizen
-participation allows for the citizenry to directly act to change those
-laws and programs without having to rely solely on the election of
-representatives to do so. In doing so, the Global Nation lives up to its
-mandate to be as responsive to the direct will of the people as
-possible, and in doing so allow the citizenry to go about their lives
-with the least amount of interference from the state.
-
-#### Footnotes
 
 ### Andrew Garber
 
@@ -3777,7 +2084,7 @@ Denmark is renowned in many circles as a nation with a high standard of
 living, a strong social safety net, and a high level of government
 services. This is a direct result of their government's economic
 philosophy emphasizing large government services for individual comfort.
-This unavoidably has a cost[^58], and Denmark's tax rates are among the
+This unavoidably has a cost[^26], and Denmark's tax rates are among the
 highest in the world, with specifically high rates on personal income,
 sales tax, and a 25% value-added tax (PWC 2024). The result of this has
 been a high median standard of living, low poverty rates, and a high
@@ -3954,7 +2261,7 @@ high(4.6 compared with 0.7), while the number of hospital beds per 1,000
 population had been cut in half(from 10.3 to 4.9) ... Those seven times
 as many people per hospital bed are not people who are attending to
 patients; they are mostly filling out government requirements (Friedman
-1993)."[^59] While this is not an examination of how the Global Nation's
+1993)."[^27] While this is not an examination of how the Global Nation's
 regulation will be different from the United States, it is important to
 note that much of those taxes to social services in the United States
 _could_ be made unnecessary by a more efficient and less
@@ -4221,7 +2528,7 @@ economic philosophy, the elimination of trade barriers is a positive-sum
 decision in allowing _individuals_ to specialize in what they are
 competitively advantaged in, trade for what they are not, and through
 cooperate in spontaneous organization increase the total sum of wealth
-and prosperity available to humanity[^60]. Former Congressman Ron Paul
+and prosperity available to humanity[^28]. Former Congressman Ron Paul
 put it more plainly, "If I had to grow my own food, make my own clothes,
 build my own house, and teach my own children, our family's living
 standard would plummet to a subsistence, or below-subsistence, level.
@@ -4231,7 +2538,7 @@ off: Precious capital and labor are directed to the areas of most
 productivity, and through voluntary trading, we all benefit. This
 principle works just as effectively on a national and worldwide scale,
 (Paul 1981)." We are allowing David Riccardo's comparative advantage to
-work its magic according to its very nature[^61] when we allow
+work its magic according to its very nature[^29] when we allow
 individuals to trade and organize freely, and with the total collapse of
 barriers propping up non-competitive enterprises, the capital and labor
 that was being wasted on them will funnel into more productive and
@@ -4272,7 +2579,7 @@ Europe(Henderson 1959)." This state of affairs, producing, "much the
 same effect as ligatures which prevent the free circulation of blood
 (Weightman 2007)," harmed the economic well-being of German-states and
 their people, led to significant underdevelopment relative to its
-rapidly industrializing neighbors France, Britain, and Austria[^62], and
+rapidly industrializing neighbors France, Britain, and Austria[^30], and
 caused continual tension between the states. The Zollverein was an
 attempt to solve all of these problems in one fell swoop, and largely
 did so, "During 1833, Prussia managed to get agreement from a large part
@@ -4358,7 +2665,7 @@ encompasses technology and software as a monolith, but in the future, it
 may be that there are 10 or 20 Silicon Valleys across the world, each
 specializing in a _specific_ field of technology or software. This holds
 good historical precedent from Germany, China with its multiple
-semi-specialized economic zones[^63], the United States with its organic
+semi-specialized economic zones[^31], the United States with its organic
 economic hubs semi-devoted to specific fields(Seattle, San Francisco,
 New York, Detroit, etc.), and many others throughout history, and the
 Global Nation would only accelerate this process.
@@ -4388,394 +2695,2013 @@ upon the economic growth of Germany but on a global scale.
 
 ### Independent Study
 
-### Wealth Transfer Case Study
+### Anti-corruption
+
+Corruption is the foundational cause of untold suffering and misery in
+the world. Its nature is insidious, and its effects are far-reaching -
+it eats away at the fabric of our society, creating a culture of
+distrust, apathy, and a lack of accountability in daily life. Nations
+that are successful in combating corruption are almost always more
+prosperous, more stable, and more equitable as a function of having done
+so, and it makes it easier to fight corruption in the future. The
+opposite is also true - corrupt nations are almost always less
+prosperous, less stable, and less equitable as a function of being
+corrupt, and their current corruption makes it easier to be corrupt in
+the future. To begin with, corruption has been defined in this
+examination as, "the abuse of entrusted power for private gain", the
+definition used by Transparency International. While there are valid
+critiques of this definition as being too broad when taken in the scope
+of the wide disparity in levels of corruption across the world, and the
+aggressive nature of the needed anti-corruption measures, broader is
+unfortunately necessary.
+
+The causes of corruption, much like the economic decisions of any
+individual or group, are too varied to be accurately calculated, but
+some major causes are known. The first is a voluntary motivation to look
+for a competitive advantage, special treatment, or "service" from a
+government official. Another is to counter the real or perceived threat
+of an economic or personal competitor doing the same or to counter the
+real or perceived threat of a government official abusing their power.
+This is especially problematic because it creates a culture of
+preventative bribery, and thus those being bribed can use their power to
+solicit more widely. A third cause of corruption is a lack of a strong,
+active judiciary--or an actively complicit one--to police and root out
+corruption. If the part of the government that is supposed to be the
+most independent and act as a monitor of the other branches is itself
+corrupt, or severely diminished in scope(perhaps due to lack of funding
+for it _by_ the corrupt), then the other branches of government are free
+to act with impunity. The fourth cause of corruption is geographic
+dispersion: if people, and the government officials they are bribing,
+are spread out over a wide area, it is much harder to police and root
+out corruption. While very high population density can cause a similar
+problem, when only a few people are the governmental officials in a huge
+area, the number of people to be bribed to get one's desired end is
+fixed and easier to execute upon. This is a chicken and egg problem for
+developing nations, as the corruption makes it harder to grow enough of
+a tax base to build the infrastructure to police and root out
+corruption, which would then allow for a larger tax base to be built.
+The fifth, and final to be examined here, cause is a lack of
+transparency in government and the associated culture of apathy towards
+politics in society that results: if the people do not care about what
+their government is doing, then the government can do whatever it wants.
+This is the factor which the Global Nation, if done poorly, is most
+susceptible to relative to the world's current disparate nations. One
+silver lining in a large number of disparate states is that a more
+transparent state can generally outcompete a less transparent one, as
+the people in the more transparent state can see what their government
+is doing and hold it accountable which makes the state more stable and
+prosperous. This is why, among other reasons, the Global Nation must
+have a strong, active, and holistic anti-corruption policy. Now, a brief
+examination of how the Global Nation's anti-corruption policy will work
+for each of the causes of corruption.
+
+To fight the voluntary motivation for corruption, the first step has to
+be the elimination of the need for corruption. Government employees
+should make a similar amount to their private sector counterparts for a
+similar role at a similar level[^32] such that government officials
+don't have to take bribes to put food on the table--something not
+uncommon in the developing world. Argentina, which is currently seeking
+to reform itself but has decades of corruption to overcome, is a good
+example of this, especially its police force, "Interacting with
+Argentina's police carry a high risk of corruption. The police force is
+among the most corrupt institutions in the country and its actions are
+cited as arbitrary and politicized ... Businesses report that the police
+cannot be consistently relied upon to enforce law and order ("Argentina
+Risk Report" 2020)." While police officers may seem a unique case, more
+likely to be corrupted by their on-the-street interactions with the
+public, it is due to this that they are a good example of the need for a
+strong, active, and holistic anti-corruption policy. Police officers are
+the most visible instrument of government, and if the public sees them
+as non-receptive to bribes and actively working to root out corruption,
+then public trust as a whole will increase. This same principle applies
+to all government employees, and the Global Nation must be vigilant in
+ensuring that all government employees are held to the highest standard
+of conduct. Singapore, which went from a corrupt, poor, post-colonial
+nation to an economic juggernaut based on being an oasis for business in
+East Asia due to its strict anti-corruption policy[^33], has an official
+government Code of Conduct, "which sets out the high standards of
+behaviour expected of public officers based on principles of integrity,
+incorruptibility, and transparency ("Singapore's Corruption Control
+Framework" n.d.) This is a tool that the Global Nation should adopt, a
+clear, concise, and easily understood handbook for the right and just
+actions of servants of the public trust. By making the need for
+corruption lessened, the boundaries of what constitutes corruption
+clearer, and the consequences of corruption more severe, the Global
+Nation can fight the voluntary motivation for corruption.
+
+The strategies and techniques, as well as the effects of the fight
+against the voluntary motivation for corruption, does much to counter
+the preventative motivation for corruption, but a few specific
+strategies are needed. First among these is an anti-corruption office or
+agency, which is independent of the other branches of government, where
+people can report corruption without fear of retribution. This can only
+work if _what_ corruption is, and the penalties for it are clearly
+defined and widely understood--which comes back to the Code of
+Conduct--and if the office is well-funded and staffed with competent
+people to investigate quickly and efficiently. If a business owner
+suspects a competitor of soliciting government officials for special
+treatment, the impulse to do the same must be replaced with the impulse
+to report the competitor(and the government officials) to root out
+corruption entirely. The World Bank, which funds developmental projects
+in areas of the world which need them most, has begun to include this as
+part of its approach, "The Bank Group's independent Sanctions System
+includes the Integrity Vice Presidency, which is responsible for
+investigating allegations of fraud and corruption in World Bank-funded
+projects. Public complaint mechanisms are built into projects to
+encourage and empower oversight, and projects are actively supervised
+during implementation ("Combating Corruption" 2023)." In the case of the
+World Bank, the effect of this approach comes under some doubt because
+it doesn't hold the prerogatives of a state, but the mechanism itself is
+sound. The United States itself does something similar in an attempt to
+decrease global corruption with the Office of Overseas Prosecutorial
+Development, Assistance, and Training (OPDAT)[^34], "Programs are
+tailored to host country legal infrastructures as well as international
+norms and standards. OPDAT coordinates these efforts with the U.S.
+interagency and the international community ("Office of Overseas
+Prosecutorial Development, Assistance, and Training (OPDAT)" n.d.)."
+This is a different angle on the same approach, and a combination of the
+two would provide a sound basis--even if internal instead of
+external--for the Global Nation's anti-corruption policy.
+
+Fighting the third cause of corruption, a lack of a strong, active
+judiciary, is a more difficult task because of its disparate nature. In
+wealthy areas, a few might be able to be bribed, but the vast majority
+of judges are incorruptible. In poor areas, the opposite is true. The
+difficulty is in punishing corrupt judges without hampering the ability
+of the non-corrupt judges to do their jobs, all while acting
+simultaneously as a check on the other parts of the government trying to
+root out their corruption. Many authoritarians have used pretexts of
+anti-corruption to take political opponents off the board, and the
+Global Nation must be vigilant against this. The United States is
+failing in this right now--though much of that has to be put down to the
+politically fraught nature of this--concerning Associate Justice of the
+Supreme Court Clarence Thomas's Quarter-Million Dollar Loan being
+largely forgiven by a friend and conservative political donor, "So, the
+documents we've seen indicate Justice Thomas received a \$267,000 loan
+to buy a luxury RV and never repaid most--- and likely not even a dollar
+---of the money that his friend originally loaned him. This has legal
+consequences ... The tax code makes clear that in instances where debt
+is canceled, forgiven, or discharged for less than the amount owed, the
+borrower must report the amount canceled or forgiven as income for tax
+purposes (Wyden 2024)." While the most egregious thing here isn't the
+tax evasion but the fact that a Supreme Court Justice is taking--and
+being forgiven of--quarter-million-dollar loans from political donors,
+something that is unfortunately legal in the United States, it must be
+in the Global Nation to have a judiciary that is truly independent and
+active in rooting out corruption. The Judiciary should be paid well for
+their legal acumen, and shouldn't need to take bribes, but that isn't
+what Judge Thomas did - he was paid well and still took a bribe because
+save for impeachment(or tax evasion prosecution), what he did was legal.
+The Global Nation's anti-corruption policy must legally prohibit these
+kinds of actions, and the judiciary--as well as a separate, independent
+anti-corruption office--must be able to investigate and prosecute them.
+
+Fighting the fourth cause of corruption, geographic dispersion is an
+interesting case for the Global Nation. The structure of the government
+will be explored in this examination later, but regardless of the
+structural specifics, the Global Nation is gigantic--the whole
+Earth--with a high disparity in population density across its surface.
+There are few ways to systemically root out this kind of corruption save
+for those methods that work to make a more honest, transparent
+government as a whole, and to work with the population to make
+corruption a societal ill. Russia, despite being a thoroughly corrupt
+nation as a whole, struggles with this issue specifically, and
+especially as it relates to its military. Russia is simply huge, and has
+military bases spread over its entire area, sometimes hundreds of miles
+from the nearest neighboring base. This, in addition to the strong
+centralization focus, means that officers and enlisted men have big
+incentives for corruption without much threat of oversight. In the mind
+of Russian commanders in the period between the end of the Soviet Union
+and the beginning of the war in Ukraine, it didn't matter if the tanks
+could move more than a few kilometers before breaking down, as long as
+you had that many tanks under your command to report. In the words of
+Philip Wasielewski, "Graft and corruption skyrocketed after 1991. During
+the First Chechen War (1994-1996), Russian soldiers and officers sold
+weapons, ammunition, and sometimes armored vehicles to Chechen
+rebels.\[38\] Russian peacekeepers in the Balkans resold fuel from
+United Nations stocks and engaged in other types of graft.\[39\] In one
+case, when a Russian airborne battalion finished its tour of duty, its
+soldiers flew home on a military transport while its officers drove to
+Russia in a convoy of over 120 stolen vehicles (Wasielewski 2023)." This
+extends to bases, and corruption as a phenomenon more generally. When
+fewer parties have more power, and the investigative authorities are
+spread out over a wide area, it is much easier to be corrupt. Specific
+mechanisms to fight this kind of corruption are difficult to come by, so
+the Global Nation must rely on the previously stated mechanisms of a
+strong judiciary to punish corruption, an active anti-corruption office
+to root out corruption, a transparent and well-paid government to build
+trust in its citizenry, and a society that is actively engaged in the
+political process to hold the government accountable all of which will
+make this kind of corruption less likely.
+
+To fight the last cause of corruption examined here, the nebulous and
+difficult-to-pin-down effects of a lack of transparency in government
+and the associated cultural effect of greater apathy towards the
+government, all of the previous techniques must be used in concert, and
+in conjunction with a general governmental philosophy towards
+transparency and openness with its citizenry. To combat this cause of
+corruption, no additional punishment or investigatory mechanisms are
+needed, but structural mechanisms for the continuous sharing of
+information, policy, and decision-making processes are. More than just
+combatting societal malaise and apathy towards the government,
+transparency directly combats corruption by making it harder to hide,
+"There is a general consensus that transparency - a situation in which
+information about a decision-making process is made publicly available
+and can easily be verified both in terms of the rules and the identities
+of the decision makers - increases the probability of detection of
+corruption ("University Module Series: Anti-Corruption, Transparency as
+a precondition" n.d.)." This focus on making information publicly
+available, allowing it to be easily verified, and making the identities
+of the decision makers clear provides an exponential effect on measures
+to improve citizen's trust and ownership of their government. The reason
+that having an active, engaged citizenry is so important is that without
+it the government, with its monopoly on force, can do whatever it wants:
+including being corrupt. There are virtuous and vicious cycles here that
+need to be fostered and fought against in turn, that a transparent
+government leads to greater citizen trust and engagement, which leads to
+a more transparent government, and that a corrupt government leads to a
+citizenry stuck in the belief that the government is corrupt and can't
+be changed, which provides the foundation of apathy and disengagement
+that allows the government to be corrupt. Specific measures that can be
+taken to foster this kind of transparency are the publication of all
+government decisions, the minimization of interest groups in the
+decision-making process, a total ban on 'soft-money' political
+donations[^35], a line-item type tax bill that shows where every dollar
+of tax money is going, as well as various other measures related to
+political engagement systems that will be discussed in the citizen
+participation section of this examination. When citizens are engaged in
+the political process, when they feel that their voice matters and holds
+equal weight to the voices of their peers, and when they can see what
+their government is doing with the legitimacy they have given it, then
+corruption is much less likely to occur and can be more easily rooted
+out when it does.
+
+Anti-corruption policy and strategy are key for any nation, but in a
+Global Nation where no external competitor can work to keep the Global
+Nation honest, it must be structurally done so from the beginning. The
+Global Nation as a governmental entity must be fundamentally obsessed
+with rooting out corruption in its ranks, as doing anything less would
+sacrifice the mandate of the people to the whims of the corrupt. Key
+strategies that must be employed--and new strategies must be developed
+from lessons learned--are the elimination of the need for corruption by
+ensuring that government employees don't _need_ corruption to survive,
+the creation of an independent anti-corruption office to actively
+investigate and root out corruption, the creation of a strong judiciary
+to punish corruption when it is found, and the fostering of a
+transparent government that actively seeks the input and accountability
+of its citizenry. These strategies, when taken together, will provide
+the beginnings of a holistic anti-corruption policy to ensure that the
+Global Nation is a place where the rule of law cannot be perverted by
+the corrupt, and where the people can know that their government is
+truly their own.
+
+### Andrew Garber
+
+### Independent Study
+
+### Hold-Overs
+
+#### Response
+
+Unifying the world's nations into a single entity would include the
+transfer of government structures, infrastructure, debt, patents,
+intellectual property, and other assets. While this is a monumental
+task, it is not unprecedented. This will not be narrative fiction of how
+the Global Nation could go about this, but rather an examination of how
+to structure such a transition to ensure maximal efficiency, minimal
+disruption, and to ensure that the transition to a Global Nation works
+in concert with the plans for the Global Nation's future. This task is
+complicated by the comparative dearth of historical examples, as cases
+of nations unifying are far rarer than splitting apart in recent
+history, so a necessarily small sample size must be called upon. Each of
+these issues will be examined in turn with a specific focus on how this
+political action--this is not an ordered economic transition, that is
+left for the market's spontaneous organization--would accelerate the
+Global Nation's goals, and how it sets up for the future success of the
+Global Nation.
+
+To begin with, the machinery of government: police, tax collectors,
+military[^36], and other government employees would be retained and
+employed by the Global Nation. Without question, a large number of these
+employees would be let go over time, but starting from scratch without a
+bureaucracy on day one of the Global Nation would be a disaster. While
+the faults of the old governments would be retained in the personnel
+that would be used for the transition to a Global Nation, under a new
+system some of the sycophants and self-serving individuals would perhaps
+change their ways under the new philosophy of the ascendant Global
+Nation. More than this, the functions of the retained individuals would
+be modified but not removed, as the necessity of a police force, tax
+collection, and bureaucracy (all of which will change in form and
+function) don't go away with the creation of the Global Nation. Tax
+collection would look different because of the new taxation system and
+economic philosophy, policing would look different in many parts of the
+world due to the Global Nation's anti-corruption focus, and the
+bureaucracy would look different due to the more minimal part the Global
+Nation will be playing in the economy compared to pre-unification
+nations, but most of the functions would in essence remain.
+
+The example of the semi-retenance of the East German government's
+bureaucracy after German reunification is a good example of how this
+could be done. This example is not perfect, as much of the East German
+government was let go, but this was due to the completely contrary
+political and economic systems of East and West Germany. According to
+Hellmut Wollmann, "The GDR's state was typical of the (post-Stalinist)
+'socialist' state model based on the dual structure of the intertwined
+state and communist party apparatus which, by 1990, was made up of
+around 1000 administrative units with about 2.1 million functionaries
+and employees (Wollmann 2021)." Much of the East German government was
+let go for either ideological or functional reasons--not a socialist
+state, the market managed production, not the government--but large
+portions of the staff were retained or retrained for the new government,
+"the new _Land_ governments were faced with the decision of whether to
+liquidate the administrative units 'inherited' from the GDR state or
+retain and fit them into a new organisational architecture. In pursuit
+of this task, 'often the ruins of the former administrative structure
+with its personnel and material equipment became a quarry for the new
+administrative units' (Wollmann 2021)." This provides a valuable insight
+into merging the world's governmental structures, created for their own
+government's economic and political systems, into a single entity with a
+unity of purpose. The Global Nation's economic and political systems as
+defined in this paper are significantly different from those of the
+current world's nations, somewhat as a function of it being a single
+entity, but not opposites as East and West Germany were. The scale of it
+would be much larger, and many of the states unified into the Global
+Nation would have similarly large and complex governmental structures
+for citizen and economic control as East Germany did, but the principle
+of retaining and retraining the staff--save for high-level officials and
+those who are ideologically opposed to the Global Nation's goals--is a
+good one.
+
+The question of governmental debt is an existential one for the
+formation of a Global Nation, one without a clear answer. In the case of
+individuals buying foreign or domestic government debt, it would go
+against the spirit and goals of the Global Nation--not to mention the
+economic philosophy, which holds with the liberal tradition in
+considering property rights to be fundamental--to not honor those
+obligations as they were made in the pre-integration parts of the
+integrated Global Nation. In the case of State-to-State debt, there are
+valid arguments for both wiping the slate clean as it would effectively
+be the Global Nation owing itself, and for transferring the debt to the
+Global Nation and functionally administering it as a 'gradient' to tax
+distribution until the amount owed is paid--the taxpayers of the
+debt-holder paid for the debt, the debtor got benefit from it so they
+should pay for it. Both of these must be explored, as a plan to deal
+with the debt is fundamental to the economic and political stability of
+the Global Nation, and planning for the scope of its operations.
+
+Beginning with the "wiping-the-slate-clean" option, two historical
+examples raise themselves as obvious examples[^37]: the Confederate
+States of America, and the 1953 London Debt Agreement forgiving much of
+West Germany's debt. The Confederate States of America, a government
+based on insurrection against the United States, was not held
+responsible for its debt after the American Civil War because it didn't
+exist anymore: this is a notable caveat to its use as a historical
+example, but the fundamental principle remains. The United States
+Constitution's 14th Amendment clearly states, "neither the United States
+nor any State shall assume or pay any debt or obligation incurred in aid
+of insurrection or rebellion against the United States, or any claim for
+the loss or emancipation of any slave; but all such debts, obligations
+and claims shall be held illegal and void ("Amendment XIV" 1868)." Given
+the non-existence of the government that incurred the debt--and its
+illegitimacy, something not applicable to nations pre-unification--the
+debt was absorbed by the United States government. The 1953 London Debt
+Agreement, on the other hand, was a case of a government forgiving the
+debt of another government. The London Debt Agreement was a plan to
+strengthen the West German economy as a matter of geostrategic necessity
+by waving and changing the terms of debts from the Treaty of Versailles
+and the inter-war period. The costs of WWI were tremendous, and it was
+politically as well as economically necessary to foist the costs of the
+conflict on the defeated parties: in the case of Germany, 132 billion
+marks were owed to the victors. The Weimar Republic delayed or failed to
+pay the greater portions of these debts, and much of what was paid was
+paid indirectly from American loans. This literal case of "taking a loan
+from Peter to pay Paul" became untenable for the German economy
+following the Great Depression, and tranches of default and
+renegotiation followed. The struggle for debt/reparations payments was
+finally mostly resolved during the inter-war period with the Lausanne
+Conference of 1932, but this didn't end the problem for post-war West
+Germany. "West Germany did not yet have full sovereignty, however, and
+one of the obstacles to its full independence was the outstanding issue
+of the defaults of the 1930s. As the legal successor state to the
+defunct German Reich, West Germany recognized its responsibility for the
+state debt. The Allies also wanted the Federal Republic to accept
+responsibility for ensuring the payment of private debts, which strictly
+speaking was not its responsibility as the Reich's successor state
+(Guinnane 2015)." The London Debt Agreement was a way to resolve the
+greater part of this issue, and it did so by forgiving large parts of
+the debt and making the terms on it far easier for the German government
+to pay. Large portions of the debt were even pushed off until the
+nebulous future point of the reunification of Germany, under the idea
+that the whole of Germany had been responsible for the debt in the past,
+and so only half of the country shouldn't bear the burden of it. In
+addition, not having the specter of so much debt would allow the German
+economy and industry to grow, providing a partner in the geostrategic
+struggle against the Soviet Union. This offers a fair point of view for
+the resolution of the inter-governmental debt of the pre-unification
+debts of the nations that make up the Global Nation - rapid economic
+growth is a central point of the economic philosophy of the Global
+Nation, and perhaps the best way to ensure that is to not have the
+burden of the debt of the past. Despite this, another point of view must
+be considered: the _regions_[^38] that got the benefit of the
+pre-unification debts should be held liable to those that bought the
+debt by some mechanism for the benefits received.
+
+The principles for the institution of a mechanism to have
+pre-unification debt obligations be reflected in Global Nation
+government spending--though no direct example of this exists because
+nations infrequently unify--can be taken from the reunification of
+Germany, and the dissolution of Yugoslavia. The reunification of
+Germany, despite its differences from the Global Nation's unification,
+is a good example of how to handle the debt of the pre-unification
+entities. The West German government(Federal Republic of Germany, but
+"West Germany" for simplicity here) simply assumed the debt of the East
+German government(German Democratic Republic, but "East Germany" for
+simplicity here) as a part of the reunification process. This was not a
+simple matter, but it was a necessary one for the reunification of the
+two Germanys. The "cost" of gaining the rest of Germany back for the
+unifying party, West Germany, was the assumption of the to-be-unified
+party's debt, and it was not as if the East German people wouldn't be
+helping to pay it down, as they were now part of the same country.
+Additionally, many state-owned enterprises in East Germany--Communist
+East Germany was a command economy--were sold off to private investors,
+and the proceeds were used to pay down the debt. This is something that
+will be done in the Global Nation and could help offset debt obligations
+between former regions of the unified Global Nation. For example, upon
+unification of Russia into the Global Nation, the state-owned
+enterprises of the Russian Federation would be sold off to private
+investors--even without the need to repay debts, just as a function of
+the economic philosophy of the Global Nation--and the proceeds would be
+used to pay down the debt, both individual and state-to-state debt, of
+the region that was the Russian Federation. In the case of the debt of
+the former state of Yugoslavia following its dissolution, the debt was
+divided between the new states that were formed from the dissolution.
+The two largest justifications for the splitting of the debt, unity of
+benefit and undue enrichment, explained by Guido Acquaviva as, "such
+debts are obligations under a sort of 'droit superdtatique', 'une
+institution de droit sui generis'\[62\] for which the entire fortune and
+all sources of income of the debtor state are responsible within the
+limits of the territory as it existed at the moment when the debt was
+contracted; it is this whole territory that remains burdened by it ...
+\[and\] a justification by generally recognized considerations of aequum
+et bonum, bona fide.' When a state contracts a debt, it should not be
+allowed subsequently to disallow it and get away with an 'undue
+enrichment.' (Acquaviva 2002)." Both of these principles, used in the
+splitting of the debt of the former Yugoslavia via a formula regarding
+population and economic output of the now-split-regions, have a likeness
+in the newly unified Global Nation. The regions that benefited from
+having the capital of the pre-unification nations should not be allowed
+to get away with an "undue enrichment" at the expense of the regions
+that provided the capital, expecting to be paid back.
+
+Both of these arguments have merit, and both hold feasible unity with
+the doctrines of the economic philosophy of the Global Nation, but the
+question must be answered from this examination and not be a matter left
+to representatives of the Global Nation upon unification. This issue,
+symptomatic of the larger issue of the transition to a Global Nation,
+must be answered before the unification of the world's nations into a
+single entity, otherwise, too much political infighting will occur in
+the direct self-interest of the regions that make up the Global Nation.
+This issue would create pseudo-national divides within the Global
+Nation, running contrary to the direct reason for being _of_ the Global
+Nation. The debt of the pre-unification nations must be handled in a way
+that is fair to all regions of the Global Nation, while not standing in
+the way of economic growth as well as political and economic
+interconnectedness that is the primary benefit of the Global Nation. The
+solution, of these two, that best fits these criteria is that of the
+debt of the pre-unification nations being assumed by the Global Nation,
+and a differential distribution of tax revenue _at the Global
+Governmental Level_ to pay down the debt of the regions that got the
+benefit of the pre-unification debt. This would allow the taxes owed to
+regional governments to be specifically allocated for their regions,
+while the 1/3 of the Global Nation's tax revenue that is distributed at
+the Global Governmental Level[^39] would be distributed to a
+proportionally greater degree to the creditor regions, and a
+proportionally lesser degree to the debtor regions until the balance
+between any two regions is paid off. The only aside to this is that
+debts from international organizations, such as the World Bank, the
+International Monetary Fund, and the United Nations, would have to be
+forgiven, as they are from funds provided by the world's nations, and
+the Global Nation would be paying itself back. This is not a perfect
+solution, but without honoring the debts of the pre-unification nations,
+the Global Nation wouldn't be fully making good on the commitments of
+its parts and would foster a sense of arbitrary division within the
+Global Nation. Within years of the unification of the world's nations
+into a single entity, the debt of the pre-unification nations would be
+paid off--starting first with those owed to individuals and then moving
+on to pre-unification state-to-state debts--and the Global Nation would
+be free from this burden. Without this, the specter of unequal treatment
+would hang over the Global Nation, and the political and economic unity
+of the Global Nation would be in jeopardy.
+
+The issue of patents and intellectual property being unified into a
+single common "market" is a thorny, but not insurmountable, issue.
+Returning to the example of German unification, both states were members
+of international intellectual property organizations, and so the patents
+of both states were largely able to be directly merged with priority
+given to the patent holder who filed first. The German Patent and Trade
+Mark Office described the process, "After 3 October 1990, the DPA had to
+ensure the processing of the IP rights existing or applied for in the
+GDR. For this purpose, 111,000 GDR patents, namely 97,000 economic
+patents (Wirtschaftspatente) and 14,000 exclusive patents
+(Ausschließungspatente), were integrated into a common register. German
+patents confer their holders the right to exclusive use of their
+invention for a limited period of time. In the GDR, such right of use
+was referred to as an exclusive patent ("30 Years of German Unity - two
+German patent offices merged to become one office" 2020)." This model is
+a useful one for the Global Nation, as some nations--despite
+international agreements on some standard patent and intellectual
+property practices--have separate classes or types of patents beyond the
+standards. A direct "translation" of these non-standard types into the
+standard types would be necessary, with the "right-of-way" going to the
+patent holder who filed first no matter which country they originally
+filed in. Terms of patents, conditions for filing, and other such
+details would be standardized but are out of the scope of this
+examination. A fair patent system is a critical part of ensuring a
+highly innovative economy by allowing inventors to recoup their research
+and development costs--something aided by the tax structure of the
+Global Nation--and by ensuring that true patent holders are rewarded for
+their work, the progress of the Global Nation will be accelerated.
+
+The transition from a system of disparate, competitive nations based on
+unique political and economic systems to a single entity with a unified
+political and economic system is a monumental task, but not a reason to
+avoid the creation of the Global Nation. This process of combination,
+elimination, and restructuring would provide the Global Nation with a
+strong foundation for the future and would ensure that the Global Nation
+would hold the tools--and restrictions--necessary to ensure the
+achievement of its goals. It is undeniable that the legacy of the
+pre-unification nations would be felt in the Global Nation, but it is
+the responsibility of the Global Nation to ensure that these legacies
+are managed and then put to rest in a way that ensures the principles
+and reasons for the Global Nation's creation are upheld. The Global
+Nation would be a new entity, but ignoring or sweeping away the efforts
+and commitments of the pre-unification nations would be a disservice to
+the Global Nation and its citizens. Upon the completion of an orderly
+transition, the Global Nation would be in an unparalleled position
+historically to accelerate the progress of humanity, and to ensure that
+the future of the world is one of peace, prosperity, and liberty.
+
+### Andrew Garber
+
+### Independent Study
+
+### Government Structure
+
+#### Outline
+
+<!-- TODO: When revising, add something about naming the provinces just by number. We want to eliminate a kind of "allegiance" there. -->
+
+Operational structures of government reflect the values, beliefs,
+priorities, and attitudes of the people they serve at the time of their
+creation. The Global Nation is no different, but holds a unique position
+in that it is a new nation, created from the voluntary unification of
+separate nations, and holding a diverse population--the whole of
+humanity--with a wide range of beliefs, values, and priorities. In
+reference to the fundamental question of how the Global Nation would be
+structured, and in deference to the preconditions of this examination
+which ensure that the Global Nation be democratic[^40] not autocratic or
+monarchic, the systemic form of this government would have to be
+federal, unitary, or some combination of the two--all other options fall
+outside this scope, or outside of the scope of practicality[^41]. To
+disambiguate, this is not a question of the structures of how citizens
+participate in the government of the Global Nation nor how much
+day-to-day control they have over the government compared to elected
+representatives, but rather how the government is structured and how it
+is organized for its operations.
+
+To further define the terms in question here, Federalism is defined in
+the Stanford Encyclopedia of Philosophy as "sovereignty in federal
+political orders is non-centralized, often constitutionally, between at
+least two levels so that units at each level have final authority and
+can be self governing in some issue area. Citizens thus have political
+obligations to, or have their rights secured by, two authorities.
+(Follesdal 2022)", and can be specifically useful to "accommodate
+differences among populations divided by ethnic or cultural cleavages
+yet seeking a common, often democratic, political order (Follesdal
+2022)". This is to be contrasted with its opposite--in this very
+specific context, though not in general political science--the unitary
+model, which is defined as "a governing system in which a single central
+government has total power over all of its other political subdivisions
+(Longley 2022)". In the current world of nation-states, the United
+States unarguably carries the flag for the federalist model, while the
+majority of other nations, including France and China as prime examples,
+follow the unitary model. It is important to note that a calculation of
+an "optimal" government structure is impossible and that most nations
+operating on a federalist or unitary model incorporate elements,
+practices, and policy recommendations from the other model as they see
+fit. Absolutes in government structures are an impossibility due to the
+spontaneous nature of human society and the continually changing world
+these societies exist in.
+
+The implementation of the Federalist model in the United States has, to
+an incalculable extent, been successful in its ability to accommodate
+differences among populations and accelerate the United States' growth
+and development to that of the most economically, politically, and
+culturally powerful nation in the world. The principles, reasoning, and
+philosophy behind the Federalist model come _largely_ from the helpfully
+titled "Federalist Papers" by Alexander Hamilton, James Madison, and
+John Jay. In these articles, the authors argue for the necessity of a
+federalist model to ensure the rights of the people, the balance of
+power in the federal government, between the state and federal
+governments, and the stability of the nation. In doing so, they
+recognized what all conceptions of the political structure must, "Among
+the most formidable of the obstacles which the new Constitution will
+have to encounter may readily be distinguished the obvious interest of a
+certain class of men in every State to resist all changes which may
+hazard a diminution of the power, emolument, and consequence of the
+offices they hold under the State establishments; and the perverted
+ambition of another class of men, who will either hope to aggrandize
+themselves by the confusions of their country, or will flatter
+themselves with fairer prospects of elevation from the subdivision of
+the empire into several partial confederacies than from its union under
+one government (Hamilton, Madison, and Jay 1787)". This is to say, the
+Federalist model is not perfect, but it does an admirable job at
+restraining the power of the government--to the consternation of the
+intellectual desire to continually influence society in favor of the
+'right' way--and ensuring the rights of the people.
+
+This is not to claim that the unitary model is incapable of ensuring the
+rights of the people or the balance of power in the government, but
+rather that the federalist model makes that the central pillar for all
+governmental design choices. The unitary model, as seen in France[^42]
+is primarily oriented around operational efficiency and standardization,
+with the central government being the most 'direct' representation of
+the people, and thus having total dominion over the sub-governments.
+Some of the benefits of the unitary form of government are that it is
+easier to implement and change policy, the total scope of bureaucracy is
+smaller, and the central government does not require the level of
+cooperation for policy implementation that a federalist government
+does--smaller, faster, more nimble. France's national character makes it
+a poor data point for generalization, but on a strictly policy level, it
+does show some of the potential drawbacks as well. Mixing the nature of
+the unitary model with French national character, "this state-society
+relationship a specific pattern of policy processes emerges. The state
+often formulates policies unilaterally, without first consulting groups
+that may be affected (Daemen and Schap 2000)". This leads to the common
+protests and strikes that France is known for, as the people feel that
+they are not being heard by the government. This is partly due to the
+unitary nature of the government, but also due to the French national
+character, so this must be taken as something to be balanced by
+federalist elements in the Global Nation, but not as a reason for total
+rejection of the unitary model. Another obvious drawback of the unitary
+model is that it is, by its nature, unitary - the Global Nation holds a
+scope of diversity unparalleled among even the most heterogeneous of
+nation-states, and a unitary model _could_ struggle with a political
+environment aligned on ethnic or geographic lines instead of ideological
+ones. This is an issue that will be explored in more depth in the
+cultural and social sections of this examination, but within the context
+of government structure, it is a possible constraint to be aware of and
+consider.
+
+To reach its goals of political stability, rapid economic growth, and
+the acceleration of human development in its many forms, the
+organizational structure of the Global Nation must be a combination of
+federalist and unitary elements and arranged in a unique way: an
+"objectively scaleable" structure. The elements here are directly
+related to both the tax policy--distribution of resources between
+government levels--and the "structure of action" of the government, how
+decisions are made, how they are implemented, how much lee-way different
+entities have in the implementation of policy within the bounds of the
+Global Nation. To clarify the term "objectively scaleable", this
+strictly does not refer to the scaling up of government power,
+authority, or influence over the daily lives of its citizens; rather, it
+refers to the scaling of the structure of government itself based upon
+the geographical or population bounds an entity covers. For example, a
+city government holding a population of 10,000 should near-linearly be
+one-tenth the size of a city government holding a population of 100,000,
+which should be one-one-hundredth the size of a state or province
+government holding a population of 1,000,000, and so on. This
+near-linear scale--with some adjustments for the direct desires of the
+local citizenry in their participation in government, and specific
+considerations for the unique needs of geography and
+population--continues to the "federal"[^43] government of the Global
+Nation. This is not a "federalist" structure, nor is it a "unitary"
+structure, but a unique combination of the two that allows for the most
+efficient and effective government structure possible for the Global
+Nation. Concerning tax policy, 1/3 of all tax revenue collected by the
+Global Nation would be distributed to the federal government, 1/3 to the
+state/province governments, and 1/3 to the local governments. This is
+not a simplification, this is a necessity for the Global Nation to
+function effectively and efficiently, and to ensure a strong balance of
+power while also helping the total world with Global efforts and helping
+keep local knowledge and needs in the hands of the local governments.
+This is, in essence, a "scaled down, distributed version of central
+structure and philosophy" that allows for the most effective
+concentration of talent and resources at the level of government that
+can best utilize them, while also ensuring that the scope of government
+is very difficult to expand beyond the bounds expressly determined by
+this examination. Harkening back to the economic philosophy of the
+Global Nation,
+
+Exploring the specifics of the implementation of this structure,
+starting at the local level provides a holistic view of what the
+scaled-up operational principles of objectively scaleable government
+look like. Due to the directly proportional nature of the tax revenue
+distribution, local government would hold comparatively greater
+responsibility for action than in the majority of pre-unification
+nation-states where the vast majority of taxes are funneled to the
+regional or federal level. Despite this, due to the significantly
+smaller scope of government itself under the Global Nation and its
+correspondingly lower taxes, the primary functions of most local
+governments would be in policing, local infrastructure development, and
+providing a local vehicle for higher-level policy implementation. This
+is not to say that local governments would be powerless, but considering
+the considerably smaller scope of government in general, many of the
+previous responsibilities of local governments are no longer in the
+purview of government at all. For example, education is not a government
+responsibility, but a private one where the value of an education is
+determined by the individual and the market, not by the government. This
+is not to say that a local or state/provincial government couldn't
+provide vouchers or other forms of assistance to those within its
+purview, but they couldn't raise taxes beyond the set caps defined in
+the section on taxation policy to do it. Any new initiatives of the more
+local forms of government would have to both conform to the founding
+principles of the Global Nation and be paid for by reallocating
+resources from the existing total pot of resources, not by raising
+taxes. In reference to the Federal level regarding this point, it would
+be incapable of doing this as it cannot enact a policy
+non-universally--doing so out of the total sum of funds would be a
+violation of the principles of the Global Nation, save for the
+short-term "Second Marshall Plan" discussed previously--and thus exempts
+itself from this specific area. In addition, given whatever funds are
+not allocated elsewhere, the local government would be responsible for
+the execution of policy initiatives that are decided upon by the local
+legislature and population, _as long as they are not in opposition of
+the principles of the Global Nation nor policy at higher levels of
+government_. This is a key point, as local governments must act as both
+the most direct point of input for the population into how they are
+governed while also being a direct subsidiary entity in many ways of the
+Federal government of the Global Nation. It is also the sole power of
+the local government to deploy funds for the sole in-built "welfare
+policy" of the Global Nation, unemployment insurance. The specific
+details of how long unemployment benefits last for, how much they
+are--something relative to the cost of living in the area--is up to the
+local government's legislature and citizenry to decide upon, but is paid
+for in proportion from the town/city, state/provincial, and federal
+levels of government.
+
+Moving up to the state/provincial level[^44], the county or intermediary
+level between the town/city level and the state is eliminated in this
+organization. At this level, the main functions of government would
+include infrastructure development on a larger scale, facilitating
+coordination and unity of policy implementation between town/city level
+governments, and implementing wider scale policy initiatives decided
+upon by the state/provincial legislature and its citizens. While this
+does sound very familiar to the local government, that is exactly the
+point--they are, in effect, the same entity but scaled up. While the
+reach of the state/provincial government is slightly larger
+proportionally due to additionally being responsible for the
+coordination of policy between local governments, the scope of
+government is limited by the same fundamental principles as the Global
+Nation as a whole. Namely, that government should be strictly limited in
+its scope and power to influence the lives of its citizens through
+coercion beyond the most basic of functions. It is not powerless, it
+implements policy voted upon by the citizens and legislature and acts as
+a vehicle for the implementation of higher-level operational policy with
+its attached branch offices of the executive departments, but the
+in-built bias of the Global Nation--the policies that fit within the
+scope of the constitutional authority of the Global Nation--is strongly
+in favor of individual freedom of action, and against the arbitrary
+dictates of government. Of the funds not already apportioned, the
+majority of it would go to projects that wouldn't be funded at higher or
+lower levels due to, respectively, their scale being too small or too
+big to either be a universally applicable policy or a policy inside of a
+single town/city. This might include, in a mountainous state/province,
+the construction of a new road connecting many smaller towns/cities, or
+the construction of an irrigation canal benefitting several towns/cities
+in a heavily agricultural state/province. These kinds of projects which
+are too big of a scope for a single local government to take on but not
+a universally applicable policy would be the primary purview of the
+state/provincial government, acting both as the executor of the policy
+itself and also connecting relevant local governments to assist as well
+as departments of the executive branch in-so-far as they hold knowledge
+and resources that would be useful in the implementation of the policy.
+
+Scaling up to the widest scale imaginable[^45], the federal level of a
+Global Nation, the functions of this level do once again increase
+slightly more than proportionally to the state/provincial level, but the
+aims and principles remain the same. The addition of the executive
+departments [^46], something that the executives of lower levels do not
+hold--instead liaising with the branch offices of the departments--and
+the legislature's rule-making regarding their initiatives and the funds
+they are allocated, are the primary additions at this level. The
+executive departments are not, as in the pre-unification states,
+semi-autonomous fiefdoms acting at the direction but not the instruction
+of the executive branch using funds allocated in a politicized
+manner--either too broad strokes or for the direct benefit of an
+individual crafting the budget--but are instead the specialized
+execution arms of the executive branch. The purpose of the system of
+departments in the Global Nation is to ensure that the policy decided
+upon by the legislative branch and the citizenry, delegated to the
+executive branch for implementation, is carried out most effectively and
+efficiently. This is most effectively achieved by the departments
+acting--through the skills of specialized staff in positions where their
+unique knowledge or abilities are most useful--as the executor of
+deliberately narrow slices of policy, and not as the creator of any of
+its own. Without direct citizen participation in the operations and
+decisions of the executive departments, and in trying to limit their
+ability to act as independent administrative fiefdoms while also
+maximizing the output of taxpayer funds, the departments are most
+effective when operating in a highly vertical manner from the Federal
+down to the town/city level. In addition to the operational control and
+rule-making for the departments, the primary arms of implementing policy
+at all levels, the Federal level of government would also feature
+policies voted on by the legislature and the citizenry that are too
+large in scope for a state/provincial government to take on or are
+universally applicable(a tax cut, an expansion of rights, the funding of
+a program for the benefit of all citizens, etc.).
+
+It is valuable to return to the point regarding lower levels of
+government being a vehicle for the implementation of higher-level
+policy, as this mechanism means that a branch office of a department of
+the executive branch would be located in the local government, and would
+be responsible for the local specifics of policy implementation in this
+area. This is, in function as well as in form, not a miniaturized or
+local version of a higher-level department but simply a distributed arm
+of the higher-level department. This is to say, the local branch office
+of a singular department at a lower level of government liaises with and
+works in concert with the executive of the lower level following the
+guidelines and policies of the department at a higher level. How this
+would work in actuality is that the lower level government--paying for
+half of the department office's budget for its operations at that
+level--would hold partial sway over the direction, placement, or other
+factors of how a policy or project was to be carried out(assume it
+wasn't pre-determined from above) but would not have the ability to
+order the department office to act in a way that was in opposition to
+the guidelines set by the department at a higher level. This is to
+ensure that the policy is carried out most effectively and efficiently
+and that the department is acting as the executor of policy, not as the
+creator of it which is the role of the legislature and the citizenry.
+This is the critically unique aspect of the Global Nation's government
+structure, one that allows a high degree of local flexibility, something
+important due to the wide range of cultures, geographies, and
+populations that the Global Nation encompasses, while also ensuring that
+the policy remains in unity with the principles of the Global Nation as
+an institution and the will of the citizenry as a whole. An additional
+check on the departments is that lower forms of government have the
+right to deny funding for specific projects--though not department
+offices as a whole--dependent on a referendum of the citizens within
+that town/city or state/province. This check, which should be used
+sparingly, allows for the citizenry of a specific area to push back
+against higher-level dictates that they feel do not align with their
+values or needs, ensuring that the Global Nation is always acting in
+service of the public trust. Finally, in regards to the executive
+departments, it is essential that relative to the executive departments
+of pre-unification nations they must be much smaller in scope to be
+highly specialized in their function and minimally political in their
+operations. The goal is for each department to be as full of experts in
+their field as possible, giving a tool to the executive branch that
+doesn't have to be reformed and purged of political appointees every
+time a new administration comes into power. For example, the
+pre-unification United States Department of Transportation[^47] has
+separate Aviation, Highway, Maritime, Railroad, and Transit
+administrations, all of which should be separate departments in the
+Global Nation(if some or all aren't eliminated) to ensure that the most
+specialized knowledge is being used in the most effective way possible.
+In trying to coordinate all of these under a single department, their
+operations are less efficient and less effective, and the same would
+only be magnified at the Global level.
+
+### Andrew Garber
+
+### Independent Study
+
+### Citizen Participation
+
+#### From Outline
+
+    - IV.3: Structures for Citizen Participation/Government Structure.
+    - IV.3.a: How would the Global Nation be structured to allow for citizen participation in government? Would it be a direct democracy, a representative democracy, or something else entirely?
+
+     - IV.3.a.i: Tie back to Switzerland, and their implementation of direct democracy.
+     - IV.3.a.ii: The United States as a general example of a representative democracy
+     - IV.3.a.iii: "Architecture of a Technodemocracy" by Jason M. Hanania, and how certain elements of techodemocracy would be a good fit for the Global Nation.
+     - IV.3.a.iv: The structure of citizen participation in the Global Nation as a triad of direct democracy, representative democracy, and technodemocracy(not technocracy) into a cohesive form, and how it interacts with a system of objectively scalable government.
+
+#### Response
+
+Throughout history, the citizenry of a state has held varying degrees of
+influence over the actions, policies, and decisions of their state(in so
+much as it was 'their' state at all). As a pre-condition of this
+examination, the Global Nation must be structured in such a way that it
+could be correctly considered a "Democracy", and the previous sections
+have laid out the groundwork for this both morally, as it relates to the
+Liberal foundation of the Global Nation, and systemically, as the
+organizational structure of the Global Nation includes a system of
+government that takes in the direct will of the people. This still
+leaves a wide range of possibilities for what such a system of citizen
+participation could look like, and as no "optimal" systems exists, a
+series of trade-offs must be made to create a system that fits the
+unique constraints and goals of the Global Nation. A wide range of
+systems are available for consideration, but in seeking the fine
+principles to combine into a cohesive whole, brief examinations of the
+direct democracy of Switzerland(previously mentioned in \[II.1.a.\]),
+the representative democracy of the United States, and the
+technodemocracy of Jason M. Hanania's _Architecture of a
+Technodemocracy_ will be made, and useful principles co-opted, combined,
+and re-imagined for the Global Nation.
+
+Switzerland, as mentioned in \[II.1.a.\]: "Why is Switzerland in the
+Schengen Area but not the EU itself?", is a direct democracy--a unique
+fixture in the world of modern states--with two primary mechanisms for
+direct citizen participation: the referendum and the initiative. The
+referendum is a vote on a law that has been passed by the Swiss
+parliament, and the initiative is a vote on a law that has been proposed
+by the Swiss people. Both of these allow the will of the people[^48], in
+separate ways, to hold large sway in the rules of the state that holds
+legitimacy as a result of their grace. What makes these mechanisms
+astounding, and useful for the Global Nation, is that these same
+mechanisms have been in place since the middle of the 19th century, when
+infrastructure for intellectual, political, and cultural connectivity
+was far more primitive than it is in even the least developed regions
+today. That Switzerland has prospered under this system and did so even
+before the advent of modern communication technology, is a direct
+contradiction to the popular conception of any form of direct democracy
+as too cumbersome or feeble to be effective. More than this, the Swiss
+system of direct democracy also includes a legislative branch of elected
+representatives, who also hold the power to draft laws and pass them to
+the consideration of the people. Despite this, the Swiss system of
+professional political representation is unmistakably different from
+that of the United States or France, "The National Council and the
+Council of States meet separately for three-week sessions four times a
+year. The two chambers debate all constitutional amendments before
+putting them to the popular vote. They also adopt, amend or repeal
+federal legislation(About Switzerland)", but this frequency is less
+symptomatic of the Swiss system as a whole and more wholly
+representative of Swiss political culture. This form of hybrid direct
+and representative democracy(referred to henceforth as simply "hybrid
+democracy") is an invaluable model for the Global Nation, as it allows
+for the direct consultation of the people, their direct input and
+suggestions into the laws that govern them, a veto over laws which may
+prioritize the interests of the government over its people, and a system
+of elected representatives who can use their experience and character to
+act as the people's delegate in the day-to-day functioning of the state.
+
+The United States, partly as a function of its federalism but also as an
+intentional choice of its framers, is a representative democracy with
+several intermediaries between the direct will of the people and the
+decisions that affect them. In many ways, this is a useful function of a
+highly compartmentalized representative model, as different branches and
+levels of government can be structured as checks on each other to avoid
+the concentration of power in any one place, and to incentive
+cooperation between different groups of people to achieve political aims
+of mutual interest. While not referring to the United States
+specifically, Alonso, Keane, and Merkel bring this point to the fore,
+"Representative government was also hailed as an effective new method of
+apportioning blame for poor political performance; a new way of
+encouraging the rotation of leadership, guided by merit. Right from the
+beginning, some critics thought of it as a form of elected aristocracy,
+but that rather understated another claimed advantage of representative
+democracy: that it cleared space for political minorities and
+competition for power that in turn enabled elected representatives to
+test out their political competence in the presence of others (Alonso,
+Keane, and Merkel 2011)." These are significant virtues of the
+representative model, and these become even more important when
+considering the huge area and population of the Global Nation. The
+system is not without its flaws--both in the United States, and as a
+general model--as the actions of the representatives are necessarily
+disconnected from those who empowered them, and the constituents of a
+representative are not entirely homogenous in opinion. While the models
+of Switzerland and the United States both include representative
+elements, in this view the United States' model falls prey to the
+criticisms of representative democracy more strongly, "It frustrates
+collective action by splintering the _demos_ \[populace\] and by
+disconnecting the exercise of power from its rightful source; an active
+_demos_ \[populace\] is replaced by political professionals who protect
+powerful particular interests. Representation makes a mockery of the
+power-principle of democracy, majority rule: 'majorities are artifacts
+manufactured by money, organization and the media' (Alonso, Keane, and
+Merkel 2011)." This underscores, albeit slightly exaggerates, the
+importance of direct mechanisms of citizen participation in the Global
+Nation, especially considering the total political scale of the Global
+Nation.
+
+Technodemocracy, as described by Jason M. Hanania in _Architecture of a
+Technodemocracy_[^49], is a system of government that uses technology to
+allow for the direct participation of the citizenry in the day-to-day
+functioning of the state, keeps the state accountable, and allows for
+the state to be more directly responsible for acting contrary to the
+interests of the voters. The foundational tenets of it are rapid
+peer-to-peer communication, electronic(internet/blockchain) voting on
+day-to-day and long-term issues, and the power of the people to recall
+their representatives at any time. As Hanania describes it, "each group
+member would have communication power, option power, decision power, and
+accountability power, equal to that of any other group member, including
+representatives. The representatives would simply carry out the
+decisions of the group (Hanania 2018)." This is a powerful model for the
+Global Nation, as it allows for the day-to-day management to be
+off-loaded to representatives as long as they act righteously in service
+of their constituents, with an immediate and continual check on their
+power. The structure of Hanania's technodemocratic model is far more
+extensive than this, but functionally the keys are explained in this
+example.
+
+The Global Nation's system of citizen participation would combine the
+fundamental principles of a hybrid direct and representative democracy,
+the checks and balances of a specifically compartmentalized
+representative democracy, and modern improvements on democracy itself
+through the use of technology in the form of a technodemocracy. This
+system would include the relevant useful mechanisms from each of these
+and counterbalance their flaws through thoughtful combination and
+re-imagining, and would functionally allow for the direct will of the
+people to be enacted in the day-to-day functioning of the state, their
+representatives' interests being held in direct correlation to their
+constituents, and the public trust maintained and expanded as a function
+of the state's total and immediate accountability to the people. While
+the daily operations of this system at the Town/City, State/Province,
+and Federal levels would be different in the scale of the decisions and
+policies implemented, the structure would be nearly identical. Before
+looking at that, the structure of the executive must be addressed, as
+the executive is as much a representative of the people as the
+legislative. While direct recall of the executive is an attractive
+notion in theory--an identical system to that of the legislative branch
+wherein if the executive is not acting in the direct interests of the
+citizenry they can be removed after a petition of a certain percentage
+of the citizenry--the Global Nation's executive, and those of the lower
+levels structured in the same way, need the stability of a fixed term to
+avoid the chaos of something akin to the "Year of the Four Emperors" in
+Rome. While a direct recall measure might work well at the Town/City
+level, or possibly even the State/Province level, at the Federal level
+it is functionally untenable as the executive, elected for their
+experience and character, must be allowed to govern under the mandate of
+that election. Checks and balances still do exist, as the agenda of any
+executive must be doubly approved by the citizenry and the legislature
+as a function of the unique dual legislative process of the Global
+Nation, and the judiciary holds a similar check on the executive as it
+does in the United States. The executive must be allowed to exercise
+their power, perhaps even in the face of public opposition, as long as
+they are within the bounds of the law of the Global Nation, and subject
+to censure by the citizenry and the legislature as a matter of course.
+return to the legislative branch, the unique dual legislative process of
+the Global Nation is worthy of a more thorough inspection to flesh out
+the mechanisms and reasoning behind it. The total elimination of an
+elected representative's power to draft and pass laws--as well as the
+other functions of the elected legislature: impeachment, approving
+judicial nominations, and more--would be a significant loss, for the
+experience and character of the elected representatives is a valuable
+asset to the state, and to their constituents. To avoid either the
+people's direct legislative authority being merely a rubber-stamp on the
+decisions of the elected legislature, or the reverse happening, the
+Global Nation's system of dual legislature makes these bodies equal in
+legislative power. Both the citizenry and the elected representatives
+must approve any law by majority vote--no fillibuster, no
+super-majorities save for veto override--with a proportion of the
+citizenry of any level(perhaps 10%) having to sign a petition to put it
+on the ballot. This system allows for the direct input of the citizenry
+into the laws that govern them while ensuring that a minimum of nuisance
+bills get on the ballot. The executive, as mentioned, has veto power
+over any law, but this veto can be over-ridden by a 60% vote of the
+legislature--if a representative does not vote to override the veto
+against the will of their constituents, they can be recalled--adding a
+specific check on the executive's power to the legislature's toolbox.
+This legislative process applies equally to the Town/City,
+State/Province, and Federal levels, with the only variable being the
+number and form of the legislative bodies at each level. A final point
+of uniqueness in the direct voting process of the Global Nation is the
+inclusion of an "explainer section" on the ballot, where the citizenry
+can read a summary of the law, its implications, and the arguments for
+and against it, these will be drafted by the legislature ahead of the
+vote, and if the citizenry finds them to be biased or incomplete as a
+function of partisanship or incompetence, those representatives involved
+can be recalled. The clear counterargument to the idea that a key
+function of the representative form of government is to willingly
+delegate the day-to-day functioning of the state to those with greater
+understanding and experience and that it would take too much time and
+effort for the citizenry to be informed on every issue. These would be
+valid concerns in an era of limited communication and education, but in
+the information age where anyone can inform themselves on the
+particulars of any issue to a moderate degree of depth, these concerns
+are less valid. In addition, if the citizenry is so poorly reared in the
+ways of governance and issues that affect their lives, the state may not
+be sufficiently open and transparent--see \[III.5\]--in what issues face
+that level of government, what the implications of those issues are, and
+what actions have been taken in remedy. In addition, the issues of the
+tyranny of the majority aren't valid in the face of the alternative and
+are significantly minimized in a system where the role of government in
+the economy and the lives of the citizenry is so much more limited in
+comparison to almost any other pre-unification state. In consideration
+of the technological marvels of the modern age, the Global Nation's
+system of citizen participation is not only possible but a moral
+imperative in the face of the rule of the few over the many, no matter
+how democratic the election that put them there.
+
+#### Footnotes
+
+### Andrew Garber
+
+### Independent Study
+
+### Political Problems to Address
+
+#### Response
+
+The pre-unification world of nation-states had many problems that the
+disunity, factionalism, and artificial division of these states did not
+help to solve. The formation of a Global Nation in accordance with the
+principles, procedures, and policies outlined in this examination would
+not immediately make these problems vanish. It is the express purpose of
+the Global Nation to hold sufficient safeguards to avoid using the
+state's monopoly on force and considerable resources to increase its
+power--even if only accidentally--to try to solve these problems. The
+Global Nation is so designed to eliminate the need for a state to solve
+these problems because the elimination of artificial barriers and an
+increase in the flow of information, resources, and talented individuals
+will allow for the self-organization of individuals and groups to solve
+these problems. These pre-existing, "humanity-wide" problems such as
+climate change, the obesity epidemic, and others similar in nature are
+not solvable by edict or dictate of the Global Nation, but by the
+choices and actions of individuals and groups within the Global Nation.
+However, there are specific problems that fundamentally affect the
+political structure of the Global Nation, inherent to the nature of its
+structure, that must be addressed to defend the Global Nation from its
+internal weaknesses.
+
+Foremost among these problems is the lack of external competitors to
+keep the global nation in check through competition or to provide an
+external model of comparison. The Global Nation will, definitionally, be
+the only state in the world. There have been several cases in the
+history of states so asymmetrically powerful in their "scope" that they
+lose direction politically[^50] without an external force to balance
+against which fosters an internal culture of stagnation, cut-throat
+politicking, and societal malaise. This is seen most starkly in the late
+Roman Republic and for the whole of the Roman Empire almost immediately
+after the fall of Carthage, even when large or even existential threats
+appeared. Following the fall of Carthage, a sense of total superiority
+set in among Rome's political elite that they could master any threat
+that came to them, giving them a license to jockey for position even in
+controversion of the state's highest interests. While the culture of
+Ancient Rome is far different from that of any in the 21st-century
+world, the story of, "a population once devoted to national service and
+personal honor, was torn to shreds by growing wealth inequality,
+partisan gridlock, political violence and pandering politicians, and
+argues that the people of Rome chose to let their democracy die by not
+protecting their political institutions, eventually turning to the
+perceived stability of an emperor instead of facing the continued
+violence of an unstable and degraded republic (Daley 2018)" holds a
+lesson for the Global Nation. The ascension of Julius Caesar was not a
+solution to the societal malaise, but a symptom of it: so many crises
+had been allowed to fester, so many emergencies declared, and so many
+political norms--not to mention laws--broken that the false promise of a
+single man who could heal the wounds of the state was believed. The
+stakes for the Global Nation could not be higher, no political entity
+_could_ be more powerful on Earth, so every effort and every safeguard
+must be taken to prevent a similar fate.
+
+What safeguards could be taken? Before enumerating specific mechanisms,
+it is important to note that at the formation of the Global Nation, the
+"founding class" of leaders should be encouraged towards the
+implementation of their own legal and normal restrictions on their
+power. Much as the first generation of American statesmen set the tone
+for over a hundred years of a generally minimal state leaving the
+citizenry to live without the spectre of government intervention, the
+first generation of leaders of the Global Nation should be encouraged to
+ferment an attitude of government restraint and self-restriction. First
+among these, and relating to the system of citizen participation and
+representation in the Global Nation, the amending of the Constitution of
+the Global Nation should be made as difficult as possible. While the
+desire for a government that is "light on its feet" and able to respond
+to the needs of the citizenry is a noble one, the Global Nation must be
+designed to be able to withstand the pressures of a political class--as
+one will inevitably, though unfortunately, form--that would seek to
+change the rules of the game to their advantage. A threshold of 80% in
+the legislature and an 80% popular referendum should encourage only
+necessary, common-sense changes to the Constitution. While this
+mechanism may slow the pace of governmental change and structural
+innovations in the Global Nation, this is dually compensated for by the
+much more nimble structure of citizen participation using e-voting
+measures, and the value of holding back an increase in the power of the
+state given the unparalleled stakes of the Global Nation.
+
+Another safeguard that protects the Global Nation from the potential of
+internal rot in the political sphere from a lack of an external forcing
+function is another constitutional mechanism: a defined
+impossibility--save for it being overturned by an amendment--of taxes
+being raised beyond the fixed brackets, and collected in the manner
+defined in \[III.3\] which eliminates the possibility, so far as is
+possible, of the state entering the cycle of "bread and games" political
+patronage that symbolized the internally rotted Roman Republic. The
+Global Nation, while inevitably being led by a political class, must be
+designed from the outset to be as resistant to the efforts of the
+political class to use the state's resources to fight their own party or
+issue battles as possible. The state is the mechanism of governance for
+the entirety of humanity, it being misused for the smallest of political
+ends is a disservice to the citizenry they are nominally serving. By
+fixing the backstop of the tax system in place--it can always be
+lowered, which would of course be welcome--the Global Nation can avoid
+the downward spiral of so many pre-unification states that came before.
+The demands of the citizenry for redistribution of wealth from those who
+have it to those who do not use government power as the tool, envy by
+another name, or for the greater accumulation of wealth by the political
+class and their benefactors[^51] rob the spirit of personal
+responsibility and the dignity of the individual in favor of anger and
+resentment, foundationally weakening the Global Nation and in the end,
+making that same anger and resentment part of the bedrock of the state.
+
+The Global Nation also faces serious criticism in the face of Cardwell's
+Law, that states can only be innovative--what he called "technically
+creative" most of the time--for limited periods, at which point the
+leading state will move at the pace of every other state. The function
+of the leading state is as the pack leader, the one that sets the most
+aggressive pace of development which other states mimic and compete with
+fractionally until the forces of political economy make it fall back to
+the mean rate of innovation, waiting for another to burst ahead. In the
+words of Joel Mokyr who has studied this phenomenon of political economy
+extensively, "Sooner or later the forces of conservatism,
+the"if-it-ain't-broke-don't-fix-it," the
+"if-God-had-wanted-us-to-fly-he-would-have-given-us-wings," and the
+"not-invented-here-so-it-can't-possibly-work" people take over and
+manage through a variety of legal and institutional channels to slow
+down and if possible stop technological creativity altogether.
+Technological leaders like 17th-century Holland or early 19th-century
+Britain lost their edge and eventually became followers (Mokyr 1994)."
+This presents a thoroughly existential threat to the basis of the Global
+Nation's mission, rapid economic growth to increase the well-being of
+humanity as a result of the unimpeded flow of information, talent, and
+resources to increase the efficiency of the spontaneous organization of
+individuals and groups to areas of maximum benefit. With the talent flow
+of the entire world, the startups of the Global Nation would be both far
+more efficient in innovation per individual, while also having a
+considerably wider market to sell to. If this premise is flawed by
+Cardwell's Law, the Global Nation would be holding humanity back from
+its potential, not advancing it. While poking holes in Cardwell's Law
+and declaring it null, and not an issue, may suffice at the most basic
+level, Cardwell's law is symbolic of the structures necessary to combat
+the negative potential effects of the gargantuan civilizational inertia
+that the Global Nation possesses.
+
+In part, the mechanisms defined earlier to avoid the increase of scope
+in government: the difficulty of amending the Constitution, and a fixed
+tax system expressly designed to incentivize innovation do help to
+counter this problem. However, some part of the solution to Cardwell's
+Law is to be found in a mechanism of government that does not
+outrageously distort the price system of the market and does not attempt
+to pick winners and losers in the economy. The use of e-voting and
+public referendums outlined in \[IV.3\] raises the possibility of
+referendums deciding on prizes for inventions/achievements desired by
+the citizenry of any level of government. The citizens of that region
+would not be the only ones getting the benefit of it, so if a town
+funded a prize for a new type of solar panel, the entire Global Nation
+would benefit from the invention, making the funding/reward somewhat
+asymmetrically disadvantaging the region that funded it, but this could
+be counteracted by the increased economic activity in that region from
+the invention. This mechanism, not writing into law who the winner is
+but what the winner will get--including the standard reward for the
+invention of new technology, a temporary monopoly on the technology in
+the form of a patent--incentivizes the innovations directly desired by
+the citizenry, uses taxpayer funds to get technologies and improvements
+without favoring established companies, and does not drastically distort
+the price system of the market because the government is not purchasing
+the technology, but simply rewarding the inventor. This mechanism,
+applied at the highest or lowest levels of government, with
+corresponding rewards and votes from the citizenry, would be a powerful
+tool to combat Cardwell's Law. In a general sense, a government that
+abides by the general principle of not picking winners and losers in the
+economy, but rewarding those who achieve goals deemed worthy by the
+citizenry and its representatives, would be a government that would be
+able to avoid the stagnation of Cardwell's Law and ensure continued,
+rapid economic and technological growth.
+
+Tyranny of the majority, defined by Oxford Reference as, "If the
+majority rules, what is to stop it from expropriating the minority, or
+from tyrannizing it in other ways by enforcing the majority's religion,
+language, or culture on the minority ("Tyranny of the Majority" n.d.),"
+is a problem fundamental to democracy in any form. Structurally, it is
+mitigated to a certain extent by federal systems that divide power into
+more local majorities to allow for sectors of differing majority
+opinions, and by representative democracy by allowing for the election
+of representatives who are accountable by elections to the majority
+opinion of their constituents. Despite this, on the scale of the Global
+Nation, and with as many differences of religion, language, culture,
+geography, industry, and other factors as there are in the world, the
+tyranny of the majority is a serious concern. The Global Nation must
+hold a fundamental organizational antagonism to oppression by government
+monopoly on force, and in doing so ensure that the will of the people is
+still heard. The mechanisms for this have already been described, but
+deserve to be expanded upon, including the smaller role of government in
+general, meaning that any tyranny has a considerably smaller area of
+effect; the objectively scaleable nature of the Global Nation's
+governmental organization combines the benefits of a federal
+system--diversity of opinion--with the benefits of a unitary
+system--standardization of governmental organization--which allows for
+the citizenry to have a voice in local, regional, and global matters and
+have their voice distinctly heard; and the use of e-voting and public
+referendums to allow for the citizenry to have a direct say in the laws
+and policies that govern them. The Global Nation, by its nature, is a
+government that is designed to be as responsive to the will of the
+people as possible, while incorporating a philosophy of individual
+rights and responsibilities that is designed to protect the individual
+from the state being co-opted by those seeking to impose their own
+beliefs on the wider population.
+
+As examined in \[III.1\], the economic philosophy of the Global Nation,
+the role of government in the economy, and more generally in the lives
+of the citizenry, is to be kept to as far a minimum as is feasible. The
+Global Nation is designed to act as a vehicle for the greater voluntary
+coordination of individuals to solve their problems, something not best
+facilitated by the government using the individual's resources in the
+expansion and perpetuation of a paternalistic state. This original
+function helps to minimize the potential of a tyranny of the majority
+because the government, in most spheres of life, has little to no
+influence: the personal lives of individuals are expressly unregulated
+by the state save for the most basic of laws--child labor, age of
+consent, etc.--and the economic lives of individuals are left up to the
+choices of the individual, not a central authority, to decide. For
+example, an example of an area where a majority might want to enforce
+their will on a minority in the cultural realm such as language, the
+Global Nation would have no power to do so. A national language is, as a
+function of the many hundreds of languages spoken in the world, not
+defined in the constitution of the Global Nation, and so only an
+amendment at the 80% threshold at the Federal Level could change that.
+More than this, it would be clear to the citizenry that no one but such
+a local majority in one region--those who spoke only that
+language--would be rewarded by such a change, and so the incentive for a
+speaker of another language to vote for such a change would hard to
+find. The Global Nation, by carefully defining the scope of government
+and by using its wide diversity of opinion to its advantage, can
+minimize the potential for tyranny of the majority to take hold.
+
+The objectively scaleable organizational structure of the Global Nation,
+as described in \[IV.2\], is a powerful tool in itself to combat the
+potential negative effects of a tyranny of the majority. By allowing for
+a modicum of regional autonomy at the local and provincial levels to
+account for the specifics of local culture, geography, and industry, all
+while maintaining a fundamentally similar structure of government at all
+levels, the Global Nation can allow for the citizenry to have--as long
+as it is within the scope of the Global Nation's constitution--the
+government policies and programs that they desire, and avoid the ones
+they do not. While inevitably _some_ laws and programs at any given
+level of government will be unpopular or undesired by a portion of the
+citizenry, the Global Nation's structure and system of citizen
+participation allows for the citizenry to directly act to change those
+laws and programs without having to rely solely on the election of
+representatives to do so. In doing so, the Global Nation lives up to its
+mandate to be as responsive to the direct will of the people as
+possible, and in doing so allow the citizenry to go about their lives
+with the least amount of interference from the state.
+
+#### Footnotes
+
+### Andrew Garber
+
+### Independent Study
+
+### Preventing Mono-Cultural Dominance
+
+#### Response:
+
+The awe-inspiring scale of the Global Nation, encompassing the whole
+world and all of its people, is threatened by the potential for
+political entities[^52] to form along cultural lines and a form of
+mono-cultural dominance through political means to be established. In
+pre-unification states, political parties founded for the specific
+advancement of a single ethnicity, religion, geographic region, or other
+cultural identity fomented artificial divisions outside of political
+ideology, through the pretense of an "us vs. them" mentality. These
+parties, and other spontaneous social movements like them, have
+exemplified and magnified some of the worst humanity is capable of
+throughout history, from genocide, civil war, the suppression of human
+rights, and the definite political and economic distinction between
+people based on their cultural identity. However, equally contrary to
+the principles of freedom, individual liberty and responsibility, and
+self-determination, is the idea of government using its power to prevent
+the formation of these spontaneous social groupings, which in itself
+would be the exact kind of tyranny this measure would be meant to
+prevent. Fundamentally, this problem offers a question for the nature of
+the Global Nation, the greatest conceivable multicultural society: what
+is multiculturalism in the Global Nation, how is it different from the
+multiculturalism of the pre-unification world, and how is social
+dominance by a single culture--whatever that culture may be--to be
+prevented, if at all?
+
+As explored in the Economic Philosophy of the Global Nation \[III.1\],
+the Global Nation adheres to a strongly Liberal[^53] economic
+philosophy, which asserts strong individual rights in the political
+sphere more generally. As Irene Bloemraad defined it, "Under classical
+liberalism, all people must be treated the same, and governments should
+remain blind to particularities of ethnicity, religion, or national
+origin. They should not, for example, provide public funding for
+cultural minority groups," which is countered by the modern
+multiculturalist approach, which "argues that cultural neutrality in
+public institutions is impossible. Since democracy is based on
+government by the majority, minorities face disadvantages in the public
+sphere despite laws guaranteeing certain rights and freedoms (Bloemraad
+2011)." The Global Nation, structurally designed to counter Tyranny of
+the Majority \[IV.4\], does reasonably defend against this as a
+functional safeguard against the growth of tyranny in any form,
+including this. More strongly though, the idea of a government that must
+treat people differently to make them equal, as Hayek asserted, is
+fundamentally flawed. The Global Nation, to maintain internal stability
+and uphold its values must enforce its continence as a non-arbiter of
+culture, a self-organizing phenomenon impossible to dictate. A policy,
+not of mandated equality, but of mandating that all people are equal
+under the law bar none is the only way to abide by the Global Nation's
+purpose as the vehicle for the greatest possible freedom and prosperity
+for all people by the elimination of the legal, economic, and political
+barriers that have historically divided them. That is what
+multiculturalism in the Global Nation must be: not the government
+forcing people to see each other as equals, but the government treating
+all people as equals, and letting that radiate outwards into the
+culture. This is a different kind of multiculturalism to that of most
+Western pre-unification states[^54] which have attempted to legislate
+multiculturalism into existence, largely due to being expressly
+non-equal in their treatment of different groups at the time of their
+inception. The modern political philosophy of multiculturalism endorses
+a view that "social equality is enhanced when governments explicitly
+recognize cultural minorities, valorize pluralism, and accommodate the
+cultural needs of groups. In this way, if a legislature mandates store
+closings one day a week to give workers a day of rest, businesspeople of
+different religious faiths should be able to choose the day they close
+rather than having a Sunday closing --- rooted in Christian traditions
+--- imposed upon them (Bloemraad 2011)," provides a stark contrast to
+the Global Nation's approach to a situation such as this, which would be
+to not mandate store closings at all, let the business owner decide, and
+let the market judge if the business owner's decision was a good one by
+the increase or decrease in market share. The pre-unification states'
+approach to multiculturalism holds a distinct disadvantage in that the
+legal rights of many people were not originally equal, with certain
+groups actively selected as the "true" citizenry and others actively
+discriminated against, which eventually led to the government stepping
+in and attempt to rectify the situation, by which point a legacy of
+political, economic, and social inequality had formed in the roots of
+the society. The Global Nation, by contrast, is founded on the principle
+of equality under the law and thus does not need to legislate legal
+equality between groups, as it is the foundational principle of the
+state itself.
+
+In the question of political parties formed along the lines of cultural
+identity, the Global Nation must strictly avoid any intervention in
+their formation, as they are simply manifestations of the spontaneous
+social order. Even if one accepts the premise that political parties
+formed on cultural lines of any sort are more harmful to the political
+culture of the state than those formed through honest differences of
+policy, to bar their formation in any way would be a dangerous precedent
+to set. If any coalescing of the people into a political party or other
+organizational group happens and does so without coercion or
+interruption of an individual's rights, then it is a natural and organic
+process that must not be interfered with[^55]. Any law put in place to
+prevent cultural dominance via government regulation, to control
+something of the natural social order of individuals and groups, will be
+perverted in support of the dominance of a few, perhaps a majority,
+instead of in defense of the universal rights of all. It is the
+antipathy of the popular tide in the field of political science to offer
+no solution where one could be imagined--some mandate or mechanism to
+prevent something that could reasonably be seen as harmful to the
+political system itself--but in this case, the only solution that
+corresponds to the principles and values, not to mention results, of the
+Global Nation is to decisively remove government from this field and all
+its neighbors.
+
+#### Footnotes:
+
+### Andrew Garber
+
+### Independent Study
+
+### Culture and Law: Differing cultural customs and the law of the Global Nation
+
+#### From Outline:
+
+#### Response:
+
+Discussions of the intersection of cultural differences and the law are
+fraught with difficulty, potential for misunderstanding, and viewpoints
+that are often in direct opposition to one another without a pathway for
+clear resolution. The Global Nation, as a multicultural society, must be
+prepared to handle these issues with a deft hand and a precise
+understanding of the principles that underlie its existence, and its
+citizens' relations to it. Functionally, there is no way to please
+everyone, especially when it comes to deeply held beliefs and cultural
+practices that directly contradict one another--wars have been fought
+over this issue for the whole of the history of human civilization.
+Despite this impressive hurdle, the Global Nation must be willing to
+undergo the hardship of setting a new standard for justice and fairness
+in both tolerance and legal righteousness. The core question remains
+whether the Global Nation will hold legal standards that allow for what
+could well be called illegal if it wasn't for the cultural context, or
+if it will hold to a universalist standard that is applied to all
+citizens regardless of their cultural background. The answer to this
+question is not simple, and the implications of the answer bump up
+against the core goals and values of the Global Nation in the realms of
+economics, politics, and the rule of law.
+
+To begin with, a definition of terms, starting with the two most central
+to this discussion: cultural relativism and cultural universalism[^56].
+Cultural relativism, as per John J. Tilley, is the belief that "Although
+for every culture some moral \[judgments\] are valid, no moral
+\[judgments\] is _universally_ valid, meaning valid for all cultures.
+Instead, every moral \[judgment\] is culturally relative (Tilley 1998)".
+This means that what is considered right or wrong, good or bad, moral or
+immoral, is determined by the circumstances--in this case, the
+culture--in which the judgment is made. In contrast, cultural
+universalism is, "the view that the values, concepts, and behaviors
+characteristic of diverse cultures can be viewed, understood, and judged
+according to universal standards ("Cultural Universalism" 2018)". This
+means, in practical terms, that there are moral standards that can be
+universally applied as a function of being human, above and beyond the
+cultural context in which they are applied. This would appear an
+appealing standard to hold to in the most multicultural society
+imaginable, as it would allow for a common standard of justice and
+fairness to be applied to all citizens, regardless of their cultural
+background. However, the implications of this standard are not as simple
+as they might appear at first glance. One must look no further than the
+United Nations' Universal Declaration of Human Rights to see the
+potential for conflict between cultural relativism and universalism, and
+how it affects law.
+
+It must first be remarked that the legal effect of the Universal
+Declaration of Human Rights, as a function of the United Nations
+powerlessness (see \[II.2\]), is limited to the extent that it is
+enforced by the member states of the United Nations--which is to say,
+not at all. However, the principles the document espouses are certainly
+the most notable example of a universalist standard of human rights that
+has been agreed upon, at least in principle, by the majority of the
+world's nations, and it says so in Article 1: "All human beings are born
+free and equal in dignity and rights. They are endowed with reason and
+conscience and should act towards one another in a spirit of brotherhood
+(United Nations 1948)". This universalist statement is the foundational
+claim of the document, the cornerstone on which even more expansive
+declarations are made, including a definition of universal rights
+themselves in Article 2, "Everyone is entitled to all the rights and
+freedoms set forth in this Declaration, without distinction of any kind,
+such as race, colour, sex, language, religion, political or other
+opinion, national or social origin, property, birth or other status
+(United Nations 1948)," and a statement in Article 7 of cultural
+universalism before the law, "All are equal before the law and are
+entitled without any discrimination to equal protection of the law. All
+are entitled to equal protection against any discrimination in violation
+of this Declaration and against any incitement to such discrimination
+(United Nations 1948)." These statements endorse a universalist standard
+of human rights, and a recognition of this standard as not only
+politically but _legally_ forceful. One need only look to Article 16.2
+of the Declaration to see where this runs into conflict with cultural
+relativism, though, "Marriage shall be entered into only with the free
+and full consent of the intending spouses (United Nations 1948)." This
+statement, clearly universalist, runs into direct conflict with the
+cultural practices of many nations, where arranged marriages are the
+norm, and the consent of the spouses is not a consideration--and
+frequently, the spouses are _accepting_ of this arrangement, seeing
+nothing wrong or objectionable in it due to its pervasion in their
+culture. Should the Global Nation hold to a universalist standard, it
+would be forced to condemn these practices as illegal, and potentially
+even criminal, even though the spouses involved see nothing wrong with
+it. Many more examples could be given, but this one is sufficient to
+illustrate the point: is complaint the point at which the Global Nation
+should intervene in cultural practices, or should it hold to a
+universalist standard that is applied to all citizens regardless of
+their cultural background? Does the Global Nation enforce a standard of
+justice and fairness stemming from the most basic conceivable rights,
+and through this move the standard of normalcy in the whole world to a
+single standard over time, or is this equally as oppressive as the
+cultural practices it seeks to eliminate? If cultural practices give
+sovereignty of _individual1_ to _individual2_, are _individual1_'s
+rights to self-determination and self-expression being infringed upon,
+or is the Global Nation infringing upon _individual2_'s rights by
+"returning" _individual1_ to self-ownership? These are the questions
+this section seeks to answer.
+
+The argument that only at the point of complaint should the Global
+Nation intervene in cultural practices is a compelling one, as it both
+removes the state from the position of judge of cultural practices and
+allows for large autonomy in the cultural practices of the citizens of
+the Global Nation. However, this argument fails under the test that in
+waiting for a complaint, the Global Nation is allowing for oppression to
+continue, and potentially even to grow, as the oppressed are not given a
+voice to speak out against their oppressors, either through
+intimidation, lack of understanding of their rights and the law, or
+through the cultural pervasion of the practice itself. This argument
+also fails under the basis that at its core, and despite strong and
+continued efforts to minimize the _scope_ of the state, the Global
+Nation is not a passive "background entity", its laws are not merely
+suggestions, and its citizens are not merely "members of a club". Even
+Nozick, he of the minimal state, defended a state intervening so far as
+it is protecting the rights of an individual from another, "Side
+constraints \[on the actions of individuals\] express the inviolability
+of other persons. But why may not one violate persons for the greater
+social good? ... But there is no _social entity_ with a good that
+undergoes some sacrifice for its own good. There are only individual
+people, different individual people, with their own individual lives.
+Using one of these people for the benefit of others, uses him and
+benefits the others (Nozick 1974)." The basis of the Global Nation is
+the protection of the rights of the individual, to as great an extent as
+possible, from coercion by others, and from the state itself. By
+permitting cultural practices that cannot be rationally justified
+against the most basic rights of the individual, the rule of law itself
+is made meaningless--who would judge what a superior cultural practice
+to the law is, how is that defended?--and a spiral into mutually
+exclusive groupings of rights and responsibilities is created, where the
+rights of one group are in direct opposition to the rights of another,
+and the state is forced to choose between them. This is not a tenable,
+nor justifiable, position for the Global Nation to hold.
+
+The answer of delegating this question to more local forms of government
+such that people can associate with those who share their cultural
+practices is attractive as a first-principles solution, it fails under
+the consideration that it is directly contrary to the foundational
+purpose of the Global Nation, to unify the world under a standard of
+legality, free movement, free trade, free expression, and
+self-ownership. To allow for the delegation of this question to local
+governments would be to allow for the creation of a patchwork of laws
+that would be in direct opposition to the foundational principles of the
+Global Nation, and would create a situation where, as a function of this
+cultural monopoly, political power would be the arm of cultural designs,
+and the Global Nation would then become little better than the
+pre-unification nations that it replaced. A single standard of legality
+must be held to, otherwise, the Global Nation holds no meaning as a
+Nation, instead becoming a loose confederation of states that are in
+direct opposition to one another, self-organizing into conflicting
+factions based on local culture.
+
+Thus, the Global Nation must hold to a system of superior law and
+inferior culture in so far as they are in conflict. Despite this, the
+Global Nation is not an arbiter of culture. Any cultural practice that
+does not infringe upon the rights of the individual or the rights of
+another, is permitted, parents still hold a standard of sovereignty and
+guardianship over their children[^57], and all citizens are free to
+practice--or not, as the case may be--their religion, their customs, and
+their traditions as a matter of free expression. However, the Global
+Nation must be prepared to intervene in cultural practices that infringe
+upon the rights of the individual, or the rights of another, as a matter
+of law in so far as one party did not consent to the practice, or the
+party, through lack of understanding or intimidation, was not able to
+give _informed_ consent. This stands above the cultural relativism
+vs. universalism debate and instead is a matter of ensuring the total
+superiority of the law as a vehicle of justice. Just as with anything
+else, anything done with informed consent is permitted--and can be
+unpermitted by the party at any time--and anything done without informed
+consent, coercion, violates the rights of the individual, and is
+illegal. This is the standard the Global Nation must hold to, in
+reality, a far more liberal standard than that of any pre-unification
+nation, and one that provides a freedom to the citizens of the Global
+Nation that is unparalleled in human history, while maintaining legal
+protections for the maintenance of the infrangible rights of the
+individual. To apply this standard to the previous example of parents
+arranging marriages for their children, the Global Nation would not
+intervene in the practice so long as both parties--the children in
+question--consent to the agreement, and can give _informed_
+consent(above the age of majority or other standard for self-ownership).
+If either child is unable to give informed consent or does not consent
+to the arrangement, the children would hold legal recourse to prevent
+the marriage from taking place, and the parents would be held
+accountable for their actions. In effect, this ensures a maximum of
+total ownership of the self, while still allowing for cultural practices
+that can consensually delegate that ownership--in any amount--to another
+party.
+
+This question of cultural practices vs. rule of law is not a simple one,
+and a personal objection to this standard may prove a substantive
+objection to the idea of the Global Nation itself. However, as this
+examination does not include the fiction of how the Global Nation is to
+be formed, political pandering to compromise these standards to gain
+popular support is not a consideration. In defense of this standard, the
+unimpeachable rights of the individual are held above all else, and the
+Global Nation is held to a standard of justice towards all citizens, and
+in ensuring justice _between_ citizens as well. The ability to delegate
+self-ownership and enter into consensual agreements far beyond those
+allowed[^58] in nearly any pre-unification nation is a powerful tool for
+the citizens of the Global Nation to exercise their rights that the
+state has no claim to. The Global Nation, as a by-product of being a
+"clean-slate" nation, and without external competitors to conform to or
+posture against, is able to hold to a standard of justice, freedom, and
+citizen empowerment that is unparalleled in human history. This is a
+standard worth defending against the rot of internal political intrigue
+and the siren song of "us vs. them" cultural division that seek to blur
+the lines of humanity's true likeness to one another, and the rights
+that all humans are endowed with.
+
+#### Footnotes:
+
+### Andrew Garber
+
+### Independent Study
+
+### Conclusion: Why Give Up Sovereignty to Join the Global Nation?
 
 #### From Outline:
 
 ```markdown
-III.2: How would the numerically greater but significantly poorer areas of the world be brought up to the level of the numerically smaller but significantly richer areas of the world?
-
-- III.2.a: Is a short term "wealth drain" from the wealthy areas to the poorer areas of the world, directed in some measure by the government, to dramatically speed up development to ensure long-term stability of the Global Nation necessary? At what scale should this take place? [Must link back to III.1.a, and the economic philosophy of the Global Nation to ensure consistency]
-- III.2.a.a: Case Study on the Marshall Plan, and how it was a success.
-  - II.2.a.a.i: Caveat that the Marshall Plan was between nations, not an internal wealth transfer which is what this would be.
-  - II.2.a.a.ii: Caveat that the Marshall Plan was a short-term wealth transfer, not something that was a continuous mechanism of wealth transfer.
-  - II.2.a.a.iii: Caveat that the Marhshall Plan was also a counter to the Soviet Union, and not just a humanitarian/developmental effort.
-- III.2.a.b: Outline a 2nd Marshall Plan, but for the world as a whole, but how the most effective thing will be the implementation of strong institutions and the opening of barriers, not direct wealth transfer.
+- VI.1: Why Give Up Sovereignty?
+  - VI.1.a: Summary of Economic, Political&Systemic, and Cultural&Social benefits of a Global Nation.
+    - VI.1.a.i: Back to Switzerland, they joined the Schengen Area, but not the EU. Why should they give up their sovereignty to the Global Nation? Use them as the example of a nation that despite great wealth would benefit from the Global Nation.
+    - VI.1.a.ii: Back to Second Marhshall Plan, and the effective short-term bribe to the poorer regions of the world to speed up development to ensure long-term stability of the Global Nation.
+    - VI.1.a.iii: Back to the United States, an example of a nation that would benefit from the Global Nation despite already being the most powerful, wealthiest, and most influential nation in the world.
+  - VI.1.b: Summary of the benefits of the Global Nation, and how it would be a net benefit for all of humanity.
 ```
 
-### Case Study
+#### Response:
 
-In accordance with the economic philosophy of the world-government, the
-question of ensuring the rapid development of the less-developed areas
-of the world is a pressing one both economically and politically, as the
-centrifugal forces of a huge wealth disparity could threaten the
-stability and political legitimacy of the Global Nation. The question of
-how to bring the numerically greater but significantly poorer areas of
-the world up to the level of the numerically smaller but significantly
-richer areas of the world is a complex one, especially in consideration
-of the long precedent that this implementation would set for the future
-of the Global Nation. The economic philosophy of the Global Nation, as
-explored previously, equivocally does not support or provide for a
-continual anti-wealth-inequality mechanism, but rather a system of
-strong institutions and the opening of barriers to ensure that the
-wealth of the world grows in totality instead of being redistributed
-from a fixed-sum pool. However, the question of whether a short-term
-"wealth drain" from the wealthy areas to the poorer areas of the world,
-directed in some measure by the government, to dramatically speed up
-development to ensure long-term stability of the Global Nation is
-necessary is a pressing one. Relevant historical precedents for this are
-lacking, as States are generally not in the business of adding
-territorially those areas that are significantly poorer than themselves,
-but the post-World War II Marshall Plan is a notable example of a
-successful short-term wealth transfer from a richer area to a
-significantly poorer one--even if it is for reasons of war rather than
-poor economic development in the first place--that greatly accelerated
-the economic growth of Western Europe and provides for strong, lasting
-ties between the United States and Europe.
+With the justification for, structures of, and mechanisms by which the
+Global Nation would function in place, the question remains: why should
+a nation give up its sovereignty to join the Global Nation[^59]? The
+pull of the individual towards a collective with whom they hold at least
+a nominal fellowship with is a powerful one, and even with the promise
+of a better future under a unified world, fellowship with all, the
+question remains: why should a nation, and its people, give up their
+sovereignty to join the Global Nation? The economic, political, and
+cultural facets of the Global Nation offer unique benefits to nations of
+all kinds, positions, and sizes, but the combination of benefits that
+make it worth it for any particular nation are unique to that nation.
+For that purpose, three case studies--representing nations with uniquely
+strong potential gains from joining the Global Nation--will be
+presented: Switzerland, the United States, and those nations that would
+be the recipients of a Second Marshall Plan. While precondition #5 of
+this examination is that the people of the world desire the unification,
+that is not what is being addressed here: this is a specification of the
+benefits that would be most pronounced for nations of specific
+"archetypes" that would, of all the Global Nation's benefits, be the
+most valuable to them.
 
-#### Historical Background & Caveats
+Beginning with Switzerland, a nation that is wealthy, secure, and
+stable, the question of why they should give up ownership of that among
+a fairly small population to join the Global Nation is a valid one. The
+answer, simply, is that the weight of numbers of being in fellowship
+with all of humanity will produce more wealth and individual opportunity
+than the current system of being a wealthy, secure, and stable nation of
+a small population, as well as an existing cultural acceptance of the
+functions of direct democracy. More than this, it is a direct extension
+of the benefits it gained from joining the Schengen Area, and at a more
+mediocre cost and with stronger additional benefits compared to joining
+the European Union in full. While Switzerland has become enormously
+wealthly largely through its position as the world's banker, sitting as
+the neutral mixing point for the wealth of nations, companies, and
+individuals for centuries, by being part of the Global Nation they could
+retain this, have access to an even greater serviceable population--the
+region would lend itself into a heavy specialization in banking and
+financial services--and build on this strong foundation to even stronger
+economic growth. 5.4% of Swiss employment is in the financial sector,
+but making up 9.3% of GDP("The Financial Sector: A Stable Mainstay of
+the Swiss Economy" 2023), and while dispropriate economic output from a
+single sector is not necessarily a bad thing, the Global Nation would
+offer the opportunity to turn it into a direct advantage for the nation
+as a whole, as wealth from the financial sector would radiate into other
+sectors of the economy. As a function of the Global Nation's taxation
+structure, as well as total freedom of movement, entrepreneurship will
+increase sharply: Switzerland could hold a unique position as the region
+to go to for innovation in financial services, and as the _funders_ of
+innovation more broadly. The Global Nation would offer Switzerland the
+opportunity to leverage its existing wealth, largely radiating from the
+financial sector[^60], into a broader economic base, and to become the
+financial foundation of innovation in the Global Nation.
 
-George C. Marshall, Chief of Staff of the United States Army during
-World War II, and then Secretary of State under Truman, proposed the
-Marshall Plan in 1947 as a way to rebuild Europe following the
-devastation of World War II. There was widespread worry that the
-economic instability of Western Europe: high inflation, unemployment,
-and a lack of food and housing, would lead to the spread of communism.
-The Marshall Plan was signed into law by President Truman in
-1948--really, the "Economic Cooperation Act of 1948", but forever known
-as The Marshall Plan--granting \$5 billion in aid to 16 European
-countries over four years - this number would rise to \$13.6 billion by
-1951, approximately \$190 billion in 2024 dollars. While this was a
-large amount of money, especially when taken as a percentage of USD GDP
-at the time(giving away \$5 billion to start from a GDP of \$274.5
-billion), it was still a small amount of money compared to GDP of the
-recipient nations. The justifications for the Marshall Plan were
-wideranging from the humanitarian, the economically self-interested, and
-the geostrategic. The economic and geostrategic justifications
-principally interest this examination and Marshall himself stated them
-well, "Aside from the demoralizing effect on the world at large and the
-possibilities of disturbances arising as a result of the desperation of
-the people concerned, the consequences to the economy of the United
-States should be apparent to all. It is logical that the United States
-should do whatever it is able to do to assist in the return of normal
-economic health in the world, without which there can be no political
-stability and no assured peace ("Marshall Plan (1948)" 2022)." The
-Marshall Plan helped to rapidly, if not instantaneously, rebuild Western
-Europe, but this economic blessing wasn't able to be felt in the Soviet
-Union and Eastern Europe, as the Soviet Union refused to participate in
-the Marshall Plan and forbade its satellite states from participating as
-well. Without this, and under the strain of rebuilding its own shattered
-lands, the Soviet Union was unable to provide the same level of economic
-support to its satellite states, leading to a widening economic gap
-between Western Europe and Eastern Europe that would lead to greater
-privations for the people of Eastern Europe and a yawning technological
-and economic gap between the two spheres of global influence.
+Switzerland's choice to join the Schengen area but not the European
+Union reflects a desire for the benefits of free-trade and greater
+export opportunities, with "Chemical and pharmaceutical products make up
+more than 44 percent of the country's total exports; machinery and
+electronics over 14 percent (Schneider 2019)," while avoiding the
+foreign entanglements of truly becoming part of the European Union. This
+concern, when applied to the Global Nation, is somewhat mitigated by the
+structural differences between the Global Nation and the European Union,
+with the latter offering another level of governmental overhead without
+the same level of direction, unity, and benefit that the Global Nation
+would offer. The European Union is a political entity offering another
+level of governmental abstraction, while the Global Nation offers a more
+logical reorganization of world political structures and simply swaps
+out the nation-state for the Global Nation, while decreasing the power
+of the state and increasing the power of the individual. The free
+movement of people in the Schengen area, both for tourism and for work,
+has been a boon to Switzerland, and the Global Nation would offer the
+same, but on a global scale. Specialized labor would be able to move
+freely to where it is needed, increasing the efficiency of the global
+economy generally, including the Swiss economy, and with positive
+exponential effects on the financial sector due to general economic
+growth. With Switzerland's status as a financial leader, as well as an
+R&D powerhouse--ranked 1st in the Global Innovation Index 2023("Global
+Innovation Index 2023" 2023)[^61]--the Global Nation would offer the
+opportunity to leverage these strengths into a stronger, more
+diversified economy, and to have the financial and innovative capital of
+the world flow through Switzerland, rather than just to it.
 
-Economic growth in Western Europe was rapid following the implementation
-of the Marshall Plan, though not entirely due to it--equally critical,
-and as a condition of receiving Marshall Plan aid, was the opening of
-trade barriers(part of the Bretton Woods system) and the establishment
-of strong institutions to ensure that the aid was used effectively. The
-Marshall Plan, and its accompanying second-order institutional effects,
-"made a decisive contribution to the renewal of the transport system,
-the modernization of industrial and agricultural equipment, \[and\] the
-resumption of normal production(Notre Dame International Security Center
-2023)." This effect, not buying the development of a whole region but
-sparking it with a short-term infusion of capital and long-term
-technological cooperation and trade, is a model that could be used to
-bring the less-developed areas of the world up to the level of the more
-developed areas of the world. However using the Marshall Plan as a
-direct model for this needs to be done with a few caveats, notably that
-the Marshall Plan was between nations, not an internal wealth transfer
-which is what this would be; that the Marshall Plan was a short-term
-wealth transfer, not something that was a continuous mechanism to ensure
-total economic parity, and that the Marshall Plan was a geostrategic
-counter to the spread of Communism(as pushed by the Soviet Union).
+In a general sense, Switzerland without the Global Nation is a wealthy,
+secure, and stable nation doing extraordinarily well. With the Global
+Nation, Switzerland could expand upon this, becoming more than just an
+enclave of neutrality and wealth, but a global hub of innovation and
+finance, and a leader in democratic governance. The Swiss people have
+centuries of experience with direct democracy, and a local bid for
+location of the Global Nation's capital would be a strong one, as the
+history of global neutrality, stability, and experience with direct
+democracy would make it a popular choice. The Global Nation would offer
+Switzerland the opportunity to go from wealth and stability relative to
+current global conditions, to dramatically wealthier along with the rest
+of the world, more influential, and a true global leader, outsized to
+its population and size.
 
-All of these caveats are interconnected as a function of it being an
-inter-state wealth transfer, it was never in question that the United
-States would keep doing it forever. The issue of precedents is critical
-here though, as the United States was clearly not endowing itself with
-the responsibility to ensure the continued economic growth of Western
-Europe, but rather primarily to ensure that Western Europe did not fall
-to Communism. The Global Nation, however, if it did not explicitly state
-that it was a one-time event, would be setting a precedent for continual
-wealth transfers from the richer areas to the poorer areas of the world
-forever, becoming a political football and a source of contention
-between any two areas of the world. It is not difficult to imagine a
-follow-up where a wealthy area of the world with low economic growth
-rates demands a wealth transfer from another wealthy area of the world
-with higher economic growth to stimulate it, or from the Global Nation
-at large, entirely divorcing the original intent and casting the
-economic philosophy of the World Government aside. It must be
-fundamentally established that this is a one-time event, and that the
-Global Nation will not be in the business of redistributing wealth from
-the richer areas to the poorer areas of the world, that this is purely
-for the sake of jump-starting the economic growth of the less-developed
-areas of the world to ensure the long-term stability of the Global
-Nation and the whole world's prosperity as a result.
+The United States has been the world's largest economy since 1890("The
+United States Becomes a World Power" n.d.), and is unquestionably the
+most powerful military and diplomatic entity in the world. The United
+States doesn't _need_ the Global Nation to survive or even to thrive,
+similar to Switzerland, but it would significantly benefit--perhaps more
+than Switzerland--from joining the Global Nation. Functionally, as the
+world's largest economy, the free movement of people and goods would be
+a boon of unimaginable scale to the United States, as the world's
+largest consumer market and world leader in total innovation[^62] would
+be able to leverage its existing strengths into a stronger, more
+directly innovation-focused economy, leading to continued prosperity.
+Already as a pre-unification state, a large percentage of the United
+States' high-skilled power comes from immigration, something which would
+be advanced by total freedom of movement, "Immigrants support the U.S.
+economy in many ways, accounting for 22.6 percent of entrepreneurs, 23.1
+percent of STEM workers, and 15.6 percent of nurses ("Immigrants in the
+United States" n.d.)." The United States would be able to leverage its
+existing strengths culturally in innovation and entrepreneurship, as
+well as its existing economic power in finance, as well as a huge
+consumer market, into a stronger, more innovative economy. More
+generally, the ability of people to move to places of maximum
+opportunity would increase the efficiency of the global economy, and
+with so many high-skilled jobs in America, the region of the United
+States would be a major net beneficiary of this. Additionally, the "soft
+power" of the region of the United States would be notably advanced by
+joining the Global Nation. "Americanization"[^63] is a global phenomenon
+that has been ongoing since the end of World War II, with American
+brands, television, movies, and music--as well as American culture more
+broadly--being dominant across the World. The power of American culture
+is so strong that Stalin was said to have remarked, "If I could control
+the medium of the American motion picture, I would need nothing else to
+convert the entire world to communism (Rosendorf 2007)," and this power
+has only increased in the time since Stalin. Not only would an even more
+global market--and a more educated, wealthy global market--be a boon to
+those producing and selling artifacts of American culture, but American
+culture within the Global Nation would spread even more widely, good for
+the United States' internal political power in the Global Nation, as
+well as business more broadly.
 
-#### The Second Marshall Plan
+While not the main reason to join the Global Nation, a notable benefit
+to joining the Global Nation for the United States is that, as a
+function of global unification, does not have to be the world's
+policeman or arsenal of democracy. While an expansive discussion of this
+point goes too deeply into military and military economic matters, which
+are outside the scope of this inquiry(I.1.D.6), in a brief sense any
+conflict in a Global Nation would be considered a civil war which would
+provoke a total, unified response from the Global Nation, rather than
+the United States being called upon to fund, arm, or fight in conflicts
+around the world. This is not a review of the justness of these
+involvements, arming Ukraine in its fight against Russia or the war in
+Afghanistan, but instead the recognition that the region of the United
+States in the Global Nation would only be called upon in the event of a
+civil war in equal measure to all other regions, rather than being the
+first responder to global conflicts. The economic benefits of this are
+outside the scope of this inquiry, in so much as it relates to how much
+military spending the Global Nation would require--something that is not
+truly predictable, being a function of the formation and internal
+political situation of the Global Nation--but the political and systemic
+benefits are clear: the region of the United States would be able to
+fully focus on its own internal development, economically, politically,
+and culturally, rather than having to hold some energy in reserve for
+global conflicts.
 
-With those caveats and modifications to the mechanism of the Marshall
-Plan in mind, it is possible to outline a "Second Marshall Plan" for the
-wealthier nations of the world to make a one-time endowed transfer of
-wealth to the less-wealthy areas of the world to kickstart their
-developmnent. It is critical to state that the direct infusion of
-capital will be less important than the establishment of strong
-institutions and the opening of trade barriers, but these go
-hand-in-hand to stimulate local entrepreneurship and let that growth
-connect with local and global markets without the crippling weight of
-corruption and tarriffs. While it may appear to be putting the cart
-before the horse to say that strong instituions and the opening of trade
-barriers are more important than the direct infusion of capital,
-corruption by itself(tarriffs will be discussed in a later section) is a
-significant drag on economic growth and development, with Africa
-providing a clear case of this, "Africa loses \$128 billion a year to
-corruption, equivalent to 50% of its tax revenues and 25% of its GDP.
-... These figures make it clear that corruption remains a major
-challenge to sustainable economic growth, good governance, peace and
-stability, which are requirements for tangible economic development in
-Africa. (Njangang, Asongu, and Mouchili 2024." However with the
-establishment of strong anti-corruption, pro-growth institutions, the
-opening of trade barriers, and the infusion of capital either directly
-or through second-order effects like the building of infrastructure, the
-less-developed areas of the world(Africa, South America, South Asia)
-could be brought up to the level of developed areas of the world(North
-America, Europe, Oceania) rapidly and in doing so ensure the long-term
-stability of the Global Nation and accelerate the growth of the world's
-prosperity as a whole.
+Of all three case studies, the most nations who will feel the greatest
+benefit in joining the Global Nation are those who will receive the
+first-order effects[^64] of the Second Marshall Plan, a one-time wealth
+transfer to the poorest regions of the world to fund projects that will
+improve the developmental status of those regions. The Second Marshall
+Plan would be a direct bribe to the poorest regions of the world to
+speed up their development, both to improve the lots of hundreds of
+millions of the worst-off people in the world, and to ensure the
+long-term political stability of the Global Nation by ensuring at least
+a baseline of prosperity. The Second Marshall Plan is the accelerant to
+the development and prosperity that would have come comparatively slowly
+from the strong institutions and economic growth of the Global Nation as
+a whole, and would inspire a boom in economic growth, standard of
+living, and political participation unseen in these regions of the world
+to date. Going nation by nation for this is both unecessary and contrary
+to the design of the Second Marshall Plan which intentionally funds
+projects and programs on a case-by-case basis _across_ the ex-nations
+which it includes, instead of on a per-capita or per-ex-nation basis to
+ensure that a high "yield" of development per dollar[^65] is achieved.
+Functionally, in establishing a strong foundation of political and
+economic participation across the entirety of the Global Nation, even
+if, inevitably(and justly), some regions will be more developed than
+others, the Second Marshall Plan would guard against the political
+instability that comes from large disparities in wealth and development
+within a single polity, while beginning the flywheel of development that
+will improve the lives of millions directly, and billions indirectly.
 
-Upon that justification, the question naturally arises of what form this
-"Second Marshall Plan" would take, how it would be implemented, and how
-much it would cost. An exact figure nor a precise plan is possible to
-predict ahead of time, as it would likely be a matter of cosniderable
-political wrangling in the convincing of many nations to join the Global
-Nation, but based on the Marshall Plan it would be possible to make a
-fair estimate. As previously stated, the Marshall Plan gave
-approximately \$13.6 billion in aid to 16 European countries over four
-years, and when taken as a percentage of US GDP in 1948 when the program
-began(\$274.5 Billion), it represented just under 5% of one year's GDP.
-While it was a tremendous amount of money, for the benefit it gave both
-parties it was a great deal, and a similar percentage infusion of
-capital from the developed areas of the world could have similar
-effects. The wealthy areas of the world[^64], under their reorganized
-nature in the Global Nation, with a yearly GDP(in their current form of
-nation states) of \$57,470,602 million in 2022, or \$57.4 trillion, to
-the world's 47 least developed countries("Annex A. The least developed
-country category: criteria for inclusion and graduation" n.d.)[^65],
-reorganized as part of the Global Nation, splitting on a case-by-case
-basis where the money would be most effective in accelerating economic
-development--notably, not on a per-capita or per-ex-nation basis--and
-raising the standard of living of the people of that area. At the 5% of
-GDP rate, this would be 2.87 trillion dollars, and spreading that over
-five years would decrease the yearly cost to the wealthy areas of the
-world to \$574 billion among them. This is a significant amount of
-money, but the first, second, and third-order effects of this would be a
-tremendous boon to the world as a whole, and would go far to ensure the
-long-term stability of the Global Nation as well as the raising of all
-areas to the level of the most developed areas of the world, and then
-beyond.
-
-Notably, this is to be strictly non-precedential in legal and political
-terms, and to be established as such in the documents establishing the
-program. The Marshall plan was not designed to be a continual mechanism
-of wealth transfer, but rather a one-time event to ensure geostrategic
-alignment and economic growth among those nations that were most in need
-of it, and who could otherwise turn to Communism and the Soviet Union
-for support. The precedent of the Marshall Plan has been co-opted in the
-United States as that of a justification for foreign aid and development
-assistance in any circumstance that may arise[^66], but in the Global
-Nation this kind of precedent would be hugely dangerous and undercut the
-economic philosophy of the Global Nation. Functionally, the
-eccentricites and political realities of the Global Nation require a
-one-time infusion of capital to jump-start the economic growth of the
-less-developed areas of the world built upon the foundation of strong
-institutions and the opening of trade barriers, and not a continual
-mechanism of wealth transfer from the richer areas to the poorer areas
-of the world. The establishment of strong institutions and the opening
-of trade barriers are the most effective ways to ensure the long-term
-stability of the Global Nation and the growth of the world's prosperity,
-and the direct infusion of capital is a secondary mechanism to ensure
-that the less-developed areas of the world are brought up to the level
-of the most developed areas of the world, in order to ensure the
-stability and prosperity of the Global Nation and the world as a whole.
+Sovereignty is a powerful concept, intrinsically tied to national
+identity and a feeling of union with one's fellow citizens. The greatest
+change that the Global Nation will forment, largely
+unintentionally[^66], is the relation to one's fellows as not only those
+of the same geographic region, ethnicity, language, religion, or values,
+but as those of the same species, sharing a fundamental likeness to one
+another more important than that of arbitrary divisions. The Global
+Nation offers unique benefits to nations of all kinds, positions, and
+sizes, but the benefits will be not be reaped primarily by those leaders
+who make the decision to join the Global Nation, but by the individuals
+granted liberty, opportunity, and fellowship by the Global Nation never
+before seen in human history. Economic opportunity lies at the heart of
+the Global Nation as human excellence given form, but the opportunities
+for citizenship in a nation of all humnaity whose decisions are made by
+those citizens from the day-to-day to the grandest scale, is the true
+benefit of the Global Nation. The Global Nation, as outlined in this
+examination, seeks to be the just manifestation of the human spirit as
+applied to the political, economic, and social spheres of life in order
+to maximize the potential of all individuals, and to ensure that the
+future of humanity is one of individual liberty, opportunity, and
+fellowship.
 
 #### Footnotes:
 
 -
 -
 -
+-
+-
+-
+-
+-
 
 [^1]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^2]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^3]:
-    There are many middle-income countries between the least developed
-    countries and the most developed countries, but the instutional
-    benefits of the Global Nation as well as the elimination of trade
-    barriers would make the relatively small amount of money that would
-    go to a widening pool of countries less valuable, especially as the
-    middle-income nations have higher labor costs. The least developed
-    countries are the most in need of a jumpstart to their economic
-    development, the middle-income countries will accelerate by
-    themselves without it and would only water-down the effects of the
-    wealth transfer to those areas that need it most critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^4]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^5]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^6]:
-    There are many middle-income countries between the least developed
-    countries and the most developed countries, but the instutional
-    benefits of the Global Nation as well as the elimination of trade
-    barriers would make the relatively small amount of money that would
-    go to a widening pool of countries less valuable, especially as the
-    middle-income nations have higher labor costs. The least developed
-    countries are the most in need of a jumpstart to their economic
-    development, the middle-income countries will accelerate by
-    themselves without it and would only water-down the effects of the
-    wealth transfer to those areas that need it most critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^7]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^8]:
-    There are many middle-income countries between the least developed
-    countries and the most developed countries, but the instutional
-    benefits of the Global Nation as well as the elimination of trade
-    barriers would make the relatively small amount of money that would
-    go to a widening pool of countries less valuable, especially as the
-    middle-income nations have higher labor costs. The least developed
-    countries are the most in need of a jumpstart to their economic
-    development, the middle-income countries will accelerate by
-    themselves without it and would only water-down the effects of the
-    wealth transfer to those areas that need it most critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^9]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^10]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^11]:
-    Whether they are called states, provinces, regions, or something
-    else is immaterial to the discussion of their function and
-    structure, and will be referred to as "state/province" for the sake
-    of brevity and clarity. The term "region" is used more widely in
-    this examination to mean the areas of the Global Nation that were
-    formerly nations, and their specific cultural, political, economic,
-    and social characteristics in relation to the Global Nation.
+    In the sense of soft-power and cultural influence, not the term
+    for immigrants becoming American citizens/being melded to "American"
+    culture.
 
 [^12]:
-    Important to note that scope and scale are not synonymous. The
-    scope of government is how much purview, and coercive ability, it
-    has over its citizens, while the scale of government is simply how
-    widely it extends geographically or in population. The Global
-    Nation, as constructed in this examination, holds limited scope and
-    unparalleled scale, allowing for the forces of freedom and
-    individuality--not artificial division or dictate, to be the guiding
-    principles of human interaction and governance.
+    The second and third order effects are obviously dramatic, but
+    difficult to quantify. The ripple effects of huge populations
+    rapidly improving their economic conditions is clearly a dramatic
+    benefit to the peoples of those regions, but the indirect benefits
+    to other regions through increased economic activity, innovation,
+    and cultural exchange are difficult to quantify, but clearly
+    positive.
 
 [^13]:
-    The term "departments" is used here to mean what is analogous to
-    a "ministry" in many other countries, but is used here to
-    disambiguate with the term "ministry" which has religious
-    connotations in many languages and cultures--especially important in
-    the Global Nation for reasons of separation of church and state and
-    respect for the highly heterogeneous nature of the Global Nation.
+    Dollar is used because the section on the Second Marshall plan
+    used dollars as the standardized figure, and this examination does
+    not include a specific currency, but a Global Nation would have a
+    standardized currency and/or a Hayekian de-nationalized currency, so
+    the use of dollars for simplification is not innapopriate.
 
 [^14]:
-    This, along with every other U.S. Executive Department, holds
-    many sub-departments that would be eliminated in the Global Nation
-    as contrary to its principles and economic philosophy.
+    Though not entirely, as the Global Nation as a political entity
+    has an interest in the stability of itself, thus, breaking down
+    nationalist sentiments in favor of Humanist ones is an indirect goal
+    of the Global Nation.
 
 [^15]:
     Whether they are actually inevitable is a matter of comparative
@@ -4852,523 +4778,309 @@ stability and prosperity of the Global Nation and the world as a whole.
     fundamentally aligned.
 
 [^23]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^24]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^25]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^26]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^27]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^28]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^29]:
-    Whether they are called states, provinces, regions, or something
-    else is immaterial to the discussion of their function and
-    structure, and will be referred to as "state/province" for the sake
-    of brevity and clarity. The term "region" is used more widely in
-    this examination to mean the areas of the Global Nation that were
-    formerly nations, and their specific cultural, political, economic,
-    and social characteristics in relation to the Global Nation.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^30]:
-    Important to note that scope and scale are not synonymous. The
-    scope of government is how much purview, and coercive ability, it
-    has over its citizens, while the scale of government is simply how
-    widely it extends geographically or in population. The Global
-    Nation, as constructed in this examination, holds limited scope and
-    unparalleled scale, allowing for the forces of freedom and
-    individuality--not artificial division or dictate, to be the guiding
-    principles of human interaction and governance.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^31]:
-    The term "departments" is used here to mean what is analogous to
-    a "ministry" in many other countries, but is used here to
-    disambiguate with the term "ministry" which has religious
-    connotations in many languages and cultures--especially important in
-    the Global Nation for reasons of separation of church and state and
-    respect for the highly heterogeneous nature of the Global Nation.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^32]:
-    This, along with every other U.S. Executive Department, holds
-    many sub-departments that would be eliminated in the Global Nation
-    as contrary to its principles and economic philosophy.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^33]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^34]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^35]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^36]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^37]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^38]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^39]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^40]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^41]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^42]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^43]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^44]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    In the sense of soft-power and cultural influence, not the term
+    for immigrants becoming American citizens/being melded to "American"
+    culture.
 
 [^45]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    The second and third order effects are obviously dramatic, but
+    difficult to quantify. The ripple effects of huge populations
+    rapidly improving their economic conditions is clearly a dramatic
+    benefit to the peoples of those regions, but the indirect benefits
+    to other regions through increased economic activity, innovation,
+    and cultural exchange are difficult to quantify, but clearly
+    positive.
 
 [^46]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    Dollar is used because the section on the Second Marshall plan
+    used dollars as the standardized figure, and this examination does
+    not include a specific currency, but a Global Nation would have a
+    standardized currency and/or a Hayekian de-nationalized currency, so
+    the use of dollars for simplification is not innapopriate.
 
 [^47]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    Though not entirely, as the Global Nation as a political entity
+    has an interest in the stability of itself, thus, breaking down
+    nationalist sentiments in favor of Humanist ones is an indirect goal
+    of the Global Nation.
 
 [^48]:
-    Whether they are called states, provinces, regions, or something
-    else is immaterial to the discussion of their function and
-    structure, and will be referred to as "state/province" for the sake
-    of brevity and clarity. The term "region" is used more widely in
-    this examination to mean the areas of the Global Nation that were
-    formerly nations, and their specific cultural, political, economic,
-    and social characteristics in relation to the Global Nation.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^49]:
-    Important to note that scope and scale are not synonymous. The
-    scope of government is how much purview, and coercive ability, it
-    has over its citizens, while the scale of government is simply how
-    widely it extends geographically or in population. The Global
-    Nation, as constructed in this examination, holds limited scope and
-    unparalleled scale, allowing for the forces of freedom and
-    individuality--not artificial division or dictate, to be the guiding
-    principles of human interaction and governance.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^50]:
-    The term "departments" is used here to mean what is analogous to
-    a "ministry" in many other countries, but is used here to
-    disambiguate with the term "ministry" which has religious
-    connotations in many languages and cultures--especially important in
-    the Global Nation for reasons of separation of church and state and
-    respect for the highly heterogeneous nature of the Global Nation.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^51]:
-    This, along with every other U.S. Executive Department, holds
-    many sub-departments that would be eliminated in the Global Nation
-    as contrary to its principles and economic philosophy.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^52]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^53]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^54]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^55]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^56]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^57]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^58]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^59]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Not in the sense of an "alternative history" scenario, but rather
+    a culmination of the current global political and economic trends
+    affecting nations of specific general types, as outlined in the
+    previous sections, and what the Global Nation would offer them that
+    they uniquely need.
 
 [^60]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    Not the biggest sector today, but the one that has historically
+    been central to the Swiss economy, and the sector that has proven
+    most resilient to economic shocks, geopolitical instability, and
+    other externalities throughout the nation's history.
 
 [^61]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    The Global Innovation Index is somewhat misleading in that it
+    overweights the environemntal factors and less on the actual results
+    of innovation, i.e. marketable products and services, but it does
+    say something about Switzerland's ability to fund and support
+    innovation - even if the nation itself doesn't have an explosion of
+    tech startups.
 
 [^62]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    As it relates to footnote #3, the United States is not at the top
+    of the Global Innovation Index due to marginally lower environmental
+    factors, but it is--by a subjective judgement, and by R&D Spending
+    (Dyvik 2024)--the world leader in actual innovation, and the world's
+    largest consumer market.
 
 [^63]:
-    This was a result of central planning which is contrary to the
-    economic philosophy of the Global Nation, but was dramatically
-    improved and expanded upon by organic capitalist elements even in
-    the face of central planning.
+    In the sense of soft-power and cultural influence, not the term
+    for immigrants becoming American citizens/being melded to "American"
+    culture.
 
 [^64]:
-    Based on the International Monetary Fund's list of "Advanced
-    Economies"("World Economic Outlook Database" 2022), the measure more
-    useful for the purpose of this examination in categorizing wealthy
-    nations in categorization compared to the UN's HDI-based list. The
-    list and their gdp is as follows(in millions of US dollars) as of
-    2022: Andorra(3,352), Australia(1,675,419), Austria(471,400),
-    Belgium(578,604), Canada(2,139,840), Cyprus(28,439), Czech
-    Republic(290,924), Denmark(395,404), Estonia(38,101),
-    Finland(280,826), France(2,782,905), Germany(4,072,192),
-    Greece(219,066), Hong Kong SAR(359,839), Iceland(27,842),
-    Ireland(529,245), Israel(522,033), Italy(2,010,432),
-    Japan(4,231,141), Korea, Rep(1,665,246), Lithuania(70,970),
-    Latvia(41,154), Luxembourg(82,275), Macao SAR(21,979),
-    Malta(17,765), Netherlands(991,115), New Zealand(247,234),
-    Norway(579,267), Portugal(251,945), Puerto Rico(113,435), San
-    Marino(1,855), Singapore(466,789), Slovak Republic(115,469),
-    Slovenia(62,118), Spain(1,397,509), Sweden(585,939),
-    Switzerland(807,706), Taiwan Province of China(760,460 - from Aaron
-    O'Niell, Statistsa), United Kingdom(3,070,668), United
-    States(25,462,700).
+    The second and third order effects are obviously dramatic, but
+    difficult to quantify. The ripple effects of huge populations
+    rapidly improving their economic conditions is clearly a dramatic
+    benefit to the peoples of those regions, but the indirect benefits
+    to other regions through increased economic activity, innovation,
+    and cultural exchange are difficult to quantify, but clearly
+    positive.
 
 [^65]:
-    There are many middle-income countries between the least
-    developed countries and the most developed countries, but the
-    instutional benefits of the Global Nation as well as the elimination
-    of trade barriers would make the relatively small amount of money
-    that would go to a widening pool of countries less valuable,
-    especially as the middle-income nations have higher labor costs. The
-    least developed countries are the most in need of a jumpstart to
-    their economic development, the middle-income countries will
-    accelerate by themselves without it and would only water-down the
-    effects of the wealth transfer to those areas that need it most
-    critically.
+    Dollar is used because the section on the Second Marshall plan
+    used dollars as the standardized figure, and this examination does
+    not include a specific currency, but a Global Nation would have a
+    standardized currency and/or a Hayekian de-nationalized currency, so
+    the use of dollars for simplification is not innapopriate.
 
 [^66]:
-    This is not criticism or praise of the United States' foreign aid
-    policy, that is a mattter wholely separate from this examination.
+    Though not entirely, as the Global Nation as a political entity
+    has an interest in the stability of itself, thus, breaking down
+    nationalist sentiments in favor of Humanist ones is an indirect goal
+    of the Global Nation.
 
-#### Bibliography
+#### Bibliography:
 
 1.  "Historical Foundations of Race." n.d. Smithsonian. Accessed June
     21, 2024.
@@ -5505,7 +5217,7 @@ stability and prosperity of the Global Nation and the world as a whole.
     21, 2024.
     <https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference>.
 
-35. Dam, Kenneth W. "Ensuring Peace in the Nuclear Age.". Accessed June
+35. Dam, Kenneth W. "Ensuring Peace in the Nuclear Age." Accessed June
     21, 2024. <https://books.google.com/books/about/Ensuring_Security_in_the_Nuclear_Age.html?id=OP8_VoE_-icC>.
 
 36. American Museum of Natural History. "Einstein's Deeply Held
@@ -5513,7 +5225,7 @@ stability and prosperity of the Global Nation and the world as a whole.
     <https://www.amnh.org/exhibitions/einstein/global-citizen>.
 
 37. Schlictmann, Klaus. "Gandhi and World Peace: A Federation of the
-    World." Accessed June 21, 2024. <https://www.mkgandhi.org/articles/gandhi-and-world-peace.php>
+    World." Accessed June 21, 2024. <https://www.mkgandhi.org/articles/gandhi-and-world-peace.php>.
 
 38. Truman Library. "The United Nations in Korea." Accessed June
     21, 2024.
@@ -5666,473 +5378,472 @@ stability and prosperity of the Global Nation and the world as a whole.
 
 78. Rawls, John. 1971. _A Theory of Justice_. Harvard University Press.
 
-79. Hanania, Jason M. 2018. "Architecture of a Technodemocracy." ISBN:
-    978-1-7321197-0-3.
+79. "Cooperation for Recovery: The Marshall Plan." n.d. International
+    Monetary Fund. Accessed June 21, 2024.
+    <https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_03.htm>.
 
-80. Killian, H. Johnny. 1994. "The Constitution of the United States of
-    America." U.S. Government Publishing Office. Accessed June 21, 2024.
-    <https://www.govinfo.gov/content/pkg/GPO-CONAN-1994/pdf/GPO-CONAN-1994.pdf>
-
-81. "The Federal Assembly (Parliament)." 2023. About Switzerland.
-    Accessed June 21, 2024.
-    <https://www.eda.admin.ch/aboutswitzerland/en/home/politik-geschichte/politisches-system/bundesversammlung.html>
-
-82. Alonso, Sonia, John Keane, and Wolfgang Merkel. 2011. "Editors'
-    introduction: Rethinking the future of representative democracy."
-    Cambridge University Press. Accessed June 21, 2024.
-    <https://assets.cambridge.org/97805211/77030/excerpt/9780521177030_excerpt.pdf>
-
-83. Wasson, Donald L. 2021. "The Year of the Four Emperors & the Demise
-    of Four Roman Legions." World History Encyclopedia. Accessed June
+80. "Marshall Plan (1948)." 2022. National Archives. Accessed June
     21, 2024.
-    [https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/](https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/)
+    <https://www.archives.gov/milestone-documents/marshall-plan>.
 
-84. Besmer, Christoph. "RESEARCH AND DEVELOPMENT". n.d. Switzerland
-    Global Enterprise. Accessed June 21, 2024.
-    <https://www.s-ge.com/en/article/expertise/2023-ip-health-rnd-and-innovation>.
-
-85. "The Financial Sector: A Stable Mainstay of the Swiss
-    Economy". 2023. SwissBanking. Accessed June 21, 2024.
-    <https://www.swissbanking.ch/en/news-and-positions/news/the-financial-sector-a-stable-mainstay-of-the-swiss-economy>.
-
-86. Schneider, Henrique. 2019. "Swiss economic success: diversity as
-    capital". GIS Reports. Accessed June 21, 2024.
-    <https://www.gisreportsonline.com/r/swiss-economy/>.
-
-87. "The United States Becomes a World Power". n.d. Digital History.
-    Accessed June 21, 2024.
-    <https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=2&psid=3158>.
-
-88. "Global Innovation Index 2023: Switzerland, Sweden and the U.S. lead
-    the Global Innovation Ranking; Innovation Robust but Startup Funding
-    Increasingly Uncertain". 2023. World Intellectual Property
-    Organization. Accessed June 21, 2024.
-    <https://www.wipo.int/pressroom/en/articles/2023/article_0011.html>.
-
-89. Dyvik, Einar H. 2024. "Leading countries by gross research and
-    development (R&D) expenditure worldwide in 2022". Statista. Accessed
-    June 21, 2024.
-    <https://www.statista.com/statistics/732247/worldwide-research-and-development-gross-expenditure-top-countries/>.
-
-90. "Immigrants in the United States". n.d. American Immigration
-    Council. Accessed June 21, 2024.
-    <https://map.americanimmigrationcouncil.org/locations/national/>.
-
-91. Rosendorf, Neal. 2007. "COMMENTS ON THE CONGRESSIONAL SYMPOSIUM ON
-    AMERICAN FILM AND PUBLIC DIPLOMACY". USC Center on Public Diplomacy.
-    Accessed June 21, 2024.
-    <https://uscpublicdiplomacy.org/blog/comments-congressional-symposium-american-film-and-public-diplomacy-11142007>.
-
-92. "Russia and Afghanistan: Corruption a Major Security Challenge for
-    NATO". 2022. NATO Parliamentary Assembly. Accessed June 21, 2024.
-    <https://www.nato-pa.int/news/russia-afghanistan-corruption-major-security-challenge-nato>
-
-93. Merima, Ali, Odd-Helge Fjeldstad, and Abdulaziz B. Shifa. 2021. "The
-    Colonial Legacy of Corruption among Local Elites in Africa". African
-    Economic History Network. Accessed June 21, 2024.
-    <https://www.aehnetwork.org/blog/the-colonial-legacy-of-corruption-among-local-elites-in-africa/>
-
-94. Angeles, Luis, and Kyriakos C. Neanidis. 2014. "The Persistent
-    Effect of Colonialism on Corruption". Economica. Accessed June
-    21, 2024. <http://www.jstor.org/stable/24751963>
-
-95. Meyer, Joan, William Devaney, and Peter Tomczak. n.d.
-    "Anti-Corruption in the United States". Global Compliance News.
-    Accessed June 21, 2024.
-    <https://www.globalcompliancenews.com/anti-corruption/anti-corruption-in-the-united-states/>
-
-96. "Anti-Corruption and Transparency". n.d. U.S. Department of State.
-    Accessed June 21, 2024.
-    <https://www.state.gov/policy-issues/anti-corruption-and-transparency/>
-
-97. "Combating Corruption". 2023. The World Bank. Accessed June
+81. "Marshall Plan, 1948." n.d. Office of the Historian. Accessed June
     21, 2024.
-    <https://www.worldbank.org/en/topic/governance/brief/combating-corruption>
+    <https://history.state.gov/milestones/1945-1952/marshall-plan>.
 
-98. "Combating Corruption and Promoting Good Governance". n.d. U.S.
-    Department of State. Accessed June 21, 2024.
-    <https://www.state.gov/combating-corruption-and-promoting-good-governance/>
+82. Notre Dame International Security Center. 2023. "What is the
+    Marshall Plan and What Did it Accomplish?" University of Notre Dame.
+    Accessed June 21, 2024.
+    <https://ndisc.nd.edu/news-media/news/what-is-the-marshall-plan-and-what-did-it-accomplish/>.
 
-99. "Singapore's Corruption Control Framework". n.d. Corrupt Practices
-    Investigation Bureau. Accessed June 21, 2024.
-    <https://www.cpib.gov.sg/about-corruption/prevention-and-corruption/singapores-corruption-control-framework/>
+83. Njangang, Henri, Simplice A. Asongu, and Eric Mouchili. 2024. "Does
+    corruption starve Africa? The mitigating effect of political
+    distribution of power." Journal of Policy Modeling 46 (1): 171-197.
+    Accessed June 21, 2024.
+    <https://www.sciencedirect.com/science/article/pii/S0161893823001357>.
 
-100.  Seng, Lin Yi, and Andrew Martin. n.d. "Anti-Corruption in
+84. "World Economic Outlook Database." 2022. International Monetary
+    Fund. Accessed June 21, 2024.
+    <https://www.imf.org/external/pubs/ft/weo/2022/01/weodata/groups.htm>.
+
+85. "Gross Domestic Product 2022." 2022. World Bank. Accessed June
+    21, 2024.
+    <https://databank.worldbank.org/public/ddpext_download/GDP.pdf>.
+
+86. O'Neill, Aaron. 2023. "Gross Domestic Product (GDP) in Taiwan."
+    Statista. Accessed June 21, 2024.
+    <https://www.statista.com/statistics/727589/gross-domestic-product-gdp-in-taiwan/>.
+
+87. "Annex A. The least developed country category: criteria for
+    inclusion and graduation." n.d. OECD. Accessed June 21, 2024.
+    <https://www.oecd-ilibrary.org/sites/04f3d973-en/index.html?itemId=/content/component/04f3d973-en>.
+
+88. O'Neill, Martin and Shepley Orr. 2018. _Taxation: Philosophical
+    Perspectives_. Engaging Philosophy.
+    <https://www.amazon.com/Taxation-Philosophical-Perspectives-Engaging-Philosophy/dp/0199609225>
+
+89. Horton, Melissa. 2023. "Regressive vs. Proportional vs. Progressive
+    Taxes: What's the Difference?" Investopedia.
+    <https://www.investopedia.com/ask/answers/042415/what-are-differences-between-regressive-proportional-and-progressive-taxes.asp>
+
+90. "Revenue Statistics - tax structures." 2022. OECD.
+    <https://www.oecd.org/ctp/tax-policy/revenue-statistics-tax-structures.htm>
+
+91. McBride, William, Huaqun Li, Garett Watson, Alex Durante, Erica
+    York, and Alex Muresianu. 2023. "Details and Analysis of a Tax
+    Reform Plan for Growth and Opportunity." Tax Foundation.
+    <https://taxfoundation.org/research/all/federal/growth-opportunity-us-tax-reform-plan/>
+
+92. Murray, Dale. n.d. "Robert Nozick: Political Philosophy." Internet
+    Encyclopedia of Philosophy. <https://iep.utm.edu/noz-poli/>
+
+93. NCC Staff. 2023. "Benjamin Franklin's last great quote and the
+    Constitution." National Constitution Center.
+    <https://constitutioncenter.org/blog/benjamin-franklins-last-great-quote-and-the-constitution>
+
+94. PWC. 2024. "Denmark." PWC. <https://taxsummaries.pwc.com/denmark>
+
+95. "Taxes in Denmark." n.d. Tax Foundation.
+    <https://taxfoundation.org/location/denmark/>
+
+96. "Highest Taxed Countries 2024." 2024. World Population Review.
+    <https://worldpopulationreview.com/country-rankings/highest-taxed-countries>
+
+97. "Happiest Countries 2024." 2024. World Population Review.
+    <https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world>
+
+98. Statista Research Department. 2024. "Employment in Services as total
+    employment share in Denmark from 2003 to 2022." Statista.
+    <https://www.statista.com/statistics/595381/services-employment-as-share-of-total-employment-denmark-europe-eu/>
+
+99. O'Neill, Aaron. 2024. "Denmark: Share of economic sectors in the
+    gross domestic product (GDP) from 2012 to 2022." Statista.
+    <https://www.statista.com/statistics/317288/share-of-economic-sectors-in-the-gdp-in-denmark/>
+
+100.  "U.S. Relations with Canada. Bilateral Fact Sheet." 2022. U.S.
+      Department of State.
+      <https://www.state.gov/u-s-relations-with-canada/>
+
+101.  Singer, R. Colin. 2023. "Canada's Brain Drain." Immigration.CA.
+      <https://www.immigration.ca/canadas-brain-drain-figures-show-technology-graduate-exodus/>
+
+102.  "Taxing Wages, 2024, Canada." 2024. OECD.
+      <https://www.oecd.org/tax/tax-policy/taxing-wages-canada.pdf>
+
+103.  "Global Tax Burden on Labor, 2021." 2021. Tax Foundation.
+      <https://taxfoundation.org/data/all/global/tax-burden-on-labor-oecd-2021/>
+
+104.  Rogers, Carolyn. 2024. "Time to break the glass: Canada's
+      productivity problem." Bank of Canada.
+      <https://www.bankofcanada.ca/2024/03/time-to-break-the-glass-fixing-canadas-productivity-problem/>
+
+105.  "Revenue Statistics 2023 - the United States." 2023. OECD.
+      <https://www.oecd.org/tax/revenue-statistics-united-states.pdf>
+
+106.  Tax Policy Center. 2024. "How do US taxes compare internationally."
+      Tax Policy Center.
+      <https://www.taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally>
+
+107.  "Taxing Wages - the United States." 2024. OECD.
+      <https://www.oecd.org/tax/tax-policy/taxing-wages-united-states.pdf>
+
+108.  Friedman, Milton. 1993. "Why Government is the Problem." Hoover
+      Institution.
+
+109.  Brainerd, Jackson. 2023. "What Happens When States Ditch Income Tax
+      for Sales Tax?" NCSL.
+      <https://www.ncsl.org/state-legislatures-news/details/what-happens-when-states-ditch-income-tax-for-sales-tax>
+
+110.  Netzer, Dick. 1998. "Land Value Taxation." Lincoln Institute of
+      Land Policy.
+      <https://www.lincolninst.edu/publications/articles/land-value-taxation>
+
+111.  Dabla-Norris, Era and Romain Duval. 2016. "How Lowering Trade
+      Barriers Can Revive Global Productivity and Growth." International
+      Monetary Fund. Accessed June 21, 2024.
+      <https://www.imf.org/en/Blogs/Articles/2016/06/20/how-lowering-trade-barriers-can-revive-global-productivity-and-growth>
+
+112.  Chanda, Rupa. 2023. "Protectionism could jeopardize health outcomes
+      in countries that spend more on global trade in health goods."
+      International Monetary Fund. Accessed June 21, 2024.
+      <https://www.imf.org/en/Publications/fandd/issues/2023/09/health-without-borders-rupa-chanda>
+
+113.  Krist, William. n.d. "Trade Agreements and Economic Theory." Wilson
+      Center. Accessed June 21, 2024.
+      <https://www.wilsoncenter.org/chapter-3-trade-agreements-and-economic-theory>
+
+114.  Bovard, James. 2024. "Biden Perpetuates Washington's Idiotic Steel
+      Trade Policies." Mises Institute. Accessed June 21, 2024.
+      <https://mises.org/mises-wire/biden-perpetuates-washingtons-idiotic-steel-trade-policies>
+
+115.  Shostak, Frank. 2024. "Free-Market Profit Comes from Voluntary
+      Exchange, not Exploitation." Mises Institute. Accessed June
+      21, 2024.
+      <https://mises.org/mises-wire/free-market-profit-comes-voluntary-exchange-not-exploitation>
+
+116.  York, Erica. 2018. "The Impact of Trade and Tariffs on the United
+      States." Tax Foundation. Accessed June 21, 2024.
+      <https://taxfoundation.org/research/all/federal/impact-of-tariffs-free-trade/>
+
+117.  Smith, Adam. 1776. "An Inquiry into the Nature and Causes of the
+      Wealth of Nations." Gutenberg. Accessed June 21, 2024.
+      <https://www.gutenberg.org/ebooks/3300>
+
+118.  Paul, Ron. 1981. "The Case for Free Trade." Mises Institute.
+      Accessed June 21, 2024.
+      <https://mises.org/free-market/case-free-trade>
+
+119.  Henderson, W.O. 1959. "The Zollverein." Physical copy.
+
+120.  "Economic Integration: The Zollverein." n.d. Britannica. Accessed
+      June 21, 2024.
+      <https://www.britannica.com/money/international-trade/Economic-integration#ref265778>
+
+121.  Weightman, Gavin. 2007. "The Industrial Revolutionaries: The Making
+      of the Modern World 1776-1914." Physical copy.
+
+122.  "Germany: The economy, 1870-90." n.d. Britannica. Accessed June
+      21, 2024.
+      <https://www.britannica.com/place/Germany/The-economy-1870-90>
+
+123.  "Russia and Afghanistan: Corruption a Major Security Challenge for
+      NATO". 2022. NATO Parliamentary Assembly. Accessed June 21, 2024.
+      <https://www.nato-pa.int/news/russia-afghanistan-corruption-major-security-challenge-nato>
+
+124.  Merima, Ali, Odd-Helge Fjeldstad, and Abdulaziz B. Shifa. 2021. "The
+      Colonial Legacy of Corruption among Local Elites in Africa". African
+      Economic History Network. Accessed June 21, 2024.
+      <https://www.aehnetwork.org/blog/the-colonial-legacy-of-corruption-among-local-elites-in-africa/>
+
+125.  Angeles, Luis, and Kyriakos C. Neanidis. 2014. "The Persistent
+      Effect of Colonialism on Corruption". Economica. Accessed June
+      21, 2024. <http://www.jstor.org/stable/24751963>
+
+126.  Meyer, Joan, William Devaney, and Peter Tomczak. n.d.
+      "Anti-Corruption in the United States". Global Compliance News.
+      Accessed June 21, 2024.
+      <https://www.globalcompliancenews.com/anti-corruption/anti-corruption-in-the-united-states/>
+
+127.  "Anti-Corruption and Transparency". n.d. U.S. Department of State.
+      Accessed June 21, 2024.
+      <https://www.state.gov/policy-issues/anti-corruption-and-transparency/>
+
+128.  "Combating Corruption". 2023. The World Bank. Accessed June
+      21, 2024.
+      <https://www.worldbank.org/en/topic/governance/brief/combating-corruption>
+
+129.  "Combating Corruption and Promoting Good Governance". n.d. U.S.
+      Department of State. Accessed June 21, 2024.
+      <https://www.state.gov/combating-corruption-and-promoting-good-governance/>
+
+130.  "Singapore's Corruption Control Framework". n.d. Corrupt Practices
+      Investigation Bureau. Accessed June 21, 2024.
+      <https://www.cpib.gov.sg/about-corruption/prevention-and-corruption/singapores-corruption-control-framework/>
+
+131.  Seng, Lin Yi, and Andrew Martin. n.d. "Anti-Corruption in
       Singapore". Global Compliance News. Accessed June 21, 2024.
       <https://www.globalcompliancenews.com/anti-corruption/anti-corruption-in-singapore/>
 
-101.  Spyromitros, Eleftherios, and Minas Panagiotidis. 2022. "The impact
+132.  Spyromitros, Eleftherios, and Minas Panagiotidis. 2022. "The impact
       of corruption on economic growth in developing countries and a
       comparative analysis of corruption measurement indicators". Cogent
       Economics & Finance. Accessed June 21, 2024.
       <https://www.tandfonline.com/doi/full/10.1080/23322039.2022.2129368?scroll=top&needAccess=true>
 
-102.  "Why Corruption Occurs". 2023. GIACC. Accessed June 21, 2024.
+133.  "Why Corruption Occurs". 2023. GIACC. Accessed June 21, 2024.
       <https://giaccentre.org/why-corruption-occurs/>
 
-103.  Tanzi, Vito. 1998. "Corruption Around the World: Causes,
+134.  Tanzi, Vito. 1998. "Corruption Around the World: Causes,
       Consequences, Scope, and Cures". IMF. Accessed June 21, 2024.
       <https://www.imf.org/external/pubs/ft/wp/wp9863.pdf>
 
-104.  "Argentina Risk Report". 2020. Gan Integrity. Accessed June
-      21, 2024.
-      <https://www.ganintegrity.com/country-profiles/argentina/>
+135.  "Argentina Risk Report". 2020. Gan Integrity. Accessed June
+      21, 2024. <https://www.ganintegrity.com/country-profiles/argentina/>
 
-105.  "Corruption Perceptions Index 2023". 2023. Transparency
+136.  "Corruption Perceptions Index 2023". 2023. Transparency
       International. Accessed June 21, 2024.
       <https://www.transparency.org/en/cpi/2023>
 
-106.  "Office of Overseas Prosecutorial Development, Assistance, and
+137.  "Office of Overseas Prosecutorial Development, Assistance, and
       Training (OPDAT)". n.d. U.S. Department of Justice. Accessed June
       21, 2024. <https://www.justice.gov/criminal/criminal-opdat>
 
-107.  Wyden, Ron. 2024. "Wyden Statement on Clarence Thomas's Forgiven
+138.  Wyden, Ron. 2024. "Wyden Statement on Clarence Thomas's Forgiven
       Quarter Million Dollar RV Loan". U.S. Senate Finance Committee.
       Accessed June 21, 2024.
       <https://www.finance.senate.gov/chairmans-news/wyden-statement-on-clarence-thomass-forgiven-quarter-million-dollar-rv-loan>
 
-108.  Wasielewski, Philip. 2023. "The Roots of Russian Military
+139.  Wasielewski, Philip. 2023. "The Roots of Russian Military
       Dysfunction". Foreign Policy Research Institute. Accessed June
       21, 2024.
       <https://www.fpri.org/article/2023/03/the-roots-of-russian-military-dysfunction/>
 
-109.  "University Module Series: Anti-Corruption, Transparency as a
+140.  "University Module Series: Anti-Corruption, Transparency as a
       precondition." n.d. UNODC. Accessed June 21, 2024.
       <https://www.unodc.org/e4j/en/anti-corruption/module-6/key-issues/transparency-as-a-precondition.html>
 
-110.  Malik, Kenan. 2010. "Multiculturalism undermines diversity
-      \[Opinion\]." The Guardian. Accessed June 21, 2024.
-      <https://www.theguardian.com/commentisfree/2010/mar/17/multiculturalism-diversity-political-policy>
-
-111.  Chin, Clayton. 2020. "Multiculturalism and nationalism: Models of
-      belonging to the diverse political community." Nations and
-      Nationalism. Accessed June 21, 2024.
-      <https://doi.org/10.1111/nana.12657>
-
-112.  Bloemraad, Irene. 2011. "The Debate Over Multiculturalism:
-      Philosophy, Politics, and Policy." Migration Policy Institute.
-      Accessed June 21, 2024.
-      <https://www.migrationpolicy.org/article/debate-over-multiculturalism-philosophy-politics-and-policy>
-
-113.  United Nations. 1948. "Universal Declaration of Human Rights."
-      Accessed June 21, 2024.
-      <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
-
-114.  Hajiyeva, Nagriz. 2019. "The clash of human rights ideas between
-      universalism and relativism." Modern Diplomacy. Accessed June
-      21, 2024.
-      <https://moderndiplomacy.eu/2019/04/11/the-clash-of-human-rights-ideas-between-universalism-and-relativism/>
-
-115.  Gurbanli, Zaur. 2018. "The Universalism of Human Rights or Cultural
-      Relativism?" Baku Research Institute. Accessed June 21, 2024.
-      <https://bakuresearchinstitute.org/en/the-universalism-of-human-rights-or-cultural-relativism/>
-
-116.  Laborde, Cécile. 2006. "Female Autonomy, Education, and the Hijab."
-      Critical Review of International Social and Political Philosophy 9
-      (3): 351--377. Accessed June 21, 2024.
-      <https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf>
-
-117.  Tilley, John J. 1998. "Cultural Relativism, Universalism, and the
-      Burden of Proof." Millennium 27 (2): 275-297. Accessed June
-      21, 2024. <https://doi.org/10.1177/03058298980270020601>
-
-118.  American Psychological Association. 2018. "Cultural Universalism."
-      APA Dictionary of Psychology. Accessed June 21, 2024.
-      <https://dictionary.apa.org/cultural-universalism>
-
-119.  McLachlan, Hugh V., and Michael Scott. 1985. "Rationality and
-      relativism: a defense of absolutism." The British Journal of
-      Sociology 36 (4): 604--610. Accessed June 21, 2024.
-      <https://doi.org/10.2307/590335>
-
-120.  Nozick, Robert. 1974. "Anarchy, State, and Utopia." Basic Books.
-      Accessed June 21, 2024.
-      <https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/>
-
-121.  Daemen, H., and L. Schap. 2000. "FRANCE: A STRONG STATE, TOWARDS A
-      STRONGER LOCAL DEMOCRACY?" _Citizen and city. Developments in
-      fifteen local democracies in Europe_. Accessed June 21, 2024.
-      <https://core.ac.uk/download/pdf/18510948.pdf>
-
-122.  "France - Summary." n.d. _European Committee of the Regions_.
-      Accessed June 21, 2024.
-      <https://portal.cor.europa.eu/divisionpowers/Pages/France-Introduction.aspx>
-
-123.  Sexton, M. David. 2017. "Political Philosophy and the Concept of
-      the Scandinavian Unitary Republic." _Butler University Libraries_.
-      Accessed June 21, 2024.
-      <https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1048&context=the-mall>
-
-124.  Follesdal, Andreas. 2022. "Federalism." _Stanford Encyclopedia of
-      Philosophy_. Accessed June 21, 2024.
-      <https://plato.stanford.edu/entries/federalism/>
-
-125.  Bulmer, Elliot. 2017. "Federalism." _International IDEA: Institute
-      for Democracy and Electoral Assistance_. Accessed June 21, 2024.
-      <https://www.idea.int/themes/federalism>
-
-126.  Longley, Robert. 2022. "What is a Unitary State?" _ThoughtCo_.
-      Accessed June 21, 2024.
-      <https://www.thoughtco.com/unitary-state-government-pros-cons-examples-4184826>
-
-127.  Hamilton, Alexander, James Madison, and John Jay. 1787. "The
-      Federalist Papers." _ETH Zurich_. Accessed June 21, 2024.
-      <https://www.files.ethz.ch/isn/125481/5008_Federalist%20Papers.pdf>
-
-128.  "The Executive Branch." n.d. _The White House_. Accessed June
-      21, 2024.
-      <https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/>
-
-129.  "The Government of the United States." n.d. _U.S. Government
-      Manual_. Accessed June 21, 2024.
-      <https://www.usgovernmentmanual.gov/ReadLibraryItem.ashx?SFN=Myz95sTyO4rJRM/nhIRwSw%3D%3D&SF=VHhnJrOeEAnGaa/rtk/JOg%3D%3D>
-
-130.  "Structure of the United States Federal Government." 2021. _Simple
-      Legal Guides_. Accessed June 21, 2024.
-      <https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government>
-
-131.  "U.S. Department of Transportation Organization Chart." 2017. _U.S.
-      Department of Transportation_. Accessed June 21, 2024.
-      <https://www.transportation.gov/org-chart>
-
-132.  Wollmann, Hellmut. 2021. "Transformation of Public Administration
-      in East Germany Following Unification." _Public Administration in
+141.  Wollmann, Hellmut. 2021. "Transformation of Public Administration in
+      East Germany Following Unification." _Public Administration in
       Germany: Governance and Public Management_. Accessed June 21, 2024.
       <https://doi.org/10.1007/978-3-030-53697-8_15>.
 
-133.  Boss, Alfred. 1998. "How Germany shouldered the fiscal burden of
-      the unification." _Kiel Institute of World Economics_. Accessed
-      June 21, 2024.
+142.  Boss, Alfred. 1998. "How Germany shouldered the fiscal burden of the
+      unification." _Kiel Institute of World Economics_. Accessed June
+      21, 2024.
       <https://www.econstor.eu/bitstream/10419/995/1/241267005.pdf>.
 
-134.  Miller, E. T. 2020. "Debt of the Republic of Texas." _Handbook of
+143.  Miller, E. T. 2020. "Debt of the Republic of Texas." _Handbook of
       Texas Online_. Accessed June 21, 2024.
       <https://www.tshaonline.org/handbook/entries/debt-of-the-republic-of-texas>.
 
-135.  "The Annexation of Texas, the Mexican-American War, and the Treaty
+144.  "The Annexation of Texas, the Mexican-American War, and the Treaty
       of Guadalupe-Hidalgo, 1845--1848". n.d. _U.S. Department of State
       Office of the Historian_. Accessed June 21, 2024.
       <https://history.state.gov/milestones/1830-1860/texas-annexation>.
 
-136.  Acquaviva, Guido. 2002. "The Dissolution of Yugoslavia and the Fate
+145.  Acquaviva, Guido. 2002. "The Dissolution of Yugoslavia and the Fate
       of its Financial Obligations". _Denver Journal of International Law
       and Policy_. Accessed June 21, 2024.
       <https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1470&context=djilp>.
 
-137.  "Amendment XIV". 1868. _National Archives_. Accessed June 21, 2024.
+146.  "Amendment XIV". 1868. _National Archives_. Accessed June 21, 2024.
       <https://www.archives.gov/milestone-documents/14th-amendment>.
 
-138.  Guinnane, Timothy. 2015. "Financial Vergangenheitsbewältigung: The
+147.  Guinnane, Timothy. 2015. "Financial Vergangenheitsbewältigung: The
       1953 London Debt Agreement." _Economic Growth Center Yale
       University_. Accessed June 21, 2024.
       <http://www.econ.yale.edu//growth_pdf/cdp880.pdf>.
 
-139.  "30 Years of German Unity - two German patent offices merged to
+148.  "30 Years of German Unity - two German patent offices merged to
       become one office". 2020. _German Patent and Trade Mark Office_.
       Accessed June 21, 2024.
       <https://www.dpma.de/english/our_office/about_us/history/30yearsofgermanunity/index.html>.
 
-140.  Lynch, Thomas F. III and Frank Hoffman. 2020. "2 Past Eras of Great
+149.  Daemen, H., and L. Schap. 2000. "FRANCE: A STRONG STATE, TOWARDS A
+      STRONGER LOCAL DEMOCRACY?" _Citizen and city. Developments in
+      fifteen local democracies in Europe_. Accessed June 21, 2024.
+      <https://core.ac.uk/download/pdf/18510948.pdf>
+
+150.  "France - Summary." n.d. _European Committee of the Regions_.
+      Accessed June 21, 2024.
+      <https://portal.cor.europa.eu/divisionpowers/Pages/France-Introduction.aspx>
+
+151.  Sexton, M. David. 2017. "Political Philosophy and the Concept of the
+      Scandinavian Unitary Republic." _Butler University Libraries_.
+      Accessed June 21, 2024.
+      <https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1048&context=the-mall>
+
+152.  Follesdal, Andreas. 2022. "Federalism." _Stanford Encyclopedia of
+      Philosophy_. Accessed June 21, 2024.
+      <https://plato.stanford.edu/entries/federalism/>
+
+153.  Bulmer, Elliot. 2017. "Federalism." _International IDEA: Institute
+      for Democracy and Electoral Assistance_. Accessed June 21, 2024.
+      <https://www.idea.int/themes/federalism>
+
+154.  Longley, Robert. 2022. "What is a Unitary State?" _ThoughtCo_.
+      Accessed June 21, 2024.
+      <https://www.thoughtco.com/unitary-state-government-pros-cons-examples-4184826>
+
+155.  Hamilton, Alexander, James Madison, and John Jay. 1787. "The
+      Federalist Papers." _ETH Zurich_. Accessed June 21, 2024.
+      <https://www.files.ethz.ch/isn/125481/5008_Federalist%20Papers.pdf>
+
+156.  "The Executive Branch." n.d. _The White House_. Accessed June
+      21, 2024.
+      <https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/>
+
+157.  "The Government of the United States." n.d. _U.S. Government
+      Manual_. Accessed June 21, 2024.
+      <https://www.usgovernmentmanual.gov/ReadLibraryItem.ashx?SFN=Myz95sTyO4rJRM/nhIRwSw%3D%3D&SF=VHhnJrOeEAnGaa/rtk/JOg%3D%3D>
+
+158.  "Structure of the United States Federal Government." 2021. _Simple
+      Legal Guides_. Accessed June 21, 2024.
+      <https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government>
+
+159.  "U.S. Department of Transportation Organization Chart." 2017. _U.S.
+      Department of Transportation_. Accessed June 21, 2024.
+      <https://www.transportation.gov/org-chart>
+
+160.  Hanania, Jason M. 2018. "Architecture of a Technodemocracy." ISBN:
+      978-1-7321197-0-3.
+
+161.  Killian, H. Johnny. 1994. "The Constitution of the United States of
+      America." U.S. Government Publishing Office. Accessed June 21, 2024.
+      <https://www.govinfo.gov/content/pkg/GPO-CONAN-1994/pdf/GPO-CONAN-1994.pdf>
+
+162.  "The Federal Assembly (Parliament)." 2023. About Switzerland.
+      Accessed June 21, 2024.
+      <https://www.eda.admin.ch/aboutswitzerland/en/home/politik-geschichte/politisches-system/bundesversammlung.html>
+
+163.  Alonso, Sonia, John Keane, and Wolfgang Merkel. 2011. "Editors'
+      introduction: Rethinking the future of representative democracy."
+      Cambridge University Press. Accessed June 21, 2024.
+      <https://assets.cambridge.org/97805211/77030/excerpt/9780521177030_excerpt.pdf>
+
+164.  Wasson, Donald L. 2021. "The Year of the Four Emperors & the Demise
+      of Four Roman Legions." World History Encyclopedia. Accessed June
+      21, 2024.
+      [https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/](https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/)
+
+165.  Lynch, Thomas F. III and Frank Hoffman. 2020. "2 Past Eras of Great
       Power Competition: Historical Insights and Implications." National
       Defense University Press. Accessed June 21, 2024.
       <https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2404297/2-past-eras-of-great-power-competition-historical-insights-and-implications/>
 
-141.  Staniland, Paul. 2022. "Great Power Competition and Internal
+166.  Staniland, Paul. 2022. "Great Power Competition and Internal
       Politics in Asia: Then and Now." Lawfare. Accessed June 21, 2024.
       <https://www.lawfaremedia.org/article/great-power-competition-and-internal-politics-asia-then-and-now>
 
-142.  Daley, Jason. 2018. "Lessons in the Decline of Democracy from the
+167.  Daley, Jason. 2018. "Lessons in the Decline of Democracy from the
       Ruined Roman Republic." Smithsonian Magazine. Accessed June
       21, 2024.
       <https://www.smithsonianmag.com/history/lessons-decline-democracy-from-ruined-roman-republic-180970711/>
 
-143.  Bueno de Mesquita, Bruce. 2000. "Political Instability as a Source
+168.  Bueno de Mesquita, Bruce. 2000. "Political Instability as a Source
       of Growth." Hoover Institution. Accessed June 21, 2024.
       <https://www.hoover.org/research/political-instability-source-growth>
 
-144.  Kotva, Alyssa. 2019. "Political Economy in the Late Roman Empire."
+169.  Kotva, Alyssa. 2019. "Political Economy in the Late Roman Empire."
       OSU.EDU. Accessed June 21, 2024.
       <https://origins.osu.edu/review/political-economy-late-roman-empire?language_content_entity=en>
 
-145.  Mokyr, Joel. 1994. "Cardwell's Law and the political economy of
+170.  Mokyr, Joel. 1994. "Cardwell's Law and the political economy of
       technological progress." Northwestern University. Accessed June
       21, 2024.
       <https://www.sciencedirect.com/science/article/pii/0048733394010064>
 
-146.  Murphy, Sean. 2012. "Joel Mokyr on Creative Forces and Cardwell's
+171.  Murphy, Sean. 2012. "Joel Mokyr on Creative Forces and Cardwell's
       Law." SKMurphy. Accessed June 21, 2024.
       <https://www.skmurphy.com/blog/2012/09/26/joel-mokyr-on-creative-forces-and-cardwells-law/>
 
-147.  Mokyr, Joel. 1993. "Creative Forces." Reason. Accessed June
+172.  Mokyr, Joel. 1993. "Creative Forces." Reason. Accessed June
       21, 2024. <https://reason.com/1993/05/01/creative-forces/>
 
-148.  "Tyranny of the Majority." n.d. Oxford Reference. Accessed June
+173.  "Tyranny of the Majority." n.d. Oxford Reference. Accessed June
       21, 2024.
       <https://www.oxfordreference.com/display/10.1093/oi/authority.20110803110431595>
 
-149.  O'Neill, Martin and Shepley Orr. 2018. _Taxation: Philosophical
-      Perspectives_. Engaging Philosophy.
-      <https://www.amazon.com/Taxation-Philosophical-Perspectives-Engaging-Philosophy/dp/0199609225>
+174.  Malik, Kenan. 2010. "Multiculturalism undermines diversity
+      \[Opinion\]." The Guardian. Accessed June 21, 2024.
+      <https://www.theguardian.com/commentisfree/2010/mar/17/multiculturalism-diversity-political-policy>
 
-150.  Horton, Melissa. 2023. "Regressive vs. Proportional vs. Progressive
-      Taxes: What's the Difference?" Investopedia.
-      <https://www.investopedia.com/ask/answers/042415/what-are-differences-between-regressive-proportional-and-progressive-taxes.asp>
+175.  Chin, Clayton. 2020. "Multiculturalism and nationalism: Models of
+      belonging to the diverse political community." Nations and
+      Nationalism. Accessed June 21, 2024.
+      <https://doi.org/10.1111/nana.12657>
 
-151.  "Revenue Statistics - tax structures." 2022. OECD.
-      <https://www.oecd.org/ctp/tax-policy/revenue-statistics-tax-structures.htm>
-
-152.  McBride, William, Huaqun Li, Garett Watson, Alex Durante, Erica
-      York, and Alex Muresianu. 2023. "Details and Analysis of a Tax
-      Reform Plan for Growth and Opportunity." Tax Foundation.
-      <https://taxfoundation.org/research/all/federal/growth-opportunity-us-tax-reform-plan/>
-
-153.  Murray, Dale. n.d. "Robert Nozick: Political Philosophy." Internet
-      Encyclopedia of Philosophy. <https://iep.utm.edu/noz-poli/>
-
-154.  NCC Staff. 2023. "Benjamin Franklin's last great quote and the
-      Constitution." National Constitution Center.
-      <https://constitutioncenter.org/blog/benjamin-franklins-last-great-quote-and-the-constitution>
-
-155.  PWC. 2024. "Denmark." PWC. <https://taxsummaries.pwc.com/denmark>
-
-156.  "Taxes in Denmark." n.d. Tax Foundation.
-      <https://taxfoundation.org/location/denmark/>
-
-157.  "Highest Taxed Countries 2024." 2024. World Population Review.
-      <https://worldpopulationreview.com/country-rankings/highest-taxed-countries>
-
-158.  "Happiest Countries 2024." 2024. World Population Review.
-      <https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world>
-
-159.  Statista Research Department. 2024. "Employment in Services as
-      total employment share in Denmark from 2003 to 2022." Statista.
-      <https://www.statista.com/statistics/595381/services-employment-as-share-of-total-employment-denmark-europe-eu/>
-
-160.  O'Neill, Aaron. 2024. "Denmark: Share of economic sectors in the
-      gross domestic product (GDP) from 2012 to 2022." Statista.
-      <https://www.statista.com/statistics/317288/share-of-economic-sectors-in-the-gdp-in-denmark/>
-
-161.  "U.S. Relations with Canada. Bilateral Fact Sheet." 2022. U.S.
-      Department of State.
-      <https://www.state.gov/u-s-relations-with-canada/>
-
-162.  Singer, R. Colin. 2023. "Canada's Brain Drain." Immigration.CA.
-      <https://www.immigration.ca/canadas-brain-drain-figures-show-technology-graduate-exodus/>
-
-163.  "Taxing Wages, 2024, Canada." 2024. OECD.
-      <https://www.oecd.org/tax/tax-policy/taxing-wages-canada.pdf>
-
-164.  "Global Tax Burden on Labor, 2021." 2021. Tax Foundation.
-      <https://taxfoundation.org/data/all/global/tax-burden-on-labor-oecd-2021/>
-
-165.  Rogers, Carolyn. 2024. "Time to break the glass: Canada's
-      productivity problem." Bank of Canada.
-      <https://www.bankofcanada.ca/2024/03/time-to-break-the-glass-fixing-canadas-productivity-problem/>
-
-166.  "Revenue Statistics 2023 - the United States." 2023. OECD.
-      <https://www.oecd.org/tax/revenue-statistics-united-states.pdf>
-
-167.  Tax Policy Center. 2024. "How do US taxes compare internationally."
-      Tax Policy Center.
-      <https://www.taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally>
-
-168.  "Taxing Wages - the United States." 2024. OECD.
-      <https://www.oecd.org/tax/tax-policy/taxing-wages-united-states.pdf>
-
-169.  Friedman, Milton. 1993. "Why Government is the Problem." Hoover
-      Institution.
-
-170.  Brainerd, Jackson. 2023. "What Happens When States Ditch Income Tax
-      for Sales Tax?" NCSL.
-      <https://www.ncsl.org/state-legislatures-news/details/what-happens-when-states-ditch-income-tax-for-sales-tax>
-
-171.  Netzer, Dick. 1998. "Land Value Taxation." Lincoln Institute of
-      Land Policy.
-      <https://www.lincolninst.edu/publications/articles/land-value-taxation>
-
-172.  Dabla-Norris, Era and Romain Duval. 2016. "How Lowering Trade
-      Barriers Can Revive Global Productivity and Growth." International
-      Monetary Fund. Accessed June 21, 2024.
-      <https://www.imf.org/en/Blogs/Articles/2016/06/20/how-lowering-trade-barriers-can-revive-global-productivity-and-growth>
-
-173.  Chanda, Rupa. 2023. "Protectionism could jeopardize health outcomes
-      in countries that spend more on global trade in health goods."
-      International Monetary Fund. Accessed June 21, 2024.
-      <https://www.imf.org/en/Publications/fandd/issues/2023/09/health-without-borders-rupa-chanda>
-
-174.  Krist, William. n.d. "Trade Agreements and Economic Theory." Wilson
-      Center. Accessed June 21, 2024.
-      <https://www.wilsoncenter.org/chapter-3-trade-agreements-and-economic-theory>
-
-175.  Bovard, James. 2024. "Biden Perpetuates Washington's Idiotic Steel
-      Trade Policies." Mises Institute. Accessed June 21, 2024.
-      <https://mises.org/mises-wire/biden-perpetuates-washingtons-idiotic-steel-trade-policies>
-
-176.  Shostak, Frank. 2024. "Free-Market Profit Comes from Voluntary
-      Exchange, not Exploitation." Mises Institute. Accessed June
-      21, 2024.
-      <https://mises.org/mises-wire/free-market-profit-comes-voluntary-exchange-not-exploitation>
-
-177.  York, Erica. 2018. "The Impact of Trade and Tariffs on the United
-      States." Tax Foundation. Accessed June 21, 2024.
-      <https://taxfoundation.org/research/all/federal/impact-of-tariffs-free-trade/>
-
-178.  Smith, Adam. 1776. "An Inquiry into the Nature and Causes of the
-      Wealth of Nations." Gutenberg. Accessed June 21, 2024.
-      <https://www.gutenberg.org/ebooks/3300>
-
-179.  Paul, Ron. 1981. "The Case for Free Trade." Mises Institute.
+176.  Bloemraad, Irene. 2011. "The Debate Over Multiculturalism:
+      Philosophy, Politics, and Policy." Migration Policy Institute.
       Accessed June 21, 2024.
-      <https://mises.org/free-market/case-free-trade>
+      <https://www.migrationpolicy.org/article/debate-over-multiculturalism-philosophy-politics-and-policy>
 
-180.  Henderson, W.O. 1959. "The Zollverein." Physical copy.
+177.  United Nations. 1948. "Universal Declaration of Human Rights."
+      Accessed June 21, 2024.
+      <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
 
-181.  "Economic Integration: The Zollverein." n.d. Britannica. Accessed
+178.  Hajiyeva, Nagriz. 2019. "The clash of human rights ideas between
+      universalism and relativism." Modern Diplomacy. Accessed June
+      21, 2024.
+      <https://moderndiplomacy.eu/2019/04/11/the-clash-of-human-rights-ideas-between-universalism-and-relativism/>
+
+179.  Gurbanli, Zaur. 2018. "The Universalism of Human Rights or Cultural
+      Relativism?" Baku Research Institute. Accessed June 21, 2024.
+      <https://bakuresearchinstitute.org/en/the-universalism-of-human-rights-or-cultural-relativism/>
+
+180.  Laborde, Cécile. 2006. "Female Autonomy, Education, and the Hijab."
+      Critical Review of International Social and Political Philosophy 9
+      (3): 351--377. Accessed June 21, 2024.
+      <https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf>
+
+181.  Tilley, John J. 1998. "Cultural Relativism, Universalism, and the
+      Burden of Proof." Millennium 27 (2): 275-297. Accessed June
+      21, 2024. <https://doi.org/10.1177/03058298980270020601>
+
+182.  American Psychological Association. 2018. "Cultural Universalism."
+      APA Dictionary of Psychology. Accessed June 21, 2024.
+      <https://dictionary.apa.org/cultural-universalism>
+
+183.  McLachlan, Hugh V., and Michael Scott. 1985. "Rationality and
+      relativism: a defense of absolutism." The British Journal of
+      Sociology 36 (4): 604--610. Accessed June 21, 2024.
+      <https://doi.org/10.2307/590335>
+
+184.  Nozick, Robert. 1974. "Anarchy, State, and Utopia." Basic Books.
+      Accessed June 21, 2024.
+      <https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/>
+
+185.  Besmer, Christoph. "RESEARCH AND DEVELOPMENT". n.d. Switzerland
+      Global Enterprise. Accessed June 21, 2024.
+      <https://www.s-ge.com/en/article/expertise/2023-ip-health-rnd-and-innovation>.
+
+186.  "The Financial Sector: A Stable Mainstay of the Swiss
+      Economy". 2023. SwissBanking. Accessed June 21, 2024.
+      <https://www.swissbanking.ch/en/news-and-positions/news/the-financial-sector-a-stable-mainstay-of-the-swiss-economy>.
+
+187.  Schneider, Henrique. 2019. "Swiss economic success: diversity as
+      capital". GIS Reports. Accessed June 21, 2024.
+      <https://www.gisreportsonline.com/r/swiss-economy/>.
+
+188.  "The United States Becomes a World Power". n.d. Digital History.
+      Accessed June 21, 2024.
+      <https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=2&psid=3158>.
+
+189.  "Global Innovation Index 2023: Switzerland, Sweden and the U.S. lead
+      the Global Innovation Ranking; Innovation Robust but Startup Funding
+      Increasingly Uncertain". 2023. World Intellectual Property
+      Organization. Accessed June 21, 2024.
+      <https://www.wipo.int/pressroom/en/articles/2023/article_0011.html>.
+
+190.  Dyvik, Einar H. 2024. "Leading countries by gross research and
+      development (R&D) expenditure worldwide in 2022". Statista. Accessed
       June 21, 2024.
-      <https://www.britannica.com/money/international-trade/Economic-integration#ref265778>
+      <https://www.statista.com/statistics/732247/worldwide-research-and-development-gross-expenditure-top-countries/>.
 
-182.  Weightman, Gavin. 2007. "The Industrial Revolutionaries: The Making
-      of the Modern World 1776-1914." Physical copy.
+191.  "Immigrants in the United States". n.d. American Immigration
+      Council. Accessed June 21, 2024.
+      <https://map.americanimmigrationcouncil.org/locations/national/>.
 
-183.  "Germany: The economy, 1870-90." n.d. Britannica. Accessed June
-      21, 2024.
-      <https://www.britannica.com/place/Germany/The-economy-1870-90>
-
-184.  "Cooperation for Recovery: The Marshall Plan." n.d. International
-      Monetary Fund. Accessed June 21, 2024.
-      <https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_03.htm>.
-
-185.  "Marshall Plan (1948)." 2022. National Archives. Accessed June
-      21, 2024.
-      <https://www.archives.gov/milestone-documents/marshall-plan>.
-
-186.  "Marshall Plan, 1948." n.d. Office of the Historian. Accessed June
-      21, 2024.
-      <https://history.state.gov/milestones/1945-1952/marshall-plan>.
-
-187.  Notre Dame International Security Center. 2023. "What is the
-      Marshall Plan and What Did it Accomplish?" University of Notre Dame.
+192.  Rosendorf, Neal. 2007. "COMMENTS ON THE CONGRESSIONAL SYMPOSIUM ON
+      AMERICAN FILM AND PUBLIC DIPLOMACY". USC Center on Public Diplomacy.
       Accessed June 21, 2024.
-      <https://ndisc.nd.edu/news-media/news/what-is-the-marshall-plan-and-what-did-it-accomplish/>.
-
-188.  Njangang, Henri, Simplice A. Asongu, and Eric Mouchili. 2024. "Does
-      corruption starve Africa? The mitigating effect of political
-      distribution of power." Journal of Policy Modeling 46 (1): 171-197.
-      Accessed June 21, 2024.
-      <https://www.sciencedirect.com/science/article/pii/S0161893823001357>.
-
-189.  "World Economic Outlook Database." 2022. International Monetary
-      Fund. Accessed June 21, 2024.
-      <https://www.imf.org/external/pubs/ft/weo/2022/01/weodata/groups.htm>.
-
-190.  "Gross Domestic Product 2022." 2022. World Bank. Accessed June
-      21, 2024.
-      <https://databank.worldbank.org/public/ddpext_download/GDP.pdf>.
-
-191.  O'Neill, Aaron. 2023. "Gross Domestic Product (GDP) in Taiwan."
-      Statista. Accessed June 21, 2024.
-      <https://www.statista.com/statistics/727589/gross-domestic-product-gdp-in-taiwan/>.
-
-192.  "Annex A. The least developed country category: criteria for
-      inclusion and graduation." n.d. OECD. Accessed June 21, 2024.
-      <https://www.oecd-ilibrary.org/sites/04f3d973-en/index.html?itemId=/content/component/04f3d973-en>.
+      <https://uscpublicdiplomacy.org/blog/comments-congressional-symposium-american-film-and-public-diplomacy-11142007>.

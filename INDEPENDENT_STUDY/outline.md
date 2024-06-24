@@ -82,6 +82,7 @@ III.4. What would be the benefits of the elimination of trade barriers? What per
 - III.4.c: European Coal and Steel Community, and how it was a precursor to the even greater economic gains under the EU.
   - III.4.c.a: Connection to II.1.a, Switzerland economic growth from its bilateral agreements with the EU.
 - III.4.d: No brain drain, because only the people with specialized professions would move(and they will anyway). production of those "brains" now spreads more widely. -
+
 - III.5: Many of the former-nations now part of the Global Nation have suffered from endemic corruption - what would be the Global Nation's anti-corruption policy & strategy.
   - III.5.a: Brief discussion of the causes of corruption, and their lasting effects on the economy and society.
   - III.5.b: Case Study on Singapore, and how they were able to eliminate corruption(though it was done through semi-autocratic means).
