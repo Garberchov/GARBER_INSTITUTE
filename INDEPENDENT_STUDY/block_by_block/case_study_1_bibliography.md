@@ -1,15 +1,3 @@
-### Andrew Garber
-
-### Independent Study
-
-### Case Study 1 Bibliography
-
-```
-Note: This is a list of sources used for the Case Study #1 on Switzerland, why it is in the Schengen Area but not the EU. It is done in APSA(American Political Science Association) format.
-If there is no author, the source is listed by the title.
-If there is no date, the source is listed with 'n.d' for no date.
-```
-
 1. "European Coal and Steel Community." n.d. EUR-Lex. Accessed June 21, 2024. [https://eur-lex.europa.eu/EN/legal-content/summary/treaty-establishing-the-european-coal-and-steel-community-ecsc-treaty.html](https://eur-lex.europa.eu/EN/legal-content/summary/treaty-establishing-the-european-coal-and-steel-community-ecsc-treaty.html).
 
 2. "EU CHARTER OF FUNDAMENTAL RIGHTS." European Commission. Accessed June 21, 2024. [https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en](https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en).

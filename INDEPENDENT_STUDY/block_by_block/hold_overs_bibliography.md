@@ -1,7 +1,3 @@
-### Hold-Overs Bibliography
-
-Note: This is a list of sources used for the case study on hold-overs from the separate nations that 'now' make up the Global Nation. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
-
 1. Wollmann, Hellmut. 2021. "Transformation of Public Administration in East Germany Following Unification." _Public Administration in Germany: Governance and Public Management_. Accessed June 21, 2024. [https://doi.org/10.1007/978-3-030-53697-8_15](https://doi.org/10.1007/978-3-030-53697-8_15).
 
 2. Boss, Alfred. 1998. "How Germany shouldered the fiscal burden of the unification." _Kiel Institute of World Economics_. Accessed June 21, 2024. [https://www.econstor.eu/bitstream/10419/995/1/241267005.pdf](https://www.econstor.eu/bitstream/10419/995/1/241267005.pdf).

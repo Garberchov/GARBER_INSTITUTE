@@ -1,13 +1,3 @@
-### Andrew Garber
-
-### Independent Study
-
-### Case Study 2 Bibliography
-
-```
-Note: This is a list of sources used for Case Study #2 on the UN. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
-```
-
 1. United Nations. "UN CHARTER." Accessed June 21, 2024. [https://www.un.org/en/about-us/un-charter/full-text](https://www.un.org/en/about-us/un-charter/full-text).
 
 2. United Nations in the Republic of Korea. "About the UN in the ROK." Accessed June 21, 2024. [https://un-rok.org/about-un/about-un-in-rok/](https://un-rok.org/about-un/about-un-in-rok/).

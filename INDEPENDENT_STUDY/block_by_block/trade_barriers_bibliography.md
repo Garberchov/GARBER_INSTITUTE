@@ -1,5 +1,3 @@
-### Trade Barriers Bibliography
-
 Note: This is a list of sources used for the case study on trade barriers. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
 
 1. Dabla-Norris, Era and Romain Duval. 2016. "How Lowering Trade Barriers Can Revive Global Productivity and Growth." International Monetary Fund. Accessed June 21, 2024. [https://www.imf.org/en/Blogs/Articles/2016/06/20/how-lowering-trade-barriers-can-revive-global-productivity-and-growth](https://www.imf.org/en/Blogs/Articles/2016/06/20/how-lowering-trade-barriers-can-revive-global-productivity-and-growth)

@@ -1,9 +1,3 @@
-### Andrew Garber
-
-### Independent Study
-
-### Introduction Bibliography
-
 1. "Historical Foundations of Race." n.d. Smithsonian. Accessed June 21, 2024. [https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race](https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race).
 
 2. Le, Coung Han. 2018. "A History of Boundaries: Redefining the Bordering Process." Georgia State University. Accessed June 21, 2024. [https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1126&context=history_theses](https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1126&context=history_theses).

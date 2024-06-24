@@ -27,21 +27,3 @@ This question of cultural practices vs. rule of law is not a simple one, and a p
 [^1]: Cultural universalism is also sometimes, and sometimes not interchangeably, referred to as cultural absolutism. To avoid confusion, ensure precision, and avoid the potential for misunderstanding with the political term "absolutism", I will use the term "universalism" throughout this section.
 [^2]: This examination will not delve into the specifics of children's rights, as that is a topic that could fill a book without finding a justifiable conclusion. For this examination, the human rights of children are assumed to be the same as the human rights of adults, with the guardianship of the parents giving them dominion--so far as it does not cause harm to the child--over the child's rights. While a more nuanced discussion of the rights of children in areas like religion, education, and self-determination could be justifiably included in this section, the fundamental principles and strategy of the Global Nation would remain the same in either case and thus are not included in this examination.
 [^3]: While applied to culture here, this legal framework for the Global Nation would legalize nearly all forms of consensual agreements, including those that are currently illegal in nearly all pre-unification nations, such as prostitution, dueling, and the sale of organs. While this level of freedom may make some squeamish, it is not only a necessary part of the Global Nation's legal framework but also a valuable point of self-reflection regarding _why_ totality of self-ownership is uncomfortable, and if that discomfort is a truly rational or irrational response to the practice.
-
-#### Sources:
-
-1. United Nations. 1948. "Universal Declaration of Human Rights." Accessed June 21, 2024. [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
-
-2. Hajiyeva, Nagriz. 2019. "The clash of human rights ideas between universalism and relativism." Modern Diplomacy. Accessed June 21, 2024. [https://moderndiplomacy.eu/2019/04/11/the-clash-of-human-rights-ideas-between-universalism-and-relativism/](https://moderndiplomacy.eu/2019/04/11/the-clash-of-human-rights-ideas-between-universalism-and-relativism/)
-
-3. Gurbanli, Zaur. 2018. "The Universalism of Human Rights or Cultural Relativism?" Baku Research Institute. Accessed June 21, 2024. [https://bakuresearchinstitute.org/en/the-universalism-of-human-rights-or-cultural-relativism/](https://bakuresearchinstitute.org/en/the-universalism-of-human-rights-or-cultural-relativism/)
-
-4. Laborde, Cécile. 2006. "Female Autonomy, Education, and the Hijab." Critical Review of International Social and Political Philosophy 9 (3): 351–377. Accessed June 21, 2024. [https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf](https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf)
-
-5. Tilley, John J. 1998. "Cultural Relativism, Universalism, and the Burden of Proof." Millennium 27 (2): 275-297. Accessed June 21, 2024. [https://doi.org/10.1177/03058298980270020601](https://doi.org/10.1177/03058298980270020601)
-
-6. American Psychological Association. 2018. "Cultural Universalism." APA Dictionary of Psychology. Accessed June 21, 2024. [https://dictionary.apa.org/cultural-universalism](https://dictionary.apa.org/cultural-universalism)
-
-7. McLachlan, Hugh V., and Michael Scott. 1985. "Rationality and relativism: a defense of absolutism." The British Journal of Sociology 36 (4): 604–610. Accessed June 21, 2024. [https://doi.org/10.2307/590335](https://doi.org/10.2307/590335)
-
-8. Nozick, Robert. 1974. "Anarchy, State, and Utopia." Basic Books. Accessed June 21, 2024. [https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/](https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/)

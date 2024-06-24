@@ -1,5 +1,3 @@
-### Taxation Bibliography
-
 1. O'Neill, Martin and Shepley Orr. 2018. _Taxation: Philosophical Perspectives_. Engaging Philosophy. [https://www.amazon.com/Taxation-Philosophical-Perspectives-Engaging-Philosophy/dp/0199609225](https://www.amazon.com/Taxation-Philosophical-Perspectives-Engaging-Philosophy/dp/0199609225)
 
 2. Horton, Melissa. 2023. "Regressive vs. Proportional vs. Progressive Taxes: What's the Difference?" Investopedia. [https://www.investopedia.com/ask/answers/042415/what-are-differences-between-regressive-proportional-and-progressive-taxes.asp](https://www.investopedia.com/ask/answers/042415/what-are-differences-between-regressive-proportional-and-progressive-taxes.asp)

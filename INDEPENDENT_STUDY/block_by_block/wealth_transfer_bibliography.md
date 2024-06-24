@@ -1,15 +1,3 @@
-### Andrew Garber
-
-### Independent Study
-
-### Wealth Transfer Bibliography
-
-```
-Note: This is a list of sources used for Case Study #5 on the management of a wealth transfer to less-wealthy areas of the world. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
-```
-
-Note: This is a list of sources used for Case Study #5 on the management of a wealth transfer to less-wealthy areas of the world. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
-
 1. "Cooperation for Recovery: The Marshall Plan." n.d. International Monetary Fund. Accessed June 21, 2024. [https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_03.htm](https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_03.htm).
 
 2. "Marshall Plan (1948)." 2022. National Archives. Accessed June 21, 2024. [https://www.archives.gov/milestone-documents/marshall-plan](https://www.archives.gov/milestone-documents/marshall-plan).

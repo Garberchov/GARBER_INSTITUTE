@@ -1,5 +1,3 @@
-### Anti-Corruption Bibliography
-
 1. "Russia and Afghanistan: Corruption a Major Security Challenge for NATO". 2022. NATO Parliamentary Assembly. Accessed June 21, 2024. [https://www.nato-pa.int/news/russia-afghanistan-corruption-major-security-challenge-nato](https://www.nato-pa.int/news/russia-afghanistan-corruption-major-security-challenge-nato)
 
 2. Merima, Ali, Odd-Helge Fjeldstad, and Abdulaziz B. Shifa. 2021. "The Colonial Legacy of Corruption among Local Elites in Africa". African Economic History Network. Accessed June 21, 2024. [https://www.aehnetwork.org/blog/the-colonial-legacy-of-corruption-among-local-elites-in-africa/](https://www.aehnetwork.org/blog/the-colonial-legacy-of-corruption-among-local-elites-in-africa/)

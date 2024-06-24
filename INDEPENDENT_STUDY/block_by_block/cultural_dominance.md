@@ -18,15 +18,3 @@ In the question of political parties formed along the lines of cultural identity
 [^2]: Capitalized to distinguish from the modern, mostly American but more generally Western, political ideology of being "liberal", i.e. progressive, left-leaning, or however else it is defined in the context of the modern political spectrum. Liberal in this context refers to classical Liberalism, the political philosophy of individual liberty, free markets, and limited government espoused by John Locke, Adam Smith, and Thomas Jefferson, and later taken up by the Austrian School of Economics, among others.
 [^3]: The most populus Eastern states, China, India, Japan, Korea, and others, are dramatically less multicultural compared to the Western states, and thus provide little to draw from in terms of examples of in the political sphere.
 [^4]: Save for those who do so to commit crimes, but that is an obvious exception to the rule.
-
-#### Sources:
-
-```markdown
-Note: This is a list of sources used for the case study on preventing mono-cultural dominance in the Global Nation. It is done in APSA (American Political Science Association) format. If there is no author, the source is listed by the title. If there is no date, the source is listed with 'n.d' for no date.
-```
-
-1. Malik, Kenan. 2010. "Multiculturalism undermines diversity [Opinion]." The Guardian. Accessed June 21, 2024. [https://www.theguardian.com/commentisfree/2010/mar/17/multiculturalism-diversity-political-policy](https://www.theguardian.com/commentisfree/2010/mar/17/multiculturalism-diversity-political-policy)
-
-2. Chin, Clayton. 2020. "Multiculturalism and nationalism: Models of belonging to the diverse political community." Nations and Nationalism. Accessed June 21, 2024. [https://doi.org/10.1111/nana.12657](https://doi.org/10.1111/nana.12657)
-
-3. Bloemraad, Irene. 2011. "The Debate Over Multiculturalism: Philosophy, Politics, and Policy." Migration Policy Institute. Accessed June 21, 2024. [https://www.migrationpolicy.org/article/debate-over-multiculturalism-philosophy-politics-and-policy](https://www.migrationpolicy.org/article/debate-over-multiculturalism-philosophy-politics-and-policy)

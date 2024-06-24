@@ -1,5 +1,3 @@
-### Government Structure Bibliography
-
 1. Daemen, H., and L. Schap. 2000. "FRANCE: A STRONG STATE, TOWARDS A STRONGER LOCAL DEMOCRACY?" _Citizen and city. Developments in fifteen local democracies in Europe_. Accessed June 21, 2024. [https://core.ac.uk/download/pdf/18510948.pdf](https://core.ac.uk/download/pdf/18510948.pdf)
 
 2. "France - Summary." n.d. _European Committee of the Regions_. Accessed June 21, 2024. [https://portal.cor.europa.eu/divisionpowers/Pages/France-Introduction.aspx](https://portal.cor.europa.eu/divisionpowers/Pages/France-Introduction.aspx)
