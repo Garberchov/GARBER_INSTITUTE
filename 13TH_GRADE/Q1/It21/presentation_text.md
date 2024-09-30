@@ -2,4 +2,4 @@
 
 <!-- Rispondi alle seguenti domande: Che cosa fai nel tempo libero?  Quando? Dove? Con che frequenza? Con chi? Perché?  USA VERBI DIFFERENTI al presente e non ripetere "mi piace....mi piace..." -->
 
-nel mio tempo libero, io corro per esercizio. la foto e' quando corro in toronto. Anche io visito il museo, nella foto in il museo di dell'aria e spazio. Anche mangio le ciambelle. Anche io faccio surf, questa foto in San Diego. Anche io faccio Spartan Races, questa foto e' quando faccio Spartan Race in New York con il mio cugino, ho vomitato.
+nel mio tempo libero, io corro per esercizio, non e' divertente. la foto e' quando corro in toronto questa estate. Anche io visito il museo, nella foto io visito il museo dell'aria e spazio. Anche mangio il mio cibo preferito, le ciambelle. Anche io faccio surf, questa foto e' quando faccio surf in San Diego. Anche io faccio Spartan Races, questa foto e' quando faccio Spartan Race in New York con il mio cugino, ho vomitato.
