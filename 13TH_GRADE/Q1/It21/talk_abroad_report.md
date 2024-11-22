@@ -1,0 +1,5 @@
+### Andrew Garber
+
+### Talk Abroad Report 1
+
+Nella mia conversazione con Daniele sul TalkAbroad, abbiamo parlato un po abitudini di dormire, mangiare, e essercizio fisico. Danielle preferisce dormire a l'una di notte e risvegliarsi a sette di mattina. Io preferisco dormire a dieci di notte, e risveglio a cinque di mattina. Anche, Danielle preferisce correre a tre giorni alla settimana e vado in palestra due volte a settimana. Io preferisco andare in palestra sei giorni alla settimana, e correre due volte a settimana. Secondo di Danielle, e molto interessante per me, in Italia andare in palestra e' piu' popolare di correre - ma, andare in palestra e' non molto popolare di America. Giocare a calcio e' molto, molto popolare in Italia - una forma di esercizio fisico molto popolare in Italia. Io bevo due o tre caffe ogni e uno o due bevanda energetia ogni giorni, mentre Danielle beve due caffe prima di pranzo e non beve caffeina dopo pranzo. E' un conversazione molto interessante ma il mio vocabolario e' un po limitato - il conversazione e' un po lento a volte.
