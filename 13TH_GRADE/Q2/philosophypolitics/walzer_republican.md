@@ -1,0 +1,14 @@
+### Andrew Garber
+
+### Walzer "What Does It Mean To Be An 'American'?"
+
+Walzer talks a lot here about republicanism (with a little “r”) and its place in the American
+self-image. What does this sort of republicanism involve, and where does he see it at work in
+American symbolism and history? Would you like to see more emphasis on this kind of
+republicanism in present-day America? Why or why not?
+
+Walzer's concetpion of American republicanism is a very specific sort of dual-cultural and political identity of individuals and of the state they inhabit - fundamentally, it is a republicanism that is both pluralistic in nature and unifying in its principles. The nature of American republicanism is that of a rejection of ideas of total assimilation to a fixed, base culture, and instead a commitment to allowing individuals to hold identities of their own choice and instead commit to a "political ideology centered around the abstract ideals of liberty, equality, and republicanism(Walzer 30)." This dual political-cultural identity is fundamental to how Walzer defends the idea of a non-cultural American identity and citizenship, going through a list of historical movements to counter the nativist and cultural nationalist movements of the 19th century.
+
+As Walzer puts it, "If the manyness of America is cultural, its oneness is political, and it may be the case that men and women who are free from non-American cultures will commit thmesleves more fully to the American political system(Walzer 29)." This sort of republicanism involves a political commitment to the principles that are the foundation of the American political system, but culturally is a far smaller commitment: this explains why Americans so fiercely debate and compete over how patriotic they are and what defines patriotism. It is uncommon for a culture to be based on principles and thus make it amenable to being conjoined, "hypenated" as Wazler puts it, with any other ethnic or cultural identity into a specific flavor of Americanism. He sees this playing out in continual debates over the proper level of "respect" for American symbols and traditions like the flag and the pledge of allegiance - the issue of a constitutional amendment or law against flag burning comes up every few years, because of the differences of opinion on what it means to be culturally American.
+
+I fundamentally agree with Walzer's analysis of how American republicanism is a function of conjoining a political-cultural identity based on principles with a more "pure" cultural identity into each individuals' personal flavor of Americanism. I would like to see more emphasis on the principles and less on the original ethnic or cultural root of individuals in American society, but this does support Walzer's argument about the dual cultural and political identity that is a result of the American republicanism.
