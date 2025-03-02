@@ -1,0 +1,23 @@
+```
+Propsoal for Synthesis Essay and Remeditation(of previosu work) Project
+
+1 paragraph each
+
+Option 2 for Synthesis Essay:
+
+
+Option 2
+
+The Black Mirror Writers’ Room Activity asked you to imagine the future of an emerging technology and consider its human and/or environmental impacts through the lens of science fiction. You will expand on this work by writing an essay that blends analysis, research, and creative speculation. With this essay, you will deepen your understanding of the real-world issue with technology that inspired your episode, using at least three credible sources (7+ pages each, including at least one scholarly article) to discuss and analyze social, ethical, and/or environmental issues with its development. Your essay should develop an argument about the significance of this technology, its risks and benefits, and apply ethical frameworks (such as rights, utilitarianism, fairness and justice, the common good, or virtue ethics) to assess its impacts. As part of your argument, you may also
+Discuss how science fiction (including your own Black Mirror-inspired episode concept, or a similar one that you create for this assignment) helps us think critically about technological developments. How did creative speculation help you to think about the ethical issues and impacts related to your topic? OR
+Analyze an existing TV episode or film that explores a similar issue, discussing how it helps us to envision and reflect on potential impacts on the environment, health, safety, privacy, equity, etc.
+
+I chose Option 2, I am generally well informed on a lot of tech happenings and am a big fan of sci-fi so this works really well for me.
+From the podcast, I’d like to talk about AI in education, with a reference to one of my favorite sci-fi series, Empire by RIchard F Weyand.
+I am really well informed on this, but I would like to read some of the recent papers from Anthropic, OpenAI, and Xai.
+
+```
+
+Of the projects so far in the course, the podcast project in which I engineered "Philip"(Philosophy Bot) to act as a loyal opposition to continually challenge arguments philosophically and rhetorically was the most challenging and rewarding project. I love working with AI, and using it for something I genuinely think is important, more intelligent debate, and I think that this is something that AI can do well when prompted to be maximally truth-seeking and opinionated in its objections. However in the course of rapidly developing a minimal verison of Philip to discuss for the podcast, there were a number of problems with it that we discovered. Foremost among those was that the prompting of the Perplexity API was not optimal and frequnetly the sources cited were broken links or just invented - which is not to say that it wasn't actually looking at sources in the background, it just wasn't outputting them in a way that was visible to the user. Independent of the Philip project, I have worked with the Perplexity API in a number of other projects, and I have found that this is a common problem - I have developed a few solutions, so part of the remeditation of this project to improve it will be implementing these. More than that, Philip sometimes zoned into a single part of the argument("There is no common good" -> Arguing about Rousseaue's specific conception of the general will) that was not really its key feature. This is something that I will focus on addressing in the remediation.
+
+For the Synthesis Essay, I will be doing the second option, relating to how AI can be used to improve education. This is a topic I am well informed on, largely inspired by one of my favorite ever sci-fi series, _Empire_ by Richard F. Weyand which I plan to reference in my essay. There are a number of companies working on AI in education, most notably Synthesis School which is a company that I have been following for a while, as well as a company I started myself called Heretic.School. I plan to reference these in my essay, as well as some recent develppments in AI from companies like Anthropic and OpenAI that can make this more effective. I will be develpping my ethical argument from the perspective of individual rights, specifically that of methodological individualism, that our current education system actually violates the intrinsic rights of students to be free from harm in its current form due to a lack of personalization and a focus on standardized testing instead of the development of the student in the image they desire for themselves. _Empire_ actually provides a great example of this, as the two main protagonists are given a highly personalized education experience and rise from grinding poverty to become the most powerful people in the galaxy.
